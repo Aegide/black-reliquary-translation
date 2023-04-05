@@ -1,249 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<language id="english">
+	
+	<!-- Recommended not required -->
+	<entry id="character_title_position_pips"><![CDATA[]]></entry>
+	<entry id="character_title_target_pips"><![CDATA[]]></entry>
+	
+	<!-- Time cost workaround -->
+	<entry id="camping_skill_cost"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_aaaa"><![CDATA[]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_0"><![CDATA[{colour_start|attacktype}Time Cost: 0 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_1"><![CDATA[{colour_start|attacktype}Time Cost: 1 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_2"><![CDATA[{colour_start|attacktype}Time Cost: 2 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_3"><![CDATA[{colour_start|attacktype}Time Cost: 3 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_4"><![CDATA[{colour_start|attacktype}Time Cost: 4 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_5"><![CDATA[{colour_start|attacktype}Time Cost: 5 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_6"><![CDATA[{colour_start|attacktype}Time Cost: 6 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_7"><![CDATA[{colour_start|attacktype}Time Cost: 7 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_8"><![CDATA[{colour_start|attacktype}Time Cost: 8 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_9"><![CDATA[{colour_start|attacktype}Time Cost: 9 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_10"><![CDATA[{colour_start|attacktype}Time Cost: 10 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_11"><![CDATA[{colour_start|attacktype}Time Cost: 11 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_12"><![CDATA[{colour_start|attacktype}Time Cost: 12 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_13"><![CDATA[{colour_start|attacktype}Time Cost: 13 {colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_TIME_COST_14"><![CDATA[{colour_start|attacktype}Time Cost: 14 {colour_end}]]></entry>
+	
+	<!-- Each class need own box name -->
+	<entry id="camping_skill_name_addinfo_abom"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_anti"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_arb"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_bounty"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_crus"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_fla"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_jes"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_hwm"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_hel"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_hm"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_gr"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_ves"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_lep"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_musk"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_sb"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_pd"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_maa"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_occ"><![CDATA[Additional Information]]></entry>
+	<entry id="camping_skill_name_addinfo_judi"><![CDATA[Additional Information]]></entry>
 
-		<!-- Recommended not required -->
-		<entry id="character_title_position_pips"><![CDATA[]]></entry>
-		<entry id="character_title_target_pips"><![CDATA[]]></entry>
-
-		<!-- Time cost workaround -->
-		<entry id="camping_skill_cost"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_aaaa"><![CDATA[]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_0"><![CDATA[{colour_start|attacktype}Time Cost: 0 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_1"><![CDATA[{colour_start|attacktype}Time Cost: 1 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_2"><![CDATA[{colour_start|attacktype}Time Cost: 2 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_3"><![CDATA[{colour_start|attacktype}Time Cost: 3 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_4"><![CDATA[{colour_start|attacktype}Time Cost: 4 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_5"><![CDATA[{colour_start|attacktype}Time Cost: 5 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_6"><![CDATA[{colour_start|attacktype}Time Cost: 6 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_7"><![CDATA[{colour_start|attacktype}Time Cost: 7 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_8"><![CDATA[{colour_start|attacktype}Time Cost: 8 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_9"><![CDATA[{colour_start|attacktype}Time Cost: 9 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_10"><![CDATA[{colour_start|attacktype}Time Cost: 10 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_11"><![CDATA[{colour_start|attacktype}Time Cost: 11 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_12"><![CDATA[{colour_start|attacktype}Time Cost: 12 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_13"><![CDATA[{colour_start|attacktype}Time Cost: 13 {colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_TIME_COST_14"><![CDATA[{colour_start|attacktype}Time Cost: 14 {colour_end}]]></entry>
-
-		<!-- Each class need own box name -->
-		<entry id="camping_skill_name_addinfo_abom"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_anti"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_arb"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_bounty"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_crus"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_fla"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_jes"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_hwm"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_hel"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_hm"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_gr"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_ves"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_lep"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_musk"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_sb"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_pd"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_maa"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_occ"><![CDATA[Additional Information]]></entry>
-		<entry id="camping_skill_name_addinfo_judi"><![CDATA[Additional Information]]></entry>
-
-
-		<!-- Basic tooltip types HIGHLY UNRECOMMENDED TO CHANCE AMOUNT OF CHARACTERS IN ID -->
-		<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Melee{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Ranged{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mystical{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br141a"><![CDATA[{colour_start|notable}Movement:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br211a"><![CDATA[{colour_start|notable}Crit Effects:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br241a"><![CDATA[{colour_start|notable}Modes:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br311a"><![CDATA[{colour_start|notable}Passive Effects:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br341a"><![CDATA[{colour_start|notable}Starting Supplies:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br371a"><![CDATA[{colour_start|notable}Stack Bonuses:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br411a"><![CDATA[{colour_start|notable}Additional Loot:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br441a"><![CDATA[{colour_start|notable}Activity Restrictions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br471a"><![CDATA[{colour_start|notable}Affiliation Restrictions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br511a"><![CDATA[{colour_start|notable}Health Reactions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br611a"><![CDATA[{colour_start|notable}On Death's Door Reactions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br711a"><![CDATA[{colour_start|notable}On Death Effects:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br741a"><![CDATA[{colour_start|notable}Party Restrictions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br811a"><![CDATA[{colour_start|notable}Virtue Chance:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br841a"><![CDATA[{colour_start|notable}Alternate Skill Information:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br841b"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br841c"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br841d"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br841e"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br841f"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br841g"><![CDATA[]]></entry>
-		<entry id="camping_skill_selection_br911a"><![CDATA[{colour_start|notable}Unique Virtues:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br941a"><![CDATA[{colour_start|notable}Unique Afflictions:{colour_end}]]></entry>
-		<entry id="camping_skill_selection_br971a"><![CDATA[{colour_start|notable}Flashbacks:{colour_end}]]></entry>
-
-
-		<!-- Antiquarian uniq lines -->
-		<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT1"><![CDATA[On Curio Interaction:
-		{colour_start|notable}Minor Antique{colour_end} - 87% 
-		{colour_start|notable}Rare  Antique{colour_end} - 13% 
-		]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT2"><![CDATA[On Combat End:
-		{colour_start|notable}Minor Antique{colour_end} - 87% 
-		{colour_start|notable}Rare  Antique{colour_end} - 13% ]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[Increase Stack of Gold by 1000]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[Increase Stack of Kvarotz Daric by 10]]></entry>
-
-
-		<!-- Abom uniq lines -->
-		<entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[Modes can be switched using Transform Skill]]></entry>
-		<entry id="camping_skill_effect_loot_ABO_BREL_MODE_HUMAN"><![CDATA[{colour_start|notable}Human:{colour_end}Default Mode]]></entry>
-		<entry id="camping_skill_effect_loot_ABO_BREL_MODE_BEAST"><![CDATA[{colour_start|notable}
-		Beast:{colour_end}
-		Costs 6 Stress per turn to use
-		On Combat End: Use Transform]]></entry>
+	
+	<!-- Basic tooltip types HIGHLY UNRECOMMENDED TO CHANCE AMOUNT OF CHARACTERS IN ID -->
+	<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Melee{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Ranged{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mystical{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br141a"><![CDATA[
+{colour_start|notable}Movement:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br211a"><![CDATA[
+{colour_start|notable}Crit Effects:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br241a"><![CDATA[
+{colour_start|notable}Modes:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br311a"><![CDATA[
+{colour_start|notable}Passive Effects:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br341a"><![CDATA[
+{colour_start|notable}Starting Supplies:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br371a"><![CDATA[
+{colour_start|notable}Stack Bonuses:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br411a"><![CDATA[
+{colour_start|notable}Additional Loot:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br441a"><![CDATA[
+{colour_start|notable}Activity Restrictions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br471a"><![CDATA[
+{colour_start|notable}Affiliation Restrictions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br511a"><![CDATA[
+{colour_start|notable}Health Reactions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br611a"><![CDATA[
+{colour_start|notable}On Death's Door Reactions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br711a"><![CDATA[
+{colour_start|notable}On Death Effects:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br741a"><![CDATA[
+{colour_start|notable}Party Restrictions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br811a"><![CDATA[
+{colour_start|notable}Virtue Chance:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br841a"><![CDATA[
+{colour_start|notable}Alternate Skill Information:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br841b"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br841c"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br841d"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br841e"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br841f"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br841g"><![CDATA[]]></entry>
+	<entry id="camping_skill_selection_br911a"><![CDATA[
+{colour_start|notable}Unique Virtues:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br941a"><![CDATA[
+{colour_start|notable}Unique Afflictions:{colour_end}]]></entry>
+	<entry id="camping_skill_selection_br971a"><![CDATA[
+{colour_start|notable}Flashbacks:{colour_end}]]></entry>
 
 
-		<!-- Flagellant uniq lines-->
-		<entry id="camping_skill_effect_loot_FLA_BREL_HP_TT"><![CDATA[Below 40% HP: {colour_start|buff}Buff Self:{colour_end} +7% CRIT / +20% DMG]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_DD_TT"><![CDATA[Other Heroes: {colour_start|healhp}Heal{colour_end} 10% HP]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_DEATH_TT"><![CDATA[Other Heroes: {colour_start|healhp}Heal{colour_end} 10 HP]]></entry>	
-		<entry id="camping_skill_effect_loot_FLA_BREL_VIRTUE_CHECK_TT"><![CDATA[Cannot {colour_start|virtue}Virtue{colour_end}]]></entry>	
-		<entry id="camping_skill_effect_loot_FLA_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Rapturous(100ʪ):{colour_end}+25% DMG/ -20 DODGE/ +3 SPD Harmful Act-outs and Reactions]]></entry>	
-		<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD"><![CDATA[Death's Door Debuffs replaced with:
-		+5 ACC/+20% DMG/+2 SPD
-		+20%  {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end}/{colour_start|stun}Stun{colour_end} Resist]]></entry>
-		<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD_REC"><![CDATA[Doesn't suffer from Death's Door Recovery penalty]]></entry>
-		<entry id="camping_skill_effect_loot_FLAG_BREL_ACTIVITY_BLOCK"><![CDATA[Can only use Fighting Pit or Amber Den for stress relief, which grants him complete stress heal]]></entry>
-		<entry id="camping_skill_effect_loot_FLAG_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
+
+	<!-- Antiquarian uniq lines -->
+
+	<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT1"><![CDATA[On Curio Interaction:
+	{colour_start|notable}Minor Antique{colour_end} - 87% 
+	{colour_start|notable}Rare  Antique{colour_end} - 13% 
+	]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT2"><![CDATA[On Combat End:
+	{colour_start|notable}Minor Antique{colour_end} - 87% 
+	{colour_start|notable}Rare  Antique{colour_end} - 13% ]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[Increase Stack of Gold by 1000]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[Increase Stack of Kvarotz Daric by 10]]></entry>
+	
+    <!-- Abom uniq lines -->
+
+	<entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[Modes can be switched using Transform Skill
+	]]></entry>
+
+	<entry id="camping_skill_effect_loot_ABO_BREL_MODE_HUMAN"><![CDATA[{colour_start|notable}Human:{colour_end}
+	Default Mode]]></entry>
+	
+	<entry id="camping_skill_effect_loot_ABO_BREL_MODE_BEAST"><![CDATA[{colour_start|notable}
+	Beast:{colour_end}
+	Costs 6 Stress per turn to use
+	On Combat End: Use Transform]]></entry>
 
 
-		<!-- Musk my beloved-->
-		<entry id="camping_skill_effect_loot_MUSK_BREL_MODE_AMMO"><![CDATA[ADAPTIVE AMMO
-		Modes can be switched using Change Ammo Skill
-		Changing Mode is instant and unlimited
-		Mode persists after combat end]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT1"><![CDATA[Living Ammo - Additional Skill Effects:]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT2"><![CDATA[{colour_start|notable}Standard Shot{colour_end}: -20% DMG, Self: {colour_start|healhp}Heal{colour_end} 8(+2/level) HP]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[{colour_start|notable}Smokescreen{colour_end}: +30(+10/level)% {colour_start|blight}Blight{colour_end} Amount Received {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT4"><![CDATA[{colour_start|notable}Buckshot{colour_end}: -100% {colour_start|healhp}Healing{colour_end} Received, -100% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Cure Received Chance {colour_start|skill_unselectable}(110(+10/level)% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT5"><![CDATA[{colour_start|notable}Bombard{colour_end}: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn per 2 levels) {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
-
-		<!-- Crus Trinket Stuff -->
-		<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT1"><![CDATA[Remnant of the Empire - Adjusted Skill Effects:]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT2"><![CDATA[{colour_start|notable}Battle Heal{colour_end}: +40% {colour_start|healhp}Healing{colour_end} Done, Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end},]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT3"><![CDATA[Self: {colour_start|bleed}Bleed{colour_end} 2/3 tns (+1pt/tn at skill level 2 and 4) & Self: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn at skill level 3 and 5) {colour_start|skill_unselectable}(120(+15/level)% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT4"><![CDATA[{colour_start|notable}Inspiring Cry{colour_end}: Cure {colour_start|stress}Horror{colour_end} & {colour_start|buff}Buff Target:{colour_end} -30% {colour_start|stress}Stress{colour_end} Received (2 tns),]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT5"><![CDATA[Self: {colour_start|stress}Horror{colour_end} 2/3 tns (+1pt/tn per 2 levels), Torch Gain Inverted]]></entry>
+	<!-- Flagellant uniq lines-->
+	<entry id="camping_skill_effect_loot_FLA_BREL_HP_TT"><![CDATA[Below 40% HP: {colour_start|buff}Buff Self:{colour_end} +7% CRIT / +20% DMG]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_DD_TT"><![CDATA[Other Heroes: {colour_start|healhp}Heal{colour_end} 10% HP]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_DEATH_TT"><![CDATA[Other Heroes: {colour_start|healhp}Heal{colour_end} 10 HP]]></entry>	
+	<entry id="camping_skill_effect_loot_FLA_BREL_VIRTUE_CHECK_TT"><![CDATA[Cannot {colour_start|virtue}Virtue{colour_end}]]></entry>	
+	<entry id="camping_skill_effect_loot_FLA_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Rapturous(100ʪ):{colour_end}
++25% DMG/ -20 DODGE/ +3 SPD
+Harmful Act-outs and Reactions]]></entry>	
+	<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD"><![CDATA[Death's Door Debuffs replaced with:
+	+5 ACC/+20% DMG/+2 SPD
+	+20%  {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end}/{colour_start|stun}Stun{colour_end} Resist]]></entry>
+	<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD_REC"><![CDATA[Doesn't suffer from Death's Door Recovery penalty]]></entry>
+	<entry id="camping_skill_effect_loot_FLAG_BREL_ACTIVITY_BLOCK"><![CDATA[Can only use Fighting Pit or Amber Den for stress relief, which grants him complete stress heal]]></entry>
+	<entry id="camping_skill_effect_loot_FLAG_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
 
 
-		<!-- All classes riposte-->
-		<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -75% / CRIT mod: -4%]]></entry>
-		<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -4%]]></entry>
-		<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -2%]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -4%]]></entry>
-		<entry id="camping_skill_effect_loot_GR_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
-		<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-		<entry id="camping_skill_effect_loot_HWM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40%]]></entry>
-		<entry id="camping_skill_effect_loot_HM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-		<entry id="camping_skill_effect_loot_JES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-		<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -65% / CRIT mod: -6%]]></entry>
-		<entry id="camping_skill_effect_loot_MAA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -33%]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -50%]]></entry>
-		<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
-		<entry id="camping_skill_effect_loot_PD_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-		<entry id="camping_skill_effect_loot_SB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -70% / CRIT mod: -4%]]></entry>
-		<entry id="camping_skill_effect_loot_VES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -4%]]></entry>
+
+	<!-- Musk my beloved-->
+	
+	<entry id="camping_skill_effect_loot_MUSK_BREL_MODE_AMMO"><![CDATA[ADAPTIVE AMMO
+	Modes can be switched using Change Ammo Skill
+	Changing Mode is instant and unlimited
+	Mode persists after combat end]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT1"><![CDATA[Living Ammo - Additional Skill Effects:]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT2"><![CDATA[{colour_start|notable}Standard Shot{colour_end}: -20% DMG, Self: {colour_start|healhp}Heal{colour_end} 8(+2/level) HP]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[{colour_start|notable}Smokescreen{colour_end}: +30(+10/level)% {colour_start|blight}Blight{colour_end} Amount Received {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT4"><![CDATA[{colour_start|notable}Buckshot{colour_end}: -100% {colour_start|healhp}Healing{colour_end} Received, -100% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Cure Received Chance {colour_start|skill_unselectable}(110(+10/level)% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT5"><![CDATA[{colour_start|notable}Bombard{colour_end}: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn per 2 levels) {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
+
+	<!-- Crus Trinket Stuff -->
+	<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT1"><![CDATA[Remnant of the Empire - Adjusted Skill Effects:]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT2"><![CDATA[{colour_start|notable}Battle Heal{colour_end}: +40% {colour_start|healhp}Healing{colour_end} Done, Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end},]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT3"><![CDATA[Self: {colour_start|bleed}Bleed{colour_end} 2/3 tns (+1pt/tn at skill level 2 and 4) & Self: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn at skill level 3 and 5) {colour_start|skill_unselectable}(120(+15/level)% base){colour_end}]]></entry>
 
 
-		<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_TT"><![CDATA[In Beast mode: +25% DMG]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10 ACC {colour_start|skill_unselectable}(90% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +4 SPD]]></entry>
-		<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_TT"><![CDATA[+50% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_TT"><![CDATA[+15% DMG if Torch above 50]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT"><![CDATA[{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT2"><![CDATA[+2 {colour_start|bleed}Bleed{colour_end} Amount per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|bleed}Bleed{colour_end} Chance per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_GR_BREL_RIPO_TT"><![CDATA[Armor Piercing]]></entry>
-		<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT"><![CDATA[+25% DMG vs Target below 25% HP]]></entry>
-		<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT2"><![CDATA[+10% CRT vs Target below 25% HP]]></entry>
-		<!-- HWM has no riposte effects-->
-		<entry id="camping_skill_effect_loot_HM_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|stun}Stun{colour_end} Resist {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_HM_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_JES_BREL_RIPO_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} Finale: +5% DMG]]></entry>
-		<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_TT"><![CDATA[+10 ACC if above 70% HP]]></entry>
-		<!-- MAA has no riposte effects-->
-		<!-- MUSK has no riposte effects-->
-		<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_TT"><![CDATA[+20% DMG vs Eldritch]]></entry>
-		<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT"><![CDATA[{colour_start|bleed}Bleed Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT2"><![CDATA[+1 {colour_start|bleed}Bleed{colour_end} Amount per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|bleed}Bleed{colour_end} Chance per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT"><![CDATA[{colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT2"><![CDATA[+2 {colour_start|blight}Blight{colour_end} Amount per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|blight}Blight{colour_end} Chance per Difficulty]]></entry>
-		<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT4"><![CDATA[{colour_start|notable}Inspiring Cry{colour_end}: Cure {colour_start|stress}Horror{colour_end} & {colour_start|buff}Buff Target:{colour_end} -30% {colour_start|stress}Stress{colour_end} Received (2 tns),]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT5"><![CDATA[Self: {colour_start|stress}Horror{colour_end} 2/3 tns (+1pt/tn per 2 levels), Torch Gain Inverted]]></entry>
 
 
-		<!-- All classes Crit-->
-		<entry id="camping_skill_effect_loot_ABO_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% DMG and 50% {colour_start|stress}Stress Healing{colour_end} Done]]></entry>
-		<entry id="camping_skill_effect_loot_ANTI_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 DODGE]]></entry>
-		<entry id="camping_skill_effect_loot_ARB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_BOUNTY_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_CRUS_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% PROT]]></entry>
-		<entry id="camping_skill_effect_loot_FLA_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|bleed}Bleed{colour_end} Chance]]></entry>
-		<entry id="camping_skill_effect_loot_GR_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 DODGE]]></entry>
-		<entry id="camping_skill_effect_loot_HEL_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|bleed}Bleeding{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_HWM_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +4 SPD]]></entry>
-		<entry id="camping_skill_effect_loot_HM_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|bleed}Bleed{colour_end} Chance]]></entry>
-		<entry id="camping_skill_effect_loot_JES_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +40% {colour_start|stress}Stress {colour_end}Skills]]></entry>
-		<entry id="camping_skill_effect_loot_LEP_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 ACC]]></entry>
-		<entry id="camping_skill_effect_loot_MAA_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} -33% {colour_start|stress}Stress{colour_end} Received]]></entry>
-		<entry id="camping_skill_effect_loot_MUSK_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +5% CRT]]></entry>
-		<entry id="camping_skill_effect_loot_OCC_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +25% {colour_start|healhp}Healing{colour_end} Skills]]></entry>
-		<entry id="camping_skill_effect_loot_PD_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|blight}Blight{colour_end} Chance]]></entry>
-		<entry id="camping_skill_effect_loot_SB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% PROT]]></entry>
-		<entry id="camping_skill_effect_loot_VES_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +25% {colour_start|healhp}Healing{colour_end} Skills]]></entry>	
+	<!-- All classes riposte-->
+	<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -75% / CRIT mod: -4%]]></entry>
+	<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -4%]]></entry>
+	<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -4%]]></entry>
+	<entry id="camping_skill_effect_loot_GR_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
+	<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
+	<entry id="camping_skill_effect_loot_HWM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40%]]></entry>
+	<entry id="camping_skill_effect_loot_HM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_JES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -65% / CRIT mod: -6%]]></entry>
+	<entry id="camping_skill_effect_loot_MAA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -33%]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -50%]]></entry>
+	<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -70% / CRIT mod: -4%]]></entry>
+	<entry id="camping_skill_effect_loot_VES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -4%]]></entry>
 
-		<!-- Supplies for vanilla classes -->
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_KEY"><![CDATA[1 Skeleton Key]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_ARCH"><![CDATA[1 Archaeology Kit]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_SHOVEL"><![CDATA[1 Shovel]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_BANDAGE"><![CDATA[1 Bandage]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_TREAT"><![CDATA[2 Dog Treats]]></entry>
 
-		<!-- General Tooltips-->
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_VIRTUE_CHECK_TT"><![CDATA[Base 15%]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_1"><![CDATA[{colour_start|move}Forward{colour_end} 1]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_2"><![CDATA[{colour_start|move}Forward{colour_end} 2]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_3"><![CDATA[{colour_start|move}Forward{colour_end} 3]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_0"><![CDATA[{colour_start|move}Back{colour_end} 1]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_1"><![CDATA[{colour_start|move}Back{colour_end} 1
-		{colour_start|move}Forward{colour_end} 1]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_2"><![CDATA[{colour_start|move}Back{colour_end} 1
-		{colour_start|move}Forward{colour_end} 2]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_3"><![CDATA[{colour_start|move}Back{colour_end} 1
-		{colour_start|move}Forward{colour_end} 3]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_0"><![CDATA[{colour_start|move}Back{colour_end} 2]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_1"><![CDATA[{colour_start|move}Back{colour_end} 2
-		{colour_start|move}Forward{colour_end} 1]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_2"><![CDATA[{colour_start|move}Back{colour_end} 2
-		{colour_start|move}Forward{colour_end} 2]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_3"><![CDATA[{colour_start|move}Back{colour_end} 2
-		{colour_start|move}Forward{colour_end} 3]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_0"><![CDATA[{colour_start|move}Back{colour_end} 3]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_1"><![CDATA[{colour_start|move}Back{colour_end} 3
-		{colour_start|move}Forward{colour_end} 1]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_2"><![CDATA[{colour_start|move}Back{colour_end} 3
-		{colour_start|move}Forward{colour_end} 2]]></entry>	
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_3"><![CDATA[{colour_start|move}Back{colour_end} 3
-		{colour_start|move}Forward{colour_end} 3]]></entry>	
+	<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_TT"><![CDATA[In Beast mode: +25% DMG]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10 ACC {colour_start|skill_unselectable}(90% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +4 SPD]]></entry>
+	<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_TT"><![CDATA[+50% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_TT"><![CDATA[+15% DMG if Torch above 50]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT"><![CDATA[{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT2"><![CDATA[+2 {colour_start|bleed}Bleed{colour_end} Amount per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|bleed}Bleed{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_GR_BREL_RIPO_TT"><![CDATA[Armor Piercing]]></entry>
+	<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT"><![CDATA[+25% DMG vs Target below 25% HP]]></entry>
+	<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT2"><![CDATA[+10% CRT vs Target below 25% HP]]></entry>
+	<!-- HWM has no riposte effects-->
+	<entry id="camping_skill_effect_loot_HM_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|stun}Stun{colour_end} Resist {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_HM_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_JES_BREL_RIPO_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} Finale: +5% DMG]]></entry>
+	<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_TT"><![CDATA[+10 ACC if above 70% HP]]></entry>
+	<!-- MAA has no riposte effects-->
+	<!-- MUSK has no riposte effects-->
+	<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_TT"><![CDATA[+20% DMG vs Eldritch]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT"><![CDATA[{colour_start|bleed}Bleed Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT2"><![CDATA[+1 {colour_start|bleed}Bleed{colour_end} Amount per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|bleed}Bleed{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT"><![CDATA[{colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT2"><![CDATA[+2 {colour_start|blight}Blight{colour_end} Amount per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT3"><![CDATA[+20% {colour_start|blight}Blight{colour_end} Chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
 
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_FAITHLESS"><![CDATA[Cannot spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_PAGAN"><![CDATA[Cannot spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_RELIGIOUS"><![CDATA[Cannot spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_FAITHLESS"><![CDATA[Can only spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_PAGAN"><![CDATA[Can only spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_RELIGIOUS"><![CDATA[Can only spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 
-		<entry id="camping_skill_effect_loot_BREL_HORROR_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Horror is Incurable{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_BREL_DEBUFF_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Debuffs are Incurable{colour_end}]]></entry>
+	<!-- All classes Crit-->
+	<entry id="camping_skill_effect_loot_ABO_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% DMG and 50% {colour_start|stress}Stress Healing{colour_end} Done]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 DODGE]]></entry>
+	<entry id="camping_skill_effect_loot_ARB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_BOUNTY_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% PROT]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|bleed}Bleed{colour_end} Chance]]></entry>
+	<entry id="camping_skill_effect_loot_GR_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 DODGE]]></entry>
+	<entry id="camping_skill_effect_loot_HEL_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +33% DMG vs {colour_start|bleed}Bleeding{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_HWM_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +4 SPD]]></entry>
+	<entry id="camping_skill_effect_loot_HM_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|bleed}Bleed{colour_end} Chance]]></entry>
+	<entry id="camping_skill_effect_loot_JES_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +40% {colour_start|stress}Stress {colour_end}Skills]]></entry>
+	<entry id="camping_skill_effect_loot_LEP_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +10 ACC]]></entry>
+	<entry id="camping_skill_effect_loot_MAA_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} -33% {colour_start|stress}Stress{colour_end} Received]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +5% CRT]]></entry>
+	<entry id="camping_skill_effect_loot_OCC_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +25% {colour_start|healhp}Healing{colour_end} Skills]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|blight}Blight{colour_end} Chance]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +15% PROT]]></entry>
+	<entry id="camping_skill_effect_loot_VES_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +25% {colour_start|healhp}Healing{colour_end} Skills]]></entry>	
+	
+	<!-- Supplies for vanilla classes -->
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_KEY"><![CDATA[1 Skeleton Key]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_ARCH"><![CDATA[1 Archaeology Kit]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_SHOVEL"><![CDATA[1 Shovel]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_BANDAGE"><![CDATA[1 Bandage]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_TREAT"><![CDATA[2 Dog Treats]]></entry>
+
+	<!-- General Tooltips-->
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_VIRTUE_CHECK_TT"><![CDATA[Base 15%]]></entry>	
+
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_1"><![CDATA[{colour_start|move}Forward{colour_end} 1]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_2"><![CDATA[{colour_start|move}Forward{colour_end} 2]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_3"><![CDATA[{colour_start|move}Forward{colour_end} 3]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_0"><![CDATA[{colour_start|move}Back{colour_end} 1]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_1"><![CDATA[{colour_start|move}Back{colour_end} 1
+	{colour_start|move}Forward{colour_end} 1]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_2"><![CDATA[{colour_start|move}Back{colour_end} 1
+	{colour_start|move}Forward{colour_end} 2]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_3"><![CDATA[{colour_start|move}Back{colour_end} 1
+	{colour_start|move}Forward{colour_end} 3]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_0"><![CDATA[{colour_start|move}Back{colour_end} 2]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_1"><![CDATA[{colour_start|move}Back{colour_end} 2
+	{colour_start|move}Forward{colour_end} 1]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_2"><![CDATA[{colour_start|move}Back{colour_end} 2
+	{colour_start|move}Forward{colour_end} 2]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_3"><![CDATA[{colour_start|move}Back{colour_end} 2
+	{colour_start|move}Forward{colour_end} 3]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_0"><![CDATA[{colour_start|move}Back{colour_end} 3]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_1"><![CDATA[{colour_start|move}Back{colour_end} 3
+	{colour_start|move}Forward{colour_end} 1]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_2"><![CDATA[{colour_start|move}Back{colour_end} 3
+	{colour_start|move}Forward{colour_end} 2]]></entry>	
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_3"><![CDATA[{colour_start|move}Back{colour_end} 3
+	{colour_start|move}Forward{colour_end} 3]]></entry>	
+	
+    <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_FAITHLESS"><![CDATA[Cannot spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+    <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_PAGAN"><![CDATA[Cannot spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+    <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_RELIGIOUS"><![CDATA[Cannot spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_FAITHLESS"><![CDATA[Can only spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+    <entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_PAGAN"><![CDATA[Can only spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+    <entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_RELIGIOUS"><![CDATA[Can only spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+	
+    <entry id="camping_skill_effect_loot_BREL_HORROR_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Horror is Incurable{colour_end}]]></entry>
+    <entry id="camping_skill_effect_loot_BREL_DEBUFF_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Debuffs are Incurable{colour_end}]]></entry>
+	
+
   </language>
+  
  </root>

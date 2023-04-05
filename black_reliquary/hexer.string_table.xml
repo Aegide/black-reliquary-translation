@@ -1,659 +1,661 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-	<language id="english">
-
-        <entry id="hero_class_name_hexer"><![CDATA[Hexer]]></entry>
-
-        <entry id="upgrade_tree_name_hexer.weapon"><![CDATA[Evil Blood]]></entry>
-        <entry id="upgrade_tree_name_hexer.armour"><![CDATA[Straitjacket & Cloak]]></entry>
-
-        <entry id="hexer_weapon_0"><![CDATA[Evil]]></entry>
-        <entry id="hexer_weapon_1"><![CDATA[Wicked]]></entry>
-        <entry id="hexer_weapon_2"><![CDATA[Terrorizing]]></entry>
-        <entry id="hexer_weapon_3"><![CDATA[Immoral]]></entry>
-        <entry id="hexer_weapon_4"><![CDATA["Gluttonous Intent"]]></entry>
-
-        <entry id="hexer_armour_0"><![CDATA[Filthy Jacket, Torn Cloak]]></entry>
-        <entry id="hexer_armour_1"><![CDATA[Vile Jacket, Black Cloak]]></entry>
-        <entry id="hexer_armour_2"><![CDATA[Toxic Jacket, Nocturnal Cloak]]></entry>
-        <entry id="hexer_armour_3"><![CDATA[Noxious Jacket, Devouring Cloak]]></entry>
-        <entry id="hexer_armour_4"><![CDATA["The Virulent & The Thirsty"]]></entry>	
-
-        <entry id="str_inventory_title_trinkethexer_feet_on_rope"><![CDATA[Trotter's Snack]]></entry>
-        <entry id="str_inventory_title_trinkethexer_beating_heart"><![CDATA[Unceasing Vigor]]></entry>
-        <entry id="str_inventory_title_trinkethexer_pure_injection"><![CDATA[Blissful Moment]]></entry>
-        <entry id="str_inventory_title_trinkethexer_impure_injection"><![CDATA[Abyssal Delight]]></entry>
-        <entry id="str_inventory_title_trinkethexer_turning_point"><![CDATA[Figments Of The Past]]></entry>
-        <entry id="str_inventory_title_trinkethexer_exquisite_humors"><![CDATA[Exquisite Meal]]></entry>
-        <entry id="str_inventory_title_trinkethexer_parasite"><![CDATA[Parasite Zero]]></entry>
-        <entry id="str_inventory_set_title_hexer_cc"><![CDATA["Nothing COMPARES to it... Just what made it so delectable?"]]></entry>
-
-        <entry id="combat_skill_name_hexer_hexer_melt"><![CDATA[Melt]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_malicious"><![CDATA[Malicious]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_malform"><![CDATA[Malform]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_excruciating_pain"><![CDATA[Excruciating Pain]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_putrefied_flesh"><![CDATA[Putrefied Flesh]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_eroded_mind"><![CDATA[Eroded Mind]]></entry>
-        <entry id="combat_skill_name_hexer_hexer_ichor_incantation"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
-        Ichor Incantation]]></entry>
-        <entry id="combat_skill_name_hexer_move"><![CDATA[Move]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_melt"><![CDATA[Melt]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_malicious"><![CDATA[Malicious]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_malform"><![CDATA[Malform]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_excruciating_pain"><![CDATA[Excruciating Pain]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_putrefied_flesh"><![CDATA[Putrefied Flesh]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_eroded_mind"><![CDATA[Eroded Mind]]></entry>
-        <entry id="upgrade_tree_name_hexer.hexer_ichor_incantation"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
-        Ichor Incantation]]></entry>
-
-        <entry id="camping_skill_name_hexer_cannibalize_corpses"><![CDATA[CANNIBALIZE CORPSES]]></entry>
-        <entry id="camping_skill_name_hexer_serum_5150"><![CDATA[SERUM 5150]]></entry>
-        <entry id="camping_skill_name_hexer_enthroned"><![CDATA[ENTHRONED]]></entry>
-        <entry id="camping_skill_name_hexer_sanguis_metallica"><![CDATA[SANGUIS METALLICA]]></entry>
-
-        <!-- Custom tooltips -->
-
-        <entry id="0str_skill_mode_info_hexer_base"><![CDATA[{colour_start|hexer_vial}If has no Corruption Vials{colour_end}]]></entry>
-        <entry id="0str_skill_mode_info_hexer_r1"><![CDATA[{colour_start|hexer_vial}If has 1 Corruption Vial{colour_end}]]></entry>
-        <entry id="0tr_skill_mode_info_hexer_r2"><![CDATA[{colour_start|hexer_vial}If has 2 Corruption Vials{colour_end}]]></entry>
-        <entry id="0tr_skill_mode_info_hexer_r3"><![CDATA[{colour_start|hexer_vial}If has 3 Corruption Vials{colour_end}]]></entry>
-
-
-        <entry id="camping_skill_effect_loot_CAMP_CANNIBAL_TT1"><![CDATA[{colour_start|stress}Horror{colour_end} 5/3 tns if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-        <entry id="camping_skill_effect_loot_CAMP_CANNIBAL_TT2"><![CDATA[{colour_start|stress}Horror{colour_end} 2/3 tns if not {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-        <entry id="enemy_type_name_ERODED_MIND_STEAL_TT"><![CDATA[Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}]]></entry>
-
-
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_DMG_TT"><![CDATA[+10%% DMG per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_CURE_MARK"><![CDATA[Clear Party {colour_start|debuff}Debuffs{colour_end} and {colour_start|mark}Marks{colour_end}]]></entry>
-
-
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_malicious_tooltip1"><![CDATA[{colour_start|notable}Free Action{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_malicious_tooltip2"><![CDATA[{colour_start|skill_unselectable}(Buffs Last 2rds){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_MALICIOUS_BUFF_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_eroded_tt"><![CDATA[Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_ichor_incantation"><![CDATA[Buffs last until battle ends.]]></entry>
-        <entry id="buff_rule_data_tooltip_hexer_malform"><![CDATA[Malform]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_ushi-oni_head_malformdisable"><![CDATA[Disable Malform]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_1"><![CDATA[-10%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_2"><![CDATA[-11%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_3"><![CDATA[-12%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_4"><![CDATA[-13%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_5"><![CDATA[-15%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_malform_use_incantation_tooltip"><![CDATA[Requires 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_ichor_use_incantation_tooltip"><![CDATA[Requires at least 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_expend_tooltip"><![CDATA[Expends all {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_use1_tooltip"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-
-
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
-        {colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Recevied if has no {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt2"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|stun}Stun{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt3"><![CDATA[+25%% {colour_start|healhp}Healing{colour_end} Received per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt1"><![CDATA[+5%% DMG per 25 Stress]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt2"><![CDATA[+2 ACC per 25 Stress]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt3"><![CDATA[+1%% Crits Received per 25 Stress]]></entry>
-
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_disease_tt"><![CDATA[On Friendly Skill: Other Heroes: Gain {colour_start|symptom}Rictus Imperfectus{colour_end} {colour_start|skill_unselectable}(45%% Chance){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_flavor_tt"><![CDATA[{colour_start|skill_unselectable}A grin cracks the face in two, warping thoughts towards sadism and hunger.{colour_end}]]></entry>
-
-
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_1"><![CDATA[+20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_2"><![CDATA[+21%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_3"><![CDATA[+22%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_4"><![CDATA[+23%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_5"><![CDATA[+25%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_6"><![CDATA[{colour_start|blight}Blight{colour_end}, {colour_start|bleed}Bleed{colour_end} Resist {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-
-        <entry id="buff_rule_data_tooltip_hexer_malicious"><![CDATA[Malicious]]></entry>
-
-        <entry id="buff_stat_tooltip_upgrade_discount_gain_vial_skill_tt"><![CDATA[Gain 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_expend_all_vials_tt"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_expend_one_vial_tt"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_MELT_DEBUFF_TARGET_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_BUFF_TARGET_TT"><![CDATA[{colour_start|buff}Buff Target:{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_GAIN_1_VIAL"><![CDATA[Gain 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_GAIN_2_VIAL"><![CDATA[Gain 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-        <entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
-
-        <!-- Addinfo -->
-        <entry id="camping_skill_name_addinfo_hexer"><![CDATA[Additional Information]]></entry>
-
-        <entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
-        <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% ]]></entry>
-        <entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[Is banned from the Amber Refinery and Tek Exchange]]></entry>
-
-        <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|debuff}Debuff{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
-        <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
-        <entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} +10% Damage Taken {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-        <entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
-
-        <entry id="camping_skill_effect_loot_HEX_BREL_VIALS_TT"><![CDATA[{colour_start|hexer_vial}CORRUPTION VIALS{colour_end}
-        Hexer can gain up to 3 {colour_start|hexer_vial}Corruption Vials{colour_end}
-        Certain skills gain bonuses the more {colour_start|hexer_vial}Vials{colour_end} Hexer has
-        {colour_start|hexer_vial}Vials{colour_end} persists after combat end]]></entry>
-
-        <entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Cannibalistic(100ʪ):{colour_end}
-        +25% DMG/ +10% CRT/ -10 DODGE/ -20% {colour_start|debuff}Debuff{colour_end} Skill Chance
-        Harmful Act-outs and Reactions]]></entry>	
-        <entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT2"><![CDATA[50% Chance to Forcibly Interact with Corpse Curios]]></entry>	
-
-        <!-- mode tooltips -->	
-        <entry id="str_skill_mode_info_hexer_melt_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_melt_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_mal_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_mal_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_malfo_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_malfo_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_pain_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_pain_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_mind_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_mind_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_flesh_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_flesh_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-        <entry id="str_skill_mode_info_hexer_ichor_1"><![CDATA[With 1 {colour_start|hexer_vial}Corruption Vial:{colour_end}]]></entry>
-        <entry id="str_skill_mode_info_hexer_ichor_2"><![CDATA[With 2 {colour_start|hexer_vial}Corruption Vials:{colour_end}]]></entry>
-        <entry id="str_skill_mode_info_hexer_ichor_3"><![CDATA[With 3 {colour_start|hexer_vial}Corruption Vials:{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_1_SKILL_LINE1"><![CDATA[^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_1_SKILL_LINE2"><![CDATA[Ignore PROT]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE31"><![CDATA[^^-20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE32"><![CDATA[^^-23%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE33"><![CDATA[^^-26%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE34"><![CDATA[^^-30%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE35"><![CDATA[^^-33%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(150%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_MELT_2_SKILL_LINE4"><![CDATA[ +10% DMG per {colour_start|hexer_vial}Corruption Vial {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE1"><![CDATA[^^{colour_start|notable}Free Action{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE21"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 6 HP]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE22"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 7 HP]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE23"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 8 HP]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE24"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 9 HP]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE25"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 10 HP]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE31"><![CDATA[^^Heal 3 {colour_start|stress}Stress{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE32"><![CDATA[^^Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE33"><![CDATA[^^Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE34"><![CDATA[^^Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE35"><![CDATA[^^Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE4"><![CDATA[^^^^^^^{colour_start|buff}Buff Self:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE51"><![CDATA[^^+10%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE52"><![CDATA[^^+12%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE53"><![CDATA[^^+15%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE54"><![CDATA[^^+17%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE55"><![CDATA[^^+20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE6"><![CDATA[+5 ACC]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE7"><![CDATA[{colour_start|skill_unselectable}(Buffs Last 2 tns){colour_end}]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_MAL_2_SKILL_LINE8"><![CDATA[^^Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE1"><![CDATA[{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE2"><![CDATA[{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE3"><![CDATA[%d pts/tn for 2 tns]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_2_SKILL_LINE4"><![CDATA[{colour_start|blight}Blight{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_2_SKILL_LINE5"><![CDATA[%d pts/tn for 2 tns]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_MALFO_2_SKILL_LINE6"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials^^{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE31"><![CDATA[^^-6 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE32"><![CDATA[^^-7 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE33"><![CDATA[^^-8 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE34"><![CDATA[^^-9 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE35"><![CDATA[^^-10 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_PAIN_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^-7%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^-8%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[^^-13%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[^^-15%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[^^-16%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[^^-18%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_FLESH_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE2"><![CDATA[{colour_start|guard}Guard{colour_end}, {colour_start|riposte}Riposte{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE3"><![CDATA[^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE41"><![CDATA[^^-4 SPD {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE42"><![CDATA[^^-4 SPD {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE43"><![CDATA[^^-5 SPD {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE44"><![CDATA[^^-5 SPD {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE45"><![CDATA[^^-6 SPD {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE51"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE52"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE53"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE54"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE55"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_MIND_2_SKILL_LINE6"><![CDATA[Gain 2 {colour_start|hexer_vial}Corruption Vials{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE5"><![CDATA[Clear Party {colour_start|stun}Stuns{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE1"><![CDATA[Clear Party {colour_start|debuff}Debuffs{colour_end} and {colour_start|mark}Marks{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE3"><![CDATA[Cure Party {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE2"><![CDATA[{colour_start|healhp}Heal{colour_end} Party %d%% Max HP]]></entry>
-        <entry id="buff_rule_data_tooltip_HEXER_ICHOR_1_SKILL_LINE4"><![CDATA[^^Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-
-
-
-        <!-- Events -->
-
-        <entry id="town_event_title_first_hexer"><![CDATA[A Hungry Tyrant]]></entry>
-        <entry id="town_event_description_first_hexer"><![CDATA[I'm STARVING, yes? I'm here to HELP you out. Let me accompany your SLAUGHTER in these foul lands.]]></entry>
-
-        <!-- Verbose descriptions -->
-
-        <entry id="action_verbose_body_guild_hexer"><![CDATA[With the power of his Evil Blood, the Hexer can melt down his enemies’ flesh, mind, and resistances. He has the power to cripple entire groups at once in various ways, both to enfeeble their assault and corrode their defenses. If necessary, he can also defend his allies against enemy hexes.]]></entry>
-        <entry id="action_verbose_body_blacksmith_hexer"><![CDATA[Fueled by his Evil Blood, the Hexer turns his own vital fluids into a lethal weapon. The greater his hatred and hunger, the more powerful it evolves. Though he has never gotten rid of his Straitjacket, it seems as if it’s protecting him not from himself, but from others instead. And none dare surmise that his leathery cloak breathes as if alive.]]></entry>
-        <entry id="action_verbose_body_camping_trainer_hexer"><![CDATA[The Hexer is insane, malevolent, and solitary. Gorging himself on the fresh kills of past battles keeps him going for more. With his fiendish resilience and control over his blood, disease has no hold on him either, and he can hone it to amplify his curses. And should he come close to falling, the accursed serum he hates so much may prove beneficial.]]></entry>
-
-        <!--Crits -->
-
-        <entry id="hexer+str_critbyhero"><![CDATA[Suffering, suffering, SUFFERING...]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[I will DEVOUR their flesh and souls!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[Gyihi... Hihihi... Ahaha!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[DIE for your king!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[A CARNIVAL of CARNAGE!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[These restraints can't contain my POWER!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[And after I'm done with you, the REST is next.]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[Your SPINE will be picked and cleaned, piece by piece.]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[You shall DISSOLVE into a puddle of gore.]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[Your rotting, necrotic tissue is so BEAUTIFUL.]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[Scream out in AGONY as you melt alive.]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[How your flesh BOILS! Hyahaha!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[Your screams are a HYMN for the dead!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[You will DROWN in your own boiling blood!]]></entry>
-        <entry id="hexer+str_critbyhero"><![CDATA[I shall STRANGLE you with your own intestines!]]></entry>
-
-        <!--  Misc Barks -->
-
-        <entry id="hexer+str_combat_knockback"><![CDATA[-uck!]]></entry>
-        <entry id="hexer+str_combat_knockback"><![CDATA[I will get my RETRIBUTION!]]></entry>
-        <entry id="hexer+str_combat_knockback"><![CDATA[I will LIQUIFY your innards.]]></entry>
-
-        <entry id="hexer+str_combat_wastingtime"><![CDATA[Kill them ALREADY, that I may feast...]]></entry>
-        <entry id="hexer+str_combat_wastingtime"><![CDATA[I've thoroughly seasoned my enemies with DESPAIR. Now to end them.]]></entry>
-        <entry id="hexer+str_combat_wastingtime"><![CDATA[I can't wait to sink my TEETH into their throats. Finish them...]]></entry>
-
-        <entry id="hexer+str_bark_bleeddot"><![CDATA[My fluids, OOZING out of my body...]]></entry>
-        <entry id="hexer+str_bark_bleeddot"><![CDATA[Fool! You will only EMPOWER me!]]></entry>
-        <entry id="hexer+str_bark_bleeddot"><![CDATA[You dare spill my IMPLEMENT of your demise?]]></entry>
-
-        <entry id="hexer+str_bark_poisondot"><![CDATA[My blood CONGEALS in my veins.]]></entry>
-        <entry id="hexer+str_bark_poisondot"><![CDATA[On others, I would call this SEASONING.]]></entry>
-        <entry id="hexer+str_bark_poisondot"><![CDATA[The itch returns, and it is UNBEARABLE.]]></entry>
-
-        <entry id="hexer+str_bark_stressdot"><![CDATA[My stomach SCREAMS.]]></entry>
-        <entry id="hexer+str_bark_stressdot"><![CDATA[I can't wait to finally SINK my teeth into something...]]></entry>
-        <entry id="hexer+str_bark_stressdot"><![CDATA[Stop EXPERIMENTING on me! My blood holds no secrets to you!]]></entry>
-
-        <entry id="hexer+str_bark_hp_heal_dot"><![CDATA[How LOVELY.]]></entry>
-        <entry id="hexer+str_bark_hp_heal_dot"><![CDATA[I should THANK you... Gyihi!]]></entry>
-        <entry id="hexer+str_bark_hp_heal_dot"><![CDATA[You're looking after your KING? Good.]]></entry>
-
-        <entry id="hexer+str_bark_bigwound"><![CDATA[I will have bloody VENGEANCE.]]></entry>
-        <entry id="hexer+str_bark_bigwound"><![CDATA[I will build a THRONE out of your bones!]]></entry>
-        <entry id="hexer+str_bark_bigwound"><![CDATA[A king does not FORGIVE unruly meals so easily...]]></entry>
-
-        <entry id="hexer+str_bark_bigwound_ally"><![CDATA[That must've HURT.]]></entry>
-        <entry id="hexer+str_bark_bigwound_ally"><![CDATA[Surely you are a WORTHY subject?]]></entry>
-        <entry id="hexer+str_bark_bigwound_ally"><![CDATA[Such weakness in front of your KING.]]></entry>
-
-        <entry id="hexer+str_wave_spawn_mash"><![CDATA[More meals for me, served on a PLATTER.]]></entry>
-        <entry id="hexer+str_wave_spawn_mash"><![CDATA[I do not care if TIME bends on itself, as long as I get to feast!]]></entry>
-        <entry id="hexer+str_wave_spawn_mash"><![CDATA[So much fodder for me to unleash my MALEVOLENCE on!]]></entry>
-
-        <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[Gyihihi! Back to inflict UNTOLD suffering...]]></entry>
-        <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[You are a dead BITCH before me, now.]]></entry>
-        <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[I will have bloody VENGEANCE.]]></entry>
-
-        <entry id="hexer+str_bark_deathsdoor"><![CDATA[Gyihi...hi?]]></entry>
-        <entry id="hexer+str_bark_deathsdoor"><![CDATA[I can't see... I can't SEE...]]></entry>
-        <entry id="hexer+str_bark_deathsdoor"><![CDATA[It is... ME who suffers?]]></entry>
-
-        <entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[I demand the first MORSEL of flesh.]]></entry>
-        <entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[You are looking mighty APPETIZING, gyihihi...]]></entry>
-        <entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[Should you be killed, I will put your CORPSE to good use.]]></entry>
-
-        <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[Oh, so you are a SURVIVOR after all.]]></entry>
-        <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[A damn SHAME I won't be tasting you.]]></entry>
-        <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[And here I am, wondering just how SALTY your flesh is.]]></entry>
-
-        <!-- Camping Barks -->
-
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[Finally, MEALTIME.]]></entry>
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[I've waited so LONG for this moment...]]></entry>
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[At last, what I came here for. Fresh and old KILL.]]></entry>
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[DINNER is prepared for me? Wonderful...]]></entry>
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[You know it's RUDE to watch others eat? Gyihihi...]]></entry>
-        <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[Livers and brains, tongues and thighs... DELICIOUS.]]></entry>
-
-        <entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[Ugh, to be REDUCED into using this.]]></entry>
-        <entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[You can't MAKE me... I'm doing this voluntarily.]]></entry>
-        <entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[It itches and BURNS... Grrr...]]></entry>
-
-        <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[Hihi... Hihihi... Hahahahaha!]]></entry>
-        <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[Know your place, and GROVEL at my feet.]]></entry>
-        <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[I shall RULE over all, and turn the weak into meals.]]></entry>
-
-        <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[My body, a TEMPLE...]]></entry>
-        <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[EXPUNGE this filth!]]></entry>
-        <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[I am far STRONGER than any mere disease...]]></entry>
-
-        <!-- Quirks -->
-
-        <entry id="str_quirk_name_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
-        <entry id="str_quirk_name_rictus_tended"><![CDATA[{colour_start|symptom}Rictus Imperfectus (Tended){colour_end}]]></entry>
-        <entry id="str_quirk_name_rictus_mortis"><![CDATA[Rictus Mortis]]></entry>
-        <entry id="str_quirk_name_rictus_mortis_tended"><![CDATA[Rictus Mortis (Stabilized)]]></entry>
-
-
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt1"><![CDATA[Unusual hungers and delight in misery...]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (4%% Chance){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt5"><![CDATA[{colour_start|skill_unselectable}+2 SPD, +2%% CRT per Vial Consumed{colour_end}]]></entry>
-
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt1"><![CDATA[A maniacal grin shows teeth stained crimson...]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (15%% Chance){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
-        <entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt5"><![CDATA[{colour_start|skill_unselectable}+4 SPD, +5%% CRT per Vial Consumed{colour_end}]]></entry>
-
-        <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[At last! Something to SATE this hunger...!]]></entry>
-        <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[Such a delicious and ripe AROMA. Let me through!]]></entry>
-        <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[I'm absolutely FAMISHED. Only this will do.]]></entry>
-
-        <entry id="str_mark_self_rictus"><![CDATA[Haha... Hahaha...!]]></entry>
-        <entry id="str_mark_self_rictus"><![CDATA[If you find my grin unsettling, just stop staring.]]></entry>
-        <entry id="str_mark_self_rictus"><![CDATA[Oh, your suffering brings me such joy!]]></entry>
-        <entry id="str_mark_self_rictus"><![CDATA[I'm simply all smiles! Hehehe...]]></entry>
-        <entry id="str_mark_self_rictus"><![CDATA[(cackles while crying)]]></entry>
-
-        <entry id="str_mark_self_rictus_tended"><![CDATA[Must not laugh... Must not laugh...!]]></entry>
-        <entry id="str_mark_self_rictus_tended"><![CDATA[It's hard to speak with this grin...]]></entry>
-        <entry id="str_mark_self_rictus_tended"><![CDATA[Get out of my head!]]></entry>
-        <entry id="str_mark_self_rictus_tended"><![CDATA[My blood feels like acid in my veins!]]></entry>
-        <entry id="str_mark_self_rictus_tended"><![CDATA[My face aches from the grinning...]]></entry>
-
-        <entry id="str_mark_self_rictus_mortis"><![CDATA[Watching you wretches die is simply RAPTUROUS!]]></entry>
-        <entry id="str_mark_self_rictus_mortis"><![CDATA[The hunger the hunger the hunger the HUNGER...]]></entry>
-        <entry id="str_mark_self_rictus_mortis"><![CDATA[My blood is a vessel to DIVINITY!]]></entry>
-        <entry id="str_mark_self_rictus_mortis"><![CDATA[A whiff of HEAVEN with every wound I smell.]]></entry>
-        <entry id="str_mark_self_rictus_mortis"><![CDATA[I demand the BEST cut of their innards!]]></entry>
-
-        <entry id="str_mark_self_rictus_mortis_tended"><![CDATA[(can't stop grinning while sobbing)]]></entry>
-        <entry id="str_mark_self_rictus_mortis_tended"><![CDATA[Please! I can't take this anymore! The hunger is killing me!]]></entry>
-        <entry id="str_mark_self_rictus_mortis_tended"><![CDATA[My blood boils! It hurts so much, make it stop!]]></entry>
-        <entry id="str_mark_self_rictus_mortis_tended"><![CDATA[I don't know how much longer until I give in to these dark thoughts!]]></entry>
-        <entry id="str_mark_self_rictus_mortis_tended"><![CDATA[Are my thoughts even my own anymore?! Ahahaha!]]></entry>
-
-        <entry id="str_roster_quirk_transition_rictus"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis{colour_end}.]]></entry>
-        <entry id="str_roster_quirk_transition_rictus_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s tended symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis (Stabilized){colour_end}.]]></entry>
-        <entry id="str_roster_quirk_transition_rictus_mortis_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
-
-        <entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[(cracks a grin from ear to ear)]]></entry>
-        <entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[I have to admit, I'm PECKISH. Heehee!]]></entry>
-        <entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[My burning blood suddenly feels so EUPHORIC. Ahaha!]]></entry>
-        <entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[No! I don't want this!]]></entry>
-        <entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[I must not yield... To the macabre visions...!]]></entry>
-        <entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[My inner demons are getting the better of me, I'm sorry...]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Aaah, finally I feel like MYSELF again!]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[This is MUCH better, gyihihi!]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Life had gotten dull without these GRUESOME visions.]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Relief, if only slightly...]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[I'm sorry for what I've done and said.]]></entry>
-        <entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Oof, I can finally stomach a proper meal again.]]></entry>
-        <entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[The relief! I thank you!]]></entry>
-        <entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
-        <entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
-        <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[The relief! I thank you!]]></entry>
-        <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
-        <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
-
-
-        <entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
-        <entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|disease}Rictus Mortis{colour_end}]]></entry>
-
-        <!--town barks-->
-
-        <entry id="str_incompatible_party_member_hexer_limit"><![CDATA[You can not FOOL me.]]></entry>
-        <entry id="hexer+str_incompatible_party_member_hexer_limit"><![CDATA[I am UNIQUE.]]></entry>
-
-        <entry id="hexer+str_override_invalid_rejection"><![CDATA[You EXPECT me to do what?]]></entry>
-        <entry id="hexer+str_override_invalid_rejection"><![CDATA[Your INSOLENCE is noted.]]></entry>
-        <entry id="hexer+str_override_invalid_rejection"><![CDATA[You are foolish to think I would WASTE my time here.]]></entry>
-        <entry id="hexer+str_override_invalid_rejection"><![CDATA[Use those shriveled BRAINS of yours.]]></entry>
-
-        <entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[So HUNGRY. Send me out so I can eat.]]></entry>
-        <entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Let me out of this ship, that I may GORGE myself on fresh kill.]]></entry>
-        <entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Your king is STARVING. I demand a royal entourage and a trip into the Weald.]]></entry>
-        <entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Hehehe... Hihihihi...]]></entry>
-        <entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[I'm SLAVERING here. I need to slake myself on blood and flesh.]]></entry>
-        <entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Ooooh, so hungry, so so so SO HUNGRY!]]></entry>
-        <entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[Gyihihihihi! Ahahaha! Heeeeheeheehee!]]></entry>
-        <entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[They can NEVER put me back in that institute!]]></entry>
-        <entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[They can not destroy me! Through my blood, I am IMMORTAL!]]></entry>
-
-        <entry id="hexer+str_stagecoach_idle"><![CDATA[Such EXOTIC meals await me here!]]></entry>
-        <entry id="hexer+str_stagecoach_idle"><![CDATA[To feel this arid breeze... It makes me THIRSTY, gyehehe.]]></entry>
-        <entry id="hexer+str_stagecoach_idle"><![CDATA[Bah, these DESSICATED remains are barely a proper meal.]]></entry>
-        <entry id="hexer+str_stagecoach_idle"><![CDATA[I better not get SAND where it itches. Ugh.]]></entry>
-
-        <entry id="hexer+str_brothel_committed"><![CDATA[I won't make any PROMISE to hold back. Gyihihi.]]></entry>
-        <entry id="hexer+str_brothel_committed"><![CDATA[You are BOLD to send me in here. Hihihi!]]></entry>
-        <entry id="hexer+str_brothel_committed"><![CDATA[They may lose a POUND of flesh or three by the end.]]></entry>
-        <entry id="hexer+str_brothel_committed"><![CDATA[To the VICTOR go the bloody spoils, yes?]]></entry>
-        <entry id="hexer+str_roster_list_brothel_bark"><![CDATA[What do you mean, BITING is foul play?]]></entry>
-        <entry id="hexer+str_roster_list_brothel_bark"><![CDATA[It's not my fault they didn't PROTECT their eyes.]]></entry>
-        <entry id="hexer+str_roster_list_brothel_bark"><![CDATA[Hmmm. You're a little too THIN for my taste.]]></entry>
-        <entry id="hexer+str_roster_list_brothel_bark"><![CDATA[You don't need their FINGER back, do you?]]></entry>
-
-        <entry id="hexer+str_flagellation_committed"><![CDATA[Finally, some LUXURY for your king.]]></entry>
-        <entry id="hexer+str_flagellation_committed"><![CDATA[Excellent! Your past TRANSGRESSIONS are waived.]]></entry>
-        <entry id="hexer+str_flagellation_committed"><![CDATA[Are there complementary SNACKS?]]></entry>
-        <entry id="hexer+str_flagellation_committed"><![CDATA[I've heard good things about this AMBER. I am eager to find out, heehee.]]></entry>
-        <entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[It won't sate this HUNGER, but it's the second best thing!]]></entry>
-        <entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[Now THIS is worth my time! Gyahahaha!]]></entry>
-        <entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[Such EUPHORIA! I can feel my veins burning!]]></entry>
-
-        <entry id="hexer+str_bar_committed"><![CDATA[Where's your menu? I would like my meat as RAW as it gets.]]></entry>
-        <entry id="hexer+str_bar_committed"><![CDATA[ALCOHOL? Bah, that's bad for the blood.]]></entry>
-        <entry id="hexer+str_bar_committed"><![CDATA[I can get my steak SAIGNANT? Lovely.]]></entry>
-        <entry id="hexer+str_gambling_committed"><![CDATA[But I don't even have my HANDS!]]></entry>
-        <entry id="hexer+str_gambling_committed"><![CDATA[If only I still had my FORTUNE.]]></entry>
-        <entry id="hexer+str_gambling_committed"><![CDATA[Are these dice made of BONE? Asking for no reason.]]></entry>
-        <entry id="hexer+str_treatment_committed"><![CDATA[DON'T YOU DARE RESTRAIN ME AGAIN!]]></entry>
-        <entry id="hexer+str_treatment_committed"><![CDATA[I REFUSE TO RETURN TO A PLACE SO SIMILAR!]]></entry>
-        <entry id="hexer+str_treatment_committed"><![CDATA[YOU SHALL PAY FOR SENDING YOUR KING IN HERE!]]></entry>
-        <entry id="hexer+str_disease_treatment_committed"><![CDATA[I don't need this medicine. My blood is PURE.]]></entry>
-        <entry id="hexer+str_disease_treatment_committed"><![CDATA[I am perfectly capable of curing MYSELF.]]></entry>
-        <entry id="hexer+str_disease_treatment_committed"><![CDATA[This SHODDY excuse of a nurse is supposed to treat me?]]></entry>
-
-        <entry id="hexer+str_roster_list_bar_bark"><![CDATA[This PALES in comparison to a fresh kill seasoned with suffering.]]></entry>
-        <entry id="hexer+str_roster_list_bar_bark"><![CDATA[The next person to suggest me a beer will PERISH.]]></entry>
-        <entry id="hexer+str_roster_list_bar_bark"><![CDATA[Actually, most vegetables and fruits are FANTASTIC for your blood pressure.]]></entry>
-        <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[Do you dare BET a pound of flesh? Hahaha...]]></entry>
-        <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[Why is it so DIFFICULT to find someone to play knife games?]]></entry>
-        <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[I'll WAGER what's left of my soul, to get rid of it. Gyihihihi!]]></entry>
-        <entry id="hexer+str_roster_list_treatment_bark"><![CDATA[I WILL MURDER ALL OF YOU!]]></entry>
-        <entry id="hexer+str_roster_list_treatment_bark"><![CDATA[YOUR DEATH WILL BE SLOW AND CRUEL AS I EAT YOU ALIVE!]]></entry>
-        <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[Your syringes and leeches shall not DEFILE my blood.]]></entry>
-        <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[I will GUT you with your own tools, hideous wretch.]]></entry>
-        <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[You think you can CURE me? You are far too weak.]]></entry>
-
-        <entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
-        <entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
-        <entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
-        <entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
-
-        <entry id="hexer+str_quest_too_hard"><![CDATA[Don't you DARE send me there.]]></entry>
-        <entry id="hexer+str_quest_too_hard"><![CDATA[If you're trying to kill me, you'll find the results very UNPLEASANT.]]></entry>
-        <entry id="hexer+str_quest_too_hard"><![CDATA[Even if I PERISH, I shall reform and return.]]></entry>
-        <entry id="hexer+str_quest_too_easy"><![CDATA[I demand a QUALITY cut of meat, not this rubbish.]]></entry>
-        <entry id="hexer+str_quest_too_easy"><![CDATA[I wish to ENJOY their suffering, not bore myself.]]></entry>
-        <entry id="hexer+str_quest_too_easy"><![CDATA[There is that special delight in watching the strong COWER before you.]]></entry>
-
-        <entry id="hexer+lev_jani_bark"><![CDATA[You challenge a KING? I need no champions, I will LIQUEFY you myself.]]></entry>
-        <entry id="hexer+str_monster_attack_bite_call"><![CDATA[...Gyi? Is that a SERPENT I hear approaching?]]></entry>
-        <entry id="hexer+str_monster_attack_bite_call"><![CDATA[Guard your king! I refuse to become a meal to these scaled PESTS.]]></entry>
-        <entry id="hexer+str_monster_attack_bite_call"><![CDATA[Something large stirs UNDERNEATH me? I hope it's palatable.]]></entry>
-        <!-- Dungeon Barks -->
-
-        <entry id="hexer+str_bark_backingup"><![CDATA[Mind the CLOAK, simpletons!]]></entry>
-        <entry id="hexer+str_bark_backingup"><![CDATA[Grrrr...]]></entry>
-        <entry id="hexer+str_bark_backingup"><![CDATA[You're making your RULER walk like a fool. I will have your heads for this.]]></entry>
-
-        <entry id="hexer+str_bark_increasingstress"><![CDATA[So hungry.. So DAMN hungry...]]></entry>
-        <entry id="hexer+str_bark_increasingstress"><![CDATA[This dead SORROW of mine...]]></entry>
-        <entry id="hexer+str_bark_increasingstress"><![CDATA[Is this DAMNATION calling?]]></entry>
-        <entry id="hexer+str_bark_increasingstress"><![CDATA[I can feel them staring - one THOUSAND eyes!]]></entry>
-        <entry id="hexer+str_bark_increasingstress"><![CDATA[Is it all of you who are INSANE?! Or is it me?]]></entry>
-
-        <entry id="hexer+str_bark_torch_2"><![CDATA[I could barely SEE anyways.]]></entry>
-        <entry id="hexer+str_bark_torch_2"><![CDATA[Did it get a bit DARKER just now?]]></entry>
-        <entry id="hexer+str_bark_torch_2"><![CDATA[I sense ANXIETY amongst you.]]></entry>
-        <entry id="hexer+str_bark_torch_1"><![CDATA[To blend IN with my surroundings...]]></entry>
-        <entry id="hexer+str_bark_torch_1"><![CDATA[Aaaah, my cloak FLUTTERS in delight.]]></entry>
-        <entry id="hexer+str_bark_torch_1"><![CDATA[I can SENSE it - yes, yes!]]></entry>
-        <entry id="hexer+str_bark_torch_0"><![CDATA[Soon we will feed, my BEAUTIFUL cloak.]]></entry>
-        <entry id="hexer+str_bark_torch_0"><![CDATA[All this PREY scurrying about.]]></entry>
-        <entry id="hexer+str_bark_torch_0"><![CDATA[I can taste so much FILTH in the air...]]></entry>
-
-        <entry id="hexer+str_bark_startmoving"><![CDATA[Let's find some things to EAT.]]></entry>
-        <entry id="hexer+str_bark_startmoving"><![CDATA[You better PROTECT me.]]></entry>
-        <entry id="hexer+str_bark_startmoving"><![CDATA[Leave me some SPACE in these corridors.]]></entry>
-        <entry id="hexer+str_bark_stopmoving"><![CDATA[Gyi?]]></entry>
-        <entry id="hexer+str_bark_stopmoving"><![CDATA[What's the HOLDUP?]]></entry>
-        <entry id="hexer+str_bark_stopmoving"><![CDATA[I didn't come here to WATCH grass grow.]]></entry>
-
-        <entry id="hexer+str_bark_curiogood"><![CDATA[How QUAINT.]]></entry>
-        <entry id="hexer+str_bark_curiogood"><![CDATA[If only there were more MEAT to find around here.]]></entry>
-        <entry id="hexer+str_bark_curiogood"><![CDATA[Gyahahahaha!]]></entry>
-        <entry id="hexer+str_bark_curiobad"><![CDATA[Grrr!]]></entry>
-        <entry id="hexer+str_bark_curiobad"><![CDATA[HEXES!]]></entry>
-        <entry id="hexer+str_bark_curiobad"><![CDATA[You LET this happen!]]></entry>
-        <entry id="hexer+str_bark_curiomeh"><![CDATA[How blood-stiflingly DULL.]]></entry>
-        <entry id="hexer+str_bark_curiomeh"><![CDATA[What a WASTE of time.]]></entry>
-        <entry id="hexer+str_bark_curiomeh"><![CDATA[I am falling ASLEEP here, yes?]]></entry>
-
-        <!-- Cannibalistic -->
-
-        <entry id="str_affliction_name_cannibalistic"><![CDATA[Cannibalistic]]></entry>
-
-        <entry id="str_roster_list_cannibalistic_bark"><![CDATA[Let go of me! This ship is FULL of victims!]]></entry>
-        <entry id="str_roster_list_cannibalistic_bark"><![CDATA[So much MEALS just passing by... Gyihihi!]]></entry>
-        <entry id="str_roster_list_cannibalistic_bark"><![CDATA[The STENCH of all these peasants is mouth-watering.]]></entry>
-        <entry id="str_roster_list_cannibalistic_bark"><![CDATA[This hunger can not be SATIATED!]]></entry>
-
-        <entry id="str_afflicted_cannibalistic"><![CDATA[I can't SEE, but I can SMELL deliciously rancid meals.]]></entry>
-        <entry id="str_afflicted_cannibalistic"><![CDATA[The hunger... I can't WITHHOLD it anymore!]]></entry>
-        <entry id="str_afflicted_cannibalistic"><![CDATA[I smell, I feel, I sense... a BANQUET of terror-seasoned flesh.]]></entry>
-        <entry id="str_afflicted_cannibalistic"><![CDATA[I've been STARVING for so long. No longer! Gyihihihi!]]></entry>
-        <entry id="str_afflicted_cannibalistic"><![CDATA[I'll get my POUND of flesh, my cut of organs, my pint of blood.]]></entry>
-        <entry id="str_afflicted_cannibalistic"><![CDATA[Get this damned SERUM out of me!]]></entry>
-
-        <entry id="str_heart_attack_cannibalistic"><![CDATA[MY FLESH REBELS!]]></entry>
-        <entry id="str_heart_attack_cannibalistic"><![CDATA[THE BLOOD OVERWHELMS ME!]]></entry>
-        <entry id="str_heart_attack_cannibalistic"><![CDATA[TO BRING AN END UPON MYSELF...!]]></entry>
-
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[And I will CACKLE as I devour your flesh...]]></entry>
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[Oh, how TASTY your wounds look.]]></entry>
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[You can not RESTRAIN my hunger for long!]]></entry>
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[FREE me at once! Gyaha!]]></entry>
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[I can't wait to SATIATE this craving!]]></entry>
-        <entry id="str_bark_stress_cannibalistic"><![CDATA[I will work my way UP from the liver to your lungs!]]></entry>
-
-        <entry id="str_change_pos_fwd_cannibalistic"><![CDATA[I hunger... I HUNGER!]]></entry>
-        <entry id="str_change_pos_fwd_cannibalistic"><![CDATA[My saliva OOZES like a pus-filled wound...]]></entry>
-        <entry id="str_change_pos_fwd_cannibalistic"><![CDATA[HYIHIHIHI!]]></entry>
-
-        <entry id="str_ignore_command_cannibalistic"><![CDATA[Your voice is NOTHING compared to that of my hunger.]]></entry>
-        <entry id="str_ignore_command_cannibalistic"><![CDATA[Your blood is IMPURE, yes. You have no say over me!]]></entry>
-        <entry id="str_ignore_command_cannibalistic"><![CDATA[I will rip you apart if you try COMMANDING me once more.]]></entry>
-
-        <entry id="str_random_command_cannibalistic"><![CDATA[I must feed right NOW.]]></entry>
-        <entry id="str_random_command_cannibalistic"><![CDATA[My blood BOILS OVER. I can't hold it in, hyihihi...]]></entry>
-        <entry id="str_random_command_cannibalistic"><![CDATA[Your BLOOD, it speaks to me... Yes!]]></entry>
-
-        <entry id="str_bark_stress_camp_cannibalistic"><![CDATA[Fester and rot, that I may SAVOUR your remains.]]></entry>
-        <entry id="str_bark_stress_camp_cannibalistic"><![CDATA[Your sorrow and fear is like a fine SPICE.]]></entry>
-        <entry id="str_bark_stress_camp_cannibalistic"><![CDATA[To see you STAINED in blood... Exquisite...]]></entry>
-
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[I must FEED!]]></entry>
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[Your FLESH is too appealing!]]></entry>
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[I will tear out your ORGANS and taste them!]]></entry>
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[I shall make your blood SPILL and add it to my own.]]></entry>
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[I will devour your EYEBALLS first!]]></entry>
-        <entry id="str_attack_friendly_cannibalistic"><![CDATA[I shall GNAW on your spine until nothing remains!]]></entry>
-
-        <entry id="str_attack_self_cannibalistic"><![CDATA[I must FREE my blood!]]></entry>
-        <entry id="str_attack_self_cannibalistic"><![CDATA[Go out and FEAST, blood of mine!]]></entry>
-        <entry id="str_attack_self_cannibalistic"><![CDATA[I must LET my blood to taste you better.]]></entry>
-
-        <entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Food still REMAINS!]]></entry>
-        <entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Do not part a KING from its MEAL.]]></entry>
-        <entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Deny me my meal and face the PUNISHMENT I have in store for you...]]></entry>
-
-        <entry id="str_comment_self_hit_cannibalistic"><![CDATA[Gyihihi! You are NEXT!]]></entry>
-        <entry id="str_comment_self_hit_cannibalistic"><![CDATA[The FUTURE holds pain for you!]]></entry>
-        <entry id="str_comment_self_hit_cannibalistic"><![CDATA[The more you spill my blood, the more POWERFUL I become.]]></entry>
-
-        <entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Yes, yes, yes! EMPTY their veins for me!]]></entry>
-        <entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Go for the HEART and tear it out! Gihahaha!]]></entry>
-        <entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Slash out their GUTS and strangle them with them!]]></entry>
-
-        <entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[*whimper*]]></entry>
-        <entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[Your whiff ruins the SEASONING of fear.]]></entry>
-        <entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[You lack a BITE. You are woefully placid.]]></entry>
-
-        <entry id="str_comment_ally_hit_cannibalistic"><![CDATA[Nyehehe... bleed for your KING!]]></entry>
-        <entry id="str_comment_ally_hit_cannibalistic"><![CDATA[Yes! Show me your INNARDS!]]></entry>
-        <entry id="str_comment_ally_hit_cannibalistic"><![CDATA[They will devour your SINS!]]></entry>
-
-        <entry id="str_block_move_cannibalistic"><![CDATA[You are BLIND by your sorrows.]]></entry>
-        <entry id="str_block_move_cannibalistic"><![CDATA[To THINK that I would allow a tasty morsel to pass by.]]></entry>
-        <entry id="str_block_move_cannibalistic"><![CDATA[I will GNASH on your flesh as you pass.]]></entry>
-
-        <entry id="str_block_item_cannibalistic"><![CDATA[Instead, FEED me freshly chopped kidney.]]></entry>
-        <entry id="str_block_item_cannibalistic"><![CDATA[My blood REFUSES these substances.]]></entry>
-        <entry id="str_block_item_cannibalistic"><![CDATA[This isn't RIPE enough for me.]]></entry>
-
-        <entry id="str_comment_move_cannibalistic"><![CDATA[Hunger... Hunger... Hunger!]]></entry>
-        <entry id="str_comment_move_cannibalistic"><![CDATA[I can't bear these restrains! My eyes ITCH!]]></entry>
-        <entry id="str_comment_move_cannibalistic"><![CDATA[I will RAKE out their eyes and lick the gaping holes... Yes...!]]></entry>
-
-        <entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Are there any ROTTING remains here?]]></entry>
-        <entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Let me through, I must SEEK for spoiled carcasses!]]></entry>
-        <entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Allow me a TASTE of this. Gyihihi!]]></entry>
-
-        <entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[Spill your FLUIDS for me!]]></entry>
-        <entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[Such wonderful TORMENT...!]]></entry>
-        <entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[SUFFER and shriek in fear and agony!]]></entry>
-
-        <entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[I will tear your HAND clean off your wrist.]]></entry>
-        <entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[I must CONSUME all that remains. Gyehehe.]]></entry>
-        <entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[To gorge myself on your SPLEEN...]]></entry>
-
-        <entry id="str_block_camping_meal_cannibalistic"><![CDATA[Only GORE can satisfy my hunger.]]></entry>
-        <entry id="str_block_camping_meal_cannibalistic"><![CDATA[I crave for INNARDS, not this peasant's placebo.]]></entry>
-        <entry id="str_block_camping_meal_cannibalistic"><![CDATA[I refuse to chew anything that is not GRISTLE.]]></entry>
-
-    </language> 
-</root>
+  <language id="english">
+    <entry id="hero_class_name_hexer"><![CDATA[Hexer]]></entry>
+	
+    <entry id="upgrade_tree_name_hexer.weapon"><![CDATA[Evil Blood]]></entry>
+    <entry id="upgrade_tree_name_hexer.armour"><![CDATA[Straitjacket & Cloak]]></entry>
+	
+    <entry id="hexer_weapon_0"><![CDATA[Evil]]></entry>
+    <entry id="hexer_weapon_1"><![CDATA[Wicked]]></entry>
+    <entry id="hexer_weapon_2"><![CDATA[Terrorizing]]></entry>
+    <entry id="hexer_weapon_3"><![CDATA[Immoral]]></entry>
+    <entry id="hexer_weapon_4"><![CDATA["Gluttonous Intent"]]></entry>
+	
+	<entry id="hexer_armour_0"><![CDATA[Filthy Jacket, Torn Cloak]]></entry>
+    <entry id="hexer_armour_1"><![CDATA[Vile Jacket, Black Cloak]]></entry>
+    <entry id="hexer_armour_2"><![CDATA[Toxic Jacket, Nocturnal Cloak]]></entry>
+    <entry id="hexer_armour_3"><![CDATA[Noxious Jacket, Devouring Cloak]]></entry>
+    <entry id="hexer_armour_4"><![CDATA["The Virulent & The Thirsty"]]></entry>	
+
+    <entry id="str_inventory_title_trinkethexer_feet_on_rope"><![CDATA[Trotter's Snack]]></entry>
+	<entry id="str_inventory_title_trinkethexer_beating_heart"><![CDATA[Unceasing Vigor]]></entry>
+	<entry id="str_inventory_title_trinkethexer_pure_injection"><![CDATA[Blissful Moment]]></entry>
+	<entry id="str_inventory_title_trinkethexer_impure_injection"><![CDATA[Abyssal Delight]]></entry>
+	<entry id="str_inventory_title_trinkethexer_turning_point"><![CDATA[Figments Of The Past]]></entry>
+	<entry id="str_inventory_title_trinkethexer_exquisite_humors"><![CDATA[Exquisite Meal]]></entry>
+    <entry id="str_inventory_title_trinkethexer_parasite"><![CDATA[Parasite Zero]]></entry>
+	<entry id="str_inventory_set_title_hexer_cc"><![CDATA["Nothing COMPARES to it... Just what made it so delectable?"]]></entry>
+	
+    <entry id="combat_skill_name_hexer_hexer_melt"><![CDATA[Melt]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_malicious"><![CDATA[Malicious]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_malform"><![CDATA[Malform]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_excruciating_pain"><![CDATA[Excruciating Pain]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_putrefied_flesh"><![CDATA[Putrefied Flesh]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_eroded_mind"><![CDATA[Eroded Mind]]></entry>
+    <entry id="combat_skill_name_hexer_hexer_ichor_incantation"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Ichor Incantation]]></entry>
+    <entry id="combat_skill_name_hexer_move"><![CDATA[Move]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_melt"><![CDATA[Melt]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_malicious"><![CDATA[Malicious]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_malform"><![CDATA[Malform]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_excruciating_pain"><![CDATA[Excruciating Pain]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_putrefied_flesh"><![CDATA[Putrefied Flesh]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_eroded_mind"><![CDATA[Eroded Mind]]></entry>
+    <entry id="upgrade_tree_name_hexer.hexer_ichor_incantation"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Ichor Incantation]]></entry>
+
+	<entry id="camping_skill_name_hexer_cannibalize_corpses"><![CDATA[CANNIBALIZE CORPSES]]></entry>
+    <entry id="camping_skill_name_hexer_serum_5150"><![CDATA[SERUM 5150]]></entry>
+    <entry id="camping_skill_name_hexer_enthroned"><![CDATA[ENTHRONED]]></entry>
+    <entry id="camping_skill_name_hexer_sanguis_metallica"><![CDATA[SANGUIS METALLICA]]></entry>
+	
+	<!-- Custom tooltips -->
+
+	<entry id="0str_skill_mode_info_hexer_base"><![CDATA[{colour_start|hexer_vial}If has no Corruption Vials{colour_end}]]></entry>
+    <entry id="0str_skill_mode_info_hexer_r1"><![CDATA[{colour_start|hexer_vial}If has 1 Corruption Vial{colour_end}]]></entry>
+	<entry id="0tr_skill_mode_info_hexer_r2"><![CDATA[{colour_start|hexer_vial}If has 2 Corruption Vials{colour_end}]]></entry>
+    <entry id="0tr_skill_mode_info_hexer_r3"><![CDATA[{colour_start|hexer_vial}If has 3 Corruption Vials{colour_end}]]></entry>
+
+	
+	<entry id="camping_skill_effect_loot_CAMP_CANNIBAL_TT1"><![CDATA[{colour_start|stress}Horror{colour_end} 5/3 tns if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_CAMP_CANNIBAL_TT2"><![CDATA[{colour_start|stress}Horror{colour_end} 2/3 tns if not {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+	<entry id="enemy_type_name_ERODED_MIND_STEAL_TT"><![CDATA[Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}]]></entry>
+
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_DMG_TT"><![CDATA[+10%% DMG per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_CURE_MARK"><![CDATA[Clear Party {colour_start|debuff}Debuffs{colour_end} and {colour_start|mark}Marks{colour_end}]]></entry>
+
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_malicious_tooltip1"><![CDATA[{colour_start|notable}Free Action{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_malicious_tooltip2"><![CDATA[{colour_start|skill_unselectable}(Buffs Last 2rds){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_MALICIOUS_BUFF_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_eroded_tt"><![CDATA[Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_ichor_incantation"><![CDATA[Buffs last until battle ends.]]></entry>
+	<entry id="buff_rule_data_tooltip_hexer_malform"><![CDATA[Malform]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_ushi-oni_head_malformdisable"><![CDATA[Disable Malform]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_1"><![CDATA[-10%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_2"><![CDATA[-11%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_3"><![CDATA[-12%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_4"><![CDATA[-13%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_STRESS_B_TT_5"><![CDATA[-15%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_malform_use_incantation_tooltip"><![CDATA[Requires 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_ichor_use_incantation_tooltip"><![CDATA[Requires at least 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_expend_tooltip"><![CDATA[Expends all {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_use1_tooltip"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
+	{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Recevied if has no {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt2"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|stun}Stun{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt3"><![CDATA[+25%% {colour_start|healhp}Healing{colour_end} Received per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt1"><![CDATA[+5%% DMG per 25 Stress]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt2"><![CDATA[+2 ACC per 25 Stress]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt3"><![CDATA[+1%% Crits Received per 25 Stress]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_disease_tt"><![CDATA[On Friendly Skill: Other Heroes: Gain {colour_start|symptom}Rictus Imperfectus{colour_end} {colour_start|skill_unselectable}(45%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_flavor_tt"><![CDATA[{colour_start|skill_unselectable}A grin cracks the face in two, warping thoughts towards sadism and hunger.{colour_end}]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_1"><![CDATA[+20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_2"><![CDATA[+21%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_3"><![CDATA[+22%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_4"><![CDATA[+23%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_5"><![CDATA[+25%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end},]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_ICHOR_BUFF_TT_6"><![CDATA[{colour_start|blight}Blight{colour_end}, {colour_start|bleed}Bleed{colour_end} Resist {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+
+	<entry id="buff_rule_data_tooltip_hexer_malicious"><![CDATA[Malicious]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_gain_vial_skill_tt"><![CDATA[Gain 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_expend_all_vials_tt"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_expend_one_vial_tt"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_MELT_DEBUFF_TARGET_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_BUFF_TARGET_TT"><![CDATA[{colour_start|buff}Buff Target:{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_GAIN_1_VIAL"><![CDATA[Gain 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_GAIN_2_VIAL"><![CDATA[Gain 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
+
+	<!-- Addinfo -->
+	<entry id="camping_skill_name_addinfo_hexer"><![CDATA[Additional Information]]></entry>
+	
+	<entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% ]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[Is banned from the Amber Refinery and Tek Exchange]]></entry>
+
+	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|debuff}Debuff{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} +10% Damage Taken {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
+	
+	<entry id="camping_skill_effect_loot_HEX_BREL_VIALS_TT"><![CDATA[{colour_start|hexer_vial}CORRUPTION VIALS{colour_end}
+	Hexer can gain up to 3 {colour_start|hexer_vial}Corruption Vials{colour_end}
+	Certain skills gain bonuses the more {colour_start|hexer_vial}Vials{colour_end} Hexer has
+	{colour_start|hexer_vial}Vials{colour_end} persists after combat end]]></entry>
+	
+	<entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Cannibalistic(100ʪ):{colour_end}
++25% DMG/ +10% CRT/ -10 DODGE/ -20% {colour_start|debuff}Debuff{colour_end} Skill Chance
+Harmful Act-outs and Reactions]]></entry>	
+	<entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT2"><![CDATA[50% Chance to Forcibly Interact with Corpse Curios]]></entry>	
+	
+	<!-- mode tooltips -->	
+	<entry id="str_skill_mode_info_hexer_melt_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_melt_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_mal_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_mal_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_malfo_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_malfo_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_pain_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_pain_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_mind_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_mind_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_flesh_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_flesh_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_hexer_ichor_1"><![CDATA[With 1 {colour_start|hexer_vial}Corruption Vial:{colour_end}]]></entry>
+	<entry id="str_skill_mode_info_hexer_ichor_2"><![CDATA[With 2 {colour_start|hexer_vial}Corruption Vials:{colour_end}]]></entry>
+	<entry id="str_skill_mode_info_hexer_ichor_3"><![CDATA[With 3 {colour_start|hexer_vial}Corruption Vials:{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_1_SKILL_LINE1"><![CDATA[^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_1_SKILL_LINE2"><![CDATA[Ignore PROT]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE31"><![CDATA[^^-20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE32"><![CDATA[^^-23%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE33"><![CDATA[^^-26%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE34"><![CDATA[^^-30%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE35"><![CDATA[^^-33%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(150%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_MELT_2_SKILL_LINE4"><![CDATA[ +10% DMG per {colour_start|hexer_vial}Corruption Vial {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE1"><![CDATA[^^{colour_start|notable}Free Action{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE21"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 6 HP]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE22"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 7 HP]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE23"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 8 HP]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE24"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 9 HP]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE25"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 10 HP]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE31"><![CDATA[^^Heal 3 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE32"><![CDATA[^^Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE33"><![CDATA[^^Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE34"><![CDATA[^^Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE35"><![CDATA[^^Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE4"><![CDATA[^^^^^^^{colour_start|buff}Buff Self:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE51"><![CDATA[^^+10%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE52"><![CDATA[^^+12%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE53"><![CDATA[^^+15%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE54"><![CDATA[^^+17%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE55"><![CDATA[^^+20%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE6"><![CDATA[+5 ACC]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE7"><![CDATA[{colour_start|skill_unselectable}(Buffs Last 2 tns){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_MAL_2_SKILL_LINE8"><![CDATA[^^Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE1"><![CDATA[{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE2"><![CDATA[{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_1_SKILL_LINE3"><![CDATA[%d pts/tn for 2 tns]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_2_SKILL_LINE4"><![CDATA[{colour_start|blight}Blight{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MALFO_2_SKILL_LINE5"><![CDATA[%d pts/tn for 2 tns]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_MALFO_2_SKILL_LINE6"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials^^{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^+10%% Damage Received {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE31"><![CDATA[^^-6 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE32"><![CDATA[^^-7 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE33"><![CDATA[^^-8 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE34"><![CDATA[^^-9 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_PAIN_2_SKILL_LINE35"><![CDATA[^^-10 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_PAIN_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^-7%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^-8%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[^^-13%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[^^-15%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[^^-16%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[^^-18%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_FLESH_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE2"><![CDATA[{colour_start|guard}Guard{colour_end}, {colour_start|riposte}Riposte{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE3"><![CDATA[^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE41"><![CDATA[^^-4 SPD {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE42"><![CDATA[^^-4 SPD {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE43"><![CDATA[^^-5 SPD {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE44"><![CDATA[^^-5 SPD {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE45"><![CDATA[^^-6 SPD {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE51"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE52"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE53"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE54"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_2_SKILL_LINE55"><![CDATA[^^^^^^^^^^^^Can't be Guarded {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_MIND_2_SKILL_LINE6"><![CDATA[Gain 2 {colour_start|hexer_vial}Corruption Vials{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE5"><![CDATA[Clear Party {colour_start|stun}Stuns{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE1"><![CDATA[Clear Party {colour_start|debuff}Debuffs{colour_end} and {colour_start|mark}Marks{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE3"><![CDATA[Cure Party {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE2"><![CDATA[{colour_start|healhp}Heal{colour_end} Party %d%% Max HP]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_ICHOR_1_SKILL_LINE4"><![CDATA[^^Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+
+	
+	
+	<!-- Events -->
+	
+    <entry id="town_event_title_first_hexer"><![CDATA[A Hungry Tyrant]]></entry>
+    <entry id="town_event_description_first_hexer"><![CDATA[I'm STARVING, yes? I'm here to HELP you out. Let me accompany your SLAUGHTER in these foul lands.]]></entry>
+	
+	<!-- Verbose descriptions -->
+	
+	<entry id="action_verbose_body_guild_hexer"><![CDATA[With the power of his Evil Blood, the Hexer can melt down his enemies’ flesh, mind, and resistances. He has the power to cripple entire groups at once in various ways, both to enfeeble their assault and corrode their defenses. If necessary, he can also defend his allies against enemy hexes.]]></entry>
+    <entry id="action_verbose_body_blacksmith_hexer"><![CDATA[Fueled by his Evil Blood, the Hexer turns his own vital fluids into a lethal weapon. The greater his hatred and hunger, the more powerful it evolves. Though he has never gotten rid of his Straitjacket, it seems as if it’s protecting him not from himself, but from others instead. And none dare surmise that his leathery cloak breathes as if alive.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_hexer"><![CDATA[The Hexer is insane, malevolent, and solitary. Gorging himself on the fresh kills of past battles keeps him going for more. With his fiendish resilience and control over his blood, disease has no hold on him either, and he can hone it to amplify his curses. And should he come close to falling, the accursed serum he hates so much may prove beneficial.]]></entry>
+	
+	<!--Crits -->
+	
+	<entry id="hexer+str_critbyhero"><![CDATA[Suffering, suffering, SUFFERING...]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[I will DEVOUR their flesh and souls!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[Gyihi... Hihihi... Ahaha!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[DIE for your king!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[A CARNIVAL of CARNAGE!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[These restraints can't contain my POWER!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[And after I'm done with you, the REST is next.]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[Your SPINE will be picked and cleaned, piece by piece.]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[You shall DISSOLVE into a puddle of gore.]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[Your rotting, necrotic tissue is so BEAUTIFUL.]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[Scream out in AGONY as you melt alive.]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[How your flesh BOILS! Hyahaha!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[Your screams are a HYMN for the dead!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[You will DROWN in your own boiling blood!]]></entry>
+	<entry id="hexer+str_critbyhero"><![CDATA[I shall STRANGLE you with your own intestines!]]></entry>
+	
+	<!--  Misc Barks -->
+
+	<entry id="hexer+str_combat_knockback"><![CDATA[-uck!]]></entry>
+	<entry id="hexer+str_combat_knockback"><![CDATA[I will get my RETRIBUTION!]]></entry>
+	<entry id="hexer+str_combat_knockback"><![CDATA[I will LIQUIFY your innards.]]></entry>
+	
+	<entry id="hexer+str_combat_wastingtime"><![CDATA[Kill them ALREADY, that I may feast...]]></entry>
+	<entry id="hexer+str_combat_wastingtime"><![CDATA[I've thoroughly seasoned my enemies with DESPAIR. Now to end them.]]></entry>
+	<entry id="hexer+str_combat_wastingtime"><![CDATA[I can't wait to sink my TEETH into their throats. Finish them...]]></entry>
+	
+	<entry id="hexer+str_bark_bleeddot"><![CDATA[My fluids, OOZING out of my body...]]></entry>
+	<entry id="hexer+str_bark_bleeddot"><![CDATA[Fool! You will only EMPOWER me!]]></entry>
+	<entry id="hexer+str_bark_bleeddot"><![CDATA[You dare spill my IMPLEMENT of your demise?]]></entry>
+
+	<entry id="hexer+str_bark_poisondot"><![CDATA[My blood CONGEALS in my veins.]]></entry>
+	<entry id="hexer+str_bark_poisondot"><![CDATA[On others, I would call this SEASONING.]]></entry>
+	<entry id="hexer+str_bark_poisondot"><![CDATA[The itch returns, and it is UNBEARABLE.]]></entry>
+	
+	<entry id="hexer+str_bark_stressdot"><![CDATA[My stomach SCREAMS.]]></entry>
+	<entry id="hexer+str_bark_stressdot"><![CDATA[I can't wait to finally SINK my teeth into something...]]></entry>
+	<entry id="hexer+str_bark_stressdot"><![CDATA[Stop EXPERIMENTING on me! My blood holds no secrets to you!]]></entry>
+	
+	<entry id="hexer+str_bark_hp_heal_dot"><![CDATA[How LOVELY.]]></entry>
+	<entry id="hexer+str_bark_hp_heal_dot"><![CDATA[I should THANK you... Gyihi!]]></entry>
+	<entry id="hexer+str_bark_hp_heal_dot"><![CDATA[You're looking after your KING? Good.]]></entry>
+	
+	<entry id="hexer+str_bark_bigwound"><![CDATA[I will have bloody VENGEANCE.]]></entry>
+	<entry id="hexer+str_bark_bigwound"><![CDATA[I will build a THRONE out of your bones!]]></entry>
+	<entry id="hexer+str_bark_bigwound"><![CDATA[A king does not FORGIVE unruly meals so easily...]]></entry>
+	
+	<entry id="hexer+str_bark_bigwound_ally"><![CDATA[That must've HURT.]]></entry>
+    <entry id="hexer+str_bark_bigwound_ally"><![CDATA[Surely you are a WORTHY subject?]]></entry>
+    <entry id="hexer+str_bark_bigwound_ally"><![CDATA[Such weakness in front of your KING.]]></entry>
+	
+	<entry id="hexer+str_wave_spawn_mash"><![CDATA[More meals for me, served on a PLATTER.]]></entry>
+	<entry id="hexer+str_wave_spawn_mash"><![CDATA[I do not care if TIME bends on itself, as long as I get to feast!]]></entry>
+	<entry id="hexer+str_wave_spawn_mash"><![CDATA[So much fodder for me to unleash my MALEVOLENCE on!]]></entry>
+	
+	<entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[Gyihihi! Back to inflict UNTOLD suffering...]]></entry>
+	<entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[You are a dead BITCH before me, now.]]></entry>
+	<entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[I will have bloody VENGEANCE.]]></entry>
+	
+	<entry id="hexer+str_bark_deathsdoor"><![CDATA[Gyihi...hi?]]></entry>
+	<entry id="hexer+str_bark_deathsdoor"><![CDATA[I can't see... I can't SEE...]]></entry>
+	<entry id="hexer+str_bark_deathsdoor"><![CDATA[It is... ME who suffers?]]></entry>
+	
+	<entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[I demand the first MORSEL of flesh.]]></entry>
+	<entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[You are looking mighty APPETIZING, gyihihi...]]></entry>
+	<entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[Should you be killed, I will put your CORPSE to good use.]]></entry>
+	
+	<entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[Oh, so you are a SURVIVOR after all.]]></entry>
+	<entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[A damn SHAME I won't be tasting you.]]></entry>
+	<entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[And here I am, wondering just how SALTY your flesh is.]]></entry>
+	
+	<!-- Camping Barks -->
+	
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[Finally, MEALTIME.]]></entry>
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[I've waited so LONG for this moment...]]></entry>
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[At last, what I came here for. Fresh and old KILL.]]></entry>
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[DINNER is prepared for me? Wonderful...]]></entry>
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[You know it's RUDE to watch others eat? Gyihihi...]]></entry>
+	<entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[Livers and brains, tongues and thighs... DELICIOUS.]]></entry>
+	
+	<entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[Ugh, to be REDUCED into using this.]]></entry>
+	<entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[You can't MAKE me... I'm doing this voluntarily.]]></entry>
+	<entry id="hexer+str_bark_hexer_serum_5150"><![CDATA[It itches and BURNS... Grrr...]]></entry>
+	
+	<entry id="hexer+str_bark_hexer_enthroned"><![CDATA[Hihi... Hihihi... Hahahahaha!]]></entry>
+	<entry id="hexer+str_bark_hexer_enthroned"><![CDATA[Know your place, and GROVEL at my feet.]]></entry>
+	<entry id="hexer+str_bark_hexer_enthroned"><![CDATA[I shall RULE over all, and turn the weak into meals.]]></entry>
+	
+	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[My body, a TEMPLE...]]></entry>
+	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[EXPUNGE this filth!]]></entry>
+	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[I am far STRONGER than any mere disease...]]></entry>
+	
+	<!-- Quirks -->
+	
+	<entry id="str_quirk_name_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
+	<entry id="str_quirk_name_rictus_tended"><![CDATA[{colour_start|symptom}Rictus Imperfectus (Tended){colour_end}]]></entry>
+	<entry id="str_quirk_name_rictus_mortis"><![CDATA[Rictus Mortis]]></entry>
+	<entry id="str_quirk_name_rictus_mortis_tended"><![CDATA[Rictus Mortis (Stabilized)]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt1"><![CDATA[Unusual hungers and delight in misery...]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (4%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt5"><![CDATA[{colour_start|skill_unselectable}+2 SPD, +2%% CRT per Vial Consumed{colour_end}]]></entry>
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt1"><![CDATA[A maniacal grin shows teeth stained crimson...]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (15%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt5"><![CDATA[{colour_start|skill_unselectable}+4 SPD, +5%% CRT per Vial Consumed{colour_end}]]></entry>
+	
+    <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[At last! Something to SATE this hunger...!]]></entry>
+	<entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[Such a delicious and ripe AROMA. Let me through!]]></entry>
+	<entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[I'm absolutely FAMISHED. Only this will do.]]></entry>
+	
+	<entry id="str_mark_self_rictus"><![CDATA[Haha... Hahaha...!]]></entry>
+	<entry id="str_mark_self_rictus"><![CDATA[If you find my grin unsettling, just stop staring.]]></entry>
+	<entry id="str_mark_self_rictus"><![CDATA[Oh, your suffering brings me such joy!]]></entry>
+	<entry id="str_mark_self_rictus"><![CDATA[I'm simply all smiles! Hehehe...]]></entry>
+	<entry id="str_mark_self_rictus"><![CDATA[(cackles while crying)]]></entry>
+	
+	<entry id="str_mark_self_rictus_tended"><![CDATA[Must not laugh... Must not laugh...!]]></entry>
+	<entry id="str_mark_self_rictus_tended"><![CDATA[It's hard to speak with this grin...]]></entry>
+	<entry id="str_mark_self_rictus_tended"><![CDATA[Get out of my head!]]></entry>
+	<entry id="str_mark_self_rictus_tended"><![CDATA[My blood feels like acid in my veins!]]></entry>
+	<entry id="str_mark_self_rictus_tended"><![CDATA[My face aches from the grinning...]]></entry>
+	
+	<entry id="str_mark_self_rictus_mortis"><![CDATA[Watching you wretches die is simply RAPTUROUS!]]></entry>
+	<entry id="str_mark_self_rictus_mortis"><![CDATA[The hunger the hunger the hunger the HUNGER...]]></entry>
+	<entry id="str_mark_self_rictus_mortis"><![CDATA[My blood is a vessel to DIVINITY!]]></entry>
+	<entry id="str_mark_self_rictus_mortis"><![CDATA[A whiff of HEAVEN with every wound I smell.]]></entry>
+	<entry id="str_mark_self_rictus_mortis"><![CDATA[I demand the BEST cut of their innards!]]></entry>
+	
+	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[(can't stop grinning while sobbing)]]></entry>
+	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[Please! I can't take this anymore! The hunger is killing me!]]></entry>
+	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[My blood boils! It hurts so much, make it stop!]]></entry>
+	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[I don't know how much longer until I give in to these dark thoughts!]]></entry>
+	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[Are my thoughts even my own anymore?! Ahahaha!]]></entry>
+	
+	<entry id="str_roster_quirk_transition_rictus"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis{colour_end}.]]></entry>
+	<entry id="str_roster_quirk_transition_rictus_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s tended symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis (Stabilized){colour_end}.]]></entry>
+	<entry id="str_roster_quirk_transition_rictus_mortis_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
+
+	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[(cracks a grin from ear to ear)]]></entry>
+	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[I have to admit, I'm PECKISH. Heehee!]]></entry>
+	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[My burning blood suddenly feels so EUPHORIC. Ahaha!]]></entry>
+	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[No! I don't want this!]]></entry>
+	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[I must not yield... To the macabre visions...!]]></entry>
+	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[My inner demons are getting the better of me, I'm sorry...]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Aaah, finally I feel like MYSELF again!]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[This is MUCH better, gyihihi!]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Life had gotten dull without these GRUESOME visions.]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Relief, if only slightly...]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[I'm sorry for what I've done and said.]]></entry>
+	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Oof, I can finally stomach a proper meal again.]]></entry>
+	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[The relief! I thank you!]]></entry>
+	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
+	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
+	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[The relief! I thank you!]]></entry>
+	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
+	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
+	
+	
+	<entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|disease}Rictus Mortis{colour_end}]]></entry>
+	
+	<!--town barks-->
+	
+	<entry id="str_incompatible_party_member_hexer_limit"><![CDATA[You can not FOOL me.]]></entry>
+	<entry id="hexer+str_incompatible_party_member_hexer_limit"><![CDATA[I am UNIQUE.]]></entry>
+	
+	<entry id="hexer+str_override_invalid_rejection"><![CDATA[You EXPECT me to do what?]]></entry>
+	<entry id="hexer+str_override_invalid_rejection"><![CDATA[Your INSOLENCE is noted.]]></entry>
+	<entry id="hexer+str_override_invalid_rejection"><![CDATA[You are foolish to think I would WASTE my time here.]]></entry>
+	<entry id="hexer+str_override_invalid_rejection"><![CDATA[Use those shriveled BRAINS of yours.]]></entry>
+
+	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[So HUNGRY. Send me out so I can eat.]]></entry>
+	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Let me out of this ship, that I may GORGE myself on fresh kill.]]></entry>
+	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Your king is STARVING. I demand a royal entourage and a trip into the Weald.]]></entry>
+    <entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Hehehe... Hihihihi...]]></entry>
+	<entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[I'm SLAVERING here. I need to slake myself on blood and flesh.]]></entry>
+	<entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Ooooh, so hungry, so so so SO HUNGRY!]]></entry>
+    <entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[Gyihihihihi! Ahahaha! Heeeeheeheehee!]]></entry>
+	<entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[They can NEVER put me back in that institute!]]></entry>
+	<entry id="hexer+str_roster_list_high_stress_bark"><![CDATA[They can not destroy me! Through my blood, I am IMMORTAL!]]></entry>
+	
+	<entry id="hexer+str_stagecoach_idle"><![CDATA[Such EXOTIC meals await me here!]]></entry>
+	<entry id="hexer+str_stagecoach_idle"><![CDATA[To feel this arid breeze... It makes me THIRSTY, gyehehe.]]></entry>
+	<entry id="hexer+str_stagecoach_idle"><![CDATA[Bah, these DESSICATED remains are barely a proper meal.]]></entry>
+	<entry id="hexer+str_stagecoach_idle"><![CDATA[I better not get SAND where it itches. Ugh.]]></entry>
+	
+	<entry id="hexer+str_brothel_committed"><![CDATA[I won't make any PROMISE to hold back. Gyihihi.]]></entry>
+	<entry id="hexer+str_brothel_committed"><![CDATA[You are BOLD to send me in here. Hihihi!]]></entry>
+	<entry id="hexer+str_brothel_committed"><![CDATA[They may lose a POUND of flesh or three by the end.]]></entry>
+	<entry id="hexer+str_brothel_committed"><![CDATA[To the VICTOR go the bloody spoils, yes?]]></entry>
+	<entry id="hexer+str_roster_list_brothel_bark"><![CDATA[What do you mean, BITING is foul play?]]></entry>
+	<entry id="hexer+str_roster_list_brothel_bark"><![CDATA[It's not my fault they didn't PROTECT their eyes.]]></entry>
+	<entry id="hexer+str_roster_list_brothel_bark"><![CDATA[Hmmm. You're a little too THIN for my taste.]]></entry>
+	<entry id="hexer+str_roster_list_brothel_bark"><![CDATA[You don't need their FINGER back, do you?]]></entry>
+	
+	<entry id="hexer+str_flagellation_committed"><![CDATA[Finally, some LUXURY for your king.]]></entry>
+	<entry id="hexer+str_flagellation_committed"><![CDATA[Excellent! Your past TRANSGRESSIONS are waived.]]></entry>
+	<entry id="hexer+str_flagellation_committed"><![CDATA[Are there complementary SNACKS?]]></entry>
+	<entry id="hexer+str_flagellation_committed"><![CDATA[I've heard good things about this AMBER. I am eager to find out, heehee.]]></entry>
+	<entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[It won't sate this HUNGER, but it's the second best thing!]]></entry>
+	<entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[Now THIS is worth my time! Gyahahaha!]]></entry>
+	<entry id="hexer+str_roster_list_flagellation_bark"><![CDATA[Such EUPHORIA! I can feel my veins burning!]]></entry>
+
+	<entry id="hexer+str_bar_committed"><![CDATA[Where's your menu? I would like my meat as RAW as it gets.]]></entry>
+    <entry id="hexer+str_bar_committed"><![CDATA[ALCOHOL? Bah, that's bad for the blood.]]></entry>
+    <entry id="hexer+str_bar_committed"><![CDATA[I can get my steak SAIGNANT? Lovely.]]></entry>
+    <entry id="hexer+str_gambling_committed"><![CDATA[But I don't even have my HANDS!]]></entry>
+    <entry id="hexer+str_gambling_committed"><![CDATA[If only I still had my FORTUNE.]]></entry>
+    <entry id="hexer+str_gambling_committed"><![CDATA[Are these dice made of BONE? Asking for no reason.]]></entry>
+    <entry id="hexer+str_treatment_committed"><![CDATA[DON'T YOU DARE RESTRAIN ME AGAIN!]]></entry>
+    <entry id="hexer+str_treatment_committed"><![CDATA[I REFUSE TO RETURN TO A PLACE SO SIMILAR!]]></entry>
+    <entry id="hexer+str_treatment_committed"><![CDATA[YOU SHALL PAY FOR SENDING YOUR KING IN HERE!]]></entry>
+    <entry id="hexer+str_disease_treatment_committed"><![CDATA[I don't need this medicine. My blood is PURE.]]></entry>
+    <entry id="hexer+str_disease_treatment_committed"><![CDATA[I am perfectly capable of curing MYSELF.]]></entry>
+    <entry id="hexer+str_disease_treatment_committed"><![CDATA[This SHODDY excuse of a nurse is supposed to treat me?]]></entry>
+	
+    <entry id="hexer+str_roster_list_bar_bark"><![CDATA[This PALES in comparison to a fresh kill seasoned with suffering.]]></entry>
+    <entry id="hexer+str_roster_list_bar_bark"><![CDATA[The next person to suggest me a beer will PERISH.]]></entry>
+    <entry id="hexer+str_roster_list_bar_bark"><![CDATA[Actually, most vegetables and fruits are FANTASTIC for your blood pressure.]]></entry>
+    <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[Do you dare BET a pound of flesh? Hahaha...]]></entry>
+    <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[Why is it so DIFFICULT to find someone to play knife games?]]></entry>
+    <entry id="hexer+str_roster_list_gambling_bark"><![CDATA[I'll WAGER what's left of my soul, to get rid of it. Gyihihihi!]]></entry>
+    <entry id="hexer+str_roster_list_treatment_bark"><![CDATA[I WILL MURDER ALL OF YOU!]]></entry>
+    <entry id="hexer+str_roster_list_treatment_bark"><![CDATA[YOUR DEATH WILL BE SLOW AND CRUEL AS I EAT YOU ALIVE!]]></entry>
+    <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[Your syringes and leeches shall not DEFILE my blood.]]></entry>
+    <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[I will GUT you with your own tools, hideous wretch.]]></entry>
+    <entry id="hexer+str_roster_list_disease_treatment_bark"><![CDATA[You think you can CURE me? You are far too weak.]]></entry>
+	
+	<entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+	<entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+	<entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+	<entry id="hexer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+	
+	<entry id="hexer+str_quest_too_hard"><![CDATA[Don't you DARE send me there.]]></entry>
+    <entry id="hexer+str_quest_too_hard"><![CDATA[If you're trying to kill me, you'll find the results very UNPLEASANT.]]></entry>
+    <entry id="hexer+str_quest_too_hard"><![CDATA[Even if I PERISH, I shall reform and return.]]></entry>
+    <entry id="hexer+str_quest_too_easy"><![CDATA[I demand a QUALITY cut of meat, not this rubbish.]]></entry>
+    <entry id="hexer+str_quest_too_easy"><![CDATA[I wish to ENJOY their suffering, not bore myself.]]></entry>
+    <entry id="hexer+str_quest_too_easy"><![CDATA[There is that special delight in watching the strong COWER before you.]]></entry>
+	
+	<entry id="hexer+lev_jani_bark"><![CDATA[You challenge a KING? I need no champions, I will LIQUEFY you myself.]]></entry>
+	<entry id="hexer+str_monster_attack_bite_call"><![CDATA[...Gyi? Is that a SERPENT I hear approaching?]]></entry>
+	<entry id="hexer+str_monster_attack_bite_call"><![CDATA[Guard your king! I refuse to become a meal to these scaled PESTS.]]></entry>
+	<entry id="hexer+str_monster_attack_bite_call"><![CDATA[Something large stirs UNDERNEATH me? I hope it's palatable.]]></entry>
+	<!-- Dungeon Barks -->
+	
+	<entry id="hexer+str_bark_backingup"><![CDATA[Mind the CLOAK, simpletons!]]></entry>
+	<entry id="hexer+str_bark_backingup"><![CDATA[Grrrr...]]></entry>
+	<entry id="hexer+str_bark_backingup"><![CDATA[You're making your RULER walk like a fool. I will have your heads for this.]]></entry>
+
+	<entry id="hexer+str_bark_increasingstress"><![CDATA[So hungry.. So DAMN hungry...]]></entry>
+	<entry id="hexer+str_bark_increasingstress"><![CDATA[This dead SORROW of mine...]]></entry>
+	<entry id="hexer+str_bark_increasingstress"><![CDATA[Is this DAMNATION calling?]]></entry>
+	<entry id="hexer+str_bark_increasingstress"><![CDATA[I can feel them staring - one THOUSAND eyes!]]></entry>
+	<entry id="hexer+str_bark_increasingstress"><![CDATA[Is it all of you who are INSANE?! Or is it me?]]></entry>
+	
+	<entry id="hexer+str_bark_torch_2"><![CDATA[I could barely SEE anyways.]]></entry>
+	<entry id="hexer+str_bark_torch_2"><![CDATA[Did it get a bit DARKER just now?]]></entry>
+	<entry id="hexer+str_bark_torch_2"><![CDATA[I sense ANXIETY amongst you.]]></entry>
+	<entry id="hexer+str_bark_torch_1"><![CDATA[To blend IN with my surroundings...]]></entry>
+	<entry id="hexer+str_bark_torch_1"><![CDATA[Aaaah, my cloak FLUTTERS in delight.]]></entry>
+	<entry id="hexer+str_bark_torch_1"><![CDATA[I can SENSE it - yes, yes!]]></entry>
+	<entry id="hexer+str_bark_torch_0"><![CDATA[Soon we will feed, my BEAUTIFUL cloak.]]></entry>
+	<entry id="hexer+str_bark_torch_0"><![CDATA[All this PREY scurrying about.]]></entry>
+	<entry id="hexer+str_bark_torch_0"><![CDATA[I can taste so much FILTH in the air...]]></entry>
+	
+	<entry id="hexer+str_bark_startmoving"><![CDATA[Let's find some things to EAT.]]></entry>
+    <entry id="hexer+str_bark_startmoving"><![CDATA[You better PROTECT me.]]></entry>
+    <entry id="hexer+str_bark_startmoving"><![CDATA[Leave me some SPACE in these corridors.]]></entry>
+    <entry id="hexer+str_bark_stopmoving"><![CDATA[Gyi?]]></entry>
+    <entry id="hexer+str_bark_stopmoving"><![CDATA[What's the HOLDUP?]]></entry>
+    <entry id="hexer+str_bark_stopmoving"><![CDATA[I didn't come here to WATCH grass grow.]]></entry>
+	
+	<entry id="hexer+str_bark_curiogood"><![CDATA[How QUAINT.]]></entry>
+    <entry id="hexer+str_bark_curiogood"><![CDATA[If only there were more MEAT to find around here.]]></entry>
+    <entry id="hexer+str_bark_curiogood"><![CDATA[Gyahahahaha!]]></entry>
+    <entry id="hexer+str_bark_curiobad"><![CDATA[Grrr!]]></entry>
+    <entry id="hexer+str_bark_curiobad"><![CDATA[HEXES!]]></entry>
+    <entry id="hexer+str_bark_curiobad"><![CDATA[You LET this happen!]]></entry>
+    <entry id="hexer+str_bark_curiomeh"><![CDATA[How blood-stiflingly DULL.]]></entry>
+    <entry id="hexer+str_bark_curiomeh"><![CDATA[What a WASTE of time.]]></entry>
+    <entry id="hexer+str_bark_curiomeh"><![CDATA[I am falling ASLEEP here, yes?]]></entry>
+	
+	<!-- Cannibalistic -->
+	
+	<entry id="str_affliction_name_cannibalistic"><![CDATA[Cannibalistic]]></entry>
+	
+	<entry id="str_roster_list_cannibalistic_bark"><![CDATA[Let go of me! This ship is FULL of victims!]]></entry>
+    <entry id="str_roster_list_cannibalistic_bark"><![CDATA[So much MEALS just passing by... Gyihihi!]]></entry>
+    <entry id="str_roster_list_cannibalistic_bark"><![CDATA[The STENCH of all these peasants is mouth-watering.]]></entry>
+    <entry id="str_roster_list_cannibalistic_bark"><![CDATA[This hunger can not be SATIATED!]]></entry>
+	
+	<entry id="str_afflicted_cannibalistic"><![CDATA[I can't SEE, but I can SMELL deliciously rancid meals.]]></entry>
+	<entry id="str_afflicted_cannibalistic"><![CDATA[The hunger... I can't WITHHOLD it anymore!]]></entry>
+	<entry id="str_afflicted_cannibalistic"><![CDATA[I smell, I feel, I sense... a BANQUET of terror-seasoned flesh.]]></entry>
+	<entry id="str_afflicted_cannibalistic"><![CDATA[I've been STARVING for so long. No longer! Gyihihihi!]]></entry>
+	<entry id="str_afflicted_cannibalistic"><![CDATA[I'll get my POUND of flesh, my cut of organs, my pint of blood.]]></entry>
+	<entry id="str_afflicted_cannibalistic"><![CDATA[Get this damned SERUM out of me!]]></entry>
+	
+	<entry id="str_heart_attack_cannibalistic"><![CDATA[MY FLESH REBELS!]]></entry>
+	<entry id="str_heart_attack_cannibalistic"><![CDATA[THE BLOOD OVERWHELMS ME!]]></entry>
+	<entry id="str_heart_attack_cannibalistic"><![CDATA[TO BRING AN END UPON MYSELF...!]]></entry>
+	
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[And I will CACKLE as I devour your flesh...]]></entry>
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[Oh, how TASTY your wounds look.]]></entry>
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[You can not RESTRAIN my hunger for long!]]></entry>
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[FREE me at once! Gyaha!]]></entry>
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[I can't wait to SATIATE this craving!]]></entry>
+	<entry id="str_bark_stress_cannibalistic"><![CDATA[I will work my way UP from the liver to your lungs!]]></entry>
+	
+	<entry id="str_change_pos_fwd_cannibalistic"><![CDATA[I hunger... I HUNGER!]]></entry>
+	<entry id="str_change_pos_fwd_cannibalistic"><![CDATA[My saliva OOZES like a pus-filled wound...]]></entry>
+	<entry id="str_change_pos_fwd_cannibalistic"><![CDATA[HYIHIHIHI!]]></entry>
+	
+	<entry id="str_ignore_command_cannibalistic"><![CDATA[Your voice is NOTHING compared to that of my hunger.]]></entry>
+	<entry id="str_ignore_command_cannibalistic"><![CDATA[Your blood is IMPURE, yes. You have no say over me!]]></entry>
+	<entry id="str_ignore_command_cannibalistic"><![CDATA[I will rip you apart if you try COMMANDING me once more.]]></entry>
+	
+	<entry id="str_random_command_cannibalistic"><![CDATA[I must feed right NOW.]]></entry>
+	<entry id="str_random_command_cannibalistic"><![CDATA[My blood BOILS OVER. I can't hold it in, hyihihi...]]></entry>
+	<entry id="str_random_command_cannibalistic"><![CDATA[Your BLOOD, it speaks to me... Yes!]]></entry>
+	
+	<entry id="str_bark_stress_camp_cannibalistic"><![CDATA[Fester and rot, that I may SAVOUR your remains.]]></entry>
+	<entry id="str_bark_stress_camp_cannibalistic"><![CDATA[Your sorrow and fear is like a fine SPICE.]]></entry>
+	<entry id="str_bark_stress_camp_cannibalistic"><![CDATA[To see you STAINED in blood... Exquisite...]]></entry>
+	
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[I must FEED!]]></entry>
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[Your FLESH is too appealing!]]></entry>
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[I will tear out your ORGANS and taste them!]]></entry>
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[I shall make your blood SPILL and add it to my own.]]></entry>
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[I will devour your EYEBALLS first!]]></entry>
+	<entry id="str_attack_friendly_cannibalistic"><![CDATA[I shall GNAW on your spine until nothing remains!]]></entry>
+	
+	<entry id="str_attack_self_cannibalistic"><![CDATA[I must FREE my blood!]]></entry>
+	<entry id="str_attack_self_cannibalistic"><![CDATA[Go out and FEAST, blood of mine!]]></entry>
+	<entry id="str_attack_self_cannibalistic"><![CDATA[I must LET my blood to taste you better.]]></entry>
+	
+	<entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Food still REMAINS!]]></entry>
+	<entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Do not part a KING from its MEAL.]]></entry>
+	<entry id="str_block_combat_retreat_cannibalistic"><![CDATA[Deny me my meal and face the PUNISHMENT I have in store for you...]]></entry>
+	
+	<entry id="str_comment_self_hit_cannibalistic"><![CDATA[Gyihihi! You are NEXT!]]></entry>
+	<entry id="str_comment_self_hit_cannibalistic"><![CDATA[The FUTURE holds pain for you!]]></entry>
+	<entry id="str_comment_self_hit_cannibalistic"><![CDATA[The more you spill my blood, the more POWERFUL I become.]]></entry>
+	
+	<entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Yes, yes, yes! EMPTY their veins for me!]]></entry>
+	<entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Go for the HEART and tear it out! Gihahaha!]]></entry>
+	<entry id="str_comment_ally_attack_hit_cannibalistic"><![CDATA[Slash out their GUTS and strangle them with them!]]></entry>
+	
+	<entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[*whimper*]]></entry>
+	<entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[Your whiff ruins the SEASONING of fear.]]></entry>
+	<entry id="str_comment_ally_attack_missed_cannibalistic"><![CDATA[You lack a BITE. You are woefully placid.]]></entry>
+	
+	<entry id="str_comment_ally_hit_cannibalistic"><![CDATA[Nyehehe... bleed for your KING!]]></entry>
+	<entry id="str_comment_ally_hit_cannibalistic"><![CDATA[Yes! Show me your INNARDS!]]></entry>
+	<entry id="str_comment_ally_hit_cannibalistic"><![CDATA[They will devour your SINS!]]></entry>
+	
+	<entry id="str_block_move_cannibalistic"><![CDATA[You are BLIND by your sorrows.]]></entry>
+	<entry id="str_block_move_cannibalistic"><![CDATA[To THINK that I would allow a tasty morsel to pass by.]]></entry>
+	<entry id="str_block_move_cannibalistic"><![CDATA[I will GNASH on your flesh as you pass.]]></entry>
+	
+	<entry id="str_block_item_cannibalistic"><![CDATA[Instead, FEED me freshly chopped kidney.]]></entry>
+	<entry id="str_block_item_cannibalistic"><![CDATA[My blood REFUSES these substances.]]></entry>
+	<entry id="str_block_item_cannibalistic"><![CDATA[This isn't RIPE enough for me.]]></entry>
+	
+	<entry id="str_comment_move_cannibalistic"><![CDATA[Hunger... Hunger... Hunger!]]></entry>
+	<entry id="str_comment_move_cannibalistic"><![CDATA[I can't bear these restrains! My eyes ITCH!]]></entry>
+	<entry id="str_comment_move_cannibalistic"><![CDATA[I will RAKE out their eyes and lick the gaping holes... Yes...!]]></entry>
+	
+	<entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Are there any ROTTING remains here?]]></entry>
+	<entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Let me through, I must SEEK for spoiled carcasses!]]></entry>
+	<entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[Allow me a TASTE of this. Gyihihi!]]></entry>
+	
+	<entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[Spill your FLUIDS for me!]]></entry>
+	<entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[Such wonderful TORMENT...!]]></entry>
+	<entry id="str_comment_trap_triggered_cannibalistic"><![CDATA[SUFFER and shriek in fear and agony!]]></entry>
+	
+	<entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[I will tear your HAND clean off your wrist.]]></entry>
+	<entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[I must CONSUME all that remains. Gyehehe.]]></entry>
+	<entry id="str_block_camping_skill_target_cannibalistic"><![CDATA[To gorge myself on your SPLEEN...]]></entry>
+	
+	<entry id="str_block_camping_meal_cannibalistic"><![CDATA[Only GORE can satisfy my hunger.]]></entry>
+	<entry id="str_block_camping_meal_cannibalistic"><![CDATA[I crave for INNARDS, not this peasant's placebo.]]></entry>
+	<entry id="str_block_camping_meal_cannibalistic"><![CDATA[I refuse to chew anything that is not GRISTLE.]]></entry>
+	
+	
+  </language> 
+
+
+ </root>

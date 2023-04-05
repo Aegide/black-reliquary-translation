@@ -106,19 +106,19 @@
 
 	<!--Town Stuff-->
 	<entry id="town_activity_description_bar"><![CDATA[Drink your cares away.
-    {colour_start|stress}Stress{colour_end} Heals 40/50/60]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 40/50/60]]></entry>
     <entry id="town_activity_description_brothel"><![CDATA[Exhilaration of contest.
-    {colour_start|stress}Stress{colour_end} Heals 60/75/90]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 60/75/90]]></entry>
     <entry id="town_activity_description_gambling"><![CDATA[The thrill of winning.
-    {colour_start|stress}Stress{colour_end} Heals 50/63/75]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 50/63/75]]></entry>
     <entry id="town_activity_description_disease_treatment"><![CDATA[Treat Diseases, humours, and other physical maladies.]]></entry>
     <entry id="town_activity_description_meditation"><![CDATA[Convert raw Amber into Refined Amber.
-    {colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
     <entry id="town_activity_description_prayer"><![CDATA[Trade Refined Amber for Lost Tek.
-    {colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
     <entry id="town_activity_description_treatment"><![CDATA[Treat Quirks and other problematic behaviors.]]></entry>
     <entry id="town_activity_description_flagellation"><![CDATA[Indulge in the delights of cleansed Amber.
-    {colour_start|stress}Stress{colour_end} Heals 100]]></entry>
+{colour_start|stress}Stress{colour_end} Heals 100]]></entry>
     <entry id="town_activity_name_bar"><![CDATA[Bar]]></entry>
     <entry id="town_activity_name_gambling"><![CDATA[Gambling Hall]]></entry>
     <entry id="town_activity_name_brothel"><![CDATA[Fighting Pit]]></entry>
@@ -139,7 +139,7 @@
     <entry id="building_verbose_tavern"><![CDATA[Upgrading the Galley increases the types of stress treatments and their effectiveness.]]></entry>
 	
 	<entry id="stagecoach_empty_info"><![CDATA[The Ferry is empty.
-    Check back after your next quest.]]></entry>
+ Check back after your next quest.]]></entry>
  
     <entry id="str_caretaker_goals_heading"><![CDATA[Crew Directives]]></entry>
 	
@@ -589,7 +589,7 @@
 	<entry id="town_event_description_br_districts_unlock"><![CDATA["The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
 	
 	<entry id="town_event_info_br_intro"><![CDATA[[Enabling Tutorials is RECOMMENDED]
-    [Press H to open the Help Menus]]]></entry>
+[Press H to open the Help Menus]]]></entry>
     <entry id="town_event_title_br_intro"><![CDATA[Finding Your Sky Legs]]></entry>
 	<entry id="town_event_description_br_intro"><![CDATA["All hand are to make accommodations for our guest and help them get situated!"]]></entry>
 	
@@ -606,13 +606,13 @@
 	<entry id="town_event_description_br_free_tech"><![CDATA[The Ostvengr are as generous as they are shrewd. A favor has been granted, but favors will eventually be called in.]]></entry>
 	
 	<entry id="town_event_info_br_amber_explosion"><![CDATA[{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken{colour_end} {colour_start|neutral}on next quest{colour_end}
-    {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
+{colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
 	<entry id="town_event_title_br_amber_explosion"><![CDATA[Amber Accident]]></entry>
 	<entry id="town_event_description_br_amber_explosion"><![CDATA[A mishap in the refinery has resulted in a miasma of amber fumes filling the entire ship. Try to take short breaths.]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
 	
 	<entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}All Stress Relief Activities in the Galley are Free
-    +10 Idle Stress Relief{colour_end}]]></entry>
++10 Idle Stress Relief{colour_end}]]></entry>
 	<entry id="town_event_title_br_hero_death"><![CDATA[Proper Remembrance]]></entry>
 	<entry id="town_event_description_br_hero_death"><![CDATA[The first has fallen. Let us savor that bitter taste of defeat, as we supplement it with wines and brews.]]></entry>
 	
@@ -673,7 +673,7 @@
     <entry id="str_buskers_corner_title"><![CDATA[Chandlery]]></entry>
     <entry id="str_buskers_corner_buff_torch"><![CDATA[Receive 3-6 free torches every week]]></entry>
     <entry id="str_buskers_corner_buff_br_torch"><![CDATA[Torch is 50-75: +7.5% {colour_start|scouting}Scouting{colour_end} Chance
-    Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
+Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
     <entry id="str_buskers_corner_buff_not_EI"><![CDATA[{colour_start|skill_unselectable}Scouting Bonus does not apply to Exposed Interior Torchlight{colour_end}]]></entry>
     
 	<entry id="str_house_of_the_yellow_hand_title"><![CDATA[Surgeon's Office]]></entry>
@@ -2287,4 +2287,6 @@
     <entry id="str_roster_list_flagellation_bark"><![CDATA[It's all worth it- just for this moment...]]></entry>
     <entry id="str_roster_list_flagellation_bark"><![CDATA[Let this moment last forever!]]></entry>
   </language>
+
 </root>
+

@@ -21,7 +21,8 @@
 	
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_DMG_PREP_TT"><![CDATA[-67%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_PREP_TT"><![CDATA[{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[Otherwise: {colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[Otherwise:
+{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_HEAT_SCALING_TT"><![CDATA[+20%% DMG / +3%% CRIT per {colour_start|debuff}Heat Level{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT1"><![CDATA[{colour_start|debuff}Debuff Target On Miss:{colour_end} -4 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT2"><![CDATA[{colour_start|debuff}Debuff Target On Miss:{colour_end} -5 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
@@ -54,7 +55,7 @@
 		<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT1"><![CDATA[If in On Foot mode: -50% DMG]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT2"><![CDATA[If in On Foot mode: {colour_start|debuff}Debuff Target:{colour_end} -8 ACC {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_CRIT"><![CDATA[+10 DODGE if On Foot
-		+15% PROT if In Mech]]></entry>
+	+15% PROT if In Mech]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT1"><![CDATA[{colour_start|debuff}OVERHEAT{colour_end} 
 		Each of the Dredge’s skills in Mech mode cause her {colour_start|debuff}Heat Level{colour_end} to increase, going into {colour_start|debuff}Overheated{colour_end} at 100.]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT2"><![CDATA[When the Dredge uses a skill while {colour_start|debuff}Overheated{colour_end}, she suffers 6 (+1/level) self damage]]></entry>
@@ -64,12 +65,12 @@
 
 		
 		<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[Amber Core - New Skills:
-		{colour_start|notable}Gleaming Drill{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 85 ACC/-35% DMG/+4% CRT
-		+50% DMG vs {colour_start|amberblighted}Amberblight{colour_end}, +40% {colour_start|debuff}Heat{colour_end}]]></entry>
+{colour_start|notable}Gleaming Drill{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 85 ACC/-35% DMG/+4% CRT
++50% DMG vs {colour_start|amberblighted}Amberblight{colour_end}, +40% {colour_start|debuff}Heat{colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[{colour_start|notable}Amber Fumigation{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} 95 ACC/-70% DMG/+2% CRT
-		Ignores {colour_start|prep_round}Prep Round{colour_end} ACC Reduction, {colour_start|amberblighted}Amberblight{colour_end} Target, +15% {colour_start|debuff}Heat{colour_end}]]></entry>
+Ignores {colour_start|prep_round}Prep Round{colour_end} ACC Reduction, {colour_start|amberblighted}Amberblight{colour_end} Target, +15% {colour_start|debuff}Heat{colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[{colour_start|notable}Amberlight Annihilation{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 90 ACC/+25% DMG/+5% CRT
-		Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start|debuff}Heat{colour_end}]]></entry>
+Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start|debuff}Heat{colour_end}]]></entry>
 		
 		<entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produce 3 Honing Oil]]></entry>
 		
@@ -573,79 +574,79 @@
 		
 		<entry id="dredge+str_combat_knockback"><![CDATA[]]></entry>
 		
-			
-		<entry id="str_skill_mode_info_dredge_skill1_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill1_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill2_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill2_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill3_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill3_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill4_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill4_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill5_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill5_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill6_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill6_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill7_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="str_skill_mode_info_dredge_skill7_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 		
-		
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE1"><![CDATA[ Ignores {colour_start|prep_round}Prep Round's{colour_end} ACC Reduction]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE21"><![CDATA[^^^^^^^^^^^^^^^^^^^^+20%% Armor Piercing]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE22"><![CDATA[+25%% Armor Piercing]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE23"><![CDATA[+30%% Armor Piercing]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE24"><![CDATA[+35%% Armor Piercing]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE25"><![CDATA[+40%% Armor Piercing]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE2"><![CDATA[^^^^^^^^^^^^^^^^^^^^-67%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE3"><![CDATA[ On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE41"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE42"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE43"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE44"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE45"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-		<entry id="buff_rule_data_tooltip_DRED_SKILL1_HEAT"><![CDATA[+10% {colour_start|debuff}Heat Level{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-		
-		
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE1"><![CDATA[   +20%% DMG / +3%% CRIT per 20%% {colour_start|debuff}Heat Level{colour_end}  ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE21"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -4 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE22"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -5 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE23"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -6 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE24"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -7 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE25"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -8 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-		<entry id="buff_rule_data_tooltip_DRED_SKILL2_HEAT"><![CDATA[  +5% {colour_start|debuff}Heat Level{colour_end} per Target Hit  {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-		
-		
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_TYPE"><![CDATA[{colour_start|attacktype}Ranged{colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_ACC"><![CDATA[ACC Base: %d]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_DMG"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_CRT"><![CDATA[CRIT Mod: %+d.0%%]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE1"><![CDATA[ Can't be {colour_start|debuff}Riposted{colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE2"><![CDATA[ +35%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill1_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill1_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill2_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill2_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill3_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill3_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill4_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill4_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill5_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill5_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill6_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill6_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill7_1"><![CDATA[On Foot:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="str_skill_mode_info_dredge_skill7_2"><![CDATA[In Mech:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE1"><![CDATA[ Ignores {colour_start|prep_round}Prep Round's{colour_end} ACC Reduction]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE21"><![CDATA[^^^^^^^^^^^^^^^^^^^^+20%% Armor Piercing]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE22"><![CDATA[+25%% Armor Piercing]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE23"><![CDATA[+30%% Armor Piercing]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE24"><![CDATA[+35%% Armor Piercing]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE25"><![CDATA[+40%% Armor Piercing]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE2"><![CDATA[^^^^^^^^^^^^^^^^^^^^-67%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE3"><![CDATA[ On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE41"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(100%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE42"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(110%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE43"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(120%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE44"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE45"><![CDATA[^^{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+	<entry id="buff_rule_data_tooltip_DRED_SKILL1_HEAT"><![CDATA[+10% {colour_start|debuff}Heat Level{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE1"><![CDATA[   +20%% DMG / +3%% CRIT per 20%% {colour_start|debuff}Heat Level{colour_end}  ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE21"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -4 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE22"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -5 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE23"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -6 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE24"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -7 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE25"><![CDATA[ {colour_start|debuff}Debuff Target On Miss:{colour_end} -8 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_DRED_SKILL2_HEAT"><![CDATA[  +5% {colour_start|debuff}Heat Level{colour_end} per Target Hit  {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_TYPE"><![CDATA[{colour_start|attacktype}Ranged{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_ACC"><![CDATA[ACC Base: %d]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_DMG"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_CRT"><![CDATA[CRIT Mod: %+d.0%%]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE1"><![CDATA[ Can't be {colour_start|debuff}Riposted{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE2"><![CDATA[ +35%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 
-		<entry id="buff_rule_data_tooltip_DRED_SKILL3_HEAT"><![CDATA[+10% {colour_start|debuff}Heat Level{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-		
+	<entry id="buff_rule_data_tooltip_DRED_SKILL3_HEAT"><![CDATA[+10% {colour_start|debuff}Heat Level{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
 
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE1"><![CDATA[On Foot:]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE2"><![CDATA[
-		{colour_start|move}Forward{colour_end} 2]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE3"><![CDATA[Change to mode: In Mech]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE4"><![CDATA[  Self: ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE51"><![CDATA[+35%% PROT / +40%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE52"><![CDATA[+37%% PROT / +45%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE53"><![CDATA[+40%% PROT / +50%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE54"><![CDATA[+42%% PROT / +55%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE55"><![CDATA[+45%% PROT / +60%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE61"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE62"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE63"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE64"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE65"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[-40%% {colour_start|trap}Trap{colour_end} Disarm Chance / {colour_start|notable}Cooldown: Until Camp {colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE8"><![CDATA[In Mech:]]></entry>
-		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE9"><![CDATA[{colour_start|move}Back{colour_end} 2]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE1"><![CDATA[On Foot:]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE2"><![CDATA[
+{colour_start|move}Forward{colour_end} 2]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE3"><![CDATA[Change to mode: In Mech]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE4"><![CDATA[  Self: ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE51"><![CDATA[+35%% PROT / +40%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE52"><![CDATA[+37%% PROT / +45%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE53"><![CDATA[+40%% PROT / +50%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE54"><![CDATA[+42%% PROT / +55%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE55"><![CDATA[+45%% PROT / +60%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE61"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE62"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE63"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE64"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE65"><![CDATA[ -20 DODGE / -10 SPD ]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[-40%% {colour_start|trap}Trap{colour_end} Disarm Chance / {colour_start|notable}Cooldown: Until Camp {colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE8"><![CDATA[In Mech:]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE9"><![CDATA[{colour_start|move}Back{colour_end} 2]]></entry>
 
-		<entry id="buff_rule_data_tooltip_DRED_SKILL4_HEAT"><![CDATA[ Change to mode: On Foot / Clear Eldritch Core {colour_start|buff}Buffs{colour_end} and {colour_start|debuff}Overheat{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-		
+	<entry id="buff_rule_data_tooltip_DRED_SKILL4_HEAT"><![CDATA[ Change to mode: On Foot / Clear Eldritch Core {colour_start|buff}Buffs{colour_end} and {colour_start|debuff}Overheat{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	
 
 	</language>
 </root>

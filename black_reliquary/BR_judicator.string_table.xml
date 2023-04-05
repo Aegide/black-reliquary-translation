@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<language id="english">
-
+		
 		<!--Tooltips-->
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_DEBUFF_CHANCE_VS_AMBERBLIGHTED"><![CDATA[%+d%% {colour_start|debuff}Debuff Chance{colour_end} vs {colour_start|amberblighted}Amberblighted{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_MARK_1"><![CDATA[{colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(80%% base){colour_end}]]></entry>
@@ -12,8 +12,8 @@
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERBLIGHTED_PULL"><![CDATA[{colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_MELEE_AMBER_DMG_TT"><![CDATA[%+d%% DMG vs {colour_start|amberblighted}Amberblighted{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_NAIL_CANT_PUSHPREP"><![CDATA[After {colour_start|prep_round}Prep Round:{colour_end}
-		{colour_start|move}Knockback{colour_end} 2 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-
+{colour_start|move}Knockback{colour_end} 2 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+		
 		<entry id="buff_rule_data_tooltip_judi_melee"><![CDATA[Dual Convocation]]></entry>
 		<entry id="buff_rule_data_tooltip_judi_expiate"><![CDATA[Indictment Brand]]></entry>
 		<entry id="buff_rule_data_tooltip_judi_amber"><![CDATA[Ambernail]]></entry>
@@ -21,7 +21,7 @@
 		<entry id="buff_rule_data_tooltip_judi_amb_killer"><![CDATA[Fury of the Ancients]]></entry>
 		<entry id="buff_rule_data_tooltip_judi_condemn"><![CDATA[Calcified Condemnation]]></entry>
 		<entry id="buff_rule_data_tooltip_judi_guard"><![CDATA[Glassworks]]></entry>
-
+		
 		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -60%]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT1"><![CDATA[-10% DMG, +10% Damage Taken {colour_start|skill_unselectable}(1rd) (100% base){colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
@@ -32,19 +32,19 @@
 		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[+15% PROT if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[+15% DMG if {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_INDICTMENT_COOLDOWN_TT"><![CDATA[Indictment Brand on Cooldown]]></entry>
-
+		
 		<entry id="camping_skill_effect_loot_AMBER_RESIDUE_PECULIAR"><![CDATA[Produce 2-4 Amber Residue]]></entry>
-
+		
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERPAGE_PULL_AMBERBLIGHTED"><![CDATA[On Fury of the Ancients Hit: {colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_AMBER_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: Target: Gain Quirk: Amber Symbiosis {colour_start|skill_unselectable}(20%% Chance){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_BUFF_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5 ACC if has Amber Symbiosis]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_DEBUFF_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist if has Amber Symbiosis]]></entry>
-
+		
 		<entry id="buff_rule_data_tooltip_amber_symbiosis"><![CDATA[Amber Symbiosis]]></entry>
-
+		
 		<!--Barks-->
 		<entry id="hero_class_name_judicator"><![CDATA[Judicator]]></entry>
-
+	
 		<entry id="combat_skill_name_judicator_judi_melee"><![CDATA[Dual Convocation]]></entry>
 		<entry id="combat_skill_name_judicator_judi_expiate"><![CDATA[Indictment Brand]]></entry>
 		<entry id="combat_skill_name_judicator_judi_amber"><![CDATA[Ambernail]]></entry>
@@ -52,7 +52,7 @@
 		<entry id="combat_skill_name_judicator_judi_amb_killer"><![CDATA[Fury of the Ancients]]></entry>
 		<entry id="combat_skill_name_judicator_judi_condemn"><![CDATA[Calcified Condemnation]]></entry>
 		<entry id="combat_skill_name_judicator_judi_guard"><![CDATA[ {colour_start|white}əəəə{colour_end}
-		Glassworks]]></entry>
+Glassworks]]></entry>
 		<entry id="combat_skill_name_judicator_move"><![CDATA[Move]]></entry>
 		<entry id="upgrade_tree_name_judicator.judi_melee"><![CDATA[Dual Convocation]]></entry>
 		<entry id="upgrade_tree_name_judicator.judi_expiate"><![CDATA[Indictment Brand]]></entry>
@@ -61,12 +61,12 @@
 		<entry id="upgrade_tree_name_judicator.judi_amb_killer"><![CDATA[Fury of the Ancients]]></entry>
 		<entry id="upgrade_tree_name_judicator.judi_condemn"><![CDATA[Calcified Condemnation]]></entry>
 		<entry id="upgrade_tree_name_judicator.judi_guard"><![CDATA[Glassworks]]></entry>	
-
+	
 		<entry id="camping_skill_name_judi_religious_stress_heal"><![CDATA[FERVENT SERMON]]></entry>
 		<entry id="camping_skill_name_judi_random_buff"><![CDATA[PECULIAR TASTES]]></entry>
 		<entry id="camping_skill_name_judi_pagan_buff"><![CDATA[DUBIOUS LOYALTIES]]></entry>
 		<entry id="camping_skill_name_judi_nighttime_prevent"><![CDATA[AMBER WARD]]></entry>
-
+		
 		<entry id="str_inventory_title_trinketjudi_seal"><![CDATA[Chevalier's Seal]]></entry>
 		<entry id="str_inventory_title_trinketjudi_hammer"><![CDATA[Hammer of the First Crusade]]></entry>
 		<entry id="str_inventory_title_trinketjudi_sword"><![CDATA[Blade of the Second Crusade]]></entry>
@@ -74,9 +74,9 @@
 		<entry id="str_inventory_title_trinketjudi_amberpage"><![CDATA[Article of Amberblight]]></entry>
 		<entry id="str_inventory_title_trinketjudi_shield"><![CDATA[Bulwark of the Third Crusade]]></entry>
 		<entry id="str_inventory_title_trinketjudi_flamepage"><![CDATA[Passage of Living Flame]]></entry>
-
+		
 		<!--Barks-->
-
+		
 		<entry id="judicator+str_afflicted_fearful"><![CDATA[We're as doomed as my regiment!]]></entry>
 		<entry id="judicator+str_afflicted_fearful"><![CDATA[The amber! I am losing control!]]></entry>
 		<entry id="judicator+str_afflicted_fearful"><![CDATA[This place will become our tomb!]]></entry>
@@ -113,7 +113,7 @@
 		<entry id="judicator+str_block_camping_skill_performer_fearful"><![CDATA[No! They will hear us!]]></entry>
 		<entry id="judicator+str_block_camping_skill_performer_fearful"><![CDATA[Hush, lest they hunt us down.]]></entry>
 		<entry id="judicator+str_block_camping_skill_performer_fearful"><![CDATA[I will not be the cause of an ambush.]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_paranoid"><![CDATA[I see your gaze, tainted with envy for my amber.]]></entry>
 		<entry id="judicator+str_afflicted_paranoid"><![CDATA[You are all jealous of the power I wield...]]></entry>
 		<entry id="judicator+str_afflicted_paranoid"><![CDATA[My regiment could not surpass me and neither shall you!]]></entry>
@@ -174,7 +174,7 @@
 		<entry id="judicator+str_block_camping_meal_paranoid"><![CDATA[I know a tainted meal when I smell it!]]></entry>
 		<entry id="judicator+str_block_camping_meal_paranoid"><![CDATA[This food looks great. Exactly what you'd want me to think...]]></entry>
 		<entry id="judicator+str_block_camping_meal_paranoid"><![CDATA[I'll not eat food that I've not prepared myself.]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_masochistic"><![CDATA[A chevalier's power is forged in fire!]]></entry>
 		<entry id="judicator+str_afflicted_masochistic"><![CDATA[The amber hardens and fractures within me... Wonderful.]]></entry>
 		<entry id="judicator+str_afflicted_masochistic"><![CDATA[Their blows cause my corrupted blood to pump!]]></entry>
@@ -229,7 +229,7 @@
 		<entry id="judicator+str_block_camping_meal_masochistic"><![CDATA[Fasting is vital to piety.]]></entry>
 		<entry id="judicator+str_block_camping_meal_masochistic"><![CDATA[I resist the ravenous call of the amber.]]></entry>
 		<entry id="judicator+str_block_camping_meal_masochistic"><![CDATA[The pain of starvation... divine...]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_abusive"><![CDATA[Somehow you're all more worthless than my regiment.]]></entry>
 		<entry id="judicator+str_afflicted_abusive"><![CDATA[T'is not the first time I've been paired with useless company.]]></entry>
 		<entry id="judicator+str_afflicted_abusive"><![CDATA[More corpses for me to leave behind, all of you.]]></entry>
@@ -263,7 +263,7 @@
 		<entry id="judicator+str_block_camping_skill_target_abusive"><![CDATA[I'll not trust an oaf to assist me.]]></entry>
 		<entry id="judicator+str_block_camping_skill_target_abusive"><![CDATA[Keep your clumsy hands to yourself.]]></entry>
 		<entry id="judicator+str_block_camping_skill_target_abusive"><![CDATA[Be away from me, knave.]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_selfish"><![CDATA[Once we're done here, I lay claim to all the amber.]]></entry>
 		<entry id="judicator+str_afflicted_selfish"><![CDATA[I expect triple rations when we're finished here.]]></entry>
 		<entry id="judicator+str_afflicted_selfish"><![CDATA[Riches are for those who earn them.]]></entry>
@@ -297,7 +297,7 @@
 		<entry id="judicator+str_block_camping_skill_performer_selfish"><![CDATA[I'll do as I please.]]></entry>
 		<entry id="judicator+str_block_camping_skill_performer_selfish"><![CDATA[Do not attempt to decide what I should or should not do.]]></entry>
 		<entry id="judicator+str_block_camping_skill_performer_selfish"><![CDATA[Give me a reason, and I'll consider it.]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_depressed"><![CDATA[The amber... it was not enough.]]></entry>
 		<entry id="judicator+str_afflicted_depressed"><![CDATA[There is no greater power to save me now...]]></entry>
 		<entry id="judicator+str_afflicted_depressed"><![CDATA[I'm no better than my regiment now.]]></entry>
@@ -346,7 +346,7 @@
 		<entry id="judicator+str_block_camping_meal_depressed"><![CDATA[My stomach turns...]]></entry>
 		<entry id="judicator+str_block_camping_meal_depressed"><![CDATA[I cannot keep it down!]]></entry>
 		<entry id="judicator+str_block_camping_meal_depressed"><![CDATA[My body rejects it...]]></entry>
-
+	
 		<entry id="judicator+str_afflicted_irrational"><![CDATA[The Light! THE LIGHT!]]></entry>
 		<entry id="judicator+str_afflicted_irrational"><![CDATA[Flowing! Its essence flows through the valley!]]></entry>
 		<entry id="judicator+str_afflicted_irrational"><![CDATA[The regiment is dead! Feast! I must feast!]]></entry>
@@ -419,92 +419,92 @@
 		<entry id="judicator+str_block_camping_meal_irrational"><![CDATA[I do not care for sour foods.]]></entry>
 		<entry id="judicator+str_block_camping_meal_irrational"><![CDATA[This meat smells strange, does it not?]]></entry>
 		<entry id="judicator+str_block_camping_meal_irrational"><![CDATA[Too salty. You eat it.]]></entry>
-
+		
 		<entry id="judicator+str_virtued_stalwart"><![CDATA[My communes give me strength.]]></entry>
 		<entry id="judicator+str_virtued_stalwart"><![CDATA[I've not come this far by harboring a weak spirit.]]></entry>
 		<entry id="judicator+str_virtued_stalwart"><![CDATA[I've no intention of yielding to this rabble.]]></entry>
 		<entry id="judicator+str_stress_heal_self_stalwart"><![CDATA[I am without compare!]]></entry>
 		<entry id="judicator+str_stress_heal_self_stalwart"><![CDATA[My soul cannot be extinguished!]]></entry>
 		<entry id="judicator+str_stress_heal_self_stalwart"><![CDATA[A chevalier would sooner perish than surrender!]]></entry>
-
+		
 		<entry id="judicator+str_virtued_courageous"><![CDATA[We will survive this. I'll see to it myself.]]></entry>
 		<entry id="judicator+str_virtued_courageous"><![CDATA[Fear betrays you. Embrace the fire within!]]></entry>
 		<entry id="judicator+str_virtued_courageous"><![CDATA[Darkness and divinity guide us alike!]]></entry>
 		<entry id="judicator+str_stress_heal_party_courageous"><![CDATA[Steel yourselves. We will overcome.]]></entry>
 		<entry id="judicator+str_stress_heal_party_courageous"><![CDATA[Shed your fear so that our foes my find it instead.]]></entry>
 		<entry id="judicator+str_stress_heal_party_courageous"><![CDATA["Defeat" is a term best reserved for our enemies.]]></entry>
-
+	
 		<entry id="judicator+str_virtued_focused"><![CDATA[Flawed is the enemy defense. I'll prove it.]]></entry>
 		<entry id="judicator+str_virtued_focused"><![CDATA[Observe me, and follow my lead.]]></entry>
 		<entry id="judicator+str_virtued_focused"><![CDATA[Their defenses shall fall at my hand!]]></entry>
 		<entry id="judicator+str_buff_random_party_member_focused"><![CDATA[There! The fault in its defenses!]]></entry>
 		<entry id="judicator+str_buff_random_party_member_focused"><![CDATA[Strike true as I know you will.]]></entry>
 		<entry id="judicator+str_buff_random_party_member_focused"><![CDATA[Our dominance is assured at your hand.]]></entry>
-
+		
 		<entry id="judicator+str_virtued_powerful"><![CDATA[The amber subsumes weakness and returns strength.]]></entry>
 		<entry id="judicator+str_virtued_powerful"><![CDATA[I've not come this far by faltering when called upon.]]></entry>
 		<entry id="judicator+str_virtued_powerful"><![CDATA[No being can hope to impede one who channels the greater powers!]]></entry>
 		<entry id="judicator+str_buff_party_powerful"><![CDATA[My strength is your strength.]]></entry>
 		<entry id="judicator+str_buff_party_powerful"><![CDATA[In unity, there is power.]]></entry>
 		<entry id="judicator+str_buff_party_powerful"><![CDATA[Feel my conviction and let it flow through you.]]></entry>
-
+		
 		<entry id="judicator+str_virtued_vigorous"><![CDATA[This body will not break today.]]></entry>
 		<entry id="judicator+str_virtued_vigorous"><![CDATA[I channel the power of the amber within me!]]></entry>
 		<entry id="judicator+str_virtued_vigorous"><![CDATA[I've no intention of dying with how much needs to be done.]]></entry>
 		<entry id="judicator+str_heal_self_vigorous"><![CDATA[I am unbreakable!]]></entry>
 		<entry id="judicator+str_heal_self_vigorous"><![CDATA[Through greater powers, my flesh is mended!]]></entry>
 		<entry id="judicator+str_heal_self_vigorous"><![CDATA[A breath of relief.]]></entry>
-
+		
 		<entry id="judicator+str_bark_encourage"><![CDATA[You've proven yourself an invaluable ally.]]></entry>
 		<entry id="judicator+str_bark_encourage"><![CDATA[Had you been in my regiment, they might still be standing.]]></entry>
 		<entry id="judicator+str_bark_first_aid"><![CDATA[This is a a trifling injury, but warrants tending to.]]></entry>
 		<entry id="judicator+str_bark_first_aid"><![CDATA[You'll live to see the end of this day, I assure you.]]></entry>
 		<entry id="judicator+str_bark_pep_talk"><![CDATA[March as one, and there's little that can be done to stop us.]]></entry>
 		<entry id="judicator+str_bark_pep_talk"><![CDATA[I'd set high expectations for you, and yet you've surpassed them.]]></entry>
-
+		
 		<entry id="judicator+str_critbyhero"><![CDATA[They will be left in ruin!]]></entry>
 		<entry id="judicator+str_critbyhero"><![CDATA[I've not even begun to reveal my wrath!]]></entry>
 		<entry id="judicator+str_critbyhero"><![CDATA[The power of the amber dwells within me!]]></entry>
-
+	
 		<entry id="judicator+str_bark_deathsdoor"><![CDATA[The eternal abyss...]]></entry>
 		<entry id="judicator+str_bark_deathsdoor"><![CDATA[The all-consuming Light...]]></entry>
 		<entry id="judicator+str_bark_deathsdoor"><![CDATA[I've too much yet to do...]]></entry>
-
+	
 		<entry id="judicator+str_monster_user_selected_targets_kill_pill"><![CDATA[The Thing will be overcome... Even if I must perish.]]></entry>
-
+		
 		<entry id="str_bark_judi_pagan_buff"><![CDATA[The voices of the old gods are softer than you'd think.]]></entry>
-		<entry id="str_bark_judi_pagan_buff"><![CDATA[We'll not succumb this day. They've ensured it.]]></entry>
-
-		<entry id="str_bark_judi_random_buff"><![CDATA[It's not a flavor which can be described.]]></entry>
-		<entry id="str_bark_judi_random_buff"><![CDATA[I'll not be sharing, though that may be for the best.]]></entry>
-
-		<entry id="str_bark_judi_religious_stress_heal"><![CDATA[The Light's power yet persists.]]></entry>
-		<entry id="str_bark_judi_religious_stress_heal"><![CDATA[Divinity mustn't be forsaken.]]></entry>
-
-		<entry id="str_bark_judi_nighttime_prevent"><![CDATA[I'll maintain vigilance, of that you are assured.]]></entry>
-		<entry id="str_bark_judi_nighttime_prevent"><![CDATA[The shadows shall be an inapt hiding place for these fiends in my presence.]]></entry>
-
+        <entry id="str_bark_judi_pagan_buff"><![CDATA[We'll not succumb this day. They've ensured it.]]></entry>
+        
+        <entry id="str_bark_judi_random_buff"><![CDATA[It's not a flavor which can be described.]]></entry>
+        <entry id="str_bark_judi_random_buff"><![CDATA[I'll not be sharing, though that may be for the best.]]></entry>
+        
+        <entry id="str_bark_judi_religious_stress_heal"><![CDATA[The Light's power yet persists.]]></entry>
+        <entry id="str_bark_judi_religious_stress_heal"><![CDATA[Divinity mustn't be forsaken.]]></entry>
+        
+        <entry id="str_bark_judi_nighttime_prevent"><![CDATA[I'll maintain vigilance, of that you are assured.]]></entry>
+        <entry id="str_bark_judi_nighttime_prevent"><![CDATA[The shadows shall be an inapt hiding place for these fiends in my presence.]]></entry>
+		
 		<!--Other Text-->
-
+		
 		<entry id="str_inventory_set_title_cc_judicator"><![CDATA["Transformed. Transcended."]]></entry>
-
+		
 		<entry id="judicator_armour_0"><![CDATA[Page]]></entry>
 		<entry id="judicator_armour_1"><![CDATA[Écuyère]]></entry>
 		<entry id="judicator_armour_2"><![CDATA[Errante]]></entry>
 		<entry id="judicator_armour_3"><![CDATA[Chevalier]]></entry> 
 		<entry id="judicator_armour_4"><![CDATA["Chevalier De Sang"]]></entry>
 		<entry id="upgrade_tree_name_judicator.armour"><![CDATA[Blessed Full Plate]]></entry>
-
+	
 		<entry id="judicator_weapon_0"><![CDATA[Intronisé]]></entry>
 		<entry id="judicator_weapon_1"><![CDATA[Prédicatrice]]></entry>
 		<entry id="judicator_weapon_2"><![CDATA[Clerc]]></entry> 
 		<entry id="judicator_weapon_3"><![CDATA[Commandeur]]></entry>
 		<entry id="judicator_weapon_4"><![CDATA["Grand-Croix"]]></entry>
 		<entry id="upgrade_tree_name_judicator.weapon"><![CDATA[Amber-Corrupted Staff]]></entry>
-
+		
 		<entry id="action_verbose_body_guild_judicator"><![CDATA[Direct exposure to amber can have horrifying effects on the human body, save for those attuned to the powers from beyond. The few who are able to endure the onslaught of amber's effects will discover strengths and properties unlike any other.]]></entry>
 		<entry id="action_verbose_body_blacksmith_judicator"><![CDATA[Formidable plate armor is but a footnote compared to the scepter wielded by the Judicator. Channeling the powers of forces beyond through her amber, she can manipulate the battlefield like no other. With the combat knowledge and physique of a long-time soldier, the Judicator is prepared to unleash her true potential upon her foes.]]></entry>
 		<entry id="action_verbose_body_camping_trainer_judicator"><![CDATA[Finding balance between dichotomotic powers is no small feat, yet the Judicator heralds them in full, acting as both a mediator and an avatar of their respective wills.]]></entry>
-
+		
 	</language>
 </root>
