@@ -1,0 +1,5 @@
+<entry id="str_build_number"><![CDATA[Version : %d]]></entry>
+<entry id="str_start_screen_button"><![CDATA[Campagne]]></entry>
+<entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer...]]></entry>
+<entry id="area_name_in_format"><![CDATA[%s]]></entry>
+<entry id="str_start_screen_week_format"><![CDATA[Semaine %d]]></entry>
