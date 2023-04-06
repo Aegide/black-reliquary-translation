@@ -62,6 +62,7 @@ Death Wish]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[On Friendly Skill: Target: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
 	
+	
 	<!-- Addinfo lines-->
 	<entry id="camping_skill_name_addinfo_veil"><![CDATA[Additional Information]]></entry>
 	
@@ -136,6 +137,29 @@ Death Wish]]></entry>
 	<entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d pts/tn for %d tns]]></entry>
 	<entry id="effect_tooltip_hp_heal_party_dot_format"><![CDATA[{colour_start|healhp}Heal{colour_end} Party %d pts/tn for %d tns]]></entry>
 	
+	
+	
+	
+	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_1"><![CDATA[-4 SPD]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_2"><![CDATA[-5 SPD]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_3"><![CDATA[-6 SPD]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_4"><![CDATA[-7 SPD]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_5"><![CDATA[-8 SPD]]></entry>	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_1"><![CDATA[-4 SPD / -6 DODGE]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_2"><![CDATA[-5 SPD / -7 DODGE]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_3"><![CDATA[-6 SPD / -8 DODGE]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_4"><![CDATA[-7 SPD / -9 DODGE]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_5"><![CDATA[-8 SPD / -10 DODGE]]></entry>	
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_1"><![CDATA[-4 SPD / -6 DODGE / -20%% PROT]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_2"><![CDATA[-5 SPD / -7 DODGE / -22%% PROT]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_3"><![CDATA[-6 SPD / -8 DODGE / -25%% PROT]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_4"><![CDATA[-7 SPD / -9 DODGE / -27%% PROT]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_5"><![CDATA[-8 SPD / -10 DODGE / -30%% PROT]]></entry>
+	<entry id="enemy_type_name_DEBUFF_TARGET"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
+	<entry id="enemy_type_name_BYPASS_REMOVE_STEALTH"><![CDATA[Bypass/Remove {colour_start|stealth}Stealth{colour_end}]]></entry>
+
+	
 		<!--Mode Tooltips-->	
 
 
@@ -170,11 +194,10 @@ Death Wish]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_1_SKILL_LINE24"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -9%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_1_SKILL_LINE25"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -10%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE11"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE12"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE13"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE14"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE15"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE15"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE12"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE13"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE14"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_UNNAMED_2_SKILL_LINE15"><![CDATA[  {colour_start|stun}Stun{colour_end} Target {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_UNNAMED_2_SKILL_LINE21"><![CDATA[{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -8% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_UNNAMED_2_SKILL_LINE22"><![CDATA[{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -8% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_UNNAMED_2_SKILL_LINE23"><![CDATA[{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -8% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -199,11 +222,11 @@ Death Wish]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_1_SKILL_LINE44"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -9 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_1_SKILL_LINE45"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE1"><![CDATA[{colour_start|notable}If HP below 40%%: {colour_end}Bypass/Remove {colour_start|stealth}Stealth{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE21"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -20%% PROT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE22"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -22%% PROT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE23"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -25%% PROT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE24"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -27%% PROT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE25"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -30%% PROT {colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE21"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -20%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE22"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -22%% PROT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE23"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -25%% PROT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE24"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -27%% PROT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_2_SKILL_LINE25"><![CDATA[{colour_start|notable}If HP below 10%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -30%% PROT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_HEX_2_SKILL_LINE31"><![CDATA[ɤ{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -20% PROT {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_HEX_2_SKILL_LINE32"><![CDATA[ɤ{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -22% PROT {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_HEX_2_SKILL_LINE33"><![CDATA[ɤ{colour_start|notable}If HP below 10ʪ: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -25% PROT {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>

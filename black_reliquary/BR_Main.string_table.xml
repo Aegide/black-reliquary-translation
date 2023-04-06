@@ -623,6 +623,7 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
 {colour_start|white}ʌ{colour_end} - Rank Marked by Enchantress
 {colour_start|white}ʍ{colour_end} - Target is subjected to Janissary's Duel
 {colour_start|white}ʸ{colour_end} - Target is branded as the Steelpath's {colour_start|prey}Prey{colour_end} 
+{colour_start|white}ʶ{colour_end} - Rank Marked by Alraune
 {colour_start|white}ʺ{colour_end} - Target is Captured and Removed from Party
 {colour_start|white}ʡ{colour_end} - Targets two Heroes Randomly
 {colour_start|white}ʣ{colour_end} - Targets three Heroes Randomly
@@ -808,8 +809,50 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
     <entry id="str_glossary_term_definition_1023"><![CDATA[The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength.]]></entry>
     <entry id="str_glossary_term_1024"><![CDATA[Cactonid]]></entry>
     <entry id="str_glossary_term_definition_1024"><![CDATA[These eldritch hybrids of flesh and flora have overgrown the Kvarotz treasury. They lie in wait, ready to spring upon victims who unwittingly spring their traps, bombarding their prey with various statuses.]]></entry>
+	
+	<entry id="str_glossary_term_1025"><![CDATA[Vestige]]></entry>
+    <entry id="str_glossary_term_definition_1025"><![CDATA[Highly valuable treasures which apply debuffs to heroes while in the inventory. These debuffs do not stack with multiple of the same vestige.]]></entry>
+    
+    <entry id="str_glossary_term_1026"><![CDATA[Day Quest]]></entry>
+    <entry id="str_glossary_term_definition_1026"><![CDATA[Exposed Interior quests which subject heroes and enemies to the "Debilitating Daylight" torch effects, and are always set to 100 torchlight. 
+{colour_start|skill_unselectable}Hero Effects: -8 DODGE, -4 SPD, Can't be Ambushed
+Monster Effects: -4 DODGE
+Torch Effects: Buff Hero Party: +5 ACC (1 Battle){colour_end}]]></entry>
+    
+    <entry id="str_glossary_term_1027"><![CDATA[Night Quest]]></entry>
+    <entry id="str_glossary_term_definition_1027"><![CDATA[Exposed Interior quests which subject heroes and enemies to the "Mantling Moonlight" torch effects, and are always set to 0 torchlight.
+{colour_start|skill_unselectable}Hero Effects: +3% CRT, +15% Stress Received
+Monster Effects: +5% CRT, Certain Enemies start battle with Stealth
+Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
+    
+    <entry id="str_glossary_term_1028"><![CDATA[Amber Residue]]></entry>
+    <entry id="str_glossary_term_definition_1028"><![CDATA[A consumable item which applies buffs and debuffs of varying strengths based upon affiliation.]]></entry>
+    
+    <entry id="str_glossary_term_1029"><![CDATA[Aegis Scale]]></entry>
+    <entry id="str_glossary_term_definition_1029"><![CDATA[An item which grants 1 Block to its user. Can be purchased from the provision screen with Refined Amber Dust.]]></entry>
+    
+    <entry id="str_glossary_term_1034"><![CDATA[Reflex Serum]]></entry>
+    <entry id="str_glossary_term_definition_1034"><![CDATA[An item which grants temporary buffs and riposte to its user. Produced by the Adrenaline Manufactorum, and obtained from the provision screen.]]></entry>
+	
+	<entry id="str_glossary_term_1035"><![CDATA[Ginseng]]></entry>
+    <entry id="str_glossary_term_definition_1035"><![CDATA[An item which cures almost all statuses on its user. Can be purchased from the provision screen with Refined Amber Dust.]]></entry>
+    
+	
+    <entry id="str_glossary_term_1030"><![CDATA[Decrepit Extract]]></entry>
+    <entry id="str_glossary_term_definition_1030"><![CDATA[An item which can be obtained from a special trinket. Using it applies PROT and Crit Received debuffs to enemies.]]></entry>
+    <entry id="str_glossary_term_1031"><![CDATA[Rabid Extract]]></entry>
+    <entry id="str_glossary_term_definition_1031"><![CDATA[An item which can be obtained from a special trinket. Using it applies ACC and CRT debuffs to enemies.]]></entry>
+    <entry id="str_glossary_term_1032"><![CDATA[Ancient Extract]]></entry>
+    <entry id="str_glossary_term_definition_1032"><![CDATA[An item which can be obtained from a special trinket. Using it applies status chance debuffs to enemies.]]></entry>
+    <entry id="str_glossary_term_1033"><![CDATA[Living Extract]]></entry>
+    <entry id="str_glossary_term_definition_1033"><![CDATA[An item which can be obtained from a special trinket. Using it applies Healing Received and Blight Resistance debuffs to enemies.]]></entry>
+	
+	<entry id="str_glossary_term_1036"><![CDATA[Frantic]]></entry>
+    <entry id="str_glossary_term_definition_1036"><![CDATA[When a Frantic hero performs a non-fatal attack, they have a chance to be moved backwards and become horrified.]]></entry>
+	
 	<entry id="str_glossary_term_2002"><![CDATA[Restoration]]></entry>
     <entry id="str_glossary_term_definition_2002"><![CDATA[An effect that restores health at the beginning of a hero's turn.]]></entry>
+	
 	
 	<!-- Load Screen Stuff -->
 	<entry id="str_town_tip"><![CDATA[Aspects of the Flameseeker are subject to change as Black Reliquary develops.]]></entry>
@@ -1394,6 +1437,9 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
 	<entry id="str_curio_purveyor_jade_loot"><![CDATA[He seems satisfied!]]></entry>
 	<entry id="str_curio_purveyor_citrine_loot"><![CDATA[He's unimpressed, but grateful all the same.]]></entry>
 	 <entry id="str_curio_purveyor_dune_lily_loot"><![CDATA[He adores the elusive lily gems!]]></entry>
+	 <entry id="str_curio_purveyor_glass_hand_loot"><![CDATA[He's mesmerized by the sharp spearhead!]]></entry>
+	 <entry id="str_curio_purveyor_glass_dagger_loot"><![CDATA[He adores how smooth it is!]]></entry>
+	 <entry id="str_curio_purveyor_glass_hook_loot"><![CDATA[He loves how they jingle together!]]></entry>
 	
 	<entry id="str_curio_title_poacher"><![CDATA[Amber Poacher]]></entry>
 	<entry id="str_curio_content_poacher"><![CDATA[VENDOR: The man seems to be intentionally covered in slime and asks if you have anything pertaining to amber.]]></entry>
@@ -1488,7 +1534,7 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
 	<entry id="str_curio_cact_imit_holy_water_summon_cact_imit_cursed"><![CDATA[The alum disturbs a relic inside of the Cactonid!]]></entry>
 	
 	<entry id="str_curio_title_dune_lilies"><![CDATA[Dune Lilies]]></entry>
-    <entry id="str_curio_content_dune_lilies"><![CDATA[Lovely flowers which seem to thrive in amber.]]></entry>
+    <entry id="str_curio_content_dune_lilies"><![CDATA[Beautiful glowing flowers. They seem delicate...]]></entry>
     <entry id="str_curio_tooltip_investigate_dune_lilies"><![CDATA[Such a beauty must be plucked...]]></entry>
     <entry id="str_curio_dune_lilies_nothing"><![CDATA[The dead flowers only looked fresh.]]></entry>
     <entry id="str_curio_dune_lilies_effect"><![CDATA[The petals crumble to beautiful dust upon being touched.]]></entry>
@@ -1592,13 +1638,12 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 	
 	<entry id="str_inventory_title_supplyextract_catacombs"><![CDATA[Decrepit Extract]]></entry>
 	<entry id="str_inventory_description_supplyextract_catacombs"><![CDATA[A liquid derived from the shadows of the Catacombs.
-{colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end} 
--20% PROT, +5% Crits Received{colour_end}]]></entry>
+{colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end}  -20% PROT, +5% Crits Received{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_extract_catacombs"><![CDATA[Decrepit Extract]]></entry>
 	
 	<entry id="str_inventory_title_supplyextract_interior"><![CDATA[Rabid Extract]]></entry>
 	<entry id="str_inventory_description_supplyextract_interior"><![CDATA[The raw essence of rage condensed into a serum.
-{colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end} +25% Random Target Chance, -5 ACC{colour_end}]]></entry>
+{colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end}  -5 ACC, -5% CRT{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_extract_interior"><![CDATA[Rabid Extract]]></entry>
 	
 	<entry id="str_inventory_title_supplyextract_caverns"><![CDATA[Ancient Extract]]></entry>
@@ -2670,7 +2715,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_levantine_fire_burn2"><![CDATA[{colour_start|white}ʛʜʝʞɥʬɩɦʻɯ{colour_end}Horrific Blaze]]></entry>
 	<entry id="str_monster_skill_levantine_fire_burn3"><![CDATA[{colour_start|white}ʛʜʝʞɥʬɩɦʻɯ{colour_end}Horrific Blaze]]></entry>
 	<entry id="str_monster_skill_levantine_fire_jumpjet"><![CDATA[{colour_start|white}ɘɘɠɟʥʯɩɦʻɱ{colour_end}Rising Flames]]></entry>
-	<entry id="str_monster_skill_levantine_fire_malfunction"><![CDATA[{colour_start|white}ɪɥʫɩɦʻʐ{colour_end}Pressure Malfunction]]></entry>
+	<entry id="str_monster_skill_levantine_fire_malfunction"><![CDATA[{colour_start|white}ɪɥʫɩɧʐ{colour_end}Pressure Malfunction]]></entry>
 	<entry id="str_monster_skill_levantine_fire_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩɦʻʟ{colour_end}Catastrophic Eruption]]></entry>
 	
 	<entry id="str_monster_skill_levantine_sniper_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Cursory Retreat]]></entry>
@@ -2698,7 +2743,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
     <entry id="str_monster_attack_bite_call"><![CDATA[Something is not right beneath the sand!]]></entry>
 	
 	<entry id="str_monster_skill_levantine_janissary_challenge"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʍ{colour_end}To The Death]]></entry>
-	<entry id="str_monster_skill_levantine_janissary_slash"><![CDATA[{colour_start|white}ɡɡɡɡʦɘɘɣɣɩɧʎ{colour_end}Duelist's Surge]]></entry>
+	<entry id="str_monster_skill_levantine_janissary_slash"><![CDATA[{colour_start|white}ɡɡɡɡʦɘɘɣɣɩɨ{colour_end}Duelist's Surge]]></entry>
 	<entry id="str_monster_skill_levantine_janissary_gun"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɘɘɩɨ{colour_end}Direct Hit]]></entry>
 	<entry id="str_monster_skill_levantine_janissary_summon"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Keep Them Busy]]></entry>
 	<entry id="str_monster_skill_levantine_janissary_summon_afterprep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Keep Them Busy]]></entry>
@@ -2724,7 +2769,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_appraiser_res"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʠʀ{colour_end}Undead Protector]]></entry>
 	
 	<entry id="str_monster_skill_pursuer_mark"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʔʑ{colour_end}Eagle's Eye]]></entry>
-	<entry id="str_monster_skill_pursuer_pursue"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦɷʎ{colour_end}Airborne Assault]]></entry>
+	<entry id="str_monster_skill_pursuer_pursue"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷʎ{colour_end}Airborne Assault]]></entry>
 	<entry id="str_monster_skill_pursuer_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Slice]]></entry>
 	<entry id="str_monster_skill_pursuer_stress"><![CDATA[{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}Harrowing Screech]]></entry>
 	<entry id="str_monster_skill_pursuer_flight"><![CDATA[Feather Flight]]></entry>
@@ -2821,7 +2866,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Morbid Munition]]></entry>
 	<entry id="str_monster_skill_totakh_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Dusk Omen]]></entry>
 	
-	<entry id="str_monster_skill_boneman_attack"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
+	<entry id="str_monster_skill_boneman_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 	<entry id="str_monster_skill_boneman_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
 	
 	<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
@@ -2959,7 +3004,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_hornedtoad_vomit7"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 	
 	<entry id="str_monster_skill_carrion_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibles]]></entry>
-	<entry id="str_monster_skill_carrion_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɮʐʑ{colour_end}Buzz Blast]]></entry>
+	<entry id="str_monster_skill_carrion_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʐ{colour_end}Buzz Blast]]></entry>
 	<entry id="str_monster_skill_carrion_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Toxin Skewer]]></entry>
 	
 	<entry id="str_monster_skill_sentry_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibles]]></entry>
@@ -3124,7 +3169,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
     <entry id="str_monster_skill_cact_opul_head"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Head On]]></entry>
     <entry id="str_monster_skill_cact_opul_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Head Ache]]></entry>
 	
-	<entry id="str_monster_skill_cact_necro_seed"><![CDATA[{colour_start|white}ɠɟɘɘɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
+	<entry id="str_monster_skill_cact_necro_seed"><![CDATA[{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
+	<entry id="str_monster_skill_cact_necro_seed2"><![CDATA[{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
+	<entry id="str_monster_skill_cact_necro_seed3"><![CDATA[{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
     <entry id="str_monster_skill_cact_necro_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬʐ{colour_end}Wyrd Puppeteering]]></entry>
     <entry id="str_monster_skill_cact_necro_skel_slash"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɧʑ{colour_end}Dagger Dive]]></entry>
     <entry id="str_monster_skill_cact_necro_retreat"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Skeletal Scramble]]></entry>
@@ -3153,7 +3200,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
     <entry id="str_monster_skill_cact_heart_leech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɘɣɩɦɮʵ{colour_end}Take Root]]></entry>
     <entry id="str_monster_skill_cact_heart_darkness"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Hate of the Core]]></entry>
 	
-	<entry id="str_monster_skill_alraune_grab"><![CDATA[{colour_start|white}ɘɘɡɡɥʫɩɧʺ{colour_end}Matchmaker]]></entry>
+	 <entry id="str_monster_skill_alraune_grab_setup"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɧʶ{colour_end}Looking for Love]]></entry>
+    <entry id="str_monster_skill_alraune_grab_setup2"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɧʶ{colour_end}Looking for Love]]></entry>
+	<entry id="str_monster_skill_alraune_grab"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɧʺ{colour_end}Matchmaker]]></entry>
     <entry id="str_monster_skill_alraune_punch"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Impose]]></entry>
     <entry id="str_monster_skill_alraune_punch_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Impose]]></entry>
     <entry id="str_monster_skill_alraune_pull"><![CDATA[{colour_start|white}ɡɡɡɘɥʫɩɦɲʑ{colour_end}Welcoming Embrace]]></entry>
@@ -3162,12 +3211,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
     <entry id="str_monster_skill_cut_big"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɘɘɘɩʹʻʑ{colour_end}Prune]]></entry>
     <entry id="str_monster_skill_cut_small"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɘɘɘɩʹʻʎ{colour_end}Shear]]></entry>
 	
-	<entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[I can't breathe! HELP!]]></entry>
-	<entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[Free me! FREE ME!]]></entry>
-	<entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[I'M TRAPPED! Cut me loose!]]></entry>
-	<entry id="str_prisoner_damage_cact_cut_full"><![CDATA[I can't breathe! HELP!]]></entry>
-    <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[Free me! FREE ME!]]></entry>
-    <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[I'M TRAPPED! Cut me loose!]]></entry>
+	<entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[The source! Kill the source!]]></entry>
+    <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[It won't let go, take out the heart!]]></entry>
+    <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[Forget about me, kill the tyrants!]]></entry>
+    <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[It's never going to stop- kill the heart!]]></entry>
+    <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[Just kill the three!]]></entry>
+    <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[I can't get out! Murder the hosts!]]></entry>
 	
 	<entry id="str_monster_skill_fanatic_expiate"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʡɾ{colour_end}Blind Condemnation]]></entry>
 	<entry id="str_monster_skill_fanatic_bleed"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɻʎʑ{colour_end}Penance]]></entry>
@@ -3196,10 +3245,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_sand_occ_stygian"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʚʐ{colour_end}Desert's Embrace]]></entry>
 	<entry id="str_monster_skill_sand_occ_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɮʔʑ{colour_end}Sands Take You]]></entry>
 	
-	<entry id="str_monster_skill_yng_space_1"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Cosmic Alignment]]></entry>
-    <entry id="str_monster_skill_yng_space_2"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Cosmic Alignment]]></entry>
-    <entry id="str_monster_skill_yng_space_3"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Cosmic Alignment]]></entry>
-    <entry id="str_monster_skill_yng_space_4"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Cosmic Alignment]]></entry>
+	<entry id="str_monster_skill_yng_space_1"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Cosmic Alignment]]></entry>
+    <entry id="str_monster_skill_yng_space_2"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Cosmic Alignment]]></entry>
+    <entry id="str_monster_skill_yng_space_3"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Cosmic Alignment]]></entry>
+    <entry id="str_monster_skill_yng_space_4"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Cosmic Alignment]]></entry>
     <entry id="str_monster_skill_yng_gravity"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɦʷʑ{colour_end}Errant Gravity]]></entry>
     <entry id="str_monster_skill_yng_meteor"><![CDATA[{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Crater Creator]]></entry>
     <entry id="str_monster_skill_yng_laser"><![CDATA[{colour_start|white}ɘɠɞɟɥʫɩʹʻɮ{colour_end}Cry of the Void]]></entry>
@@ -3578,7 +3627,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT1"><![CDATA[On Friendly Skill: Self: {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT2"><![CDATA[On Being Hit: {colour_start|buff}Buff Self:{colour_end} +15%% DMG {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_SACRED_SCROLL_TT"><![CDATA[On Mystical Attack Hit: {colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(3 rds / 120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT1"><![CDATA[On Friendly Skill: Target: {colour_start|healhp}Heal{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT1"><![CDATA[On Friendly Skill: Target: {colour_start|healhp}Heal{colour_end} 4 pts/tn for 2 tns]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT15"><![CDATA[{colour_start|skill_unselectable}(+2 pt per Difficulty){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT2"><![CDATA[On Friendly Skill: Self: +6 {colour_start|stress}Stress{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_GUNSLINGER_BUCKLE_TT"><![CDATA[On Melee/Riposte Hit: {colour_start|debuff}Debuff Self:{colour_end} -15%% DMG {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT1"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% DMG]]></entry>
@@ -3804,7 +3854,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_stat_tooltip_upgrade_discount_OLD_FLAMESEEKER_CREST_TT2"><![CDATA[On Monster Kill: Self: +3 {colour_start|stress}Stress{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_VESTIGE_CONTRABAND_TT1"><![CDATA[On Monster Kill: Self: +5 {colour_start|stress}Stress{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_VESTIGE_CONTRABAND_TT2"><![CDATA[On Monster Kill: {colour_start|debuff}Debuff Self:{colour_end} +25%% {colour_start|stress}Stress{colour_end} Receieved {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_VESTIGE_CONTRABAND_TT2"><![CDATA[On Monster Kill: {colour_start|debuff}Debuff Self:{colour_end} +25%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VESTIGE_CONTRABAND_TT3"><![CDATA[On Monster Kill: After Combat: Gain 1 {colour_start|cursed_gem}Malignant Vestige{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_AMBER_EXTRACTION_KIT_TT"><![CDATA[Can be used on {colour_start|BR_heirloom}Amber{colour_end} Curios for safe and increased result
@@ -5089,8 +5139,8 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_1"><![CDATA[75 Base Acc, 6-13 Base Dmg, 
 	4%% Base Crit]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_2"><![CDATA[85 Base Acc, 7-14 Base Dmg, 
-	4%% Base Crit]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_2"><![CDATA[85 Base Acc, 7-14 Base Dmg, 4%% Base Crit,
+	{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_3"><![CDATA[95 Base Acc, 12-23 Base Dmg, 
 	8%% Base Crit]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_LEV_JANNY_ONLY_RIPOSTE_HIT_TT"><![CDATA[{colour_start|riposte}Riposte{colour_end} Only Triggers When Hit]]></entry>
@@ -5346,8 +5396,7 @@ Amber Den not affected{colour_end}]]></entry>
 {colour_start|skill_unselectable}Increase chance of losing gold/staying in activity to 45% 
 Can no longer win Trinkets{colour_end}]]></entry>
 	<entry id="str_quirk_description_den_addict"><![CDATA[Will only indulge in amber for stress recovery.
-{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}
-{colour_start|skill_unselectable}Amber Den not affected{colour_end}]]></entry>
+{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}]]></entry>
 	<entry id="str_quirk_description_silk_touch"><![CDATA[Has mastered the process of amber refinement.
 {colour_start|skill_unselectable}+50% Stress Healing Received from Amber Workshop{colour_end}]]></entry>
 	<entry id="str_quirk_description_tek_haggler"><![CDATA[Drives a hard bargain with the Rot Hering Co. 
@@ -5936,7 +5985,7 @@ the Treasury successfully gives buffs
 	<entry id="str_quirk_name_fatigue_te"><![CDATA[{colour_start|symptom}Fatigue{colour_end}]]></entry>
 	<entry id="str_quirk_name_fatigue_tended_te"><![CDATA[{colour_start|symptom}Fatigue (Tended){colour_end}]]></entry>
 	<entry id="str_quirk_name_fatigue_sc"><![CDATA[{colour_start|symptom}Fatigue{colour_end}]]></entry>
-	<entry id="str_quirk_name_fatigue_tended_sc"><![CDATA[{colour_start|symptom}Fatigue (Tended){colour_end})]]></entry>
+	<entry id="str_quirk_name_fatigue_tended_sc"><![CDATA[{colour_start|symptom}Fatigue (Tended){colour_end}]]></entry>
 	<entry id="str_quirk_name_fatigue_bp"><![CDATA[{colour_start|symptom}Fatigue{colour_end}]]></entry>
 	<entry id="str_quirk_name_fatigue_tended_bp"><![CDATA[{colour_start|symptom}Fatigue (Tended){colour_end}]]></entry>
 	<entry id="str_quirk_name_fatigue_l"><![CDATA[{colour_start|symptom}Fatigue{colour_end}]]></entry>

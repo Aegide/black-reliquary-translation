@@ -654,6 +654,10 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="str_block_camping_meal_cannibalistic"><![CDATA[I crave for INNARDS, not this peasant's placebo.]]></entry>
 	<entry id="str_block_camping_meal_cannibalistic"><![CDATA[I refuse to chew anything that is not GRISTLE.]]></entry>
 	
+	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[How delightfully ripe for the taking!]]></entry>
+	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[Let me quiet that gurgling of my gut so you cease whining about it.]]></entry>
+	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[Spoils of some sort for your king, at last. Heehee!]]></entry>
+	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[Something to feast on during this famine!]]></entry>
 	
   </language> 
 

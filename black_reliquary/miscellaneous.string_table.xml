@@ -326,7 +326,7 @@
     <entry id="menu_options_element_dd_mode"><![CDATA[Darkest Dungeon Config]]></entry>
     <entry id="menu_options_element_deaths_door_recovery_debuffs"><![CDATA[Mortality Debuffs]]></entry>
     <entry id="menu_options_element_debug_output"><![CDATA[Debug Output]]></entry>
-    <entry id="menu_options_element_deck_based_stage_coach"><![CDATA[Deck-Based Stage Coach]]></entry>
+    <entry id="menu_options_element_deck_based_stage_coach"><![CDATA[Deck-Based Ferry]]></entry>
     <entry id="menu_options_element_extra_bark_time"><![CDATA[Extra Bark Time (seconds)]]></entry>
     <entry id="menu_options_element_fullscreen"><![CDATA[Fullscreen?]]></entry>
     <entry id="menu_options_element_heart_attack"><![CDATA[Heart Attacks]]></entry>
@@ -358,7 +358,7 @@
     <entry id="menu_options_element_tooltip_dd_mode"><![CDATA[Gameplay settings as intended to be played. Turning this OFF allows you to toggle the gameplay features below.]]></entry>
     <entry id="menu_options_element_tooltip_deaths_door_recovery_debuffs"><![CDATA[Stat penalties persist even after being healed off of Death's Door.]]></entry>
     <entry id="menu_options_element_tooltip_debug_output"><![CDATA[Show error messages for game errors. Useful for troubleshooting and bug reports.]]></entry>
-    <entry id="menu_options_element_tooltip_deck_based_stage_coach"><![CDATA[Ensure more even long-term distribution of heroes in the Stage Coach.]]></entry>
+    <entry id="menu_options_element_tooltip_deck_based_stage_coach"><![CDATA[Ensure more even long-term distribution of heroes in the Ferry.]]></entry>
     <entry id="menu_options_element_tooltip_extra_bark_time"><![CDATA[Adjust how long hero word balloons show up.]]></entry>
     <entry id="menu_options_element_tooltip_keep_battle_quest_fail_trinkets"><![CDATA[This is what happens to carried trinkets when you have a total party wipe.]]></entry>
     <entry id="menu_options_element_tooltip_map_follow_party"><![CDATA[Dungeon map will auto-center on party when idle.]]></entry>
@@ -1861,7 +1861,7 @@
     <entry id="town_confirm_embark_not_enough_heroes_answer"><![CDATA[OK]]></entry>
     <entry id="town_confirm_embark_not_enough_heroes_question"><![CDATA[You don't have four heroes available for a quest. 
  
- You will need to recruit more heroes at the Stage Coach or remove some heroes from treatment.]]></entry>
+ You will need to recruit more heroes at the Ferry or remove some heroes from treatment.]]></entry>
     <entry id="town_estate_bar_tooltip"><![CDATA[%ss: %d (Used to upgrade town buildings.)]]></entry>
     <entry id="town_event_description_bonus_recruit_antiquarian"><![CDATA[...the recently recovered cache has excited local enthusiasts, and drawn the attention of experts in the neighboring regions.]]></entry>
     <entry id="town_event_description_bonus_recruit_bounty_hunter"><![CDATA[Quiet and reserved, these men are professionals, compelled not by the scent of blood, but rather the gleam of gold.]]></entry>
@@ -2375,13 +2375,5 @@ We don't spam, and will never share your email address with third parties. Joini
     <entry id="action_verbose_body_guild_flagellant"><![CDATA[The Flagellant belongs to an extremist faction within the church, and is generally regarded with a toxic mixture of fear, awe, and disgust. The power he draws from martyrdom is as effective as it is unsettling - in one moment he is a fountain of healing renewal, and the next, a conduit of terrible wrath. His full potential is realized only the brink of madness...or death.]]></entry>
    
   </language>
-
-	<language id="french">
-		<entry id="str_build_number"><![CDATA[Version : %d]]></entry>
-		<entry id="str_start_screen_button"><![CDATA[Campagne]]></entry>
-		<entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer...]]></entry>
-		<entry id="area_name_in_format"><![CDATA[%s]]></entry>
-		<entry id="str_start_screen_week_format"><![CDATA[Semaine %d]]></entry>
-		<entry id="town_name_feflow"><![CDATA[Hameau]]></entry>
-	</language>
 </root>
+

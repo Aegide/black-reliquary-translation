@@ -36,7 +36,7 @@
 		<entry id="camping_skill_effect_loot_AMBER_RESIDUE_PECULIAR"><![CDATA[Produce 2-4 Amber Residue]]></entry>
 		
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERPAGE_PULL_AMBERBLIGHTED"><![CDATA[On Fury of the Ancients Hit: {colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_AMBER_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: Target: Gain Quirk: Amber Symbiosis {colour_start|skill_unselectable}(20%% Chance){colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_AMBER_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: Target: Gain Quirk: Amber Symbiosis {colour_start|skill_unselectable}(33%% Chance){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_BUFF_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5 ACC if has Amber Symbiosis]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_DEBUFF_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist if has Amber Symbiosis]]></entry>
 		

@@ -233,10 +233,10 @@
     <entry id="str_stage_coach_rostersize_upgrade_lvl_4"><![CDATA[Additional hero barracks have been added! The roster size is increased. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
     <entry id="str_stage_coach_rostersize_upgrade_lvl_5"><![CDATA[Additional hero barracks have been added! The roster size is increased. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
     
-    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_1"><![CDATA[Level 2 heroes can now appear in the Stage Coach.]]></entry>
-    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_2"><![CDATA[Level 3 heroes can now appear in the Stage Coach.]]></entry>
-    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_3"><![CDATA[Level 4 heroes can now appear in the Stage Coach.]]></entry>
-    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_4"><![CDATA[Level 4 heroes can now appear in the Stage Coach.]]></entry>
+    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_1"><![CDATA[Level 2 heroes can now appear in the Ferry.]]></entry>
+    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_2"><![CDATA[Level 3 heroes can now appear in the Ferry.]]></entry>
+    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_3"><![CDATA[Level 4 heroes can now appear in the Ferry.]]></entry>
+    <entry id="str_stage_coach_upgraded_recruits_upgrade_lvl_4"><![CDATA[Level 4 heroes can now appear in the Ferry.]]></entry>
 	
 	<entry id="str_tavern_bar_upgrade_lvl_1"><![CDATA[The bar has been improved. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
     <entry id="str_tavern_bar_upgrade_lvl_2"><![CDATA[The bar has been improved. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
@@ -309,7 +309,7 @@
     <entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Increases number of slots to %d]]></entry>
     <entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[Increases size of roster to %d]]></entry>
     <entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[Increases stress recovery]]></entry>
-    <entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[Heroes of Resolve Level %d will sometimes appear in the Stage Coach.]]></entry>
+    <entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[Heroes of Resolve Level %d will sometimes appear in the Ferry.]]></entry>
     <entry id="upgrade_tree_tooltip_description_nomad_wagon.cost"><![CDATA[Reduces the cost of trinket purchases.]]></entry>
     <entry id="upgrade_tree_tooltip_description_nomad_wagon.numitems"><![CDATA[Increases the number of available trinkets at the Oddities Dealer.]]></entry>
     <entry id="upgrade_tree_tooltip_description_nomad_wagon.appraisal"><![CDATA[Rarity Spawn Chance:
@@ -332,7 +332,7 @@
     <entry id="upgrade_tree_tooltip_description_sanitarium.slots"><![CDATA[Increases the number of Clinic treatment slots.]]></entry>
     <entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Increases the number of recruits available for hire. The change will take effect after you return from your next quest.]]></entry>
     <entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Increases the size of the hero roster.]]></entry>
-    <entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Provides a chance of higher level recruits appearing in the Stage Coach.]]></entry>
+    <entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Provides a chance of higher level recruits appearing in the Ferry.]]></entry>
     <entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[Improves the bar facilities.
 	
 	{colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
