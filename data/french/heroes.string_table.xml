@@ -121,3 +121,115 @@
 <entry id="musketeer_weapon_3"><![CDATA[Mousquet d'élite]]></entry>
 <entry id="musketeer_weapon_4"><![CDATA["Infaillible"]]></entry>
 <entry id="upgrade_tree_name_musketeer.weapon"><![CDATA[Mousquet]]></entry>
+
+<entry id="crusader_armour_0"><![CDATA[Haubert rouillé]]></entry>
+<entry id="crusader_armour_1"><![CDATA[Cotte de mailles]]></entry>
+<entry id="crusader_armour_2"><![CDATA[Mailles et plastron]]></entry>
+<entry id="crusader_armour_3"><![CDATA[Plastron]]></entry>
+<entry id="crusader_armour_4"><![CDATA["Conviction du Zélote"]]></entry>
+<entry id="upgrade_tree_name_crusader.armour"><![CDATA[Mailles et plastron]]></entry>
+
+<entry id="highwayman_armour_0"><![CDATA[Pardessus usé]]></entry>
+<entry id="highwayman_armour_1"><![CDATA[Pardessus résistant]]></entry>
+<entry id="highwayman_armour_2"><![CDATA[Pardessus rembourré]]></entry>
+<entry id="highwayman_armour_3"><![CDATA[Pardessus de bandit]]></entry>
+<entry id="highwayman_armour_4"><![CDATA["L'Insaisissable"]]></entry>
+<entry id="upgrade_tree_name_highwayman.armour"><![CDATA[Pardessus de bandit]]></entry>
+
+<entry id="occultist_armour_0"><![CDATA[Caftan en lambeaux]]></entry>
+<entry id="occultist_armour_1"><![CDATA[Caftan d'érudit]]></entry>
+<entry id="occultist_armour_2"><![CDATA[Caftan universitaire]]></entry>
+<entry id="occultist_armour_3"><![CDATA[Caftan d'antiquaire]]></entry>
+<entry id="occultist_armour_4"><![CDATA["La Sombre Inquisition"]]></entry>
+<entry id="upgrade_tree_name_occultist.armour"><![CDATA[Caftan]]></entry>
+
+<entry id="vestal_armour_0"><![CDATA[Étoffe et plastron usés]]></entry>
+<entry id="vestal_armour_1"><![CDATA[Étoffe et plastron légers]]></entry>
+<entry id="vestal_armour_2"><![CDATA[Étoffe de qualité, plastron martelé]]></entry>
+<entry id="vestal_armour_3"><![CDATA[Étoffe de soie, plastron durci]]></entry>
+<entry id="vestal_armour_4"><![CDATA["Le Rempart Sacré"]]></entry>
+<entry id="upgrade_tree_name_vestal.armour"><![CDATA[Soie et plastron]]></entry>
+
+<entry id="hellion_armour_0"><![CDATA[Cuir usé, fourrure miteuse]]></entry>
+<entry id="hellion_armour_1"><![CDATA[Cuir et fourrure recousus]]></entry>
+<entry id="hellion_armour_2"><![CDATA[Cuir et fourrure neufs]]></entry>
+<entry id="hellion_armour_3"><![CDATA[Cuir et fourrure de maître-tailleur]]></entry>
+<entry id="hellion_armour_4"><![CDATA["La Peau du Loup"]]></entry>
+<entry id="upgrade_tree_name_hellion.armour"><![CDATA[Cuir et fourrure]]></entry>
+
+<entry id="grave_robber_armour_0"><![CDATA[Veste volée]]></entry>
+<entry id="grave_robber_armour_1"><![CDATA[Veste raccommodée]]></entry>
+<entry id="grave_robber_armour_2"><![CDATA[Veste de qualité]]></entry>
+<entry id="grave_robber_armour_3"><![CDATA[Veste habillée]]></entry>
+<entry id="grave_robber_armour_4"><![CDATA["Dentelle D'Ombre"]]></entry>
+<entry id="upgrade_tree_name_grave_robber.armour"><![CDATA[Veste volée]]></entry>
+
+<entry id="bounty_hunter_armour_0"><![CDATA[Pourpoint rigide]]></entry>
+<entry id="bounty_hunter_armour_1"><![CDATA[Pourpoint à boucle]]></entry>
+<entry id="bounty_hunter_armour_2"><![CDATA[Pourpoint renforcé]]></entry>
+<entry id="bounty_hunter_armour_3"><![CDATA[Pourpoint à écailles]]></entry>
+<entry id="bounty_hunter_armour_4"><![CDATA["Tête de Mort"]]></entry>
+<entry id="upgrade_tree_name_bounty_hunter.armour"><![CDATA[Pourpoint rigide]]></entry>
+
+<entry id="plague_doctor_armour_0"><![CDATA[Blouse d'aide-soignant]]></entry>
+<entry id="plague_doctor_armour_1"><![CDATA[Blouse d'interne]]></entry>
+<entry id="plague_doctor_armour_2"><![CDATA[Blouse de médecin]]></entry>
+<entry id="plague_doctor_armour_3"><![CDATA[Blouse de chirurgien]]></entry>
+<entry id="plague_doctor_armour_4"><![CDATA["Le Manteau Malveillant"]]></entry>
+<entry id="upgrade_tree_name_plague_doctor.armour"><![CDATA[Blouse de médecin]]></entry>
+
+<entry id="jester_armour_0"><![CDATA[Tenue bigarrée]]></entry>
+<entry id="jester_armour_1"><![CDATA[Tenue moqueuse]]></entry>
+<entry id="jester_armour_2"><![CDATA[Tenue rembourrée]]></entry>
+<entry id="jester_armour_3"><![CDATA[Tenue blindée]]></entry>
+<entry id="jester_armour_4"><![CDATA["La Couronne Cruelle"]]></entry>
+<entry id="upgrade_tree_name_jester.armour"><![CDATA[Tenue bigarrée]]></entry>
+
+<entry id="leper_armour_0"><![CDATA[Cuirasse abîmée]]></entry>
+<entry id="leper_armour_1"><![CDATA[Cuirasse remodelée]]></entry>
+<entry id="leper_armour_2"><![CDATA[Cuirasse renforcée]]></entry>
+<entry id="leper_armour_3"><![CDATA[Cuirasse de bronze]]></entry>
+<entry id="leper_armour_4"><![CDATA["Indomptable"]]></entry>
+<entry id="upgrade_tree_name_leper.armour"><![CDATA[Cuirasse de bronze]]></entry>
+
+<entry id="arbalest_armour_0"><![CDATA[Plastron d'occasion]]></entry>
+<entry id="arbalest_armour_1"><![CDATA[Plastron gagé]]></entry>
+<entry id="arbalest_armour_2"><![CDATA[Plastron fiable]]></entry>
+<entry id="arbalest_armour_3"><![CDATA[Plastron raffiné]]></entry>
+<entry id="arbalest_armour_4"><![CDATA["Survivante"]]></entry>
+<entry id="upgrade_tree_name_arbalest.armour"><![CDATA[Armure de plates]]></entry>
+
+<entry id="man_at_arms_armour_0"><![CDATA[Armure bon marché]]></entry>
+<entry id="man_at_arms_armour_1"><![CDATA[Armure militaire]]></entry>
+<entry id="man_at_arms_armour_2"><![CDATA[Plastron de sergent-major]]></entry>
+<entry id="man_at_arms_armour_3"><![CDATA[Plastron de sergent-chef]]></entry>
+<entry id="man_at_arms_armour_4"><![CDATA["Le Rempart"]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.armour"><![CDATA[Armure de plates]]></entry>
+
+<entry id="houndmaster_armour_0"><![CDATA[Gilet en cuir râpé]]></entry>
+<entry id="houndmaster_armour_1"><![CDATA[Gilet en cuir recousu]]></entry>
+<entry id="houndmaster_armour_2"><![CDATA[Gilet en cuir solide]]></entry>
+<entry id="houndmaster_armour_3"><![CDATA[Gilet lamellaire en cuir]]></entry>
+<entry id="houndmaster_armour_4"><![CDATA["Fierté du Gendarme"]]></entry>
+<entry id="upgrade_tree_name_houndmaster.armour"><![CDATA[Gilet en cuir]]></entry>
+
+<entry id="abomination_armour_0"><![CDATA[Chaînes rouillées]]></entry>
+<entry id="abomination_armour_1"><![CDATA[Chaînes de fer]]></entry>
+<entry id="abomination_armour_2"><![CDATA[Chaînes d'acier]]></entry>
+<entry id="abomination_armour_3"><![CDATA[Chaînes des Enfers]]></entry>
+<entry id="abomination_armour_4"><![CDATA["Oppression Inhumaine"]]></entry>
+<entry id="upgrade_tree_name_abomination.armour"><![CDATA[Chaînes]]></entry>
+
+<entry id="antiquarian_armour_0"><![CDATA[Sac à dos et babioles]]></entry>
+<entry id="antiquarian_armour_1"><![CDATA[Bourses et curiosités]]></entry>
+<entry id="antiquarian_armour_2"><![CDATA[Sacoche solide et curiosités]]></entry>
+<entry id="antiquarian_armour_3"><![CDATA[Sac d'expédition et reliques]]></entry>
+<entry id="antiquarian_armour_4"><![CDATA["Sac Sans Fond de Timurik"]]></entry>
+<entry id="upgrade_tree_name_antiquarian.armour"><![CDATA[Bourses et curiosités]]></entry>
+
+<entry id="musketeer_armour_0"><![CDATA[Veste et cape de participante]]></entry>
+<entry id="musketeer_armour_1"><![CDATA[Veste et cape de compétitrice]]></entry>
+<entry id="musketeer_armour_2"><![CDATA[Veste et cape de finaliste]]></entry>
+<entry id="musketeer_armour_3"><![CDATA[Veste et cape de médaillée]]></entry>
+<entry id="musketeer_armour_4"><![CDATA["Les Atours du Champion"]]></entry>
+<entry id="upgrade_tree_name_musketeer.armour"><![CDATA[Veste et cape]]></entry>
