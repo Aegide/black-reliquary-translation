@@ -1,27 +1,25 @@
 from io import TextIOWrapper
+from os import listdir
+from pathlib import Path
 
 
 CLOSING_ROOT = "</root>"
 CLOSING_LANGUAGE = "</language>"
 
 
-# TODO : more automation
-french_filepath = "data/french/miscellaneous.string_table.xml"
-original_filepath = "black_reliquary/miscellaneous.string_table.xml"
-new_filepath = "build/miscellaneous.string_table.xml"
-
-
-def duplicate_original_file(original_file, new_file):
-    for line in original_file.readlines():
-        line_content = line.strip()
-        if line_content != CLOSING_ROOT:
-            new_file.write(line)
+def duplicate_original_file(original_filepath:Path, build_filepath:Path):
+    with open(original_filepath, mode="r", encoding="utf8") as original_file:
+        with open(build_filepath, mode="w", encoding="utf8") as build_file:
+            for line in original_file.readlines():
+                line_content = line.strip()
+                if line_content != CLOSING_ROOT:
+                    build_file.write(line)
 
 
 def inject_translation(language, language_file:TextIOWrapper, new_file:TextIOWrapper):
     new_file.write(f'\t<language id="{language}">\n')
     inject_file_content(language_file, new_file)
-    new_file.write(f"\n\t{CLOSING_LANGUAGE}")
+    new_file.write(f"\n\t{CLOSING_LANGUAGE}\n")
 
 
 def inject_file_content(file_source:TextIOWrapper, file_destination:TextIOWrapper):
@@ -30,17 +28,41 @@ def inject_file_content(file_source:TextIOWrapper, file_destination:TextIOWrappe
         file_destination.write(line_with_tabs)
 
 
-def add_closing_root(file_target:TextIOWrapper):
-    file_target.write(f"\n{CLOSING_ROOT}")
+def add_closing_root(build_filepath:Path):
+    with open(build_filepath, mode="a", encoding="utf8") as build_file:
+        build_file.write(f"{CLOSING_ROOT}")
+
+
+def translate_language(language:str):
+    for filename in listdir(Path("data", language)):
+        translate_file(language, filename)
+
+
+def translate_file(language:str, filename:str):
+    original_filepath = Path("black_reliquary", filename)
+    build_filepath =    Path("build", filename)
+    data_filepath =     Path("data", language, filename)
+
+    with open(original_filepath, mode="r", encoding="utf8") as original_file:
+        with open(build_filepath, mode="a", encoding="utf8") as build_file:
+            with open(data_filepath, mode="r", encoding="utf8") as data_file:
+                # duplicate_original_file(original_file, build_file)
+                inject_translation(language, data_file, build_file)
+                # add_closing_root(build_file)
 
 
 def main():
-    with open(original_filepath, mode="r", encoding="utf8") as original_file:
-        with open(new_filepath, mode="w", encoding="utf8") as new_file:
-            with open(french_filepath, mode="r", encoding="utf8") as french_file:
-                duplicate_original_file(original_file, new_file)
-                inject_translation("french", french_file, new_file)
-                add_closing_root(new_file)
+    for filename in listdir(Path("black_reliquary")):
+        original_filepath = Path("black_reliquary", filename)
+        build_filepath =    Path("build", filename)
+        duplicate_original_file(original_filepath, build_filepath)
+
+    for language in listdir(Path("data")):
+        translate_language(language)
+
+    for filename in listdir(Path("black_reliquary")):
+        build_filepath =    Path("build", filename)
+        add_closing_root(build_filepath)
 
 
 if __name__ == "__main__":
