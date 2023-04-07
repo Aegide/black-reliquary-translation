@@ -1,0 +1,597 @@
+
+<entry id="str_vo_bad_BR_afflicted_01_0"><![CDATA[TODO:The mind is fractured.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_02_0"><![CDATA[TODO:Distressed... Disturbed...]]></entry>
+<entry id="str_vo_bad_BR_afflicted_03_0"><![CDATA[TODO:The mind's defenses crumble against the tide.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_abusive1_0"><![CDATA[TODO:Rage brings power, fury... And contempt.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_abusive2_0"><![CDATA[TODO:Anger drives us apart, and divided, we fall.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_abusive3_0"><![CDATA[TODO:Frustration and hatred; 
+curses from the dawn of humanity.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_depressed1_0"><![CDATA[TODO:The challenge appears... Insurmountable.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_depressed2_0"><![CDATA[TODO:How could one stand beside a lost cause?]]></entry>
+<entry id="str_vo_bad_BR_afflicted_depressed3_0"><![CDATA[TODO:The task is too daunting for this one.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_fearful1_0"><![CDATA[TODO:They have given in to the terror, 
+and become lost.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_fearful2_0"><![CDATA[TODO:Cowardice is survival, or so 
+they tell themselves.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_fearful3_0"><![CDATA[TODO:Bravery has been foresaken in the 
+throes of combat.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_irrational1_0"><![CDATA[TODO:Fortitude falls. Madness sets in.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_irrational2_0"><![CDATA[TODO:The grasp on sanity slips away...]]></entry>
+<entry id="str_vo_bad_BR_afflicted_irrational3_0"><![CDATA[TODO:Madness in... Madness out.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_masochistic1_0"><![CDATA[TODO:Leaning into the pain can only go so far.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_masochistic2_0"><![CDATA[TODO:To handle the suffering, they've 
+come to admire it.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_masochistic3_0"><![CDATA[TODO:The destructive adoration of pain...]]></entry>
+<entry id="str_vo_bad_BR_afflicted_paranoid1_0"><![CDATA[TODO:Overwhelming doubt...]]></entry>
+<entry id="str_vo_bad_BR_afflicted_paranoid2_0"><![CDATA[TODO:Camaraderie fails under the strain.]]></entry>
+<entry id="str_vo_bad_BR_afflicted_paranoid3_0"><![CDATA[TODO:Without faith in one another, how can we survive?]]></entry>
+<entry id="str_vo_bad_BR_afflicted_selfish1_0"><![CDATA[TODO:What can one do but look out for one's self?]]></entry>
+<entry id="str_vo_bad_BR_afflicted_selfish2_0"><![CDATA[TODO:The panic divides us...]]></entry>
+<entry id="str_vo_bad_BR_afflicted_selfish3_0"><![CDATA[TODO:In the struggle, they have lost sight of their allies.]]></entry>
+<entry id="str_vo_bad_BR_boss_01_0"><![CDATA[TODO:Towering, fierce, terrible. Nightmare made material!]]></entry>
+<entry id="str_vo_bad_BR_death_01_0"><![CDATA[TODO:Snuffed out, like a candle in the rain.]]></entry>
+<entry id="str_vo_bad_BR_death_02_0"><![CDATA[TODO:We have lost that most precious treasure today...]]></entry>
+<entry id="str_vo_bad_BR_death_03_0"><![CDATA[TODO:Nothing left to be done. Do not let 
+their death be meaningless.]]></entry>
+<entry id="str_vo_bad_BR_death_04_0"><![CDATA[TODO:The pain of loss... We must march on for them.]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_01_0"><![CDATA[TODO:Do not surrender, we need you!]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_02_0"><![CDATA[TODO:Their strength is tested...]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_03_0"><![CDATA[TODO:They are in peril. Do not fall!]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_04_0"><![CDATA[TODO:Stand your ground.]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_05_0"><![CDATA[TODO:Act quickly. This life cannot be wasted.]]></entry>
+<entry id="str_vo_bad_BR_deaths_door_06_0"><![CDATA[TODO:The teeth grit... They cling to life.]]></entry>
+<entry id="str_vo_bad_BR_debuff1_0"><![CDATA[TODO:Weakened...]]></entry>
+<entry id="str_vo_bad_BR_debuff2_0"><![CDATA[TODO:Strength fades.]]></entry>
+<entry id="str_vo_bad_BR_debuff3_0"><![CDATA[TODO:The body fails to withstand.]]></entry>
+<entry id="str_vo_bad_BR_debuff4_0"><![CDATA[TODO:Hampered.]]></entry>
+<entry id="str_vo_bad_BR_debuff5_0"><![CDATA[TODO:Impaired.]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_01_0"><![CDATA[TODO:A dreadful hit...]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_02_0"><![CDATA[TODO:Stand tall! We must recover.]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_03_0"><![CDATA[TODO:Do not waver! The fight goes on!]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_04_0"><![CDATA[TODO:A terrible hit...]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_05_0"><![CDATA[TODO:Injuries accumulate. We must act!]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_06_0"><![CDATA[TODO:Harden yourself! This battle is not yet over!]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_07_0"><![CDATA[TODO:We must recover!]]></entry>
+<entry id="str_vo_bad_BR_general_crit_hero_08_0"><![CDATA[TODO:Come now, back on your feet!]]></entry>
+<entry id="str_vo_bad_BR_half_stats1_0"><![CDATA[TODO:Wounds and fatigue are mounting.]]></entry>
+<entry id="str_vo_bad_BR_half_stats2_0"><![CDATA[TODO:How much further can one continue at this rate?]]></entry>
+<entry id="str_vo_bad_BR_horror1_0"><![CDATA[TODO:The terror that creeps...]]></entry>
+<entry id="str_vo_bad_BR_horror2_0"><![CDATA[TODO:Terrible horror, gnawing on the mind.]]></entry>
+<entry id="str_vo_bad_BR_horror3_0"><![CDATA[TODO:Haunting thoughts overwhelm.]]></entry>
+<entry id="str_vo_bad_BR_horror4_0"><![CDATA[TODO:Fear, clawing at the senses.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_barehand_01_0"><![CDATA[TODO:We had not properly prepared, and must 
+endure the consequences.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_barehand_02_0"><![CDATA[TODO:No tools for the task... Yet we must press on.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_barehand_03_0"><![CDATA[TODO:Next time, we will be prepared. 
+This time, we toil.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_barehand_04_0"><![CDATA[TODO:A wise leader takes far more than bloodshed into account.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_shovel_01_0"><![CDATA[TODO:This land is ancient and fallen into disrepair.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_shovel_02_0"><![CDATA[TODO:More than our enemies will attempt to impede us.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_shovel_03_0"><![CDATA[TODO:No challenge is without its barriers. 
+Both proverbially and physically.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_shovel_04_0"><![CDATA[TODO:Take up the spades, this is nothing to trouble ourselves over.]]></entry>
+<entry id="str_vo_bad_BR_obstacle_shovel_05_0"><![CDATA[TODO:The glory will come, for now there is labour.]]></entry>
+<entry id="str_vo_bad_BR_starve_01_0"><![CDATA[TODO:How can we fight on empty bellies?]]></entry>
+<entry id="str_vo_bad_BR_starve_02_0"><![CDATA[TODO:A soldier shouldn't march on an empty stomach.]]></entry>
+<entry id="str_vo_bad_BR_starve_03_0"><![CDATA[TODO:Hunger will bring weakness and distraction.]]></entry>
+<entry id="str_vo_bad_BR_starve_04_0"><![CDATA[TODO:Going without... Something I have felt many times.]]></entry>
+<entry id="str_vo_bad_BR_starve_05_0"><![CDATA[TODO:The pain of starvation takes its toll upon us.]]></entry>
+<entry id="str_vo_bad_BR_torchlight_01_0"><![CDATA[TODO:Use your other senses when your vision fails you.]]></entry>
+<entry id="str_vo_bad_BR_torchlight_02_0"><![CDATA[TODO:The Amber glows brightly in the dark.]]></entry>
+<entry id="str_vo_bad_BR_torchlight_03_0"><![CDATA[TODO:When the path is unclear, rely 
+upon each other.]]></entry>
+<entry id="str_vo_bad_BR_torchlight_04_0"><![CDATA[TODO:Where danger lurks, so too do riches.]]></entry>
+<entry id="str_vo_bad_BR_trap_01_0"><![CDATA[TODO:Ai... Step lightly!]]></entry>
+<entry id="str_vo_bad_BR_trap_02_0"><![CDATA[TODO:We must keep eyes peeled!]]></entry>
+<entry id="str_vo_bad_BR_trap_03_0"><![CDATA[TODO:This land is filled with unseen dangers.]]></entry>
+<entry id="str_vo_bad_BR_trap_04_0"><![CDATA[TODO:Be more careful!]]></entry>
+<entry id="str_vo_bad_BR_trap_05_0"><![CDATA[TODO:We must be more vigilant.]]></entry>
+<entry id="str_vo_bad_BR_trap_crypts1_0"><![CDATA[TODO:The Kvarotz put great priority in their defenses.]]></entry>
+<entry id="str_vo_bad_BR_trap_crypts2_0"><![CDATA[TODO:Such vicious devices placed in one's own city...]]></entry>
+<entry id="str_vo_epilog_0"><![CDATA[TODO:Victory.]]></entry>
+<entry id="str_vo_epilog_1"><![CDATA[TODO:A hollow and ridiculous notion.]]></entry>
+<entry id="str_vo_epilog_10"><![CDATA[TODO:and what sleeps
+is aroused once more.]]></entry>
+<entry id="str_vo_epilog_11"><![CDATA[TODO:To hatch from this fragile shell
+of earth and rock,]]></entry>
+<entry id="str_vo_epilog_12"><![CDATA[TODO:and bring our inescapable end.]]></entry>
+<entry id="str_vo_epilog_13"><![CDATA[TODO:So, seek solace in a manner
+befitting your lineage,]]></entry>
+<entry id="str_vo_epilog_14"><![CDATA[TODO:and take up your nugatory vigil,]]></entry>
+<entry id="str_vo_epilog_15"><![CDATA[TODO:haunted forever by that
+sickening prose,]]></entry>
+<entry id="str_vo_epilog_16"><![CDATA[TODO:echoing through the infinite blackness
+of space and time.]]></entry>
+<entry id="str_vo_epilog_17"><![CDATA[TODO:Ruin has come to our family.]]></entry>
+<entry id="str_vo_epilog_2"><![CDATA[TODO:We are born of this thing,]]></entry>
+<entry id="str_vo_epilog_3"><![CDATA[TODO:made from it,]]></entry>
+<entry id="str_vo_epilog_4"><![CDATA[TODO:and we will be returned to it
+in time.]]></entry>
+<entry id="str_vo_epilog_5"><![CDATA[TODO:The great family of man.]]></entry>
+<entry id="str_vo_epilog_6"><![CDATA[TODO:A profusion of errant flesh.]]></entry>
+<entry id="str_vo_epilog_7"><![CDATA[TODO:Multiplying, swarming,]]></entry>
+<entry id="str_vo_epilog_8"><![CDATA[TODO:living, dying.]]></entry>
+<entry id="str_vo_epilog_9"><![CDATA[TODO:Until the stars align in their
+inexorable formation]]></entry>
+<entry id="str_vo_good_BR_buff1_0"><![CDATA[TODO:Enhanced and invigorated.]]></entry>
+<entry id="str_vo_good_BR_buff2_0"><![CDATA[TODO:A surge of strength.]]></entry>
+<entry id="str_vo_good_BR_buff3_0"><![CDATA[TODO:The heart pounds; the mind's eye opens.]]></entry>
+<entry id="str_vo_good_BR_buff4_0"><![CDATA[TODO:Empowered!]]></entry>
+<entry id="str_vo_good_BR_buff5_0"><![CDATA[TODO:Emboldened.]]></entry>
+<entry id="str_vo_good_BR_buff6_0"><![CDATA[TODO:The power flows.]]></entry>
+<entry id="str_vo_good_BR_camp_01_0"><![CDATA[TODO:Alone we will die. Together, we will rise.]]></entry>
+<entry id="str_vo_good_BR_camp_02_0"><![CDATA[TODO:The dark and the cold are upon us. Keep 
+each other safe by the fire.]]></entry>
+<entry id="str_vo_good_BR_camp_03_0"><![CDATA[TODO:Look out for one another. Companions 
+are all we have.]]></entry>
+<entry id="str_vo_good_BR_camp_04_0"><![CDATA[TODO:Huddle together. The nights here are frigid.]]></entry>
+<entry id="str_vo_good_BR_camp_05_0"><![CDATA[TODO:Togetherness is a rare thing in this place.]]></entry>
+<entry id="str_vo_good_BR_camp_06_0"><![CDATA[TODO:Recover, prepare. Come dawn, we march.]]></entry>
+<entry id="str_vo_good_BR_camp_07_0"><![CDATA[TODO:Rest. We will need your strength come daybreak.]]></entry>
+<entry id="str_vo_good_BR_crypts_encounter_boss_1_0"><![CDATA[TODO:Here we answer the duelist's challenge.]]></entry>
+<entry id="str_vo_good_BR_crypts_encounter_boss_2_0"><![CDATA[TODO:Here she resides in the den of serpents. 
+Stain her many luxuries with blood.]]></entry>
+<entry id="str_vo_good_BR_exposed_encounter_boss_1_0"><![CDATA[TODO:A hulking heap of muscle and metal.
+Give the audience a show.]]></entry>
+<entry id="str_vo_good_BR_exposed_encounter_boss_2_0"><![CDATA[TODO:And here she stands, confident in victory.
+Demonstrate to the tribes that even their mightiest shall fall.]]></entry>
+<entry id="str_vo_good_BR_caverns_encounter_boss_1_0"><![CDATA[TODO:A gargantuan beast of terrible implications, 
+still yet to reach full maturation.]]></entry>
+<entry id="str_vo_good_BR_caverns_encounter_boss_1_1"><![CDATA[TODO:Execute it at once and we will be one step 
+closer to putting a stop to their fiendish ambitions.]]></entry>
+<entry id="str_vo_good_BR_caverns_encounter_boss_2_0"><![CDATA[TODO:This is it! Hold fast, the gunnery is being readied to aid you.]]></entry>
+<entry id="str_vo_good_BR_treasury_encounter_boss_1_0"><![CDATA[TODO:A mesmerizing deception; it hungers for the flesh of the allured.]]></entry>
+<entry id="str_vo_good_BR_treasury_encounter_boss_2_0"><![CDATA[TODO:Cleave your way through this shifting barrier! 
+Let no adaptation prove impregnable.]]></entry>
+<entry id="str_vo_good_BR_sand_charmer_encounter_0"><![CDATA[TODO:A defiler of the dead. Unmake what the Valley has errantly given birth to.]]></entry>
+<entry id="str_vo_good_BR_yngolian_encounter_0"><![CDATA[TODO:This... thing... should not be. It is a trespasser in our reality.]]></entry>
+<entry id="str_vo_good_BR_ghoul_mother_encounter_0"><![CDATA[TODO:Eradicate this den of horrors, such that
+our possessions may be reclaimed.]]></entry>
+<entry id="str_vo_good_BR_crypts_kill_boss_01_0"><![CDATA[TODO:A graceful and honorable end, for one such as he.]]></entry>
+<entry id="str_vo_good_BR_crypts_kill_boss_02_0"><![CDATA[TODO:Leave the Levantine to witness the skin and scales on the floor.]]></entry>
+<entry id="str_vo_good_BR_exposed_kill_boss_01_0"><![CDATA[TODO:Leave her corpse to bake in the sun. They would have done the same.]]></entry>
+<entry id="str_vo_good_BR_exposed_kill_boss_02_0"><![CDATA[TODO:Her throes of bloodlust are brought to an end. A good death 
+for those like her.]]></entry>
+<entry id="str_vo_good_BR_caverns_kill_boss_01_0"><![CDATA[TODO:The wurms will appreciate this feast, but we do not have time to stop them.]]></entry>
+<entry id="str_vo_good_BR_caverns_kill_boss_01_1"><![CDATA[TODO:The Troglodytes are vast, and small skirmishes will not stem the tide.]]></entry>
+<entry id="str_vo_good_BR_caverns_kill_boss_02_0"><![CDATA[TODO:In all my time as a sailor, I have never witnessed such a spectacular victory. 
+Hm, I admit, this was quite the thrill.]]></entry>
+<entry id="str_vo_good_BR_treasury_kill_boss_01_0"><![CDATA[TODO:The malignant flower is finally reduced to pulp, and the surrounding 
+thicket squirms in pain. Good.]]></entry>
+<entry id="str_vo_good_BR_treasury_kill_boss_02_0"><![CDATA[TODO:Do you hear that? Do you feel it? The core's death rattle is sending 
+tremors through the earth and masonry.]]></entry>
+<entry id="str_vo_good_BR_sand_charmer_kill_0"><![CDATA[TODO:It is a child of the Valley, and will return in time. For now, 
+we focus on the task ahead]]></entry>
+<entry id="str_vo_good_BR_yngolian_kill_0"><![CDATA[TODO:What ever cosmic nightmare bore these horrors, we shall return them to it.]]></entry>
+<entry id="str_vo_good_BR_ghoul_mother_kill_0"><![CDATA[TODO:Our belongings are at last freed from the pilfering nuisance.
+Well done.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_boss_01_0"><![CDATA[TODO:A noble warrior given a fitting end. If only the same could 
+be said for the remainder of the Levantine.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_boss_02_0"><![CDATA[TODO:A serpentine demon hiding behind the veneer of human skin. 
+A terrible threat to our very campaign.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_boss_02_1"><![CDATA[TODO:At long last, committed to the sands and soils]]></entry>
+<entry id="str_vo_good_BR_exposed_success_boss_01_0"><![CDATA[TODO:The cannon is at last silenced, and left to be
+buried in the dunes.]]></entry>
+<entry id="str_vo_good_BR_exposed_success_boss_01_1"><![CDATA[TODO:The tribe may not know fear, but they understand danger.]]></entry>
+<entry id="str_vo_good_BR_exposed_success_boss_02_0"><![CDATA[TODO:Let the scarlet-stained sands of her camp serve as a mural
+to those who think we can be quelled.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_boss_01_0"><![CDATA[TODO:A great step closer to their inner-most dwellings where the
+trogs sacrifice and breed one another to achieve the form of their twisted messiah.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_boss_02_0"><![CDATA[TODO:None that I have ever seen could acheive such a feat. Your
+soldiers will be due a set of medals after such an unlikely success.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_boss_01_0"><![CDATA[TODO:Our soldiers will not be defeated by some mere illusion of beauty.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_boss_02_0"><![CDATA[TODO:The core is pulverized, and the cacti near the Reliquary writhe and wilt.
+All is going according to plan.]]></entry>
+<entry id="str_vo_good_BR_ghoul_mother_success_0"><![CDATA[TODO:At last these things are returned to their proper owners and
+we are free to resume the campaign.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_cleanse_01_0"><![CDATA[TODO:The Vizier's soldiers will march elsewhere for now.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_cleanse_02_0"><![CDATA[TODO:An example has been set today. No trespassers.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_cleanse_03_0"><![CDATA[TODO:Somehow I suspect their commanders will not miss them.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_explore_01_0"><![CDATA[TODO:These sandstone and granite surfaces are 
+becoming almost homely, no?]]></entry>
+<entry id="str_vo_good_BR_crypts_success_explore_02_0"><![CDATA[TODO:More Kvarotz relics kept out of Levantine hands. 
+Excellent.]]></entry>
+<entry id="str_vo_good_BR_crypts_success_explore_03_0"><![CDATA[TODO:Another route is established. These 
+mausoleums of technology become ever-navigable.]]></entry>
+<entry id="str_vo_good_BR_exposed_sun_success_explore_01_0"><![CDATA[TODO:Excellent performance. We'll be able
+to send out salvage teams in mere moments.]]></entry>
+<entry id="str_vo_good_BR_exposed_sun_success_explore_02_0"><![CDATA[TODO:With a clear route, we may spend less
+time in direct sunlight.]]></entry>
+<entry id="str_vo_good_BR_exposed_sun_success_cleanse_01_0"><![CDATA[TODO:The perils of the desert are nothing to us.]]></entry>
+<entry id="str_vo_good_BR_exposed_sun_success_cleanse_02_0"><![CDATA[TODO:Step into the shade. You've earned it.]]></entry>
+<entry id="str_vo_good_BR_exposed_moon_success_explore_01_0"><![CDATA[TODO:Even in the cold and the dark of night we
+can not be swayed from the path.]]></entry>
+<entry id="str_vo_good_BR_exposed_moon_success_explore_02_0"><![CDATA[TODO:You've proved these sunken structures to be 
+ever navigable.]]></entry>
+<entry id="str_vo_good_BR_exposed_moon_success_cleanse_01_0"><![CDATA[TODO:As much as I enjoy music, I appreciate the 
+silenced drums more.]]></entry>
+<entry id="str_vo_good_BR_exposed_moon_success_cleanse_02_0"><![CDATA[TODO:Their blood sacrifices are brought to a close.
+Fine work indeed.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_cleanse_01_0"><![CDATA[TODO:Their vile chittering subsides, and their stockpiles 
+are ripe to pilfered. Well done.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_cleanse_02_0"><![CDATA[TODO:I care not who the victim is. The horrors these devils 
+commit should be forever ceased.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_cleanse_03_0"><![CDATA[TODO:To think that these aberrant terrors were once human... 
+consider today's victory a mercy.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_explore_01_0"><![CDATA[TODO:With a bit of cleaning, these spoils will be as good 
+as... er, "new".]]></entry>
+<entry id="str_vo_good_BR_caverns_success_explore_02_0"><![CDATA[TODO:After a good rinse, you'll barely notice the stench... 
+When you put your mind to it.]]></entry>
+<entry id="str_vo_good_BR_caverns_success_explore_03_0"><![CDATA[TODO:Nothing here seems particularly tainted. A good harvest!]]></entry>
+<entry id="str_vo_good_BR_treasury_success_explore_01_0"><![CDATA[TODO:With each vine cut and bramble broken, the overgrowth is clearing.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_explore_02_0"><![CDATA[TODO:Landmarks are recorded and lurking dangers are exposed
+-You have done well.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_explore_03_0"><![CDATA[TODO:Charted paths lead to fruitful plunder.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_activate_01_0"><![CDATA[TODO:My my, those pockets are jangling quite loudly.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_activate_02_0"><![CDATA[TODO:Hmm! We may need to release some balast to offset this haul.]]></entry>
+<entry id="str_vo_good_BR_treasury_success_activate_03_0"><![CDATA[TODO:A beautiful, gleaming bounty... -For the cause of course!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_01_0"><![CDATA[TODO:Yes. Strike true!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_02_0"><![CDATA[TODO:Spectacular!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_03_0"><![CDATA[TODO:Good. Drive them to the ground!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_04_0"><![CDATA[TODO:Yes. Yes!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_05_0"><![CDATA[TODO:Devastation!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_06_0"><![CDATA[TODO:Strike them down, do not relent!]]></entry>
+<entry id="str_vo_good_BR_general_kill_big_01_0"><![CDATA[TODO:Another obstacle is cleared from our path.]]></entry>
+<entry id="str_vo_good_BR_general_kill_big_02_0"><![CDATA[TODO:No wall cannot crumble. No tree cannot be felled.]]></entry>
+<entry id="str_vo_good_BR_general_kill_big_03_0"><![CDATA[TODO:The scavengers will eat well tonight.]]></entry>
+<entry id="str_vo_good_BR_general_kill_big_04_0"><![CDATA[TODO:Hulking mass means nothing to a fierce warrior.]]></entry>
+<entry id="str_vo_good_BR_general_kill_first_01_0"><![CDATA[TODO:Carry on. They never slowed you down.]]></entry>
+<entry id="str_vo_good_BR_general_kill_first_02_0"><![CDATA[TODO:Their resistance is quelled.]]></entry>
+<entry id="str_vo_good_BR_general_kill_first_03_0"><![CDATA[TODO:Put down.]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_01_0"><![CDATA[TODO:An agonizing death. Slow, and measured.]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_02_0"><![CDATA[TODO:The body's weaknesses are exploited.]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_03_0"><![CDATA[TODO:Once the blood flows, the end has begun.]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_04_0"><![CDATA[TODO:Drawn out and merciless...]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_05_0"><![CDATA[TODO:An inevitable demise...]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_06_0"><![CDATA[TODO:The hourglass empties...]]></entry>
+<entry id="str_vo_good_BR_general_kill_DOT_07_0"><![CDATA[TODO:A cut vein, a drop of venom. Death does not regard the method.]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_01_0"><![CDATA[TODO:What a deathstroke!]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_02_0"><![CDATA[TODO:Destroyed.]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_03_0"><![CDATA[TODO:Devastated.]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_04_0"><![CDATA[TODO:The obstacle is removed.]]></entry>
+<entry id="str_vo_good_BR_general_kill_weak_01_0"><![CDATA[TODO:Dismantled.]]></entry>
+<entry id="str_vo_good_BR_general_kill_weak_02_0"><![CDATA[TODO:Brought down!]]></entry>
+<entry id="str_vo_good_BR_general_kill_weak_03_0"><![CDATA[TODO:They will fall. Each and every one.]]></entry>
+<entry id="str_vo_good_BR_general_kill_weak_04_0"><![CDATA[TODO:Very good. Keep momentum.]]></entry>
+<entry id="str_vo_good_BR_heal_01_0"><![CDATA[TODO:The wound closes, the bones are mended. 
+Press on.]]></entry>
+<entry id="str_vo_good_BR_heal_02_0"><![CDATA[TODO:We must care for one another.]]></entry>
+<entry id="str_vo_good_BR_heal_03_0"><![CDATA[TODO:Our injuries will mount. We must rebound.]]></entry>
+<entry id="str_vo_good_BR_heal_04_0"><![CDATA[TODO:Our care for one another is what sets us apart.]]></entry>
+<entry id="str_vo_good_BR_heal_05_0"><![CDATA[TODO:Mended.]]></entry>
+<entry id="str_vo_good_BR_heal_06_0"><![CDATA[TODO:This day is far from over. Step in good health.]]></entry>
+<entry id="str_vo_good_BR_heal_crit_01_0"><![CDATA[TODO:Like the touch of an angel.]]></entry>
+<entry id="str_vo_good_BR_heal_crit_02_0"><![CDATA[TODO:Exquisite.]]></entry>
+<entry id="str_vo_good_BR_heal_crit_03_0"><![CDATA[TODO:This one will not fall.]]></entry>
+<entry id="str_vo_good_BR_heal_crit_04_0"><![CDATA[TODO:Immeasurable life, granted.]]></entry>
+<entry id="str_vo_good_BR_heal_off_deathsdoor_01_0"><![CDATA[TODO:Stand tall. We fight on!]]></entry>
+<entry id="str_vo_good_BR_heal_off_deathsdoor_02_0"><![CDATA[TODO:Be strong. We will get through this.]]></entry>
+<entry id="str_vo_good_BR_heal_off_deathsdoor_03_0"><![CDATA[TODO:You live on.]]></entry>
+<entry id="str_vo_good_BR_heal_off_deathsdoor_04_0"><![CDATA[TODO:Shake it off. You will survive.]]></entry>
+<entry id="str_vo_good_BR_loot_01_0"><![CDATA[TODO:I am sure the previous owner will not mind.]]></entry>
+<entry id="str_vo_good_BR_loot_02_0"><![CDATA[TODO:Our cause is righteous, but requires funds.]]></entry>
+<entry id="str_vo_good_BR_loot_03_0"><![CDATA[TODO:Be gentle. For sale or for study, these 
+artifacts are precious.]]></entry>
+<entry id="str_vo_good_BR_loot_04_0"><![CDATA[TODO:Secure it, and march on. We still have much to do.]]></entry>
+<entry id="str_vo_good_BR_retreat_combat_success_1_0"><![CDATA[TODO:Good. Knowing when you're in over your 
+head is a rare quality.]]></entry>
+<entry id="str_vo_good_BR_retreat_combat_success_2_0"><![CDATA[TODO:Do not mistake pragmatism for cowardice.]]></entry>
+<entry id="str_vo_good_BR_retreat_combat_success_3_0"><![CDATA[TODO:Knowing your limit is key to survival.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_01_0"><![CDATA[TODO:What we did not take home in wealth, we took in knowledge.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_02_0"><![CDATA[TODO:Heed the lessons of your failures. They have much to teach you.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_03_0"><![CDATA[TODO:Our time will come soon. Simply... not today.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_04_0"><![CDATA[TODO:That will do. Limiting losses can be its own 
+victory at times.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_05_0"><![CDATA[TODO:When we can withstand no more punishment, 
+standing in defiance is pointless.]]></entry>
+<entry id="str_vo_good_BR_retreat_success_06_0"><![CDATA[TODO:Failure is but one part of success.]]></entry>
+<entry id="str_vo_good_BR_torchlight_01_0"><![CDATA[TODO:We follow the ever-guiding Light.]]></entry>
+<entry id="str_vo_good_BR_torchlight_02_0"><![CDATA[TODO:Against the light, our foes will fall.]]></entry>
+<entry id="str_vo_good_BR_torchlight_03_0"><![CDATA[TODO:The darkness will not impede us. We are the flame.]]></entry>
+<entry id="str_vo_good_BR_torchlight_04_0"><![CDATA[TODO:Our path is revealed. March on.]]></entry>
+<entry id="str_vo_good_BR_victory_first_01_0"><![CDATA[TODO:Another skirmish; another step forward.]]></entry>
+<entry id="str_vo_good_BR_victory_first_02_0"><![CDATA[TODO:We press on. There is much to do.]]></entry>
+<entry id="str_vo_good_BR_victory_first_03_0"><![CDATA[TODO:Wars consist of a great many battles. Continue.]]></entry>
+<entry id="str_vo_good_BR_victory_first_04_0"><![CDATA[TODO:An adequate performance for now. Keep it up.]]></entry>
+<entry id="str_vo_good_BR_virtue_courageous1_0"><![CDATA[TODO:The right example can improve the 
+morale of an entire fleet.]]></entry>
+<entry id="str_vo_good_BR_virtue_courageous2_0"><![CDATA[TODO:This one will not succumb to that creeping darkness!]]></entry>
+<entry id="str_vo_good_BR_virtue_focused1_0"><![CDATA[TODO:The heard pounds, eyes go wide, and senses sharpen!]]></entry>
+<entry id="str_vo_good_BR_virtue_focused2_0"><![CDATA[TODO:Determination and focus; waiting to be released.]]></entry>
+<entry id="str_vo_good_BR_virtue_powerful1_0"><![CDATA[TODO:Fatigue can wait. For now, strength takes hold.]]></entry>
+<entry id="str_vo_good_BR_virtue_powerful2_0"><![CDATA[TODO:More than a second wind- inner power is unleashed!]]></entry>
+<entry id="str_vo_good_BR_virtue_stalwart1_0"><![CDATA[TODO:A glimmer of hope is all it takes to stand 
+steadfast against evil.]]></entry>
+<entry id="str_vo_good_BR_virtue_stalwart2_0"><![CDATA[TODO:The fortitude to face these horrors
+comes from within.]]></entry>
+<entry id="str_vo_good_BR_virtue_vigorous1_0"><![CDATA[TODO:Yes! Rise above.]]></entry>
+<entry id="str_vo_good_BR_virtue_vigorous2_0"><![CDATA[TODO:The might of an indomitable spirit!]]></entry>
+<entry id="str_vo_house_of_ruin_0"><![CDATA[TODO:Ruin has come to our family.]]></entry>
+<entry id="str_vo_house_of_ruin_1"><![CDATA[TODO:You remember our venerable house,]]></entry>
+<entry id="str_vo_house_of_ruin_10"><![CDATA[TODO:I bent every effort towards
+the excavation and recovery]]></entry>
+<entry id="str_vo_house_of_ruin_11"><![CDATA[TODO:of those long buried secrets,]]></entry>
+<entry id="str_vo_house_of_ruin_12"><![CDATA[TODO:exhausting what remained
+of our family fortune]]></entry>
+<entry id="str_vo_house_of_ruin_13"><![CDATA[TODO:on swarthy workmen
+and sturdy shovels.]]></entry>
+<entry id="str_vo_house_of_ruin_14"><![CDATA[TODO:At last, in the salt-soaked
+crags beneath the lowest foundations]]></entry>
+<entry id="str_vo_house_of_ruin_15"><![CDATA[TODO:we unearthed that damnable portal
+and antediluvian evil.]]></entry>
+<entry id="str_vo_house_of_ruin_16"><![CDATA[TODO:Our every step unsettled
+the ancient earth]]></entry>
+<entry id="str_vo_house_of_ruin_17"><![CDATA[TODO:but we were in a realm
+of death and madness!]]></entry>
+<entry id="str_vo_house_of_ruin_18"><![CDATA[TODO:In the end, I alone fled
+laughing and wailing]]></entry>
+<entry id="str_vo_house_of_ruin_19"><![CDATA[TODO:through those blackened arcades of antiquity.]]></entry>
+<entry id="str_vo_house_of_ruin_2"><![CDATA[TODO:Opulent and imperial.]]></entry>
+<entry id="str_vo_house_of_ruin_20"><![CDATA[TODO:Until consciousness failed me.]]></entry>
+<entry id="str_vo_house_of_ruin_21"><![CDATA[TODO:You remember our venerable house,]]></entry>
+<entry id="str_vo_house_of_ruin_22"><![CDATA[TODO:opulent and imperial.]]></entry>
+<entry id="str_vo_house_of_ruin_23"><![CDATA[TODO:It is a festering abomination!]]></entry>
+<entry id="str_vo_house_of_ruin_24"><![CDATA[TODO:I beg you, return home]]></entry>
+<entry id="str_vo_house_of_ruin_25"><![CDATA[TODO:claim your birthright]]></entry>
+<entry id="str_vo_house_of_ruin_26"><![CDATA[TODO:and deliver our family]]></entry>
+<entry id="str_vo_house_of_ruin_27"><![CDATA[TODO:from the ravenous clutching shadows]]></entry>
+<entry id="str_vo_house_of_ruin_28"><![CDATA[TODO:of the Darkest Dungeon.]]></entry>
+<entry id="str_vo_house_of_ruin_3"><![CDATA[TODO:Gazing proudly from its
+stoic perch above the moor.]]></entry>
+<entry id="str_vo_house_of_ruin_4"><![CDATA[TODO:I lived all my years in that
+ancient, rumor shadowed manor.]]></entry>
+<entry id="str_vo_house_of_ruin_5"><![CDATA[TODO:Fattened by decadence and luxury.]]></entry>
+<entry id="str_vo_house_of_ruin_6"><![CDATA[TODO:And yet, I began to tire
+of conventional extravagance.]]></entry>
+<entry id="str_vo_house_of_ruin_7"><![CDATA[TODO:Singular, unsettling tales
+suggested the mansion itself]]></entry>
+<entry id="str_vo_house_of_ruin_8"><![CDATA[TODO:was a gateway to some
+fabulous and unnamable power.]]></entry>
+<entry id="str_vo_house_of_ruin_9"><![CDATA[TODO:With relic and ritual,]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss1_0"><![CDATA[TODO:This is not a man of villainy, nor a man of 
+machinations. He is a man of honor; of dignity.]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss1_1"><![CDATA[TODO:The conquest on the valley is not his calling, not his purpose. 
+Nonetheless, he stands steadfast between us and the Reliquary.]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss1_2"><![CDATA[TODO:Grant this Janissary a noble death.]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss2_0"><![CDATA[TODO:This woman… This serpent is not to be underestimated. 
+She takes no prisoners, and leaves no survivors.]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss2_1"><![CDATA[TODO:Not only appointed by the Vizier, she knows well of my...
+Of our intentions. Aiding the Levantine armada is secondary.]]></entry>
+<entry id="str_vo_load_BR_crypts_loading_boss2_2"><![CDATA[TODO:To repel us from the reliquary is her true purpose. 
+She poisons this world, as she would try to poison us.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss1_0"><![CDATA[TODO:For the Wildlanders, the spearhead and the throne are
+one and the same.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss1_1"><![CDATA[TODO:The Warhawk accepts nothing less than complete dominance. The 
+blood of giants flows through her veins, imbuing her with unrivaled strength.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss1_2"><![CDATA[TODO:The hawk is a symbol of the utmost supremacy-
+Disgrace it.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss2_0"><![CDATA[TODO:This matron has forever walked down a road with no destination.
+She seeks the truth of a question with no answer.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss2_1"><![CDATA[TODO:Her path is traced across the land by heaps of mangled and
+bloodlet corpses.]]></entry>
+<entry id="str_vo_load_BR_exposed_loading_boss2_2"><![CDATA[TODO:In her dying moments, she will understand the riddle imparted
+to her by the gods...]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss1_0"><![CDATA[TODO:Selective breeding is perhaps the one intelligent skill the Troglodytes
+possess. The Gastrosaur is one such an example of their pursuit]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss1_1"><![CDATA[TODO:of the perfect specimen. This monstrosity has been the bane of ground
+Caravans, and is no small part responsible for the capture]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss1_2"><![CDATA[TODO:of a great many victims. 
+-You know what must be done.]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss2_0"><![CDATA[TODO:We can ignore this matter no longer. -A wurm is impeding us.
+A wurm so ancient, it has grown beyond comprehension.]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss2_1"><![CDATA[TODO:Not only does it threaten to cause cave-ins down below, it terrorizes
+those on the surface, friend and foe alike. ]]></entry>
+<entry id="str_vo_load_BR_caverns_loading_boss2_2"><![CDATA[TODO:If we are to proceed, we must do the unthinkable and kill this 
+Leviathan of the sands.]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss1_0"><![CDATA[TODO:Reaching the Reliquary's gates will require more than some gardening 
+shears to cut through the Cactonid thickets.]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss1_1"><![CDATA[TODO:The Alraune guards the way. It is said to take the form of a mass 
+of beautiful humans, fused into a pulpy flower-flesh.]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss1_2"><![CDATA[TODO:Not only is it a charybdian danger, it seems to guide and 
+direct the Cacti around it.]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss2_0"><![CDATA[TODO:We slice and carve our way deeper into the grove. 
+The walls of greenery close in,]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss2_1"><![CDATA[TODO:driving us to one of the main Cactonid nodes. 
+Its influence is vast, hence it is]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss2_2"><![CDATA[TODO:guarded by layers of amorphous foliagic flesh, freely reforming
+to protect its horrific core. Whatever form its]]></entry>
+<entry id="str_vo_load_BR_treasury_loading_boss2_3"><![CDATA[TODO:living barrier takes, it shall be broken, and Cactonids all across 
+the valley will feel the collapse of their eldritch nucleus.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_cleanse_01_0"><![CDATA[TODO:Levantine scouts patrol this area. Do not allow 
+them to report back.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_cleanse_02_0"><![CDATA[TODO:The Levantine seek to establish an outpost here. 
+Are we simply going to let them?]]></entry>
+<entry id="str_vo_neutral_BR_crypts_cleanse_03_0"><![CDATA[TODO:Armoured footsteps rattle in the distance. 
+Silence them.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_explore_01_0"><![CDATA[TODO:These ruins were once teeming with the Kvarotz people.
+Let us see what they have left behind.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_explore_02_0"><![CDATA[TODO:There is much to be gleaned from these age-old workshops. 
+Establish a route through this area.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_explore_03_0"><![CDATA[TODO:Familiarize yourself with these catacombs, hence 
+we be able to explore them easily in the coming days.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_sun_explore_01_0"><![CDATA[TODO:Work swiftly, let the sun prove to be our 
+greatest adversary.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_sun_explore_02_0"><![CDATA[TODO:Keep to the shade when you are able. 
+The day will not be a short one.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_sun_cleanse_01_0"><![CDATA[TODO:The Wildlanders are not opportunists.
+We must face them in any conditions.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_sun_cleanse_02_0"><![CDATA[TODO:Our foes are undaunted by the scorching heat.
+We shall be so in turn.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_moon_explore_01_0"><![CDATA[TODO:Let the moonlight be your guide amongst
+these crumbling ruins.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_moon_explore_02_0"><![CDATA[TODO:We cannot properly study these ruins if we
+are under attack. Make it safe here.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_moon_cleanse_01_0"><![CDATA[TODO:Drumbeats sound off from deeper into the ruins. 
+Our foes have begun their rituals.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_moon_cleanse_02_0"><![CDATA[TODO:The clan's rites and rituals bring them strength.
+Bring an end to their ceremonies.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_cleanse_01_0"><![CDATA[TODO:The cave-dwelling savages are vast in number-
+A culling is in order!]]></entry>
+<entry id="str_vo_neutral_BR_caverns_cleanse_02_0"><![CDATA[TODO:These 'troglodytes' bar access to the vast pools and 
+formations of amber deep beneath the Reliquary. Remedy this..]]></entry>
+<entry id="str_vo_neutral_BR_caverns_cleanse_03_0"><![CDATA[TODO:With each atrocity and sacrifice, these creatures hobble closer to 
+acheiving their dark divinity. Let us remedy this predicament.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_explore_01_0"><![CDATA[TODO:The still-molten Amber flows freely here. It is no safer
+in its fluid state than in its crystalline form.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_explore_02_0"><![CDATA[TODO:Filthy and perilous as these tunnels may be, there is
+plunder left to be found. Collect what you are able.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_explore_03_0"><![CDATA[TODO:Within the heaps of debris and refuse among the troglodytes one 
+can find an abundance of goods, and that ever-precious amber.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_explore_01_0"><![CDATA[TODO:Complacency will be your undoing in this place. Stay Alert.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_explore_02_0"><![CDATA[TODO:Trust nothing in these overtaken passageways. Deception surrounds you.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_explore_03_0"><![CDATA[TODO:Do not allow greed to overcome your senses. We are here to scout ahead.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_activate_01_0"><![CDATA[TODO:Large heaps of treasures are strewn about this place. 
+You know well what that means by now.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_activate_02_0"><![CDATA[TODO:The Kvarotz have kept their most prized valuables here. 
+Pilfer to your heart's content!]]></entry>
+<entry id="str_vo_neutral_BR_treasury_activate_03_0"><![CDATA[TODO:Greed is a dangerous thing. But we are good friends with danger, are we not?]]></entry>
+<entry id="str_vo_neutral_BR_crypts_boss_01_0"><![CDATA[TODO:Locate the commander's camp and put a stop to his reign.]]></entry>
+<entry id="str_vo_neutral_BR_crypts_boss_02_0"><![CDATA[TODO:Seek out the snake's camp. Search for 
+an excess of opulence and luxury.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_boss_01_0"><![CDATA[TODO:These Wildlanders are eager to adopt Kvarotz weaponry.
+Be mindful of the gunpowder.]]></entry>
+<entry id="str_vo_neutral_BR_exposed_boss_02_0"><![CDATA[TODO:The Matron and her pack delight in torrents of blood and
+viscera. Let us give her a death befitting of her desire.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_boss_01_0"><![CDATA[TODO:Battle your way to the bestial breeding pens. The Troglodytes
+will send their mightiest creatures to halt our progress, ]]></entry>
+<entry id="str_vo_neutral_BR_caverns_boss_01_1"><![CDATA[TODO:So we must strike without delay.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_boss_02_0"><![CDATA[TODO:If we are to strike the heart of the Troglodytes, we must clear
+this desert leviathan from our path.]]></entry>
+<entry id="str_vo_neutral_BR_caverns_boss_02_1"><![CDATA[TODO:When you have the mighty terror's attention, we will provide
+cannon fire.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_boss_01_0"><![CDATA[TODO:An alluring scent fills the air, drawing prey deeper into the bloodthristy grove.]]></entry>
+<entry id="str_vo_neutral_BR_treasury_boss_02_0"><![CDATA[TODO:The core's grasp here is formidable. Follow the most constricted of paths.]]></entry>
+<entry id="str_vo_old_road_0"><![CDATA[TODO:You will arrive along the old road.]]></entry>
+<entry id="str_vo_old_road_1"><![CDATA[TODO:It winds with a troubling,
+serpent-like suggestion]]></entry>
+<entry id="str_vo_old_road_10"><![CDATA[TODO:So steel yourself]]></entry>
+<entry id="str_vo_old_road_11"><![CDATA[TODO:and remember there can be no bravery]]></entry>
+<entry id="str_vo_old_road_12"><![CDATA[TODO:without madness.]]></entry>
+<entry id="str_vo_old_road_13"><![CDATA[TODO:The old road will take you hell]]></entry>
+<entry id="str_vo_old_road_14"><![CDATA[TODO:but in that gaping abyss]]></entry>
+<entry id="str_vo_old_road_15"><![CDATA[TODO:we will find our redemption.]]></entry>
+<entry id="str_vo_old_road_2"><![CDATA[TODO:through the corrupted countryside.]]></entry>
+<entry id="str_vo_old_road_3"><![CDATA[TODO:Leading only, I fear]]></entry>
+<entry id="str_vo_old_road_4"><![CDATA[TODO:to ever more tenebrous places.]]></entry>
+<entry id="str_vo_old_road_5"><![CDATA[TODO:There is a sickness
+in the ancient pitted cobbles]]></entry>
+<entry id="str_vo_old_road_6"><![CDATA[TODO:of the old road]]></entry>
+<entry id="str_vo_old_road_7"><![CDATA[TODO:and on its writhing path]]></entry>
+<entry id="str_vo_old_road_8"><![CDATA[TODO:you will face viciousness,
+violence, and perhaps]]></entry>
+<entry id="str_vo_old_road_9"><![CDATA[TODO:other damnably transcendent terrors.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_01_0"><![CDATA[TODO:Do not dwell on the harships. Wallowing in misery 
+is for the common drunkard.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_02_0"><![CDATA[TODO:Steady yourself, the winds are blowing strong!]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_03_0"><![CDATA[TODO:We each carry a looming shadow my friend- 
+of that we can have no doubts.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_04_0"><![CDATA[TODO:My path leading here has been a hard one, friend. 
+And I find it safe to say things will not get easier.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_05_0"><![CDATA[TODO:Trust that fleeting light which guides us through the
+the darkness. But, do not become a moth.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_06_0"><![CDATA[TODO:It is through extraordinary fortune that I have made the acquaintance
+of this ship's Doctor. I would prefer not to keep him busy.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_07_0"><![CDATA[TODO:I treat each and every pair of hands to grace this ship as valuable-
+But there is no conquest without loss.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_08_0"><![CDATA[TODO:Regretably, not each soul among us will be able to 
+witness the end of it all.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_09_0"><![CDATA[TODO:That looming megalith on the Valley's crest...
+We will break its grip on this world in time.]]></entry>
+<entry id="str_vo_town_BR_backstory_fail_10_0"><![CDATA[TODO:At times, I find myself frustrated by the isolation of this endeavor-
+That no neighboring kingdom dare aid us in this cause.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_01_0"><![CDATA[TODO:To return here after so long... It is difficult to describe exactly what this land means to me.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_02_0"><![CDATA[TODO:Secure the treasure, settle in, and sharpen your blades. There is much work ahead of us.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_03_0"><![CDATA[TODO:It is strange that a place so distant from the rest of the 
+world can possess such marvelous technologies...]]></entry>
+<entry id="str_vo_town_BR_backstory_success_04_0"><![CDATA[TODO:When was it when we last met? I believe I was still in the navy at the time.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_05_0"><![CDATA[TODO:The sails unfurl, and ballast pours out. We press on.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_06_0"><![CDATA[TODO:Our journey will be long. A patient leader seldom 
+suffers losses.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_07_0"><![CDATA[TODO:Treat my ship hands well. You will not find a more 
+skillful crew.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_08_0"><![CDATA[TODO:Rest deeply here. We must be at our finest to succeed.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_09_0"><![CDATA[TODO:I had not anticipated you would bring such an... uh... unconventional 
+assortment of warriors.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_10_0"><![CDATA[TODO:The soils and sands below are my birthplace, 
+yet it is not the home I remember...]]></entry>
+<entry id="str_vo_town_BR_backstory_success_11_0"><![CDATA[TODO:My first mate is quite the oddity... though, I suppose the same thing
+could be said of you and I.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_12_0"><![CDATA[TODO:Rather frigid this high up isn't it? With a warm drink, you'll
+hardly notice.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_13_0"><![CDATA[TODO:Of all the commanders, generals, admirals, and lords that I have known, I 
+would place my faith in none but you my friend.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_14_0"><![CDATA[TODO:We are progressing! Stone by stone, corpse by corpse, we march onward to the Reliquary.]]></entry>
+<entry id="str_vo_town_BR_backstory_success_15_0"><![CDATA[TODO:They say that those who stray into the Reliquary are driven mad, or remolded
+into its mindless vassals. Amusing stories, eh?]]></entry>
+<entry id="str_vo_town_BR_dismiss_general_01_0"><![CDATA[TODO:The valley has no place for those lacking in constitution.]]></entry>
+<entry id="str_vo_town_BR_dismiss_general_02_0"><![CDATA[TODO:If they are unworthy now, they'd have no hope later.]]></entry>
+<entry id="str_vo_town_BR_dismiss_general_03_0"><![CDATA[TODO:We have greater tasks at hand than coddling this one.]]></entry>
+<entry id="str_vo_town_BR_dismiss_general_04_0"><![CDATA[TODO:This ship has no place for the incapable.]]></entry>
+<entry id="str_vo_town_BR_dismiss_general_05_0"><![CDATA[TODO:I see this one could not earn their keep. Unfortunate.]]></entry>
+<entry id="str_vo_tutorial_BR_first_abbey_0"><![CDATA[TODO:Amber is a curious substance. In its raw state, it is unstable. Volatile. 
+We need every pair of hands available to convert it to a usable state.]]></entry>
+<entry id="str_vo_tutorial_BR_first_blacksmith_0"><![CDATA[TODO:It is not often you see a forge on a ship. 
+Do not take this oddity for granted]]></entry>
+<entry id="str_vo_tutorial_BR_first_captain_0"><![CDATA[TODO:My dear old friend... It is a relief my letter found its way to you so 
+quickly. Settle in. Our task ahead is neither simple nor easy.]]></entry>
+<entry id="str_vo_tutorial_BR_first_graveyard_0"><![CDATA[TODO:There will be losses, and they will be given proper remembrance, 
+but we mustn't linger on our failures.]]></entry>
+<entry id="str_vo_tutorial_BR_first_guild_0"><![CDATA[TODO:Our enemies are disciplined, wild, or naturally savage. 
+No amount of preparation is too much.]]></entry>
+<entry id="str_vo_tutorial_BR_first_kill_0"><![CDATA[TODO:Good. Soon it will be first nature to you.]]></entry>
+<entry id="str_vo_tutorial_BR_first_nomad_0"><![CDATA[TODO:Be it prized gem, or unremarkable stone, these mere 
+objects are invaluable to our success.]]></entry>
+<entry id="str_vo_tutorial_BR_first_provision_0"><![CDATA[TODO:As the age-old saying goes; how much is your life worth?]]></entry>
+<entry id="str_vo_tutorial_BR_first_quest_select_0"><![CDATA[TODO:Welcome to the Valley. It is beautiful but not forgiving, 
+and the careless will know its wrath.]]></entry>
+<entry id="str_vo_tutorial_BR_first_sanitarium_0"><![CDATA[TODO:Within one's own mind can be a terrible place 
+to be if it is not cared for.]]></entry>
+<entry id="str_vo_tutorial_BR_first_stagecoach_0"><![CDATA[TODO:Our task is perilous. A small band of fighters
+will not suffice.]]></entry>
+<entry id="str_vo_tutorial_BR_first_survivalist_0"><![CDATA[TODO:The valley does not condone foolhardiness. 
+They must be in tune with the land.]]></entry>
+<entry id="str_vo_tutorial_BR_first_tavern_0"><![CDATA[TODO:Our forces should find refuge here when the burdens 
+of the world become too much to carry.]]></entry>
+<entry id="str_vo_tutorial_BR_first_town_0"><![CDATA[TODO:I welcome you to my ship. Under this scorching sun, in this vast desert, 
+on these hallowed lands,]]></entry>
+<entry id="str_vo_tutorial_BR_first_town_1"><![CDATA[TODO:there is much to be done. 
+Settle in quickly. The Reliquary awaits us.]]></entry>
+<entry id="str_vo_tutorial_BR_first_battle_0"><![CDATA[TODO:Battle in the valley will be different from what you are accustomed to.]]></entry>
+<entry id="str_vo_tutorial_BR_second_battle_0"><![CDATA[TODO:Our foes think themselves indomitable. Teach them the truth.]]></entry>
+<entry id="str_vo_town_BR_recruit_abomination_0"><![CDATA[TODO:There is always a place here for those who have been wronged, 
+only to rise above]]></entry>
+<entry id="str_vo_town_BR_recruit_antiquarian_0"><![CDATA[TODO:A woman that knows the real treasures of this 
+place will be truly invaluable.]]></entry>
+<entry id="str_vo_town_BR_recruit_arbalest_0"><![CDATA[TODO:How strange that something so quaint as a fletched stick -can fell giants.]]></entry>
+<entry id="str_vo_town_BR_recruit_bounty_hunter_0"><![CDATA[TODO:There are no bounties here, but quarries are plentiful.]]></entry>
+<entry id="str_vo_town_BR_recruit_crusader_0"><![CDATA[TODO:Would-be holy warriors plague these lands. This man shall show what true devotion is.]]></entry>
+<entry id="str_vo_town_BR_recruit_dredge_0"><![CDATA[TODO:A seasoned soldier. A mechanized demigod of death. Vestiges of a fallen land.]]></entry>
+<entry id="str_vo_town_BR_recruit_flagellant_0"><![CDATA[TODO:Those who embrace struggle and suffering
+will be at home in the lands below.]]></entry>
+<entry id="str_vo_town_BR_recruit_grave_robber_0"><![CDATA[TODO:There is no shortage of tombs to be
+raided in these lands. Our task requires finance.]]></entry>
+<entry id="str_vo_town_BR_recruit_hellion_0"><![CDATA[TODO:Some see savagery. I see resolve.]]></entry>
+<entry id="str_vo_town_BR_recruit_highwayman_0"><![CDATA[TODO:For the repentant thief, redemption can be its own prize.]]></entry>
+<entry id="str_vo_town_BR_recruit_houndmaster_0"><![CDATA[TODO:In a time of untrustworthy people, a dog is a beacon of faith.]]></entry>
+<entry id="str_vo_town_BR_recruit_jester_0"><![CDATA[TODO:Only when we cannot sing and laugh, is hope truly lost.]]></entry>
+<entry id="str_vo_town_BR_recruit_judicator_0"><![CDATA[TODO:It takes unbreakable resolve and devotion to the light to resist the
+corruption garnered from amber consumption.]]></entry>
+<entry id="str_vo_town_BR_recruit_leper_0"><![CDATA[TODO:This man's greatness is not in his strength; 
+it is in his spirit.]]></entry>
+<entry id="str_vo_town_BR_recruit_man_at_arms_0"><![CDATA[TODO:Age brings wisdom. Wisdom brings success.]]></entry>
+<entry id="str_vo_town_BR_recruit_musketeer_0"><![CDATA[TODO:We can provide her with gunpowder if she can 
+provide us with her talents.]]></entry>
+<entry id="str_vo_town_BR_recruit_occultist_0"><![CDATA[TODO:The Pagan gods' power is not to be toyed 
+with by those without the proper constitution.]]></entry>
+<entry id="str_vo_town_BR_recruit_plague_doctor_0"><![CDATA[TODO:There is much to be gleaned here for 
+the alchemist and the doctor.]]></entry>
+<entry id="str_vo_town_BR_recruit_shieldbreaker_0"><![CDATA[TODO:Through embracing one's fear, one may harness its powers.]]></entry>
+<entry id="str_vo_town_BR_recruit_vestal_0"><![CDATA[TODO:Faith and care-giving are indispensable 
+qualities in these lands.]]></entry>
+<entry id="str_vo_town_BR_recruit_veiled_0"><![CDATA[TODO:For us, the power of the profaned light. For him, a promise to the end of his tale.]]></entry>
+<entry id="str_vo_town_BR_recruit_philomath_0"><![CDATA[TODO:A brilliant woman, and a cautionary tale to those who would seek forbidden knowledge.]]></entry>
+<entry id="str_vo_town_BR_recruit_hexer_0"><![CDATA[TODO:Gluttony is not necessarily a sin. It can have its... uh... purposes...]]></entry>
+<entry id="str_vo_town_event_br_free_tech_0"><![CDATA[TODO:Our allies in trade are allies indeed. But business is still business]]></entry>
+<entry id="str_vo_town_event_br_hero_death_0"><![CDATA[TODO:Let me... Soften the blow- This time...]]></entry>
+<entry id="str_vo_town_event_br_amber_explosion_0"><![CDATA[TODO:*Coughing* It seems there has been a bit of an incident.]]></entry>
+<entry id="str_vo_town_event_br_free_dust_0"><![CDATA[TODO:It is not desolate down there. Recesses of civility dot the hills...]]></entry>
