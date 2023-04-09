@@ -929,7 +929,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_levantine_cartography_effect"><![CDATA[TODO:Levantine battle strategies are learned!]]></entry>
 <entry id="str_curio_levantine_cartography_torch_effect"><![CDATA[TODO:The enemy's maps are burnt to a crisp!]]></entry>
 <entry id="str_curio_levantine_cartography_arch_kit_effect"><![CDATA[TODO:Upon closer inspection, secrets of the Catacombs are revealed!]]></entry>
-<entry id="str_curio_title_levantine_defector"><![CDATA[TODO:Levantine Defector]]></entry>
+<entry id="str_curio_title_levantine_defector"><![CDATA[Déserteur levantin]]></entry>
 <entry id="str_curio_content_levantine_defector"><![CDATA[TODO:VENDOR: The Levantine defector offers riches in exchange for supplies.]]></entry>
 <entry id="str_curio_levantine_defector_torch_loot"><![CDATA[TODO:"It's not much, but I'll take it."]]></entry>
 <entry id="str_curio_levantine_defector_laudanum_loot"><![CDATA[TODO:"I'll find a use for it."]]></entry>
