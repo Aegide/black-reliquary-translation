@@ -7,19 +7,19 @@ Unfortunately, we can't get rid of this pop-up, or even make it link to our soci
 <entry id="str_open_store_ans_yes"><![CDATA[TODO:Very Cool!]]></entry>
 <entry id="str_backend_disabled"><![CDATA[TODO:This pop-up was meant to ask about data collection required for The Butcher’s Circus DLC.
 We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black Reliquary.]]></entry>
-<entry id="estate_title_default_data"><![CDATA[TODO:Flameseeker]]></entry>
-<entry id="str_save_pre_click"><![CDATA[TODO:Click the letter to begin...]]></entry>
-<entry id="str_save_post_click"><![CDATA[TODO:Flameseeker]]></entry>
-<entry id="fe_flow_mode_base_confirm"><![CDATA[TODO:Reliquary]]></entry>
+<entry id="estate_title_default_data"><![CDATA[Chasseur de la Flamme]]></entry>
+<entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer]]></entry>
+<entry id="str_save_post_click"><![CDATA[Chasseur de la Flamme]]></entry>
+<entry id="fe_flow_mode_base_confirm"><![CDATA[Reliquaire]]></entry>
 <entry id="str_game_mode_select_base_tooltip"><![CDATA[TODO:Reliquary campaigns are the "original" settings for the game. For those familiar with Darkest Dungeon, this will test your skills.]]></entry>
-<entry id="str_mods_installed"><![CDATA[TODO:Addons Included]]></entry>
-<entry id="str_ugc_show_panel_tooltip"><![CDATA[TODO:Enable / View Addons]]></entry>
-<entry id="str_ugc_sub_title"><![CDATA[TODO:Drag Addons to Prioritize. Top of list has highest priority.]]></entry>
-<entry id="str_ugc_title"><![CDATA[TODO:Choose Addons to Enable]]></entry>
+<entry id="str_mods_installed"><![CDATA[Mods installés]]></entry>
+<entry id="str_ugc_show_panel_tooltip"><![CDATA[Activer / Voir les mods]]></entry>
+<entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité. Le haut de la liste a la plus haute priorité.]]></entry>
+<entry id="str_ugc_title"><![CDATA[Choisir les mods à activer]]></entry>
 <entry id="menu_base_element_view_glossary"><![CDATA[TODO:Info Comms]]></entry>
 <entry id="town_event_title_out_of_date"><![CDATA[TODO:UP TO DATE]]></entry>
 <entry id="town_event_description_out_of_date"><![CDATA[TODO:Your version of Black Reliquary is now up to date]]></entry>
-<entry id="estate_title_format"><![CDATA[TODO:The Z.N.O. %s]]></entry>
+<entry id="estate_title_format"><![CDATA[Le Z.N.O. %s]]></entry>
 <entry id="curio_tooltip_quest_item_slot"><![CDATA[TODO:Drag QUEST ITEM from inventory here.]]></entry>
 <entry id="str_torch_overlay_hero_buffs_header"><![CDATA[TODO:Hero Party Effects]]></entry>
 <entry id="str_torch_overlay_monster_buffs_header"><![CDATA[TODO:Monster Effects]]></entry>
@@ -64,9 +64,9 @@ Current Torch Level:]]></entry>
 <entry id="str_darkness_title_4"><![CDATA[TODO:BLACK AS PITCH
 +++Kvarotz Spawn Chance
 Current Torch Level:]]></entry>
-<entry id="str_meal_heal_format"><![CDATA[TODO:]]></entry>
-<entry id="str_meal_not_enough_provisions"><![CDATA[TODO:(Not Enough Food)]]></entry>
-<entry id="str_meal_stress_format"><![CDATA[TODO:]]></entry>
+<entry id="str_meal_heal_format"><![CDATA[]]></entry>
+<entry id="str_meal_not_enough_provisions"><![CDATA[(Pas assez de nourriture)]]></entry>
+<entry id="str_meal_stress_format"><![CDATA[]]></entry>
 <entry id="str_meal_title_0"><![CDATA[TODO:None
 {colour_start|harmful}-20% {colour_start|healhp}HP{colour_end}
 +15 {colour_start|stress}Stress{colour_end}{colour_end}]]></entry>
@@ -84,9 +84,9 @@ Current Torch Level:]]></entry>
 <entry id="dungeon_name_darkestdungeon"><![CDATA[TODO:]]></entry>
 <entry id="dungeon_name_town"><![CDATA[TODO:]]></entry>
 <entry id="dungeon_name_tutorial"><![CDATA[TODO:]]></entry>
-<entry id="dungeon_name_warrens"><![CDATA[TODO:Caverns]]></entry>
-<entry id="dungeon_name_weald"><![CDATA[TODO:Treasury]]></entry>
-<entry id="raid_results_progression_return_to_town"><![CDATA[TODO:Return to Flameseeker]]></entry>
+<entry id="dungeon_name_warrens"><![CDATA[Cavernes]]></entry>
+<entry id="dungeon_name_weald"><![CDATA[Trésorerie]]></entry>
+<entry id="raid_results_progression_return_to_town"><![CDATA[Retourner au Chasseur de la Flamme]]></entry>
 <entry id="str_embarked_on_cleanse_sun_cove"><![CDATA[TODO:{?hero_names}%s embarked to slay evil in the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_cleanse_moon_cove"><![CDATA[TODO:{?hero_names}%s embarked to slay evil in the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_cleanse_cata_crypts"><![CDATA[TODO:{?hero_names}%s embarked to slay evil in the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
@@ -118,9 +118,9 @@ Current Torch Level:]]></entry>
 <entry id="str_embarked_on_treasury_act_1"><![CDATA[TODO:{?hero_names}%s plundered the riches of the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_treasury_act_3"><![CDATA[TODO:{?hero_names}%s plundered the riches of the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_treasury_act_5"><![CDATA[TODO:{?hero_names}%s plundered the riches of the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="town_quest_name_explore_cata+1+crypts+explore_cata"><![CDATA[TODO:Scout]]></entry>
-<entry id="town_quest_name_explore_cata+2+crypts+explore_cata"><![CDATA[TODO:Explore]]></entry>
-<entry id="town_quest_name_explore_cata+3+crypts+explore_cata"><![CDATA[TODO:Map]]></entry>
+<entry id="town_quest_name_explore_cata+1+crypts+explore_cata"><![CDATA[Repérage]]></entry>
+<entry id="town_quest_name_explore_cata+2+crypts+explore_cata"><![CDATA[Exploration]]></entry>
+<entry id="town_quest_name_explore_cata+3+crypts+explore_cata"><![CDATA[Cartographie]]></entry>
 <entry id="town_quest_name_explore_sun+1+cove+explore_sun"><![CDATA[TODO:Scout[{colour_start|sun_torch}Day{colour_end}]]]></entry>
 <entry id="town_quest_name_explore_sun+2+cove+explore_sun"><![CDATA[TODO:Explore[{colour_start|sun_torch}Day{colour_end}]]]></entry>
 <entry id="town_quest_name_explore_sun+3+cove+explore_sun"><![CDATA[TODO:Map[{colour_start|sun_torch}Day{colour_end}]]]></entry>
