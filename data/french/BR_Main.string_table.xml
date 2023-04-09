@@ -81,9 +81,9 @@ Current Torch Level:]]></entry>
 -5 {colour_start|stress}Stress{colour_end}{colour_end}]]></entry>
 <entry id="dungeon_name_cove"><![CDATA[TODO:Exposed Interior]]></entry>
 <entry id="dungeon_name_crypts"><![CDATA[TODO:Catacombs]]></entry>
-<entry id="dungeon_name_darkestdungeon"><![CDATA[TODO:]]></entry>
-<entry id="dungeon_name_town"><![CDATA[TODO:]]></entry>
-<entry id="dungeon_name_tutorial"><![CDATA[TODO:]]></entry>
+<entry id="dungeon_name_darkestdungeon"><![CDATA[]]></entry>
+<entry id="dungeon_name_town"><![CDATA[]]></entry>
+<entry id="dungeon_name_tutorial"><![CDATA[]]></entry>
 <entry id="dungeon_name_warrens"><![CDATA[Cavernes]]></entry>
 <entry id="dungeon_name_weald"><![CDATA[Trésorerie]]></entry>
 <entry id="raid_results_progression_return_to_town"><![CDATA[Retourner au Chasseur de la Flamme]]></entry>
@@ -1537,30 +1537,30 @@ On Mystical Hit: Buff Self: +8 ACC (2 tns){colour_end}]]></entry>
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_hook"><![CDATA[TODO:Shredding Stars]]></entry>
-<entry id="enemy_type_name_levantine"><![CDATA[TODO:Levantine]]></entry>
-<entry id="enemy_type_name_lost"><![CDATA[TODO:Lost Legion]]></entry>
-<entry id="enemy_type_name_kvarotz"><![CDATA[TODO:Kvarotz]]></entry>
-<entry id="enemy_type_name_wildlander"><![CDATA[TODO:Wildlander]]></entry>
-<entry id="enemy_type_name_ghoul"><![CDATA[TODO:Ghoul]]></entry>
-<entry id="enemy_type_name_troglodyte"><![CDATA[TODO:Troglodyte]]></entry>
-<entry id="enemy_type_name_cactonid"><![CDATA[TODO:Cactonid]]></entry>
+<entry id="enemy_type_name_levantine"><![CDATA[Levantin]]></entry>
+<entry id="enemy_type_name_lost"><![CDATA[Légion perdue]]></entry>
+<entry id="enemy_type_name_kvarotz"><![CDATA[Kvarotz]]></entry>
+<entry id="enemy_type_name_wildlander"><![CDATA[Sauvageon]]></entry>
+<entry id="enemy_type_name_ghoul"><![CDATA[Goule]]></entry>
+<entry id="enemy_type_name_troglodyte"><![CDATA[Troglodyte]]></entry>
+<entry id="enemy_type_name_cactonid"><![CDATA[Cactonide]]></entry>
 <entry id="enemy_type_name_wildlife"><![CDATA[TODO:Wildlife]]></entry>
-<entry id="enemy_type_name_ammo_box"><![CDATA[TODO:Crate]]></entry>
-<entry id="enemy_type_name_apprentice"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_veteran"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_champion"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_darkest"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_boss"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_yngolian"><![CDATA[TODO:]]></entry>
-<entry id="enemy_type_name_sand_charmer"><![CDATA[TODO:]]></entry>
+<entry id="enemy_type_name_ammo_box"><![CDATA[Caisse]]></entry>
+<entry id="enemy_type_name_apprentice"><![CDATA[]]></entry>
+<entry id="enemy_type_name_veteran"><![CDATA[]]></entry>
+<entry id="enemy_type_name_champion"><![CDATA[]]></entry>
+<entry id="enemy_type_name_darkest"><![CDATA[]]></entry>
+<entry id="enemy_type_name_boss"><![CDATA[]]></entry>
+<entry id="enemy_type_name_yngolian"><![CDATA[]]></entry>
+<entry id="enemy_type_name_sand_charmer"><![CDATA[]]></entry>
 <entry id="enemy_type_name_swarm"><![CDATA[TODO:{colour_start|notable}Swarm{colour_end}]]></entry>
 <entry id="enemy_type_name_flowering"><![CDATA[TODO:{colour_start|notable}Flowering{colour_end}]]></entry>
 <entry id="enemy_type_name_stoneworkq"><![CDATA[TODO:Stonework?]]></entry>
-<entry id="enemy_type_name_br_enemy"><![CDATA[TODO:]]></entry>
+<entry id="enemy_type_name_br_enemy"><![CDATA[]]></entry>
 <entry id="enemy_type_name_monke"><![CDATA[TODO:{colour_start|white}̠{colour_end}]]></entry>
 <entry id="enemy_type_name_corpses_tt"><![CDATA[TODO:Clear All Corpses^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="effect_tooltip_kill_enemy_type"><![CDATA[TODO:%s]]></entry>
-<entry id="str_monstername_attack_dummy_A"><![CDATA[TODO:]]></entry>
+<entry id="str_monstername_attack_dummy_A"><![CDATA[]]></entry>
 <entry id="str_monstername_BR_corpse_A"><![CDATA[Cadavre]]></entry>
 <entry id="str_monstername_BR_corpse_B"><![CDATA[Cadavre]]></entry>
 <entry id="str_monstername_BR_corpse_C"><![CDATA[Cadavre]]></entry>
@@ -1935,7 +1935,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_ghoul_mother_C"><![CDATA[TODO:Ghoul Mother]]></entry>
 <entry id="str_monstername_anti_loot_A"><![CDATA[TODO:Ghoul Mother]]></entry>
 <entry id="str_monstername_anti_loot_B"><![CDATA[TODO:Ghoul Mother]]></entry>
-<entry id="str_monstername_daric_gold_A"><![CDATA[TODO:]]></entry>
+<entry id="str_monstername_daric_gold_A"><![CDATA[]]></entry>
 <entry id="mother_run_bark"><![CDATA[TODO:It still lives...]]></entry>
 <entry id="mother_run_bark"><![CDATA[TODO:My scent lingers...]]></entry>
 <entry id="mother_run_bark"><![CDATA[TODO:That foul fiend still walks...]]></entry>
@@ -1979,9 +1979,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_vulture_A"><![CDATA[TODO:Vulture]]></entry>
 <entry id="str_monstername_vulture_B"><![CDATA[TODO:Vulture]]></entry>
 <entry id="str_monstername_vulture_C"><![CDATA[TODO:Vulture]]></entry>
-<entry id="str_monstername_amber_residue_A"><![CDATA[TODO:]]></entry>
-<entry id="str_monstername_extract_A"><![CDATA[TODO:]]></entry>
-<entry id="str_monstername_thiefs_remorse_A"><![CDATA[TODO:]]></entry>
+<entry id="str_monstername_amber_residue_A"><![CDATA[]]></entry>
+<entry id="str_monstername_extract_A"><![CDATA[]]></entry>
+<entry id="str_monstername_thiefs_remorse_A"><![CDATA[]]></entry>
 <entry id="str_monstername_trog_hunter_A"><![CDATA[TODO:Troglodyte Hunter]]></entry>
 <entry id="str_monstername_trog_hunter_B"><![CDATA[TODO:Troglodyte Hunter]]></entry>
 <entry id="str_monstername_trog_hunter_C"><![CDATA[TODO:Troglodyte Hunter]]></entry>
@@ -2831,8 +2831,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_death_additionaleffect_hero"><![CDATA[TODO:Fallen to the wayward force of The Light.]]></entry>
 <entry id="buff_rule_tooltip_torch_setting"><![CDATA[TODO:%s]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_received_percent_damage_heal"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received from {colour_start|expiated}Expiated{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_transfer_buff_from_attacker_chance"><![CDATA[TODO:]]></entry>
-<entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[TODO:]]></entry>
+<entry id="buff_stat_tooltip_transfer_buff_from_attacker_chance"><![CDATA[]]></entry>
+<entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[]]></entry>
 <entry id="buff_rule_tooltip_meleeonly"><![CDATA[TODO:{colour_start|attacktype}Melee{colour_end} Skills: %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly"><![CDATA[TODO:{colour_start|attacktype}Ranged{colour_end} Skills: %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[TODO:not {colour_start|attacktype}Ranged{colour_end} Skills: %s]]></entry>
@@ -3222,7 +3222,7 @@ Additional -34%% Stress Healing Received from Crits{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Bleed/Blight Resist, -1 ACC{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_SECRET_BUFF"><![CDATA[TODO:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_SECRET_BUFF"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Move Resist{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}On Kill: Self: Additional +2 Restoration Amount
@@ -4058,9 +4058,9 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_1"><![CDATA[TODO:{colour_start|skill_unselectable}Offensive buffs removed when no longer {colour_start|stealth}Stealthed{colour_end} or on next Shadowfade use{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_2"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}
 Offensive buffs are halved ]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_3"><![CDATA[TODO:]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_4"><![CDATA[TODO:]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_5"><![CDATA[TODO:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_3"><![CDATA[]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_4"><![CDATA[]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_5"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_C_1"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end}
 +10 DODGE ]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_C_2"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end}
@@ -4213,8 +4213,8 @@ Self:
 <entry id="actor_mode_name_musk_normal2"><![CDATA[TODO:{colour_start|musk_ammo1}Standard Ammo{colour_end}]]></entry>
 <entry id="actor_mode_name_musk_shrapnel2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel Ammo{colour_end}]]></entry>
 <entry id="actor_mode_name_musk_concuss2"><![CDATA[TODO:{colour_start|musk_ammo3}Concussive Ammo{colour_end}]]></entry>
-<entry id="str_skill_mode_info_cru_fakemode"><![CDATA[TODO:]]></entry>
-<entry id="str_skill_mode_info_cru_ostvengr"><![CDATA[TODO:]]></entry>
+<entry id="str_skill_mode_info_cru_fakemode"><![CDATA[]]></entry>
+<entry id="str_skill_mode_info_cru_ostvengr"><![CDATA[]]></entry>
 <entry id="str_skill_mode_info_cru_smite_1"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_cru_smite_2"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_cru_zealous_acc_1"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
@@ -4232,7 +4232,7 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_SMITE_DMG_UNHOLY"><![CDATA[TODO:+25%% DMG vs Unholy^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_EXP"><![CDATA[TODO:+15% DMG vs {colour_start|expiated}Expiated{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_ZERO"><![CDATA[TODO:+25% DMG vs Unholy​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_ZERO"><![CDATA[TODO:]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_ZERO"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_EXPI"><![CDATA[TODO:^^{colour_start|expiated}Expiate Target{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_COOL"><![CDATA[TODO:^^{colour_start|notable}Cooldown: 2 tn(s){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_DEBUFF"><![CDATA[TODO:^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -4272,10 +4272,10 @@ Self:
 <entry id="buff_rule_data_tooltip_CRU_INSP_CRY_TORCH3"><![CDATA[TODO:Torch +7{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_INSP_CRY_TORCH4"><![CDATA[TODO:Torch +8{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_INSP_CRY_TORCH5"><![CDATA[TODO:Torch +9{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="str_skill_mode_info_musk_normal"><![CDATA[TODO:]]></entry>
-<entry id="str_skill_mode_info_musk_shrapnel"><![CDATA[TODO:]]></entry>
-<entry id="str_skill_mode_info_musk_concuss"><![CDATA[TODO:]]></entry>
-<entry id="str_skill_mode_info_musk_live"><![CDATA[TODO:]]></entry>
+<entry id="str_skill_mode_info_musk_normal"><![CDATA[]]></entry>
+<entry id="str_skill_mode_info_musk_shrapnel"><![CDATA[]]></entry>
+<entry id="str_skill_mode_info_musk_concuss"><![CDATA[]]></entry>
+<entry id="str_skill_mode_info_musk_live"><![CDATA[]]></entry>
 <entry id="actor_mode_name_musk_normal"><![CDATA[TODO:{colour_start|musk_ammo1}Standard{colour_end} Ammo]]></entry>
 <entry id="actor_mode_name_musk_shrapnel"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel{colour_end} Ammo]]></entry>
 <entry id="actor_mode_name_musk_concuss"><![CDATA[TODO:{colour_start|musk_ammo3}Concussive{colour_end} Ammo]]></entry>
@@ -4422,7 +4422,7 @@ Self:
 <entry id="antiquarian_weapon_2"><![CDATA[TODO:Ordained Censer]]></entry>
 <entry id="antiquarian_weapon_3"><![CDATA[TODO:Ceremonial Censer]]></entry>
 <entry id="antiquarian_weapon_4"><![CDATA[TODO:"The Sarcophagus"]]></entry>
-<entry id="str_camping_longer_quests_only"><![CDATA[TODO:]]></entry>
+<entry id="str_camping_longer_quests_only"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_CHAMP_RIPOSTE_TT_1"><![CDATA[TODO:60 Base Acc, 8-15 Base Dmg, 
 4%% Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_CHAMP_RIPOSTE_TT_3"><![CDATA[TODO:70 Base Acc, 10-21 Base Dmg, 
@@ -4804,7 +4804,7 @@ the Treasury successfully gives buffs
 <entry id="buff_rule_data_tooltip_rampager"><![CDATA[TODO:Rampager]]></entry>
 <entry id="buff_rule_tooltip_has_quirk"><![CDATA[TODO:%s if %s]]></entry>
 <entry id="buff_rule_tooltip_has_quirk_false"><![CDATA[TODO:%s if not %s]]></entry>
-<entry id="character_title_quirks"><![CDATA[TODO:]]></entry>
+<entry id="character_title_quirks"><![CDATA[]]></entry>
 <entry id="character_title_class_bonuses"><![CDATA[TODO:Symptoms/Diseases]]></entry>
 <entry id="str_mark_self_regenerator"><![CDATA[TODO:Feeling right as rain!]]></entry>
 <entry id="str_mark_self_regenerator"><![CDATA[TODO:Hardly even feel it!]]></entry>
@@ -6372,7 +6372,7 @@ the Treasury successfully gives buffs
 <entry id="effect_tooltip_cure_bleed"><![CDATA[TODO:Cure {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_tag"><![CDATA[TODO:{colour_start|mark}Transfer Mark{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stealth"><![CDATA[TODO:Steal{colour_start|stealth} Stealth{colour_end}]]></entry>
-<entry id="str_ui_cure_failed"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_cure_failed"><![CDATA[]]></entry>
 <entry id="hero_name_0"><![CDATA[TODO:Miron]]></entry>
 <entry id="hero_name_1"><![CDATA[TODO:Sigman]]></entry>
 <entry id="hero_name_2"><![CDATA[TODO:Bourassa]]></entry>
