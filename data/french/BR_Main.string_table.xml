@@ -4486,17 +4486,17 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 ]]></entry>
 <entry id="str_quirk_name_1_pagan"><![CDATA[TODO:																													  	   	   {colour_start|affiliation_pagan}Pagan{colour_end}
 ]]></entry>
-<entry id="str_quirk_name_deadly"><![CDATA[TODO:Deadly]]></entry>
-<entry id="str_quirk_name_misses_the_spot"><![CDATA[TODO:Misses the Spot]]></entry>
-<entry id="str_quirk_name_feeble"><![CDATA[TODO:Feeble]]></entry>
-<entry id="str_quirk_name_accurate"><![CDATA[TODO:Accurate]]></entry>
+<entry id="str_quirk_name_deadly"><![CDATA[Force mortelle]]></entry>
+<entry id="str_quirk_name_misses_the_spot"><![CDATA[Visée faillible]]></entry>
+<entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
+<entry id="str_quirk_name_accurate"><![CDATA[Précis]]></entry>
 <entry id="str_quirk_name_inaccurate"><![CDATA[TODO:Inaccurate]]></entry>
 <entry id="str_quirk_name_risktaker"><![CDATA[TODO:Risktaker]]></entry>
 <entry id="str_quirk_name_fumbling"><![CDATA[TODO:Fumbling]]></entry>
 <entry id="str_quirk_name_clouded_mind"><![CDATA[TODO:Clouded Mind]]></entry>
 <entry id="str_quirk_name_superstitious"><![CDATA[TODO:Superstitious]]></entry>
 <entry id="str_quirk_name_skeptic"><![CDATA[TODO:Skeptic]]></entry>
-<entry id="str_quirk_name_feeble"><![CDATA[TODO:Feeble]]></entry>
+<entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
 <entry id="str_quirk_name_adherent"><![CDATA[TODO:Adherent]]></entry>
 <entry id="str_quirk_name_dissenter"><![CDATA[TODO:Dissenter]]></entry>
 <entry id="str_quirk_name_penetrating"><![CDATA[TODO:Lethal]]></entry>
@@ -4548,21 +4548,21 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_considerate"><![CDATA[TODO:Considerate]]></entry>
 <entry id="str_quirk_name_tactless"><![CDATA[TODO:Tactless]]></entry>
 <entry id="str_quirk_name_laudanum_penchant"><![CDATA[TODO:Laudanum Penchant]]></entry>
-<entry id="str_quirk_name_hunter"><![CDATA[TODO:Hunter]]></entry>
+<entry id="str_quirk_name_hunter"><![CDATA[Chasseur]]></entry>
 <entry id="str_quirk_name_uncoordinated"><![CDATA[TODO:Uncoordinated]]></entry>
 <entry id="str_quirk_name_opportunist"><![CDATA[TODO:Opportunist]]></entry>
 <entry id="str_quirk_name_fair_player"><![CDATA[TODO:Fair Player]]></entry>
 <entry id="str_quirk_name_technical"><![CDATA[TODO:Technical]]></entry>
 <entry id="str_quirk_name_untalented"><![CDATA[TODO:Untalented]]></entry>
 <entry id="str_quirk_name_forceful"><![CDATA[TODO:Forceful]]></entry>
-<entry id="str_quirk_name_weak"><![CDATA[TODO:Weak]]></entry>
+<entry id="str_quirk_name_weak"><![CDATA[Faible]]></entry>
 <entry id="str_quirk_name_blacksmith"><![CDATA[TODO:Blacksmith]]></entry>
 <entry id="str_quirk_name_fast_learner"><![CDATA[TODO:Fast Learner]]></entry>
 <entry id="str_quirk_name_lounger"><![CDATA[TODO:Lounger]]></entry>
 <entry id="str_quirk_name_undaunted"><![CDATA[TODO:Undaunted]]></entry>
 <entry id="str_quirk_name_unsubtle"><![CDATA[TODO:Unsubtle]]></entry>
 <entry id="str_quirk_name_sneaky"><![CDATA[TODO:Sneaky]]></entry>
-<entry id="str_quirk_name_imposter_syndrome_BR"><![CDATA[TODO:Imposter Syndrome]]></entry>
+<entry id="str_quirk_name_imposter_syndrome_BR"><![CDATA[Syndrôme de l'imposteur]]></entry>
 <entry id="str_quirk_name_faster"><![CDATA[TODO:Fairweather Faster]]></entry>
 <entry id="str_quirk_name_levantine_skirmisher"><![CDATA[TODO:Levantine Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_levantine"><![CDATA[Peur des levantins]]></entry>
