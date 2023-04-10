@@ -1544,7 +1544,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="enemy_type_name_ghoul"><![CDATA[Goule]]></entry>
 <entry id="enemy_type_name_troglodyte"><![CDATA[Troglodyte]]></entry>
 <entry id="enemy_type_name_cactonid"><![CDATA[Cactonide]]></entry>
-<entry id="enemy_type_name_wildlife"><![CDATA[TODO:Wildlife]]></entry>
+<entry id="enemy_type_name_wildlife"><![CDATA[Créature]]></entry>
 <entry id="enemy_type_name_ammo_box"><![CDATA[Caisse]]></entry>
 <entry id="enemy_type_name_apprentice"><![CDATA[]]></entry>
 <entry id="enemy_type_name_veteran"><![CDATA[]]></entry>
@@ -2899,9 +2899,9 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_kvarotz"><![CDATA[Kvarotz]]></entry>
 <entry id="buff_rule_data_tooltip_lost"><![CDATA[Légion perdue]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul"><![CDATA[Goule]]></entry>
-<entry id="buff_rule_data_tooltip_corpse"><![CDATA[TODO:Corpse]]></entry>
-<entry id="buff_rule_data_tooltip_human"><![CDATA[TODO:Human]]></entry>
-<entry id="buff_rule_data_tooltip_wildlife"><![CDATA[TODO:Wildlife]]></entry>
+<entry id="buff_rule_data_tooltip_corpse"><![CDATA[Cadavre]]></entry>
+<entry id="buff_rule_data_tooltip_human"><![CDATA[Humain]]></entry>
+<entry id="buff_rule_data_tooltip_wildlife"><![CDATA[Créature]]></entry>
 <entry id="buff_rule_tooltip_has_item_id"><![CDATA[TODO:%s if %s in inventory]]></entry>
 <entry id="buff_rule_tooltip_has_item_type"><![CDATA[TODO:%s if %s in inventory]]></entry>
 <entry id="buff_rule_tooltip_has_item_id_false"><![CDATA[TODO:%s if %s not in inventory]]></entry>
