@@ -135,7 +135,7 @@ Current Torch Level:]]></entry>
 <entry id="town_quest_name_explore_trea+3+weald+explore_trea"><![CDATA[Cartographie]]></entry>
 <entry id="town_quest_name_cleanse_cata+1+crypts+battle_cata"><![CDATA[Escarmouche]]></entry>
 <entry id="town_quest_name_cleanse_cata+2+crypts+battle_cata"><![CDATA[Purification]]></entry>
-<entry id="town_quest_name_cleanse_cata+3+crypts+battle_cata"><![CDATA[TODO:Exterminate]]></entry>
+<entry id="town_quest_name_cleanse_cata+3+crypts+battle_cata"><![CDATA[Extermination]]></entry>
 <entry id="town_quest_name_cleanse_sun+1+cove+battle_sun"><![CDATA[Escarmouche[{colour_start|sun_torch}Jour{colour_end}]]]></entry>
 <entry id="town_quest_name_cleanse_sun+2+cove+battle_sun"><![CDATA[Purification[{colour_start|sun_torch}Jour{colour_end}]]]></entry>
 <entry id="town_quest_name_cleanse_sun+3+cove+battle_sun"><![CDATA[Extermination[{colour_start|sun_torch}Jour{colour_end}]]]></entry>
