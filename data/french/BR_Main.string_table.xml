@@ -697,7 +697,7 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
 <entry id="str_glossary_term_definition_1017"><![CDATA[TODO:A collective of zealous crusaders that have come to plunder the valley. They battle with the power of the Light, and are typically more effective against Pagan heroes.]]></entry>
 <entry id="str_glossary_term_1018"><![CDATA[Kvarotz]]></entry>
 <entry id="str_glossary_term_definition_1018"><![CDATA[TODO:Remnants of the vast Kvarotz Empire. Their sentinels and enforcers still roam the Valley in the dark, and are extremely dangerous to the bodies and minds of those caught in their wake.]]></entry>
-<entry id="str_glossary_term_1019"><![CDATA[Sauvageon]]></entry>
+<entry id="str_glossary_term_1019"><![CDATA[Barbare]]></entry>
 <entry id="str_glossary_term_definition_1019"><![CDATA[TODO:A matriarchal clan of nomadic warriors who worship Pagan gods and the pursuit of unmatched power. They fight with the utmost brutality and relentless onslaughts.]]></entry>
 <entry id="str_glossary_term_1020"><![CDATA[TODO:Stumble]]></entry>
 <entry id="str_glossary_term_definition_1020"><![CDATA[TODO:An effect that applies Shuffle over specific amount of turns.]]></entry>
@@ -1540,7 +1540,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="enemy_type_name_levantine"><![CDATA[Levantin]]></entry>
 <entry id="enemy_type_name_lost"><![CDATA[Légion perdue]]></entry>
 <entry id="enemy_type_name_kvarotz"><![CDATA[Kvarotz]]></entry>
-<entry id="enemy_type_name_wildlander"><![CDATA[Sauvageon]]></entry>
+<entry id="enemy_type_name_wildlander"><![CDATA[Barbare]]></entry>
 <entry id="enemy_type_name_ghoul"><![CDATA[Goule]]></entry>
 <entry id="enemy_type_name_troglodyte"><![CDATA[Troglodyte]]></entry>
 <entry id="enemy_type_name_cactonid"><![CDATA[Cactonide]]></entry>
@@ -1559,7 +1559,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="enemy_type_name_br_enemy"><![CDATA[]]></entry>
 <entry id="enemy_type_name_monke"><![CDATA[TODO:{colour_start|white}̠{colour_end}]]></entry>
 <entry id="enemy_type_name_corpses_tt"><![CDATA[TODO:Clear All Corpses^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-<entry id="effect_tooltip_kill_enemy_type"><![CDATA[TODO:%s]]></entry>
+<entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
 <entry id="str_monstername_attack_dummy_A"><![CDATA[]]></entry>
 <entry id="str_monstername_BR_corpse_A"><![CDATA[Cadavre]]></entry>
 <entry id="str_monstername_BR_corpse_B"><![CDATA[Cadavre]]></entry>
@@ -2815,7 +2815,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_yng_laser"><![CDATA[TODO:{colour_start|white}ɘɠɞɟɥʫɩʹʻɮ{colour_end}Cry of the Void]]></entry>
 <entry id="str_monster_skill_yng_arm"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʁ{colour_end}Radiation Swell]]></entry>
 <entry id="str_monster_skill_yng_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʏʑʟ{colour_end}Ruptured Ether]]></entry>
-<entry id="effect_tooltip_kill_enemy_type"><![CDATA[TODO:%s]]></entry>
+<entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
 <entry id="enemy_type_name_corpses_tt"><![CDATA[TODO:Clear All Corpses^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="str_death_effect_effect"><![CDATA[TODO:died due to unfortunate circumstances.]]></entry>
 <entry id="buff_bsrc_flashback_result"><![CDATA[TODO:Additional Buffs]]></entry>
@@ -2829,7 +2829,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_bsrc_companion"><![CDATA[TODO:Misc. Trinket Buff]]></entry>
 <entry id="buff_bsrc_crit"><![CDATA[TODO:Prep Round]]></entry>
 <entry id="str_death_additionaleffect_hero"><![CDATA[TODO:Fallen to the wayward force of The Light.]]></entry>
-<entry id="buff_rule_tooltip_torch_setting"><![CDATA[TODO:%s]]></entry>
+<entry id="buff_rule_tooltip_torch_setting"><![CDATA[%s]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_received_percent_damage_heal"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received from {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_transfer_buff_from_attacker_chance"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[]]></entry>
@@ -2861,7 +2861,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_STUN_TT"><![CDATA[TODO:Can't {colour_start|stun}Stun{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_IGNORE_ARMOR_TT"><![CDATA[TODO:Armor Piercing]]></entry>
 <entry id="skill_ignore_protection"><![CDATA[TODO:{colour_start|neon_pink}Banned Feature{colour_end} use Buff-based Armor Piercing Instead]]></entry>
-<entry id="tray_icon_tooltip_buff_duration_round_format"><![CDATA[TODO:%s]]></entry>
+<entry id="tray_icon_tooltip_buff_duration_round_format"><![CDATA[%s]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_before_turn_format"><![CDATA[TODO:%s (%d Turns)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_after_turn_format"><![CDATA[TODO:%s (%d Turns)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_after_round_format"><![CDATA[TODO:%s (%d Rounds)]]></entry>
