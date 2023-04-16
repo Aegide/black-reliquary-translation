@@ -4412,16 +4412,16 @@ Self:
 <entry id="flagellant_weapon_2"><![CDATA[Fléau de souffrance]]></entry>
 <entry id="flagellant_weapon_3"><![CDATA[Fléau sanguinaire]]></entry>
 <entry id="flagellant_weapon_4"><![CDATA["Le Fardeau"]]></entry>
-<entry id="antiquarian_armour_0"><![CDATA[TODO:Rucksack & Baubles]]></entry>
-<entry id="antiquarian_armour_1"><![CDATA[TODO:Pouches & Curiosities]]></entry>
-<entry id="antiquarian_armour_2"><![CDATA[TODO:Sturdy Satchel & Oddities]]></entry>
-<entry id="antiquarian_armour_3"><![CDATA[TODO:Expedition Pack & Relics]]></entry>
-<entry id="antiquarian_armour_4"><![CDATA[TODO:"Timurik's Bottomless Bag"]]></entry>
-<entry id="antiquarian_weapon_0"><![CDATA[TODO:Makeshift Censer]]></entry>
-<entry id="antiquarian_weapon_1"><![CDATA[TODO:Pungent Censer]]></entry>
-<entry id="antiquarian_weapon_2"><![CDATA[TODO:Ordained Censer]]></entry>
-<entry id="antiquarian_weapon_3"><![CDATA[TODO:Ceremonial Censer]]></entry>
-<entry id="antiquarian_weapon_4"><![CDATA[TODO:"The Sarcophagus"]]></entry>
+<entry id="antiquarian_armour_0"><![CDATA[Sac à dos et babioles]]></entry>
+<entry id="antiquarian_armour_1"><![CDATA[Bourses et curiosités]]></entry>
+<entry id="antiquarian_armour_2"><![CDATA[Sacoche solide et curiosités]]></entry>
+<entry id="antiquarian_armour_3"><![CDATA[Sac d'expédition et reliques]]></entry>
+<entry id="antiquarian_armour_4"><![CDATA["Sac Sans Fond de Timurik"]]></entry>
+<entry id="antiquarian_weapon_0"><![CDATA[Encensoir improvisé]]></entry>
+<entry id="antiquarian_weapon_1"><![CDATA[Encensoir caustique]]></entry>
+<entry id="antiquarian_weapon_2"><![CDATA[Encensoir béni]]></entry>
+<entry id="antiquarian_weapon_3"><![CDATA[Encensoir cérémoniel]]></entry>
+<entry id="antiquarian_weapon_4"><![CDATA["Le Sarcophage"]]></entry>
 <entry id="str_camping_longer_quests_only"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_CHAMP_RIPOSTE_TT_1"><![CDATA[TODO:60 Base Acc, 8-15 Base Dmg, 
 4%% Base Crit]]></entry>
