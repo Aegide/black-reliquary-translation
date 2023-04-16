@@ -1744,9 +1744,9 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="str_ui_ATT"><![CDATA[TODO:ACC]]></entry>
 <entry id="str_ui_ATT_MOD"><![CDATA[TODO:ACC MOD]]></entry>
 <entry id="str_ui_bleed"><![CDATA[TODO:Bleed]]></entry>
-<entry id="str_ui_bleed_resist"><![CDATA[TODO:]]></entry>
-<entry id="str_ui_blight_resist"><![CDATA[TODO:]]></entry>
-<entry id="str_ui_buff"><![CDATA[TODO:Buff!]]></entry>
+<entry id="str_ui_bleed_resist"><![CDATA[]]></entry>
+<entry id="str_ui_blight_resist"><![CDATA[]]></entry>
+<entry id="str_ui_buff"><![CDATA[Bonus !]]></entry>
 <entry id="str_ui_CRIT"><![CDATA[TODO:CRIT]]></entry>
 <entry id="str_ui_crittxt"><![CDATA[TODO:Crit!]]></entry>
 <entry id="str_ui_cured"><![CDATA[TODO:{colour_start|white}ʃ{colour_end}Cured!]]></entry>
@@ -1754,12 +1754,12 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="str_ui_deathblow"><![CDATA[TODO:DEATHBLOW!]]></entry>
 <entry id="str_ui_deathdoor"><![CDATA[TODO:%s is at Death's Door!]]></entry>
 <entry id="str_ui_debuff"><![CDATA[TODO:Debuff!]]></entry>
-<entry id="str_ui_debuff_resist"><![CDATA[TODO:]]></entry>
-<entry id="str_ui_control_resist"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_debuff_resist"><![CDATA[]]></entry>
+<entry id="str_ui_control_resist"><![CDATA[]]></entry>
 <entry id="str_ui_DEF"><![CDATA[TODO:DODGE]]></entry>
 <entry id="str_ui_disarm"><![CDATA[TODO:Disarmed!]]></entry>
 <entry id="str_ui_disease_cured"><![CDATA[TODO:%s Cured!]]></entry>
-<entry id="str_ui_disease_resist"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_disease_resist"><![CDATA[]]></entry>
 <entry id="str_ui_DMG"><![CDATA[TODO:DMG]]></entry>
 <entry id="str_ui_dodge"><![CDATA[TODO:Dodge!]]></entry>
 <entry id="str_ui_eat"><![CDATA[TODO:Eat]]></entry>
@@ -1779,12 +1779,12 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="str_ui_MAXHP"><![CDATA[TODO:MAX HP]]></entry>
 <entry id="str_ui_meal_title"><![CDATA[TODO:Repast]]></entry>
 <entry id="str_ui_miss"><![CDATA[TODO:Miss!]]></entry>
-<entry id="str_ui_move_resist"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_move_resist"><![CDATA[]]></entry>
 <entry id="str_ui_no_damage"><![CDATA[TODO:No Damage]]></entry>
 <entry id="str_ui_ok"><![CDATA[TODO:[OK]]]></entry>
 <entry id="str_ui_pass"><![CDATA[TODO:Pass]]></entry>
 <entry id="str_ui_poison"><![CDATA[TODO:Blight]]></entry>
-<entry id="str_ui_poison_resist"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_poison_resist"><![CDATA[]]></entry>
 <entry id="str_ui_PROT"><![CDATA[TODO:PROT]]></entry>
 <entry id="str_ui_riposte"><![CDATA[TODO:Riposte!]]></entry>
 <entry id="str_ui_shuffle_dot"><![CDATA[TODO:Stumble]]></entry>
@@ -1792,7 +1792,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="str_ui_starve"><![CDATA[TODO:Starve]]></entry>
 <entry id="str_ui_stress_dot"><![CDATA[TODO:Horror]]></entry>
 <entry id="str_ui_stun"><![CDATA[TODO:Stun!]]></entry>
-<entry id="str_ui_stun_resist"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_stun_resist"><![CDATA[]]></entry>
 <entry id="str_ui_stunned"><![CDATA[TODO:Stunned]]></entry>
 <entry id="str_ui_tagged"><![CDATA[TODO:Marked!]]></entry>
 <entry id="str_unequip_all_trinkets"><![CDATA[TODO:Unequip all trinkets]]></entry>
@@ -1819,7 +1819,7 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="str_weald_level_6_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Advanced to Mastery 6.]]></entry>
 <entry id="str_weald_level_7_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} Advanced to Mastery 7.]]></entry>
 <entry id="str_week"><![CDATA[TODO:Week %d]]></entry>
-<entry id="surprise_announcement"><![CDATA[TODO:Surprised!]]></entry>
+<entry id="surprise_announcement"><![CDATA[Surprise !]]></entry>
 <entry id="town_confirm_embark_not_enough_heroes_answer"><![CDATA[TODO:OK]]></entry>
 <entry id="town_confirm_embark_not_enough_heroes_question"><![CDATA[TODO:You don't have four heroes available for a quest. 
 You will need to recruit more heroes at the Ferry or remove some heroes from treatment.]]></entry>
