@@ -206,9 +206,9 @@ Current Torch Level:]]></entry>
 <entry id="str_returned_from_kill_boss_warrens_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Caverns. ({?difficulty}%s {?length}%s)]]></entry>	
 <entry id="str_returned_from_kill_boss_weald_success"><![CDATA[TODO:{?hero_names}%s slayed a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>	
 <entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>	
-<entry id="str_map_ac_treasure_tooltip"><![CDATA[TODO:Vendor]]></entry>
-<entry id="str_map_treasure_tooltip"><![CDATA[TODO:Vendor]]></entry>
-<entry id="str_map_ac_hidden_door_tooltip"><![CDATA[TODO:Perfumer's Lab]]></entry>
+<entry id="str_map_ac_treasure_tooltip"><![CDATA[Vendeur]]></entry>
+<entry id="str_map_treasure_tooltip"><![CDATA[Vendeur]]></entry>
+<entry id="str_map_ac_hidden_door_tooltip"><![CDATA[Labo du Parfumeur]]></entry>
 <entry id="town_quest_name_plot_catacombs_tutorial"><![CDATA[TODO:The First Delve]]></entry>
 <entry id="town_quest_description_plot_catacombs_tutorial"><![CDATA[TODO:We venture into the valley for the first time. The catacombs of the Kvarotz are a dangerous place in their own right, but the Levantine have made it their new dig site.]]></entry>
 <entry id="str_returned_from_plot_catacombs_tutorial_failure"><![CDATA[TODO:{?hero_names}%s retreated from our very first endeavor. This does not bode well.]]></entry>
@@ -336,11 +336,11 @@ Current Torch Level:]]></entry>
 <entry id="str_trinket_retention_log_item"><![CDATA[TODO:The Ghoul Mother has scavenged %d lost trinkets! Clear out her den to reclaim them.]]></entry>
 <entry id="town_quest_trinket_retention_description_format"><![CDATA[TODO:Smite the Ghoul Mother to recover %d of your lost trinkets.]]></entry>
 <entry id="tutorial_popup_afflicted_description"><![CDATA[TODO:When heroes {colour_start|notable}can't take the {colour_start|stressNOT1}stress{colour_end} any more{colour_end}, they can become {colour_start|harmful}AFFLICTED{colour_end}. This manifests in {colour_start|notable}different behaviors{colour_end} and {colour_start|notable}stat changes{colour_end}. {colour_start|harmful}Afflictions{colour_end} last until you {colour_start|notable}send them to treatment{colour_end} on the Flameseeker, unless you can reduce their {colour_start|stressNOT1}stress{colour_end} to zero during the quest.]]></entry>
-<entry id="tutorial_popup_afflicted_title"><![CDATA[TODO:Afflicted!]]></entry>
+<entry id="tutorial_popup_afflicted_title"><![CDATA[Affliction !]]></entry>
 <entry id="tutorial_popup_antivenom_description"><![CDATA[TODO:Your hero has a {colour_start|symptom}symptom{colour_end}!
 {colour_start|disease}Diseases{colour_end} begin with {colour_start|symptom}Symptoms{colour_end} which are more gentle than the fully contracted {colour_start|disease}Diseases{colour_end}. 
 Disease kit provision items can be used to further treat these symptoms and diseases to lessen their effects, but they, barring few exceptions, can only be removed in the {colour_start|notable}Clinic{colour_end}.]]></entry>
-<entry id="tutorial_popup_antivenom_title"><![CDATA[TODO:Symptoms/Diseases]]></entry>
+<entry id="tutorial_popup_antivenom_title"><![CDATA[Symptômes/Maladies]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_description"><![CDATA[TODO:Your hero is {colour_start|expiated}Expiated{colour_end}!
 New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, and {colour_start|enraged}Enraged{colour_end}. 
 {colour_start|amberblighted}Amberblight{colour_end} applies an ongoing debuff to the target, {colour_start|expiated}Expiation{colour_end} damages the target whenever they attack and will end after triggering three times, dealing damage to target on its next three attacks and healing the opposite team after its next attack, and {colour_start|enraged}Enrage{colour_end} buffs the target, also providing them with health upon killing their enemies. 
@@ -361,7 +361,7 @@ Additionally, {colour_start|notable}certain hero skills have their effects alter
 The choice is yours.]]></entry>
 <entry id="tutorial_popup_consider_retreat_title"><![CDATA[TODO:Discretion is the better part of valor...]]></entry>
 <entry id="tutorial_popup_curio_description"><![CDATA[TODO:A rarer iteration of Room Curios, Vendors accept only a specific type of item and offer up valuables in exchange.]]></entry>
-<entry id="tutorial_popup_curio_title"><![CDATA[TODO:Vendors]]></entry>
+<entry id="tutorial_popup_curio_title"><![CDATA[Vendeurs]]></entry>
 <entry id="tutorial_popup_death_class_description"><![CDATA[TODO:In Black Reliquary, inventory has seen some changes to better integrate with the changes made to other systems. 
 On top of two additional inventory slots, some items such as food, gold and gems had their stack size increased. Additionally, gems themselves are worth more than before.
 As for the loot changes, the Relics (previously heirlooms) are now obtained in much higher numbers in their specific dungeons, so make sure to pick your missions wisely.]]></entry>
@@ -381,14 +381,14 @@ From there, clicking on the {colour_start|notable}[EMBARK]{colour_end} button at
 <entry id="tutorial_popup_heart_attack_description"><![CDATA[TODO:{colour_start|harmful}Stress{colour_end} continues to build beyond the point of {colour_start|harmful}Affliction{colour_end}.
 If a hero's stress bar fills a second time completely, their {colour_start|harmful}body will give out{colour_end}. Get them aid or retreat back to the Flameseeker before this happens.
 Death awaits us all.]]></entry>
-<entry id="tutorial_popup_heart_attack_title"><![CDATA[TODO:A Body's Limit: Heart Attack]]></entry>
+<entry id="tutorial_popup_heart_attack_title"><![CDATA[Le corps atteint sa limite : Crise cardiaque]]></entry>
 <entry id="tutorial_popup_hero_panel_description"><![CDATA[TODO:The display for the enemies' skills has been updated, and now in addition to showing more of the skills' effects, it also includes information about where and on what targets the skills can used on.
 In Info Comms, accessible via either the {colour_start|notable}[G]{colour_end} hotkey or the main menu, you can see the explanations on meaning for each of the icons. 
 Just like before, a skill needs to be seen to show up on that panel.]]></entry>
 <entry id="tutorial_popup_hero_panel_title"><![CDATA[TODO:Updated Enemy Skill Display]]></entry>
 <entry id="tutorial_popup_high_prot_description"><![CDATA[TODO:Some monsters have high {colour_start|notable}PROT{colour_end}, which {colour_start|notable}absorbs attack damage{colour_end}. DOTs ({colour_start|pop_text_poison}blight{colour_end} and {colour_start|pop_text_bleed}bleed{colour_end}) ignore PROT and are effective means to take down these highly armored opponents.
 Additionally, the {colour_start|notable}Honing Oil{colour_end} supply is a good supplement to deal with those enemies for heroes that lack any other options.]]></entry>
-<entry id="tutorial_popup_high_prot_title"><![CDATA[TODO:Monsters with High PROT]]></entry>
+<entry id="tutorial_popup_high_prot_title"><![CDATA[Monstres à forte PROT]]></entry>
 <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[TODO:{colour_start|notable}Positive quirks{colour_end} are now locked in by default, and will not be replaced.
 The {colour_start|notable}Clinic{colour_end} can be used to remove undesirable positive quirks for a small fee.]]></entry>
 <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[TODO:Positive Quirk Changes]]></entry>
@@ -417,18 +417,18 @@ There are multiple Help Menus available in different places; The Flameseeker, ea
 <entry id="tutorial_popup_quest_complete_description"><![CDATA[TODO:After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to the Flameseeker{colour_end} at any time - just {colour_start|notable}click the crest{colour_end}. You don't need to return to the starting room of the dungeon to exit.]]></entry>
 <entry id="tutorial_popup_quest_complete_title"><![CDATA[TODO:Completing a Quest]]></entry>
 <entry id="tutorial_popup_quest_restriction_darkest_dungeon_description"><![CDATA[TODO:Heroes who have returned from a successful quest in the Darkest Dungeon have seen too much. Depending on which game mode and game options you have selected, they may choose to never go back, or simply will be stressed upon re-entry.]]></entry>
-<entry id="tutorial_popup_quest_restriction_darkest_dungeon_title"><![CDATA[TODO:Never Again]]></entry>
+<entry id="tutorial_popup_quest_restriction_darkest_dungeon_title"><![CDATA[Plus jamais]]></entry>
 <entry id="tutorial_popup_questparty_description"><![CDATA[TODO:Each quest has {colour_start|notable}different goals and rewards{colour_end}, and each region has its own challenges. Experiment with various combinations to see what works!
 However, it's recommended to bring along a {colour_start|notable}Vestal{colour_end} or an {colour_start|notable}Occultist{colour_end} for healing.]]></entry>
-<entry id="tutorial_popup_questparty_title"><![CDATA[TODO:Party Formation]]></entry>
+<entry id="tutorial_popup_questparty_title"><![CDATA[Formation du groupe]]></entry>
 <entry id="tutorial_popup_resolve_level_description"><![CDATA[TODO:Heroes gain {colour_start|notable}Resolve XP{colour_end} for each successful quest. {colour_start|notable}Resolve XP{colour_end} determines the hero's {colour_start|notable}Resolve Level{colour_end}.
 {colour_start|notable}Resolve XP{colour_end} gain and requirements have been adjusted to smooth out the progression curve for the course of Black Reliquary's campaign.]]></entry>
 <entry id="tutorial_popup_resolve_level_title"><![CDATA[TODO:Experience Adjustments]]></entry>
 <entry id="tutorial_popup_scout_hidden_door_description"><![CDATA[TODO:A critical scouting success will sometimes reveal a {colour_start|notable}Perfumer's Outpost{colour_end}! Advance to the marked tile, and press 'W' or click to enter. 
 The mysterious Perfumer conducts his clandestine experiments in numerous locations around the valley. He is known to offer up strange and intriguing objects, asking people to return to him after observing their power.]]></entry>
-<entry id="tutorial_popup_scout_hidden_door_title"><![CDATA[TODO:Secret Rooms]]></entry>
+<entry id="tutorial_popup_scout_hidden_door_title"><![CDATA[Pièces secrètes]]></entry>
 <entry id="tutorial_popup_selling_trinkets_description"><![CDATA[TODO:You can sell back unwanted trinkets from your Trinket Inventory and make some money. Open the Trinket Inventory and [SHIFT-CLICK] on any trinket you don't want.]]></entry>
-<entry id="tutorial_popup_selling_trinkets_title"><![CDATA[TODO:Sell Back Trinkets]]></entry>
+<entry id="tutorial_popup_selling_trinkets_title"><![CDATA[Revente de breloques]]></entry>
 <entry id="tutorial_popup_stage_coach_description"><![CDATA[TODO:The ferry {colour_start|notable}allows you to recruit new heroes{colour_end}. 
 {colour_start|town_activity_log_positive_result}[RIGHT-CLICK]{colour_end} on a hero's icon to view their information.
 {colour_start|town_activity_log_positive_result}[Drag and drop]{colour_end} them into your roster.]]></entry>
@@ -442,8 +442,8 @@ Heroes can relieve {colour_start|stressNOT1}stress{colour_end} by taking part in
 Or they can produce and interact with {colour_start|BR_heirloom}Refined Amber Dust{colour_end} in the {colour_start|notable}Amber Workshop{colour_end}.
 Both the {colour_start|notable}Amber Refinery{colour_end} and {colour_start|notable}Tek Exchange{colour_end} in the {colour_start|notable}Amber Workshop{colour_end} heal a very small amount of stress and {colour_start|notable}do not remove afflictions{colour_end}.
 Commiting a hero to an activity {colour_start|notable}locks them in that activity{colour_end} until the {colour_start|notable}next Week{colour_end}. You'll have to take a different hero with you on your next quest.]]></entry>
-<entry id="tutorial_popup_stress_relief_title"><![CDATA[TODO:Stress Relief]]></entry>
-<entry id="tutorial_popup_stress_title"><![CDATA[TODO:Stress]]></entry>
+<entry id="tutorial_popup_stress_relief_title"><![CDATA[Réduction de stress]]></entry>
+<entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
 <entry id="tutorial_popup_supplies_description"><![CDATA[TODO:You'll want to take {colour_start|notable}different supplies{colour_end} depending on what {colour_start|notable}region{colour_end} you are going to, how {colour_start|notable}long{colour_end} the quest is, and your own preferences. But always bring some {colour_start|notable}food{colour_end} and {colour_start|notable}torches{colour_end}!
 For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
 <entry id="tutorial_popup_supplies_title"><![CDATA[TODO:Provision for the Journey]]></entry>
@@ -451,16 +451,16 @@ For your first short quest, try bringing at least 8 food and 4 torches.]]></entr
 Likewise, certain enemies will also only appear in bright light, although they do not give more loot.]]></entry>
 <entry id="tutorial_popup_torch_title"><![CDATA[TODO:Torchlight Changes]]></entry>
 <entry id="tutorial_popup_trinkets_description"><![CDATA[TODO:Each hero has room to equip two items, called {colour_start|notable}trinkets{colour_end}. Just {colour_start|notable}drag the trinket{colour_end} from inventory over to the {colour_start|notable}selected hero's slot{colour_end}. {colour_start|notable}Trinkets{colour_end} generally have a trade-off: something good, something bad. Some are also class-specific.]]></entry>
-<entry id="tutorial_popup_trinkets_title"><![CDATA[TODO:Trinkets]]></entry>
+<entry id="tutorial_popup_trinkets_title"><![CDATA[Breloques]]></entry>
 <entry id="tutorial_popup_using_doors_description"><![CDATA[TODO:To enter a {colour_start|notable}door{colour_end}, {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} or press {colour_start|town_activity_log_positive_result}[W]{colour_end} when standing in front of it.]]></entry>
-<entry id="tutorial_popup_using_doors_title"><![CDATA[TODO:Entering Doors]]></entry>
+<entry id="tutorial_popup_using_doors_title"><![CDATA[Ouvrir les portes]]></entry>
 <entry id="tutorial_popup_virtued_description"><![CDATA[TODO:Sometimes, heroes respond to the onslaught of {colour_start|stressNOT1}stress{colour_end} by becoming {colour_start|notable}VIRTUOUS{colour_end}!
 This elevated state of performance will last until they suffer a large amount of stress or return to the Flameseeker, and confers {colour_start|notable}stat bonuses{colour_end} and other benefits.]]></entry>
-<entry id="tutorial_popup_virtued_title"><![CDATA[TODO:Virtuous!]]></entry>
+<entry id="tutorial_popup_virtued_title"><![CDATA[Vertu !]]></entry>
 <entry id="tutorial_popup_contagion_description"><![CDATA[TODO:The Perfumer asks that you {colour_start|notable}bring his trinkets back to him{colour_end} at a later time so that he may gather more materials and apply experimental enhancements to them.
 Please note that this interaction only works if the trinket is dragged from the player's provision inventory. If the trinket is equipped, you must put it there before interacting.
 (Trinket interactions may appear invalid, but they still function as normal)]]></entry>
-<entry id="tutorial_popup_contagion_title"><![CDATA[TODO:Perfumer Trinkets]]></entry>
+<entry id="tutorial_popup_contagion_title"><![CDATA[Breloques du Parfumeur]]></entry>
 <entry id="tutorial_popup_bandage_description"><![CDATA[TODO:Enemy surprise has been adjusted. It is now a fixed 15% chance. In addition to delaying enemy actions, it now applies a 1 tn {colour_start|move}Stumble{colour_end}, and reduces enemy accuracy by another 50% . 
 {colour_start|notable}This makes moves that would normally hit during the Prep Round only have a 50% chance of hitting, while other moves have their accuracy reduced to the 5% hit minimum.{colour_end}
 Certain enemy factions, specifically those found in low light are immune to being surprised.]]></entry>
@@ -1095,7 +1095,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_title_thrall_vendor"><![CDATA[TODO:Wildlander Thrall]]></entry>
 <entry id="str_curio_content_thrall_vendor"><![CDATA[TODO:VENDOR: Strange Wildlander locks require a proof of valor to be opened...]]></entry>
 <entry id="str_curio_thrall_vendor_crest_loot"><![CDATA[TODO:The man is free of his bonds!]]></entry>
-<entry id="str_curio_title_perfumer_interior"><![CDATA[TODO:The Perfumer]]></entry>
+<entry id="str_curio_title_perfumer_interior"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_interior"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_interior"><![CDATA[TODO:Discover his learnings of the Wildlanders.]]></entry>
 <entry id="str_curio_perfumer_interior_loot"><![CDATA[TODO:The scholar gifts you a peculiar Wildlander trinket!]]></entry>
@@ -1111,7 +1111,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_title_perfumer_catacombs"><![CDATA[TODO:The Perfumer]]></entry>
+<entry id="str_curio_title_perfumer_catacombs"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_catacombs"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_catacombs"><![CDATA[TODO:Request that he share his findings of the Kvarotz.]]></entry>
 <entry id="str_curio_perfumer_catacombs_loot"><![CDATA[TODO:The scholar gifts you a strange Kvarotz trinket!]]></entry>
@@ -1127,7 +1127,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_title_perfumer_caverns"><![CDATA[TODO:The Perfumer]]></entry>
+<entry id="str_curio_title_perfumer_caverns"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_caverns"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_caverns"><![CDATA[TODO:Inquire as to his studies of the Troglodytes.]]></entry>
 <entry id="str_curio_perfumer_caverns_loot"><![CDATA[TODO:The scholar gifts you a viscid Troglodyte trinket!]]></entry>
@@ -1143,7 +1143,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_title_perfumer_treasury"><![CDATA[TODO:The Perfumer]]></entry>
+<entry id="str_curio_title_perfumer_treasury"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_treasury"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_treasury"><![CDATA[TODO:Assimilate his understandings of the Cactonids.]]></entry>
 <entry id="str_curio_perfumer_treasury_loot"><![CDATA[TODO:The scholar gifts you a prickly Cactonid trinket!]]></entry>
@@ -3384,20 +3384,20 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="trinket_rarity_crimson_court"><![CDATA[Memento]]></entry>
 <entry id="trinket_rarity_kickstarter"><![CDATA[Équipage]]></entry>
 <entry id="trinket_rarity_tutorial"><![CDATA[Commun]]></entry>
-<entry id="trinket_rarity_perfumer1"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer2"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer3"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer4"><![CDATA[TODO:Perfumer]]></entry>
+<entry id="trinket_rarity_perfumer1"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer2"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer3"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer4"><![CDATA[Parfumeur]]></entry>
 <entry id="trinket_rarity_spoils"><![CDATA[TODO:Reliquary's Spoils]]></entry>
 <entry id="trinket_rarity_ghoul_mother"><![CDATA[Mère des goules]]></entry>
 <entry id="trinket_rarity_comet"><![CDATA[Contrebande]]></entry>
 <entry id="trinket_rarity_fight_pit"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="trinket_rarity_gambling"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="trinket_rarity_nomad"><![CDATA[Chasseur de la Flamme]]></entry>
-<entry id="trinket_rarity_perfumer1_visual"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer2_visual"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer3_visual"><![CDATA[TODO:Perfumer]]></entry>
-<entry id="trinket_rarity_perfumer4_visual"><![CDATA[TODO:Perfumer]]></entry>
+<entry id="trinket_rarity_perfumer1_visual"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer2_visual"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer3_visual"><![CDATA[Parfumeur]]></entry>
+<entry id="trinket_rarity_perfumer4_visual"><![CDATA[Parfumeur]]></entry>
 <entry id="trinket_rarity_yngolian_visual1"><![CDATA[Céleste]]></entry>
 <entry id="trinket_rarity_yngolian_visual2"><![CDATA[Céleste]]></entry>
 <entry id="trinket_rarity_yngolian_visual3"><![CDATA[Céleste]]></entry>
