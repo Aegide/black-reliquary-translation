@@ -1883,9 +1883,9 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="town_event_info_format_upgrade_tag_discount"><![CDATA[Prix réduit : %s / %d%%]]></entry>
 <entry id="town_event_info_format_upgrade_tag_free"><![CDATA[Amélioration gratuite : {?upgrade_tag}%s x {?amount}%d]]></entry>
 <entry id="town_event_info_free_all_activities"><![CDATA[Tous les traitements sont gratuits]]></entry>
-<entry id="town_event_info_in_activity_buff_stress_heal_buff"><![CDATA[TODO:All Stress Relief Activities More Effective]]></entry>
-<entry id="town_event_info_in_activity_buff_stress_heal_debuff"><![CDATA[TODO:All Stress Relief Activities Less Effective]]></entry>
-<entry id="town_event_info_remove_quest_hero_level_restriction"><![CDATA[TODO:Level Restrictions Removed for Next Quest]]></entry>
+<entry id="town_event_info_in_activity_buff_stress_heal_buff"><![CDATA[Les activités de réduction du stress sont plus efficaces]]></entry>
+<entry id="town_event_info_in_activity_buff_stress_heal_debuff"><![CDATA[Les activités de réduction du stress sont moins efficaces]]></entry>
+<entry id="town_event_info_remove_quest_hero_level_restriction"><![CDATA[Aucunes restrictions de niveau pour la quête suivante]]></entry>
 <entry id="town_event_title_bonus_recruit_antiquarian"><![CDATA[TODO:Antique Roadshow]]></entry>
 <entry id="town_event_title_bonus_recruit_bounty_hunter"><![CDATA[TODO:Rumour of Riches]]></entry>
 <entry id="town_event_title_bonus_recruit_crusader"><![CDATA[TODO:Call of the Crusade]]></entry>
