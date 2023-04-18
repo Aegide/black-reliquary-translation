@@ -1900,11 +1900,11 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="town_event_title_embark_party_buff_virtue_chance"><![CDATA[Esprit Vaillant]]></entry>
 <entry id="town_event_title_embark_party_buff_warrens_buff"><![CDATA[Air Frais dans les Tunnels]]></entry>
 <entry id="town_event_title_embark_party_buff_weald_buff"><![CDATA[Soleil dans les Fourrés]]></entry>
-<entry id="town_event_title_free_abbey"><![CDATA[TODO:All Saints Day]]></entry>
-<entry id="town_event_title_free_all_activities"><![CDATA[TODO:Town Fair]]></entry>
-<entry id="town_event_title_free_disease"><![CDATA[TODO:Medical Breakthrough]]></entry>
-<entry id="town_event_title_free_sanitarium"><![CDATA[TODO:Caregivers Convention]]></entry>
-<entry id="town_event_title_free_tavern"><![CDATA[TODO:Mardis Gras]]></entry>
+<entry id="town_event_title_free_abbey"><![CDATA[La Toussaint]]></entry>
+<entry id="town_event_title_free_all_activities"><![CDATA[Fête du Village]]></entry>
+<entry id="town_event_title_free_disease"><![CDATA[Percée Médicale]]></entry>
+<entry id="town_event_title_free_sanitarium"><![CDATA[Convention Médicale]]></entry>
+<entry id="town_event_title_free_tavern"><![CDATA[Mardis Gras]]></entry>
 <entry id="town_event_title_idle_resolve_level_abomination"><![CDATA[TODO:A Gibbous Moon]]></entry>
 <entry id="town_event_title_idle_resolve_level_arbalest"><![CDATA[TODO:Archery Tournament]]></entry>
 <entry id="town_event_title_idle_resolve_level_grave_robber"><![CDATA[TODO:Eat the Rich]]></entry>
