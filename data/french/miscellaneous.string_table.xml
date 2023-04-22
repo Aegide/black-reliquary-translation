@@ -2154,10 +2154,10 @@ Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
 <entry id="town_quest_rewards"><![CDATA[Récompenses]]></entry>
 <entry id="town_quest_select_confirm_no"><![CDATA[Reculer]]></entry>
 <entry id="town_quest_select_confirm_yes"><![CDATA[Poursuivre]]></entry>
-<entry id="town_quest_select_not_town_event_plot_quest_plot_town_invasion_0_confirm"><![CDATA[TODO:By ignoring the Brigand Incursion event, you are allowing your Hamlet to be razed! Several building upgrades will be destroyed as Vvulf and his men mercilessly pillage the township.]]></entry>
-<entry id="town_quest_select_town_event_plot_quest_plot_town_invasion_0_confirm"><![CDATA[TODO:You must battle the merciless Brigands amidst crumbling buildings and rampant structure fires - this is not an easy task. Retreating will result in the death of one of your heroes.]]></entry>
-<entry id="town_quest_specifics_format"><![CDATA[TODO:%s | %s]]></entry>
-<entry id="tray_icon_tooltip_bleed_format"><![CDATA[TODO:%d damage per tn (%d tns)]]></entry>
+<entry id="town_quest_select_not_town_event_plot_quest_plot_town_invasion_0_confirm"><![CDATA[En ignorant l'incursion des brigands, vous laissez votre Hameau se faire raser ! Plusieurs améliorations de bâtiments seront détruites alors que Vvulf et ses hommes pillent le village sans merci.]]></entry>
+<entry id="town_quest_select_town_event_plot_quest_plot_town_invasion_0_confirm"><![CDATA[Il vous faut combattre les brigands sans pitié parmi les bâtiments en ruine et les structures en feu. Ce n'est pas chose facile. Battre en retraite causera la mort de l'un de vos héros.]]></entry>
+<entry id="town_quest_specifics_format"><![CDATA[%s | %s]]></entry>
+<entry id="tray_icon_tooltip_bleed_format"><![CDATA[%d dégâts par tr (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_combat_end_format"><![CDATA[TODO:%s (%d Battles)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_quest_end_format"><![CDATA[TODO:%s (Quest)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_quest_not_complete_format"><![CDATA[TODO:%s (Quest)]]></entry>
