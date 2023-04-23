@@ -1718,22 +1718,22 @@
 <entry id="str_stat_speed"><![CDATA[TODO:SPEED]]></entry>
 <entry id="str_stat_speed_bonus"><![CDATA[TODO:SPD mod]]></entry>
 <entry id="str_stress"><![CDATA[TODO:{colour_start|stressNOT1}stress{colour_end}]]></entry>
-<entry id="str_tavern_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
-<entry id="str_torch_info_0"><![CDATA[TODO:RADIANT LIGHT
-No effects.]]></entry>
-<entry id="str_torch_info_1"><![CDATA[TODO:BRIGHT LIGHT
-Mildly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
-<entry id="str_torch_info_2"><![CDATA[TODO:DIM LIGHT
-Increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
-<entry id="str_torch_info_3"><![CDATA[TODO:SHADOWY
-Strongly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
-<entry id="str_torch_info_4"><![CDATA[TODO:DARKNESS
-Greatly increased Stress Damage, Monster Attack, Loot, Player Crit]]></entry>
-<entry id="str_town_event_started"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}Town Event: {?town_event_name}%s{colour_end}]]></entry>
-<entry id="str_town_event_upgrade_destroyed"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}Town Event: Quest failed {?town_event_name}%s{colour_end}]]></entry>
+<entry id="str_tavern_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} %s désormais déverrouillé.]]></entry>
+<entry id="str_torch_info_0"><![CDATA[LUMIÈRE RADIEUSE
+Aucun effet.]]></entry>
+<entry id="str_torch_info_1"><![CDATA[LUMIÈRE FORTE
+Légère augmentation : stress, attaques des monstres, butin, crit de joueur]]></entry>
+<entry id="str_torch_info_2"><![CDATA[LUMIÈRE FAIBLE
+Augmentation : stress, attaques des monstres, butin, crit de joueur]]></entry>
+<entry id="str_torch_info_3"><![CDATA[PÉNOMBRE
+Forte augmentation : stress, attaques des monstres, butin, crit de joueur]]></entry>
+<entry id="str_torch_info_4"><![CDATA[TÉNÈBRES
+Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]></entry>
+<entry id="str_town_event_started"><![CDATA[{colour_start|town_activity_log_positive_result}Évènement urbain : {?town_event_name}%s{colour_end}]]></entry>
+<entry id="str_town_event_upgrade_destroyed"><![CDATA[{colour_start|town_activity_log_positive_result}Évènement urbain : échec de la quête {?town_event_name}%s{colour_end}]]></entry>
 <entry id="str_town_event_upgrade_destroyed_per_upgrade"><![CDATA[Amélioration détruite : %s]]></entry>
 <entry id="str_treatment_remove_positive_quirk"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a vu l'un de ses attributs traité avec succès. Attribut supprimé : {?quirk_name}%s]]></entry>
-<entry id="str_treatment_remove_negative_quirk"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} underwent effective quirk treatment. Quirk Removed: {?quirk_name}%s]]></entry>
+<entry id="str_treatment_remove_negative_quirk"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a vu l'un de ses attributs traité avec succès. Attribut supprimé : {?quirk_name}%s]]></entry>
 <entry id="str_trinket_found"><![CDATA[Breloque trouvée !]]></entry>
 <entry id="str_trinket_found_ok"><![CDATA[Appeler breloque !]]></entry>
 <entry id="str_tutorial_alive_perished_mixed"><![CDATA[Vous avez rejoint le Hameau avec {?survivor}%s, mais {fallen_hero}%s a trouvé la mort sur la vieille route.]]></entry>
