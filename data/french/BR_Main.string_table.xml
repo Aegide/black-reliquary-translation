@@ -2303,8 +2303,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_cact_wall_spike_C"><![CDATA[TODO:Thicket Spire]]></entry>
 <entry id="str_monstername_cact_wall_bulb_C"><![CDATA[TODO:Thicket Bloomer]]></entry>
 <entry id="str_monstername_cact_wall_heart_C"><![CDATA[TODO:Nucleic Core]]></entry>
-<entry id="str_monstername_cact_alraune_B"><![CDATA[TODO:Cactonid Alraune]]></entry>
-<entry id="str_monstername_cact_alraune_alt_B"><![CDATA[TODO:Cactonid Alraune]]></entry>
+<entry id="str_monstername_cact_alraune_B"><![CDATA[Alrune cactonide]]></entry>
+<entry id="str_monstername_cact_alraune_alt_B"><![CDATA[Alrune cactonide]]></entry>
 <entry id="str_monstername_cact_cut_B"><![CDATA[TODO:Suitor]]></entry>
 <entry id="str_monstername_cact_boquet_B"><![CDATA[TODO:Courter]]></entry>
 <entry id="str_monstername_cact_cut_full_B"><![CDATA[TODO:Happy Couple]]></entry>
