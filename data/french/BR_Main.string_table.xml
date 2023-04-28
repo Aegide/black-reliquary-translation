@@ -2749,11 +2749,11 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_necro_heal_clone"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦɬʐ{colour_end}Wyrd Puppeteering]]></entry>
 <entry id="str_monster_skill_cact_necro_skel_slash"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɧʑ{colour_end}Dagger Dive]]></entry>
 <entry id="str_monster_skill_cact_necro_retreat"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Skeletal Scramble]]></entry>
-<entry id="str_monster_skill_cact_mimic_ripo"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʕ{colour_end}Salivation]]></entry>
-<entry id="str_monster_skill_cact_mimic_puke1"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Spit Splash]]></entry>
-<entry id="str_monster_skill_cact_mimic_puke2"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Spit Splash]]></entry>
-<entry id="str_monster_skill_cact_mimic_puke3"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Spit Splash]]></entry>
-<entry id="str_monster_skill_cact_mimic_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Lungebox]]></entry>
+<entry id="str_monster_skill_cact_mimic_ripo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʕ{colour_end}Salivation]]></entry>
+<entry id="str_monster_skill_cact_mimic_puke1"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
+<entry id="str_monster_skill_cact_mimic_puke2"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
+<entry id="str_monster_skill_cact_mimic_puke3"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
+<entry id="str_monster_skill_cact_mimic_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_cact_bloom"><![CDATA[TODO:{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Provoke the Grove]]></entry>
 <entry id="str_monster_skill_carrion_summon"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʀ{colour_end}Swarming Sortie]]></entry>
 <entry id="str_monster_skill_carrion_hive_sting"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Lethal Injection]]></entry>
