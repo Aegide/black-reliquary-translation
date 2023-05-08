@@ -1238,8 +1238,8 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_trog_bone_pile_arch_kit_effect"><![CDATA[TODO:The corpse is too "fresh" to study safely.]]></entry>
 <entry id="str_curio_trog_bone_pile_torch_effect"><![CDATA[TODO:Cremation is all that can be done now.]]></entry>
 <entry id="str_curio_trog_bone_pile_shovel_effect"><![CDATA[TODO:A sufficient grave is dug.]]></entry>
-<entry id="str_curio_title_abandoned_research"><![CDATA[TODO:Broken Down Dredge]]></entry>
-<entry id="str_curio_content_abandoned_research"><![CDATA[TODO:The cold remains of a fallen dredge unit.]]></entry>
+<entry id="str_curio_title_abandoned_research"><![CDATA[Carcasse de scaphe]]></entry>
+<entry id="str_curio_content_abandoned_research"><![CDATA[Les restes froids d'un scaphe tombé au combat.]]></entry>
 <entry id="str_curio_tooltip_investigate_abandoned_research"><![CDATA[TODO:Peek inside the cockpit]]></entry>
 <entry id="str_curio_abandoned_research_nothing"><![CDATA[TODO:Nothing but dead machinery.]]></entry>
 <entry id="str_curio_abandoned_research_loot"><![CDATA[TODO:Emergency supplies left behind!]]></entry>
