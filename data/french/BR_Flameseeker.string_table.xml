@@ -96,14 +96,14 @@
 <entry id="town_activity_description_treatment"><![CDATA[TODO:Treat Quirks and other problematic behaviors.]]></entry>
 <entry id="town_activity_description_flagellation"><![CDATA[TODO:Indulge in the delights of cleansed Amber.
 {colour_start|stress}Stress{colour_end} Heals 100]]></entry>
-<entry id="town_activity_name_bar"><![CDATA[TODO:Bar]]></entry>
-<entry id="town_activity_name_gambling"><![CDATA[TODO:Gambling Hall]]></entry>
-<entry id="town_activity_name_brothel"><![CDATA[TODO:Fighting Pit]]></entry>
-<entry id="town_activity_name_treatment"><![CDATA[TODO:Treatment Ward]]></entry>
-<entry id="town_activity_name_disease_treatment"><![CDATA[TODO:Medical Ward]]></entry>
-<entry id="town_activity_name_meditation"><![CDATA[TODO:Amber Refinement]]></entry>
-<entry id="town_activity_name_prayer"><![CDATA[TODO:Tek Exchange]]></entry>
-<entry id="town_activity_name_flagellation"><![CDATA[TODO:Amber Den]]></entry>
+<entry id="town_activity_name_bar"><![CDATA[Bar]]></entry>
+<entry id="town_activity_name_gambling"><![CDATA[Salle de jeux]]></entry>
+<entry id="town_activity_name_brothel"><![CDATA[Maison close]]></entry>
+<entry id="town_activity_name_treatment"><![CDATA[Aile psychiatrique]]></entry>
+<entry id="town_activity_name_disease_treatment"><![CDATA[Aile médicale]]></entry>
+<entry id="town_activity_name_meditation"><![CDATA[Raffinerie]]></entry>
+<entry id="town_activity_name_prayer"><![CDATA[Marché]]></entry>
+<entry id="town_activity_name_flagellation"><![CDATA[Repaire]]></entry>
 <entry id="building_verbose_abbey"><![CDATA[TODO:Upgrading the Amber Workshop increases types of production and stress healing while bolstering their effectiveness.]]></entry>
 <entry id="building_verbose_blacksmith"><![CDATA[TODO:Upgrading the Forge allows for purchasing better weapons and armor, and at reduced costs.]]></entry>
 <entry id="building_verbose_camping_trainer"><![CDATA[TODO:Upgrading Gaspard reduces camp skill learning cost.]]></entry>
