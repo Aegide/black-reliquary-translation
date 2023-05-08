@@ -675,7 +675,7 @@ Choose your fights carefully to bring home as many spoils as you can!]]></entry>
 <entry id="str_glossary_term_definition_1006"><![CDATA[TODO:Stat bonus received if both trinkets of that set are equipped at the same time.]]></entry>
 <entry id="str_glossary_term_1007"><![CDATA[Kit archéologique]]></entry>
 <entry id="str_glossary_term_definition_1007"><![CDATA[TODO:An expensive type of provision used to disarm traps more easily. Used heavily in curio interactions.]]></entry>
-<entry id="str_glossary_term_1008"><![CDATA[TODO:Honing Oil]]></entry>
+<entry id="str_glossary_term_1008"><![CDATA[Huile d'affûtage]]></entry>
 <entry id="str_glossary_term_definition_1008"><![CDATA[TODO:A type of provision used to deal with high PROT enemies more efficiently. Can be used in curio interactions.]]></entry>
 <entry id="str_glossary_term_1009"><![CDATA[Affiliation]]></entry>
 <entry id="str_glossary_term_definition_1009"><![CDATA[TODO:Describes Hero's religiousness. This can affect results of certain combat skills, camping skills, and more.]]></entry>
@@ -1414,9 +1414,9 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_inventory_title_supplymedicinal_herbs"><![CDATA[TODO:Cleansing Salt]]></entry>
 <entry id="str_inventory_description_supplymedicinal_herbs"><![CDATA[TODO:Blessed by the Light, these salts can remedy certain ailments on the body.]]></entry>
 <entry id="buff_rule_data_tooltip_medicinal_herbs"><![CDATA[TODO:Cleansing Salt]]></entry>
-<entry id="str_inventory_title_supplyhoning_oil"><![CDATA[TODO:Honing Oil]]></entry>
+<entry id="str_inventory_title_supplyhoning_oil"><![CDATA[Huile d'affûtage]]></entry>
 <entry id="str_inventory_description_supplyhoning_oil"><![CDATA[TODO:This oil brings edges to a razor-sharpness while applied.]]></entry>
-<entry id="buff_rule_data_tooltip_honing_oil"><![CDATA[TODO:Honing Oil]]></entry>
+<entry id="buff_rule_data_tooltip_honing_oil"><![CDATA[Huile d'affûtage]]></entry>
 <entry id="buff_rule_data_tooltip_bandage"><![CDATA[TODO:Bandage]]></entry>
 <entry id="buff_rule_data_tooltip_antivenom"><![CDATA[TODO:Antivenom]]></entry>
 <entry id="str_inventory_title_supplyarch_kit"><![CDATA[TODO:Archaeology Kit]]></entry>
