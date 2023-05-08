@@ -36,10 +36,10 @@ Change to mode: On Foot]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT3"><![CDATA[TODO:+6 SPD if In Mech]]></entry>		
 <entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT4"><![CDATA[TODO:-25%% PROT if In Mech]]></entry>			
 <entry id="buff_stat_tooltip_upgrade_discount_OMNITOOL_MAINTAIN_ACC_TT"><![CDATA[TODO:+10 ACC if On Foot]]></entry>	
-<entry id="actor_mode_name_on_foot"><![CDATA[TODO:On Foot]]></entry>
-<entry id="actor_mode_name_mech_heat_0"><![CDATA[TODO:In Mech]]></entry>
-<entry id="str_skill_mode_info_on_foot"><![CDATA[TODO:On Foot:]]></entry>
-<entry id="str_skill_mode_info_mech_heat_0"><![CDATA[TODO:In Mech:]]></entry>
+<entry id="actor_mode_name_on_foot"><![CDATA[À pied]]></entry>
+<entry id="actor_mode_name_mech_heat_0"><![CDATA[En Mecha]]></entry>
+<entry id="str_skill_mode_info_on_foot"><![CDATA[À pied:]]></entry>
+<entry id="str_skill_mode_info_mech_heat_0"><![CDATA[En Mecha:]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 80 / DMG mod: -60% / CRIT: -2%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT1"><![CDATA[TODO:If in On Foot mode: -50% DMG]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT2"><![CDATA[TODO:If in On Foot mode: {colour_start|debuff}Debuff Target:{colour_end} -8 ACC {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
@@ -58,15 +58,15 @@ Each of the Dredge’s skills in Mech mode cause her {colour_start|debuff}Heat L
 Ignores {colour_start|prep_round}Prep Round{colour_end} ACC Reduction, {colour_start|amberblighted}Amberblight{colour_end} Target, +15% {colour_start|debuff}Heat{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[TODO:{colour_start|notable}Amberlight Annihilation{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 95 ACC/+25% DMG/+5% CRT
 Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start|debuff}Heat{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[TODO:Produce 3 Honing Oil]]></entry>
-<entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[TODO:Anti-Organic Focal Array]]></entry>
-<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[TODO:Particle Tether Module]]></entry>
-<entry id="str_inventory_title_trinketdredge_pilebunker_blueprint"><![CDATA[TODO:Heavy Boring Augment]]></entry>
-<entry id="str_inventory_title_trinketdredge_eldritchfire_scope"><![CDATA[TODO:Eldritchfire Capacitor Bank]]></entry>
-<entry id="str_inventory_title_trinketdredge_ostvengr_knapsack"><![CDATA[TODO:Ostvengr Rationed Knapsack]]></entry>
-<entry id="str_inventory_title_trinketdredge_prototype_blueprint"><![CDATA[TODO:The First Design]]></entry>
-<entry id="str_inventory_title_trinketdredge_amber_core"><![CDATA[TODO:Pure Amber Core]]></entry>
-<entry id="str_inventory_set_title_cc_dredge"><![CDATA[TODO:"To fight monsters, we became them..."]]></entry>
+<entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produit 3 huiles d'affûtage]]></entry>
+<entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Matrice focale anti-organique]]></entry>
+<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Module à particules liées]]></entry>
+<entry id="str_inventory_title_trinketdredge_pilebunker_blueprint"><![CDATA[Amélioration de forage lourd]]></entry>
+<entry id="str_inventory_title_trinketdredge_eldritchfire_scope"><![CDATA[Réservoir de carburant interdit]]></entry>
+<entry id="str_inventory_title_trinketdredge_ostvengr_knapsack"><![CDATA[Rations d'Ostvengr]]></entry>
+<entry id="str_inventory_title_trinketdredge_prototype_blueprint"><![CDATA[Le premier prototype]]></entry>
+<entry id="str_inventory_title_trinketdredge_amber_core"><![CDATA[Cœur d'ambre pur]]></entry>
+<entry id="str_inventory_set_title_cc_dredge"><![CDATA["Pour combattre les monstres, nous en sommes devenus..."]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_ON_FOOT_TT"><![CDATA[TODO:%+d%% DMG if On Foot]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_IN_MECH_TT"><![CDATA[TODO:%+d%% DMG if In Mech]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ACC_ON_FOOT_TT"><![CDATA[TODO:%+d ACC if On Foot]]></entry>
