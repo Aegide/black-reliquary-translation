@@ -158,6 +158,8 @@ for those like her.]]></entry>
 Hm, I admit, this was quite the thrill.]]></entry>
 <entry id="str_vo_good_BR_treasury_kill_boss_01_0"><![CDATA[TODO:The malignant flower is finally reduced to pulp, and the surrounding 
 thicket squirms in pain. Good.]]></entry>
+<entry id="str_vo_good_BR_treasury_kill_boss_01_alt_0"><![CDATA[TODO:The malignant flower is finally reduced to pulp, and the surrounding 
+ thicket squirms in pain. Good.]]></entry>
 <entry id="str_vo_good_BR_treasury_kill_boss_02_0"><![CDATA[TODO:Do you hear that? Do you feel it? The core's death rattle is sending 
 tremors through the earth and masonry.]]></entry>
 <entry id="str_vo_good_BR_sand_charmer_kill_0"><![CDATA[TODO:It is a child of the Valley, and will return in time. For now, 
@@ -381,7 +383,7 @@ Caravans, and is no small part responsible for the capture]]></entry>
 A wurm so ancient, it has grown beyond comprehension.]]></entry>
 <entry id="str_vo_load_BR_caverns_loading_boss2_1"><![CDATA[TODO:Not only does it threaten to cause cave-ins down below, it terrorizes
 those on the surface, friend and foe alike. ]]></entry>
-<entry id="str_vo_load_BR_caverns_loading_boss2_2"><![CDATA[TODO:If we are to proceed, we must do the unthinkable and kill this 
+<entry id="str_vo_load_BR_caverns_loading_boss2_2"><![CDATA[TODO:If we are to proceed, we must do the unthinkable and defeat this 
 Leviathan of the sands.]]></entry>
 <entry id="str_vo_load_BR_treasury_loading_boss1_0"><![CDATA[TODO:Reaching the Reliquary's gates will require more than some gardening 
 shears to cut through the Cactonid thickets.]]></entry>
@@ -562,7 +564,7 @@ Settle in quickly. The Reliquary awaits us.]]></entry>
 only to rise above]]></entry>
 <entry id="str_vo_town_BR_recruit_antiquarian_0"><![CDATA[TODO:A woman that knows the real treasures of this 
 place will be truly invaluable.]]></entry>
-<entry id="str_vo_town_BR_recruit_arbalest_0"><![CDATA[TODO:How strange that something so quaint as a fletched stick -can fell giants.]]></entry>
+<entry id="str_vo_town_BR_recruit_arbalest_0"><![CDATA[TODO:How strange that something so quaint as a fletched stick- can fell giants.]]></entry>
 <entry id="str_vo_town_BR_recruit_bounty_hunter_0"><![CDATA[TODO:There are no bounties here, but quarries are plentiful.]]></entry>
 <entry id="str_vo_town_BR_recruit_crusader_0"><![CDATA[TODO:Would-be holy warriors plague these lands. This man shall show what true devotion is.]]></entry>
 <entry id="str_vo_town_BR_recruit_dredge_0"><![CDATA[Soldate aguerrie. Demi-dieu mécanisé de la mort. Vestiges d'une nation dévastée.]]></entry>

@@ -9,8 +9,8 @@
 <entry id="[pc]str_help_town_8"><![CDATA[TODO:Districts have been replaced by "Side Decks" and are unlocked at week 5.]]></entry>
 <entry id="[pc]str_help_town_9"><![CDATA[TODO:Certain Side Decks require other Side Decks to be built before they can be constructed.]]></entry>
 <entry id="[pc]str_help_raid_camping_0"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.{colour_end}]]></entry>
-<entry id="[pc]str_help_raid_camping_1"><![CDATA[TODO:Unlike the normal combats, Nighttime Ambushes can still surprise you.]]></entry>
-<entry id="[pc]str_help_raid_camping_2"><![CDATA[TODO:Base Nighttime Ambush Chance is 33% ]]></entry>
+<entry id="[pc]str_help_raid_camping_1"><![CDATA[TODO:Base Nighttime Ambush Chance is 33% ]]></entry>
+<entry id="[pc]str_help_raid_camping_2"><![CDATA[TODO:Nighttime Ambushes can surprise you.]]></entry>
 <entry id="[pc]str_help_raid_camping_3"><![CDATA[TODO:If you're camping during Daytime in Exposed Interior, you don't need to spend points on ambush preventions, as those can't happen on these quests.]]></entry>
 <entry id="[pc]str_help_raid_camping_4"><![CDATA[TODO:Do note that Kvarotz enemies can be part of a Nighttime Ambush.]]></entry>
 <entry id="[pc]str_help_raid_combat_0"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}The first round of combat is the Preparation Round, during which you can't crit, and most abilities have their ACC halved, while some also have different or additional effects. Make sure to read the descriptions of your skills to see which ones are more effective during it.{colour_end}]]></entry>
@@ -26,7 +26,7 @@
 <entry id="[pc]str_help_raid_hallway_3"><![CDATA[TODO:Light level no longer influences loot gained from combat and curios- instead, different enemies might appear depending on the light level: Lost Legion while the torch is bright, and Kvarotz if the torch is dim enough.]]></entry>
 <entry id="[pc]str_help_raid_hallway_4"><![CDATA[TODO:Resist pop-ups are now removed- if an interaction didn't give any effects, your hero most likely just resisted one.]]></entry>
 <entry id="[pc]str_help_raid_hallway_5"><![CDATA[TODO:In Exposed Interior, using a torch gives a small ACC buff during the day, and lets a hero ignore stealth at night.]]></entry>
-<entry id="[pc]str_help_raid_hallway_6"><![CDATA[TODO:Besides some specific encounters and the nighttime ambush, the surprise mechanic is not present anymore.]]></entry>
+<entry id="[pc]str_help_raid_hallway_6"><![CDATA[TODO:Except for certain enemy factions and encounters, all enemies have a fixed 15% chance of being surprised. This is not affected by torchlight.]]></entry>
 <entry id="[pc]str_help_raid_hallway_7"><![CDATA[TODO:Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.]]></entry>
 <entry id="[pc]str_help_raid_room_0"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}Some of the rooms might have Vendors in them- they're indicated by a special icon on the map, and require specific items to be interacted with. Read their description to find out what they're interested in.{colour_end}]]></entry>
 <entry id="[pc]str_help_raid_room_1"><![CDATA[TODO:Secret Rooms are now a place of the Perfumer's research- interacting with him grants you a special trinket, which he can upgrade for you at later visits.]]></entry>
@@ -34,7 +34,7 @@
 <entry id="[pc]str_help_raid_room_3"><![CDATA[TODO:Light level no longer influences loot gained from combat and curios- instead, different enemies might appear depending on the light level: Lost Legion while the torch is bright, and Kvarotz if the torch is dim enough.]]></entry>
 <entry id="[pc]str_help_raid_room_4"><![CDATA[TODO:Resist pop-ups are now removed- if an interaction didn't give any effects, your hero most likely just resisted one.]]></entry>
 <entry id="[pc]str_help_raid_room_5"><![CDATA[TODO:In Exposed Interior, using a torch gives a small ACC buff during the day, and lets a hero ignore stealth at night.]]></entry>
-<entry id="[pc]str_help_raid_room_6"><![CDATA[TODO:Besides some specific encounters and the nighttime ambush, the surprise mechanic is not present anymore.]]></entry>
+<entry id="[pc]str_help_raid_room_6"><![CDATA[TODO:Except for certain enemy factions and encounters, all enemies have a fixed 15% chance of being surprised. This is not affected by torchlight.]]></entry>
 <entry id="[pc]str_help_raid_room_7"><![CDATA[TODO:Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.]]></entry>
 <entry id="str_help_town_abbey_0"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}Here at the Amber Workshop, heroes can refine their hard-earned Amber into {colour_start|BR_heirloom}Refined Amber Dust{colour_end} under the watchful eye of Penitent Leonne.{colour_end}]]></entry>
 <entry id="str_help_town_abbey_1"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end} can be spent at the Tek Exchange to obtain {colour_start|BR_lost_tek}Lost Tek{colour_end}, used for expansions in our Side Decks.]]></entry>

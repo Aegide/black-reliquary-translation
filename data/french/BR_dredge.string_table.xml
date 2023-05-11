@@ -40,6 +40,7 @@ Change to mode: On Foot]]></entry>
 <entry id="actor_mode_name_mech_heat_0"><![CDATA[En Mecha]]></entry>
 <entry id="str_skill_mode_info_on_foot"><![CDATA[À pied:]]></entry>
 <entry id="str_skill_mode_info_mech_heat_0"><![CDATA[En Mecha:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ELDRITCHFIRE_NONHUMAN_DEBUFF_TT"><![CDATA[TODO:%+d%% DMG Taken if not Human]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 80 / DMG mod: -60% / CRIT: -2%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT1"><![CDATA[TODO:If in On Foot mode: -50% DMG]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT2"><![CDATA[TODO:If in On Foot mode: {colour_start|debuff}Debuff Target:{colour_end} -8 ACC {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
