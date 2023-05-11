@@ -90,7 +90,7 @@ Ichor Incantation]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
 	{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Recevied if has no {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Received if has no {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt2"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|stun}Stun{colour_end} Chance]]></entry>

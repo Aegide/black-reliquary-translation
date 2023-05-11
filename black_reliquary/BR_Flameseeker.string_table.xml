@@ -14,8 +14,8 @@
     <entry id="[pc]str_help_town_9"><![CDATA[Certain Side Decks require other Side Decks to be built before they can be constructed.]]></entry>
 	
 	<entry id="[pc]str_help_raid_camping_0"><![CDATA[{colour_start|town_activity_log_positive_result}Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.{colour_end}]]></entry>
-    <entry id="[pc]str_help_raid_camping_1"><![CDATA[Unlike the normal combats, Nighttime Ambushes can still surprise you.]]></entry>
-	<entry id="[pc]str_help_raid_camping_2"><![CDATA[Base Nighttime Ambush Chance is 33% ]]></entry>
+	<entry id="[pc]str_help_raid_camping_1"><![CDATA[Base Nighttime Ambush Chance is 33% ]]></entry>
+	<entry id="[pc]str_help_raid_camping_2"><![CDATA[Nighttime Ambushes can surprise you.]]></entry>
     <entry id="[pc]str_help_raid_camping_3"><![CDATA[If you're camping during Daytime in Exposed Interior, you don't need to spend points on ambush preventions, as those can't happen on these quests.]]></entry>
     <entry id="[pc]str_help_raid_camping_4"><![CDATA[Do note that Kvarotz enemies can be part of a Nighttime Ambush.]]></entry>
 	
@@ -33,7 +33,7 @@
     <entry id="[pc]str_help_raid_hallway_3"><![CDATA[Light level no longer influences loot gained from combat and curios- instead, different enemies might appear depending on the light level: Lost Legion while the torch is bright, and Kvarotz if the torch is dim enough.]]></entry>
     <entry id="[pc]str_help_raid_hallway_4"><![CDATA[Resist pop-ups are now removed- if an interaction didn't give any effects, your hero most likely just resisted one.]]></entry>
     <entry id="[pc]str_help_raid_hallway_5"><![CDATA[In Exposed Interior, using a torch gives a small ACC buff during the day, and lets a hero ignore stealth at night.]]></entry>
-	<entry id="[pc]str_help_raid_hallway_6"><![CDATA[Besides some specific encounters and the nighttime ambush, the surprise mechanic is not present anymore.]]></entry>
+	<entry id="[pc]str_help_raid_hallway_6"><![CDATA[Except for certain enemy factions and encounters, all enemies have a fixed 15% chance of being surprised. This is not affected by torchlight.]]></entry>
     <entry id="[pc]str_help_raid_hallway_7"><![CDATA[Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.]]></entry>
 
 	
@@ -43,7 +43,7 @@
     <entry id="[pc]str_help_raid_room_3"><![CDATA[Light level no longer influences loot gained from combat and curios- instead, different enemies might appear depending on the light level: Lost Legion while the torch is bright, and Kvarotz if the torch is dim enough.]]></entry>
     <entry id="[pc]str_help_raid_room_4"><![CDATA[Resist pop-ups are now removed- if an interaction didn't give any effects, your hero most likely just resisted one.]]></entry>
     <entry id="[pc]str_help_raid_room_5"><![CDATA[In Exposed Interior, using a torch gives a small ACC buff during the day, and lets a hero ignore stealth at night.]]></entry>
-    <entry id="[pc]str_help_raid_room_6"><![CDATA[Besides some specific encounters and the nighttime ambush, the surprise mechanic is not present anymore.]]></entry>
+    <entry id="[pc]str_help_raid_room_6"><![CDATA[Except for certain enemy factions and encounters, all enemies have a fixed 15% chance of being surprised. This is not affected by torchlight.]]></entry>
     <entry id="[pc]str_help_raid_room_7"><![CDATA[Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.]]></entry>
 
   
