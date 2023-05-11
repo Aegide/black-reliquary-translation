@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.enableFiletypes": [
+			"xml"
+		],
+		"cSpell.maxNumberOfProblems": 1000,
+		"cSpell.maxDuplicateProblems": 1,
+		"cSpell.customDictionaries": {
+			"lore": {
+				"name": "Lore",
+				"path": "${workspaceFolder:black-reliquary-translation}/.vscode/lore.txt",
+				"addWords": true,
+				"scope": "workspace"
+			},
+			"english": {
+				"name": "English",
+				"path": "${workspaceFolder:black-reliquary-translation}/.vscode/english.txt",
+				"addWords": true,
+				"scope": "workspace"
+			},
+			"other": {
+				"name": "Other",
+				"path": "${workspaceFolder:black-reliquary-translation}/.vscode/other.txt",
+				"addWords": true,
+				"scope": "workspace"
+			}
+		}
+	}
+}

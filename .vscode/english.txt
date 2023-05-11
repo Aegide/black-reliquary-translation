@@ -1,0 +1,5 @@
+# Valid english words
+colour
+Debuff
+Debuffs
+unselectable

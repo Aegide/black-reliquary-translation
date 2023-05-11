@@ -1,0 +1,6 @@
+# Words that make no sense
+addinfo
+attacktype
+BREL
+healhp
+RIPO
