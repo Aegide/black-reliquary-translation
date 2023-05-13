@@ -488,7 +488,7 @@ Cactonids lie in wait to attack unsuspecting adventurers!  {colour_start|notable
 
 While there are some roaming creatures which call the Treasury their home, most fights will be ones you initiate.
 
-{colour_start|notable}Choose your fights carefully to bring home as many spoils as you can!]]></entry>
+{colour_start|notable}Choose your fights carefully to bring home as many spoils as you can!{colour_end}]]></entry>
 
 <entry id="tutorial_popup_memories_title"><![CDATA[TODO:Strength in Numbers]]></entry>
 <entry id="tutorial_popup_memories_description"><![CDATA[TODO:Certain Troglodyte enemies have a special {colour_start|notable}Swarm{colour_end} typing.
@@ -6431,7 +6431,7 @@ the Treasury successfully gives buffs
 <entry id="str_ui_stress_dot_resist"><![CDATA[]]></entry>
 <entry id="resistance_name_debuff"><![CDATA[{colour_start|debuff}Malus{colour_end}{colour_start|neutral}/{colour_end}{colour_start|mark}Marque{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[Chances d'infliger {colour_start|debuff}malus{colour_end}{colour_start|neutral}/{colour_end}{colour_start|mark}marque{colour_end} %+d%%]]></entry>
-<entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[Résistance aux {colour_start|debuff}malus{colour_end}/{colour_end}{colour_start|mark}marque{colour_end} %+d%%]]></entry>
+<entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[Résistance aux {colour_start|debuff}malus{colour_end}/{colour_start|mark}marque{colour_end} %+d%%]]></entry>
 <entry id="str_ui_resist"><![CDATA[Résistance]]></entry>
 <entry id="resistance_name_disease"><![CDATA[TODO:{colour_start|symptom}Symptom{colour_end}{colour_start|neutral}/ {colour_end}{colour_start|disease}Disease{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_resistance_disease"><![CDATA[TODO:%+d%% {colour_start|symptom}Symptom{colour_end}/ {colour_start|disease}Disease{colour_end} Resist]]></entry>

@@ -78,7 +78,7 @@
 <entry id="buff_rule_tooltip_lightbelow_false"><![CDATA[TODO:{?string1}%s if Torch not below {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_monsterStatus_false"><![CDATA[TODO:%s not vs %s]]></entry>
 <entry id="buff_rule_tooltip_monsterType"><![CDATA[TODO:%s vs %s]]></entry>
-<entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s vs autre que %]]></entry>
+<entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s vs autre que %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[TODO:%s not {colour_start|attacktype}Ranged{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_riposte"><![CDATA[TODO:{colour_start|riposte}Riposte{colour_end}: %s]]></entry>
 <entry id="buff_rule_tooltip_skill"><![CDATA[TODO:%s: %s]]></entry>
