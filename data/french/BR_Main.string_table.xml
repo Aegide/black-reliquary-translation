@@ -42,13 +42,15 @@ Torch Level: ( 0 )]]></entry>
 <entry id="str_wave_transition_b5_torch_tooltip_title"><![CDATA[TODO:{colour_start|moon_torch}Mantling Moonlight{colour_end}
 +Kvarotz Spawn Chance
 Torch Level: ( 0 )]]></entry>
-<entry id="str_wave_transition_c_torch_tooltip_title"><![CDATA[TODO:{colour_start|green}[Haunting]{colour_end}]]></entry>
+<entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[TODO:{colour_start|eclipse_torch}Excruciating Moonlight{colour_end}
+Torch Level: ( 50 )]]></entry>
 <entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[TODO:{colour_start|yellow}[Splendorous]{colour_end}]]></entry>	
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[TODO:Certain enemies start combat with {colour_start|stealth}Stealth{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[TODO:Cannot be Ambushed after Camp]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|neutral}Torch Item Effects{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|buff}Buff Party:{colour_end} {colour_start|notable}+5 ACC{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end} {colour_start|notable}Ignore {colour_end}{colour_start|stealth}Stealth {colour_end}{colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|notable}Target: Cure {colour_end}{colour_start|bleed}Bleed{colour_end}{colour_start|notable},{colour_end} {colour_start|harmful}+4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="str_darkness_title_0"><![CDATA[TODO:RADIANT LIGHT
 ++Lost Legion Spawn Chance
 Current Torch Level:]]></entry>
@@ -64,6 +66,15 @@ Current Torch Level:]]></entry>
 <entry id="str_darkness_title_4"><![CDATA[TODO:BLACK AS PITCH
 +++Kvarotz Spawn Chance
 Current Torch Level:]]></entry>
+<entry id="buff_rule_data_tooltip_default"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_default3"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_default5"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_a"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_a3"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_a5"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_b"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_b3"><![CDATA[]]></entry>
+<entry id="buff_rule_data_tooltip_wave_transition_b5"><![CDATA[]]></entry>
 <entry id="str_meal_heal_format"><![CDATA[]]></entry>
 <entry id="str_meal_not_enough_provisions"><![CDATA[(Pas assez de nourriture)]]></entry>
 <entry id="str_meal_stress_format"><![CDATA[]]></entry>
@@ -279,7 +290,6 @@ Current Torch Level:]]></entry>
 <entry id="town_quest_progress_plot_kill_ygastrosaur_3"><![CDATA[TODO:Fell the Gastrosaur]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[TODO:The Gastrosaur becomes more violent as its health diminishes.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[TODO:The hide of the Gastrosaur is resilient. Honing Oil may be of use.]]></entry>
-<entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[TODO:The Gastrosaur's shell is seldom-resistant to blight.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[TODO:Supplies to cure and resist bleed and blight may be vital.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_audio_line"><![CDATA[TODO:The Warbeast]]></entry>
 <entry id="str_caretaker_goal_plot_kill_ygreater_wurm_5"><![CDATA[TODO:Defeat the Greater Sandwurm]]></entry>
@@ -348,7 +358,7 @@ Hover over the status icon an affected target for more information.]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[TODO:New Statuses]]></entry>
 <entry id="tutorial_popup_camping_description"><![CDATA[TODO:Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
 During the {colour_start|notable}Meal phase{colour_end}, you choose how much they eat, which determines recovery. Make sure you have enough food!
-{colour_start|notable}Skill Phase{colour_end} allows you to spend {colour_start|notable}Rest Points{colour_end} on different hero skills used for recuperation.
+{colour_start|notable}Skill Phase{colour_end} allows you to spend {colour_start|notable}Respite{colour_end} on different hero skills used for recuperation.
 Additionally, when camping under the {colour_start|sun_torch}sun{colour_end} of Exposed Interior, ambush prevention is not necessary.]]></entry>
 <entry id="tutorial_popup_camping_quest_description"><![CDATA[TODO:Quest durations have been adjusted to be slightly longer, and now all missions include 1 more {colour_start|notable}firewood{colour_end} than before. Be sure to supply yourself in anticipation of more fights, blockages, and hunger.
 Short quests are strongly recommended for less experienced or prepared heroes.]]></entry>
@@ -473,9 +483,26 @@ These effects do not stack. Each vestige downside is only applied once while in 
 <entry id="tutorial_popup_crimson_curse_craving_title"><![CDATA[TODO:Boon from Beyond]]></entry>
 <entry id="tutorial_popup_thing_title"><![CDATA[TODO:The Cactonids]]></entry>
 <entry id="tutorial_popup_thing_description"><![CDATA[TODO:Deception is everywhere!
-Cactonids lie in wait to attack unsuspecting adventurers! Most curios in the Treasury are disguised Cactonids ready to strike, but these creatures are overloaded with riches, both exotic and mundane. Certain interactions can be used to give yourself an advantage in fights against these floral beasts, so prepare accordingly. 
+
+Cactonids lie in wait to attack unsuspecting adventurers!  {colour_start|notable}Most curios in the Treasury are disguised Cactonids ready to strike, but these creatures are overloaded with riches, both exotic and mundane.{colour_end} Certain interactions can be used to give yourself an advantage in fights against these floral beasts, so prepare accordingly.
+
 While there are some roaming creatures which call the Treasury their home, most fights will be ones you initiate.
-Choose your fights carefully to bring home as many spoils as you can!]]></entry>
+
+{colour_start|notable}Choose your fights carefully to bring home as many spoils as you can!]]></entry>
+
+<entry id="tutorial_popup_memories_title"><![CDATA[TODO:Strength in Numbers]]></entry>
+<entry id="tutorial_popup_memories_description"><![CDATA[TODO:Certain Troglodyte enemies have a special {colour_start|notable}Swarm{colour_end} typing.
+
+If left along for too long, these meek Trogs will call for reinforcements, bringing a similar ally to their side, {colour_start|notable}doubling its total HP, and granting the unit a second action.{colour_end}
+
+Stamping out these pests as quickly as possible can keep the fight under control.]]></entry>
+
+<entry id="tutorial_popup_miller_killed_title"><![CDATA[TODO:Day & Night]]></entry>
+<entry id="tutorial_popup_miller_killed_description"><![CDATA[TODO:The Exposed Interior region is located on the desert's surface, and subject to {colour_start|sun_torch}blistering daylight{colour_end} and {colour_start|moon_torch}chilling moonlight{colour_end}.
+
+{colour_start|sun_torch}Day{colour_end} and {colour_start|moon_torch}Night{colour_end}each offer their own advantages and penalties with unique light level modifiers and torch provision behaviors.
+
+{colour_start|skill_unselectable}[These changes can be observed via the torchlight icon at the top of the screen.]{colour_end}]]></entry>
 <entry id="str_glossary_ancestor_quote"><![CDATA[Écoutez attentivement. Ça pourrait vous sauver.]]></entry>
 <entry id="str_glossary_term_1"><![CDATA[TODO:{colour_start|invisible}​​{colour_end}Effect Icon Key]]></entry>
 <entry id="str_glossary_term_definition_1"><![CDATA[TODO:{colour_start|white}ɬ{colour_end} - {colour_start|healhp}Heal{colour_end} Target
@@ -836,11 +863,13 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial1"><![CDATA[TODO:There could be something useful here...]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial1_loot"><![CDATA[TODO:They were well supplied!]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial1_torch_effect"><![CDATA[TODO:The supplies are burned!]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial1_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
 <entry id="str_curio_title_levantine_supplies_tutorial2"><![CDATA[TODO:Levantine Supplies]]></entry>
 <entry id="str_curio_content_levantine_supplies_tutorial2"><![CDATA[TODO:Some abandoned Levantine equipment.]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial2"><![CDATA[TODO:There could be something useful here...]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial2_loot"><![CDATA[TODO:They were well supplied!]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial2_torch_effect"><![CDATA[TODO:The supplies are burned!]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial2_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
 <entry id="str_curio_title_kvarotz_tablet_tutorial"><![CDATA[TODO:Primeval Tablet]]></entry>
 <entry id="str_curio_content_kvarotz_tablet_tutorial"><![CDATA[TODO:A stone slab containing dark Kvarotz knowledge.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_tablet_tutorial"><![CDATA[TODO:Study the texts...]]></entry>
@@ -922,6 +951,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_levantine_supplies_nothing"><![CDATA[TODO:Empty...]]></entry>
 <entry id="str_curio_levantine_supplies_scout"><![CDATA[TODO:A small map is discovered!]]></entry>
 <entry id="str_curio_levantine_supplies_torch_effect"><![CDATA[TODO:The Supplies are burned!]]></entry>
+<entry id="str_curio_levantine_supplies_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
 <entry id="str_curio_title_levantine_cartography"><![CDATA[TODO:Levantine War Table]]></entry>
 <entry id="str_curio_content_levantine_cartography"><![CDATA[TODO:Charts and correspondance left behind by the Levantine.]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_cartography"><![CDATA[TODO:Maybe a closer look...]]></entry>
@@ -975,6 +1005,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_kvarotz_tech_loot"><![CDATA[TODO:Some of these pieces were adorned with Matakh!]]></entry>
 <entry id="str_curio_kvarotz_tech_bandage_loot"><![CDATA[TODO:The wrapping guards against the jagged metal!]]></entry>
 <entry id="str_curio_kvarotz_tech_arch_kit_loot"><![CDATA[TODO:Valuables are delicately extracted!]]></entry>
+<entry id="str_curio_kvarotz_tech_honing_oil_effect"><![CDATA[TODO:These plates look formidable!]]></entry>
 <entry id="str_curio_kvarotz_tech_archaeologist_compendium_loot"><![CDATA[TODO:Some of the scraps are encrusted with Daric!]]></entry>
 <entry id="str_curio_title_stone_reliquary"><![CDATA[TODO:Stone Reliquary]]></entry>
 <entry id="str_curio_content_stone_reliquary"><![CDATA[TODO:An ancient stone container. It is locked.]]></entry>
@@ -1248,6 +1279,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_abandoned_research_torch_effect"><![CDATA[TODO:Noxious mechanical fluids are ignited!]]></entry>
 <entry id="str_curio_abandoned_research_shovel_loot"><![CDATA[TODO:The dismantled husk reveals salvage!]]></entry>
 <entry id="str_curio_abandoned_research_arch_kit_effect"><![CDATA[TODO:A booklet of charts is discovered!]]></entry>
+<entry id="str_curio_abandoned_research_skeleton_key_loot"><![CDATA[TODO:A special compartment is unlocked!]]></entry>
 <entry id="str_curio_title_vril_statue"><![CDATA[TODO:Decorated Wurm Fang]]></entry>
 <entry id="str_curio_content_vril_statue"><![CDATA[TODO:A shrine has been fashioned from an ancient wurm tooth.]]></entry>
 <entry id="str_curio_tooltip_investigate_vril_statue"><![CDATA[TODO:What secrets could it hold?]]></entry>
@@ -1337,7 +1369,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[TODO:The eldritch nectar is frighteningly tasty!]]></entry>
 <entry id="str_curio_cact_savage_holy_water_summon_cact_savage_cursed"><![CDATA[TODO:The alum disturbs a relic inside of the Cactonid!]]></entry>
 <entry id="str_curio_title_cact_homi"><![CDATA[TODO:Overgrown Corpse]]></entry>
-<entry id="str_curio_content_cact_homi"><![CDATA[TODO:A cadaver has been subsumed by plantlife]]></entry>
+<entry id="str_curio_content_cact_homi"><![CDATA[TODO:A cadaver has been subsumed by plantlife.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_homi"><![CDATA[TODO:Check the body for loot.]]></entry>
 <entry id="str_curio_cact_homi_summon"><![CDATA[TODO:The rotting husk is infested!]]></entry>
 <entry id="str_curio_cact_homi_holy_water_summon_cact_homi_cursed"><![CDATA[TODO:The alum disturbs a relic inside of the Cactonid!]]></entry>
@@ -1850,6 +1882,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_dogpack_B"><![CDATA[TODO:Wildlander Grinhound]]></entry>
 <entry id="str_monstername_wildlander_dogpack_C"><![CDATA[TODO:Wildlander Grinhound]]></entry>
 <entry id="str_monstername_wildlander_dogpack_D"><![CDATA[TODO:Wildlander Grinhound]]></entry>
+<entry id="str_monstername_wildlander_dogpack_N"><![CDATA[TODO:Wildlander Grinhound]]></entry>
 <entry id="str_monstername_wildlander_dogpack_E"><![CDATA[TODO:Wildlander Grinhound]]></entry>
 <entry id="str_monstername_wildlander_dogpack_F"><![CDATA[TODO:Wildlander Grinhound]]></entry>
 <entry id="str_monstername_wildlander_dogpack_X"><![CDATA[TODO:Wildlander Grinhound]]></entry>
@@ -1858,12 +1891,14 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_dog_A"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_B"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_C"><![CDATA[Hyène errante]]></entry>
+<entry id="str_monstername_wildlander_dog_N"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_X"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_Y"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_Z"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_A"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_B"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_C"><![CDATA[TODO:Wildlander Steelhound]]></entry>
+<entry id="str_monstername_wildlander_dogsteel_N"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_X"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_Y"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_Z"><![CDATA[TODO:Wildlander Steelhound]]></entry>
@@ -1871,6 +1906,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_bombard_A"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_B"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_C"><![CDATA[Bombardière sauvage]]></entry>
+<entry id="str_monstername_wildlander_bombard_N"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_D"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_E"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_F"><![CDATA[Bombardière sauvage]]></entry>
@@ -1881,6 +1917,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_harrier_A"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_B"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_C"><![CDATA[Chasseur sauvage]]></entry>
+<entry id="str_monstername_wildlander_harrier_N"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_X"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_Y"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_Z"><![CDATA[Chasseur sauvage]]></entry>
@@ -1890,11 +1927,13 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_reaver_D"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_E"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_F"><![CDATA[Ravageuse sauvage]]></entry>
+<entry id="str_monstername_wildlander_reaver_N"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_X"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_Y"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_Z"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_B"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_C"><![CDATA[Harponneuse sauvage]]></entry>
+<entry id="str_monstername_wildlander_raptor_N"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_Y"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_Z"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildbox_cactus_B"><![CDATA[Munitions cactonides]]></entry>
@@ -1907,6 +1946,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_scav_D"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_E"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_F"><![CDATA[Pilleuse sauvage]]></entry>
+<entry id="str_monstername_wildlander_scav_N"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_X"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_Y"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_Z"><![CDATA[Pilleuse sauvage]]></entry>
@@ -1914,6 +1954,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_druid_A"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_B"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_C"><![CDATA[Druidesse sauvage]]></entry>
+<entry id="str_monstername_wildlander_druid_N"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_X"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_Y"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_Z"><![CDATA[Druidesse sauvage]]></entry>
@@ -2350,6 +2391,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_champ_crushing_1"><![CDATA[TODO:Crushing Advance]]></entry>
 <entry id="str_monster_skill_levantine_champ_crushing_2"><![CDATA[TODO:Crushing Advance]]></entry>
 <entry id="str_monster_skill_levantine_grunt_slash"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Trained Slash]]></entry>
+<entry id="str_monster_skill_levantine_grunt_slash_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Trained Slash]]></entry>
 <entry id="str_monster_skill_levantine_grunt_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Repositioning Swing]]></entry>
 <entry id="str_monster_skill_levantine_grunt_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦʐʗ{colour_end}Sworn Duty]]></entry>
 <entry id="str_monster_skill_levantine_grunt_solid_advance"><![CDATA[TODO:{colour_start|white}ɪʥɘɘɣɣɩɧʐ{colour_end}Solid Advance]]></entry>
@@ -2365,6 +2407,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_fire_burn3"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥʬɩɦʻɯ{colour_end}Horrific Blaze]]></entry>
 <entry id="str_monster_skill_levantine_fire_jumpjet"><![CDATA[TODO:{colour_start|white}ɘɘɠɟʥʯɩɦʻɱ{colour_end}Rising Flames]]></entry>
 <entry id="str_monster_skill_levantine_fire_malfunction"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʐ{colour_end}Pressure Malfunction]]></entry>
+<entry id="str_monster_skill_levantine_fire_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩɮʻʟ{colour_end}Catastrophic Eruption]]></entry>
 <entry id="str_monster_skill_levantine_fire_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩɦʻʟ{colour_end}Catastrophic Eruption]]></entry>
 <entry id="str_monster_skill_levantine_sniper_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Cursory Retreat]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_normal"><![CDATA[TODO:{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Quiver Draw]]></entry>
@@ -2376,7 +2419,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_sniper_panic"><![CDATA[TODO:Cover Me!]]></entry>
 <entry id="str_monster_skill_levantine_enchantress_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʩɣɣɣɣɩɧʏ{colour_end}Predatory Lunge]]></entry>
 <entry id="str_monster_skill_levantine_enchantress_bite_call"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦʡʌ{colour_end}Sands Stir]]></entry>
-<entry id="str_monster_skill_levantine_enchantress_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɧʎ{colour_end}Rapacious Devour]]></entry>
+<entry id="str_monster_skill_levantine_enchantress_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦʻʎ{colour_end}Rapacious Devour]]></entry>
 <entry id="str_monster_skill_levantine_enchantress_serpent"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʀʙ{colour_end}Serpent's Call]]></entry>
 <entry id="str_monster_skill_levantine_enchantress_serpent_afterprep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʀʙ{colour_end}Serpent's Call]]></entry>
 <entry id="str_monster_skill_levantine_serpent2"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʀʙ{colour_end}Serpent's Call]]></entry>
@@ -2397,13 +2440,14 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_terp_life"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɦɬʐ{colour_end}Samsara : Life]]></entry>
 <entry id="str_monster_skill_terp_death"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʧɣɣɘɘɩɧɮ{colour_end}Samsara : Death]]></entry>
 <entry id="str_monster_skill_terp_misstep"><![CDATA[TODO:Choreographic Misstep]]></entry>
-<entry id="str_monster_skill_rak_human_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Spirit's Claws]]></entry>
+<entry id="str_monster_skill_rak_human_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Spirit's Claws]]></entry>
 <entry id="str_monster_skill_rak_human_shout"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cry of the Spirit]]></entry>
+<entry id="str_monster_skill_rak_human_shout_weak"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cry of the Spirit]]></entry>
 <entry id="str_monster_skill_rak_human_transform"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʐ{colour_end}Transcend]]></entry>
 <entry id="str_monster_skill_rak_human_arrogance"><![CDATA[TODO:Air of Arrogance]]></entry>
 <entry id="str_monster_skill_rak_beast_attack"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɨ{colour_end}Reave]]></entry>
 <entry id="str_monster_skill_rak_beast_shout"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦɮʑ{colour_end}Roar of the Spirit]]></entry>
-<entry id="str_monster_skill_appraiser_flash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Blinding Powder]]></entry>
+<entry id="str_monster_skill_appraiser_flash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɮʑ{colour_end}Blinding Powder]]></entry>
 <entry id="str_monster_skill_appraiser_buff"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɧʐ{colour_end}Invigorating Fumes]]></entry>
 <entry id="str_monster_skill_appraiser_stealth"><![CDATA[TODO:{colour_start|white}ɪʨɣɣɣɣɩɦʚʑ{colour_end}Stygian Shroud]]></entry>
 <entry id="str_monster_skill_appraiser_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦɬɭ{colour_end}Fortifying Fumes]]></entry>
@@ -2432,9 +2476,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_snake_head_prep"><![CDATA[TODO:Headbutt]]></entry>
 <entry id="str_monster_skill_cobra_lurk"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɳʐ{colour_end}Lurk]]></entry>
 <entry id="str_monster_skill_hammer_of_faith"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Hammer of Faith]]></entry>
-<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɦʓʑ{colour_end}Blinding Glare]]></entry>
+<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Blinding Glare]]></entry>
 <entry id="str_monster_skill_cleric_knights_vow"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Knight's Vow]]></entry>
-<entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Gleaning Glare]]></entry>
+<entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Gleaning Glare]]></entry>
 <entry id="str_monster_skill_cleric_stand_behind"><![CDATA[TODO:Stand Behind Me!]]></entry>
 <entry id="str_monster_skill_pilgrim_stab"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʎ{colour_end}Bleed, Heretic!]]></entry>
 <entry id="str_monster_skill_pilgrim_weak_stab"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Stumbling Thrust]]></entry>
@@ -2475,6 +2519,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_golem_evil_full_afterprep"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Spreading Dark]]></entry>
 <entry id="str_monster_skill_golem_evil_empty"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Spreading Dark]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
+<entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
 <entry id="str_monster_skill_golem_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Corpse Collection]]></entry>
 <entry id="str_monster_skill_tathuth_launch"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cranial Crash]]></entry>
 <entry id="str_monster_skill_tathuth_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Mindblower]]></entry>
@@ -2493,6 +2538,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 <entry id="str_monster_skill_boneman_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
+<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
 <entry id="str_monster_skill_wildlander_breakthru"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Wreck]]></entry>
 <entry id="str_monster_skill_wildlander_yawp"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
 <entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
@@ -2512,7 +2558,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_packhound_backspin"><![CDATA[TODO:Cackling Flight]]></entry>
 <entry id="str_monster_skill_bombard_dash"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʥɘɘɣɣɩɧʓ{colour_end}Headlong Crash]]></entry>
 <entry id="str_monster_skill_bombard_blast"><![CDATA[TODO:{colour_start|white}ɘɘɠɟʩɣɣɘɘɩɨ{colour_end}Ballistic Thunder]]></entry>
-<entry id="str_monster_skill_bombard_flare"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʐ{colour_end}Reveal the Weaklings]]></entry>
+<entry id="str_monster_skill_bombard_flare"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʑ{colour_end}Reveal the Weaklings]]></entry>
 <entry id="str_monster_skill_bombard_blast_weak"><![CDATA[TODO:Ballistic Blunder]]></entry>
 <entry id="str_monster_skill_bombard_crash_a"><![CDATA[TODO:Out of the Way!]]></entry>
 <entry id="str_monster_skill_bombard_crash_b"><![CDATA[TODO:Out of the Way!]]></entry>
@@ -2534,8 +2580,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_amber_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩʻɺʑ{colour_end}Ravenous Ballistics]]></entry>
 <entry id="str_monster_skill_warhawk_amber_multi"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩʻʡɽ{colour_end}Amber Flak]]></entry>
 <entry id="str_monster_skill_warhawk_load_cactus"><![CDATA[TODO:Floral Armaments]]></entry>
-<entry id="str_monster_skill_warhawk_cactus_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʵ{colour_end}Leeching Projectile]]></entry>
-<entry id="str_monster_skill_warhawk_cactus_multi"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɘɣɣɣɩɦʻʏ{colour_end}Chlorophyll Cannon]]></entry>
+<entry id="str_monster_skill_warhawk_cactus_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʵ{colour_end}Prickly Projectile]]></entry>
+<entry id="str_monster_skill_warhawk_cactus_multi"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɘɣɣɣɩɦʻʏ{colour_end}Leeching Spew]]></entry>
 <entry id="str_monster_skill_warhawk_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʧɣɘɘɘɩɧʻ{colour_end}Talon of the Warhawk]]></entry>
 <entry id="str_monster_skill_warhawk_summon"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Rally the Clan]]></entry>
 <entry id="str_monster_skill_warhawk_ground_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɘɣɣɣɩʻʟʐ{colour_end}Reckless Cannon-Fire]]></entry>
@@ -2591,9 +2637,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_spellblighter_heal"><![CDATA[TODO:{colour_start|white}əəəəɥʫɩɧɬ{colour_end}Malignant Reshaping]]></entry>
 <entry id="str_monster_skill_spellblighter_soulflicker"><![CDATA[TODO:Soulflicker]]></entry>
 <entry id="str_monster_skill_blindness"><![CDATA[TODO:Light Blindness]]></entry>
-<entry id="str_monster_skill_mother_howl"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɿɶʖ{colour_end}Undead Dissonance]]></entry>
+<entry id="str_monster_skill_mother_howl"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɿʖʊ{colour_end}Undead Dissonance]]></entry>
 <entry id="str_monster_skill_mother_scream"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɦɮʀ{colour_end}Ear-Splitting Wail]]></entry>
-<entry id="str_monster_skill_mother_scream_afterprep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɦɮʀ{colour_end}Ear-Splitting Wail]]></entry>
+<entry id="str_monster_skill_mother_scream_afterprep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɮʀɶ{colour_end}Ear-Splitting Wail]]></entry>
 <entry id="str_monster_skill_mother_eat"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Greed and Gluttony]]></entry>
 <entry id="str_monster_skill_mother_dash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦʲɩɧʑ{colour_end}Onslaught]]></entry>
 <entry id="str_monster_skill_mother_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʲɩɧʐ{colour_end}Weight of Wealth]]></entry>
@@ -2610,11 +2656,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit6"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit7"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_carrion_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibles]]></entry>
-<entry id="str_monster_skill_carrion_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʐ{colour_end}Buzz Blast]]></entry>
+<entry id="str_monster_skill_carrion_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐʑɮ{colour_end}Buzz Blast]]></entry>
 <entry id="str_monster_skill_carrion_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Toxin Skewer]]></entry>
-<entry id="str_monster_skill_sentry_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibles]]></entry>
-<entry id="str_monster_skill_sentry_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐɯʔ{colour_end}Eye of the Swarm]]></entry>
-<entry id="str_monster_skill_sentry_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʐ{colour_end}Toxin Skewer]]></entry>
+<entry id="str_monster_skill_sentry_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Mandibles]]></entry>
+<entry id="str_monster_skill_sentry_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Eye of the Swarm]]></entry>
+<entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Eye of the Swarm]]></entry>
+<entry id="str_monster_skill_sentry_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Toxin Skewer]]></entry>
 <entry id="str_monster_skill_vulture_eat"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɭʐ{colour_end}CORPSE PICK]]></entry>
 <entry id="str_monster_skill_vulture_pursue"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʎ{colour_end}PURSUE]]></entry>
 <entry id="str_monster_skill_vulture_stress"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}SCRAW]]></entry>
@@ -2724,10 +2771,11 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_snail_spike"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Shell Shield]]></entry>
 <entry id="str_monster_skill_cact_hemo_spike"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Wall of Spines]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
+<entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
 <entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Rotten Rebuke]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Battle Regrowth]]></entry>
-<entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɮʑ{colour_end}Filth Powder]]></entry>
+<entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Filth Powder]]></entry>
 <entry id="str_monster_skill_cact_homonid_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Back Lash]]></entry>
 <entry id="str_monster_skill_cact_sav_eject"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɘɘɩɦʐʕ{colour_end}Injector Frenzy]]></entry>
 <entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʏ{colour_end}Venom Shower]]></entry>
@@ -2747,7 +2795,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_necro_seed2"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
 <entry id="str_monster_skill_cact_necro_seed3"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
 <entry id="str_monster_skill_cact_necro_heal_clone"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦɬʐ{colour_end}Wyrd Puppeteering]]></entry>
-<entry id="str_monster_skill_cact_necro_skel_slash"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɧʑ{colour_end}Dagger Dive]]></entry>
+<entry id="str_monster_skill_cact_necro_skel_slash"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɣɣɣɩɧʑ{colour_end}Dagger Dive]]></entry>
 <entry id="str_monster_skill_cact_necro_retreat"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Skeletal Scramble]]></entry>
 <entry id="str_monster_skill_cact_mimic_ripo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʕ{colour_end}Salivation]]></entry>
 <entry id="str_monster_skill_cact_mimic_puke1"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
@@ -2757,7 +2805,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_bloom"><![CDATA[TODO:{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Provoke the Grove]]></entry>
 <entry id="str_monster_skill_carrion_summon"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʀ{colour_end}Swarming Sortie]]></entry>
 <entry id="str_monster_skill_carrion_hive_sting"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Lethal Injection]]></entry>
-<entry id="str_monster_skill_carrion_hive_phero"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɧʐ{colour_end}Pheromones]]></entry>
+<entry id="str_monster_skill_carrion_hive_phero"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɦʃʐ{colour_end}Vivifying Pheromones]]></entry>
 <entry id="str_monster_skill_scorpion_cannibal"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʟɭ{colour_end}CANNIBALIZE]]></entry>
 <entry id="str_monster_skill_scoprion_swarm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧʏ{colour_end}SCORPION STAMPEDE]]></entry>
 <entry id="str_monster_skill_cact_guard_heart"><![CDATA[TODO:{colour_start|white}ɘɘɘəɥɣɣɘɘɩɦʐʗ{colour_end}Chloroshell]]></entry>
@@ -2766,7 +2814,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_melee_revenge"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɦʋʎ{colour_end}Carnivorous Reflex]]></entry>
 <entry id="str_monster_skill_spike_buff_heart"><![CDATA[TODO:{colour_start|white}ɘɘɘəɥɣɣɣɘɩɧʐ{colour_end}Spine Shroud]]></entry>
 <entry id="str_monster_skill_cact_bulb_attack"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɣɣɘɩɦɮʑ{colour_end}Pollenate]]></entry>
-<entry id="str_monster_skill_cact_heart_leech"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɘɣɩɦɮʵ{colour_end}Take Root]]></entry>
+<entry id="str_monster_skill_cact_heart_leech"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɘɣɩɮʵʡ{colour_end}Take Root]]></entry>
 <entry id="str_monster_skill_cact_heart_darkness"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Hate of the Core]]></entry>
 <entry id="str_monster_skill_alraune_grab_setup"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɧʶ{colour_end}Looking for Love]]></entry>
 <entry id="str_monster_skill_alraune_grab_setup2"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɧʶ{colour_end}Looking for Love]]></entry>
@@ -2775,9 +2823,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_alraune_punch_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Impose]]></entry>
 <entry id="str_monster_skill_alraune_pull"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥʫɩɦɲʑ{colour_end}Welcoming Embrace]]></entry>
 <entry id="str_monster_skill_alraune_petals"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɦʡʵ{colour_end}Flirt with Death]]></entry>
-<entry id="str_monster_skill_boquet_pollen"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɘɣɩɧʑ{colour_end}Sickly Scent]]></entry>
-<entry id="str_monster_skill_cut_big"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɘɘɘɩʹʻʑ{colour_end}Prune]]></entry>
-<entry id="str_monster_skill_cut_small"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɘɘɘɩʹʻʎ{colour_end}Shear]]></entry>
+<entry id="str_monster_skill_boquet_pollen"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Sickly Scent]]></entry>
+<entry id="str_monster_skill_cut_big"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩʹʻʑ{colour_end}Prune]]></entry>
+<entry id="str_monster_skill_cut_small"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɣɣɩʹʻʎ{colour_end}Shear]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:The source! Kill the source!]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:It won't let go, take out the heart!]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:Forget about me, kill the tyrants!]]></entry>
@@ -2829,7 +2877,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_bsrc_companion"><![CDATA[TODO:Misc. Trinket Buff]]></entry>
 <entry id="buff_bsrc_crit"><![CDATA[TODO:Prep Round]]></entry>
 <entry id="str_death_additionaleffect_hero"><![CDATA[TODO:Fallen to the wayward force of The Light.]]></entry>
-<entry id="buff_rule_tooltip_torch_setting"><![CDATA[%s]]></entry>
+<entry id="buff_rule_tooltip_torch_setting"><![CDATA[%s %s]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_received_percent_damage_heal"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received from {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_transfer_buff_from_attacker_chance"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_transfer_debuff_from_attacker_chance"><![CDATA[]]></entry>
@@ -3020,8 +3068,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_DEAFNESS_TT1"><![CDATA[TODO:-75%% {colour_start|stress}Stress{colour_end} and {colour_start|stress}Horror{colour_end} Amount Received from Sound-Based Attacks]]></entry> 
 <entry id="buff_stat_tooltip_upgrade_discount_DEAFNESS_TT2"><![CDATA[TODO:-25%% {colour_start|stress}Stress{colour_end} and {colour_start|stress}Horror{colour_end} Amount Received from Sound-Based Attacks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SLOW_DISEASE_PROGRESSION_BY_50"><![CDATA[TODO:-50%% {colour_start|symptom}Symptom{colour_end}/ {colour_start|disease}Disease{colour_end} Progression Rate]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARCH_KIT_SCOUT_TT"><![CDATA[TODO:+10%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABANDONED_RESEARCH_SCOUTCHANCE_TT"><![CDATA[TODO:+25%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SCOUTCHANCE_TT"><![CDATA[TODO:%+d%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_RESIST_TT"><![CDATA[TODO:+5%% All Resists]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Debuff Chance/Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Move Chance/Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Stun Chance/Difficulty{colour_end}]]></entry>
@@ -3165,8 +3213,8 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JANI_SET_TT"><![CDATA[TODO:{colour_start|riposte}Riposte{colour_end} attacks when hit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENCH_SNAKE_TT"><![CDATA[TODO:On Monster Kill: Self: Gain 1 Block {colour_start|skill_unselectable}(75%% chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WARHAWK_GAUNTLET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self: {colour_end}{colour_start|attacktype}Ranged{colour_end} Skills: +8 ACC, +4%% CRT {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TEMPT_SHEARS_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -15%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TEMPT_FLOWERS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TEMPT_SHEARS_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TEMPT_FLOWERS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CORE_SAP_TT"><![CDATA[TODO:On Being Hit: {colour_start|debuff}Debuff Target:{colour_end} -4 DODGE, -2 SPD {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CORE_EYE_TT"><![CDATA[TODO:Bonuses are doubled if any enemy is a Cactonid]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DARIC_LOOT_TT1"><![CDATA[TODO:On Being Hit: Self: {colour_start|stress}Incurable Horror{colour_end} 2 pts/tn for 4 tns]]></entry>
@@ -3244,6 +3292,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% PROT, -15%% {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_YAWP_TT"><![CDATA[TODO:Barbaric YAWP!: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_SHARED_TT"><![CDATA[TODO:On Ranged Attack: {colour_start|buff}Buff Party:{colour_end} +15%% DMG, +3%% CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_ACC_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Party:{colour_end} -5 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT1"><![CDATA[TODO:On Ranged Attack Hit: Self: {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT2"><![CDATA[TODO:On {colour_start|riposte}Riposte{colour_end} Hit: Self: Clear {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(50%% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT1"><![CDATA[TODO:Blackjack: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
@@ -3292,6 +3341,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEST_SET_TT"><![CDATA[TODO:+8 ACC if in Rank 1 or 2
 +5 CRIT if in Rank 1 or 2]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_MASTER_STEALTH"><![CDATA[TODO:On Friendly Skill: If Target is {colour_start|mark}Marked:{colour_end} {colour_start|stealth}Stealth{colour_end} Target {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TWO_OF_THREE_ALL_TYPES"><![CDATA[TODO:On Ranged/Mystical Attack Hit: Steal {colour_start|stealth}Stealth{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_EQUIP_TT"><![CDATA[TODO:On Being Hit: Equip Ostvengr Banner {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DESC_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Empowers Battle Heal and Inspiring Cry at the Expense of the User...{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_CURE_HORROR_TT"><![CDATA[TODO:On Monster Kill: Self: Cure {colour_start|stress}Horror{colour_end}]]></entry>
@@ -3887,7 +3937,7 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE13"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE14"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE15"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE21"><![CDATA[TODO:^^^2 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE21"><![CDATA[TODO:^^^3 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE22"><![CDATA[TODO:^^^3 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE23"><![CDATA[TODO:^^^4 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE24"><![CDATA[TODO:^^^5 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -3948,6 +3998,16 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_PARTY_HEAL_COOLDOWN"><![CDATA[TODO:Divine Comfort on Cooldown]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_JUDGEMENT_COOLDOWN_TT"><![CDATA[TODO:Judgement on Cooldown]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_ILLUMINATE_TORCHLIGHT_DMG"><![CDATA[TODO:+15%% DMG per 25 Torch]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_1"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
++10%% DMG, +4 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_2"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
++12%% DMG, +5 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_3"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
++15%% DMG, +6 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_4"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
++17%% DMG, +7 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_5"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
++20%% DMG, +8 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLESS_SPIRITUAL_DMG"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: %+d%% DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_ACC"><![CDATA[TODO:%d Base ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte{colour_end}: 85 Base ACC / -25%% DMG]]></entry>
@@ -3989,6 +4049,12 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_SCAVENGE_LOOT_TT_1"><![CDATA[TODO:Gives An Additional 1-2 Minor Antiques After Combat]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_SCAVENGE_LOOT_TT_3"><![CDATA[TODO:Gives An Additional 2-2 Minor Antiques After Combat]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_SCAVENGE_LOOT_TT_5"><![CDATA[TODO:Gives An Additional 2-3 Minor Antiques After Combat]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_0"><![CDATA[TODO:{colour_start|debuff}Debuff Chance:{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_1"><![CDATA[TODO:-20ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_2"><![CDATA[TODO:-24ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(110ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_3"><![CDATA[TODO:-28ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(120ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_4"><![CDATA[TODO:-32ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(130ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_5"><![CDATA[TODO:-36ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(140ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="town_event_title_bonus_recruit_everyone"><![CDATA[TODO:The Gang's All Here]]></entry>
 <entry id="town_event_description_bonus_recruit_everyone"><![CDATA[TODO:Testing town event for all the heroes.]]></entry>
 <entry id="combat_skill_name_antiquarian_scavenge"><![CDATA[TODO:Scavenge]]></entry>
@@ -4196,19 +4262,19 @@ Self:
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU4"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 5 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU5"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 6 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS1"><![CDATA[TODO: {colour_start|buff}Buff Self:{colour_end} 
-+8 SPD
++6 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS2"><![CDATA[TODO: {colour_start|buff}Buff Self:{colour_end} 
-+9 SPD
++7 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS3"><![CDATA[TODO:  {colour_start|buff}Buff Self:{colour_end}  
-+10 SPD
++8 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS4"><![CDATA[TODO:  {colour_start|buff}Buff Self:{colour_end}  
-+11 SPD
++9 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS5"><![CDATA[TODO:  {colour_start|buff}Buff Self:{colour_end}  
-+12 SPD
++10 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="actor_mode_name_musk_normal2"><![CDATA[TODO:{colour_start|musk_ammo1}Standard Ammo{colour_end}]]></entry>
 <entry id="actor_mode_name_musk_shrapnel2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel Ammo{colour_end}]]></entry>
@@ -4433,7 +4499,7 @@ Self:
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_OVERHEATDMG_TT"><![CDATA[TODO:{colour_start|deathdoor}Suffer{colour_end} Dmg to self on Attack]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_1"><![CDATA[TODO:75 Base Acc, 6-13 Base Dmg, 
 4%% Base Crit]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_2"><![CDATA[TODO:85 Base Acc, 7-14 Base Dmg, 4%% Base Crit,
+<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_2"><![CDATA[TODO:88 Base Acc, 7-14 Base Dmg, 4%% Base Crit,
 {colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_3"><![CDATA[TODO:95 Base Acc, 12-23 Base Dmg, 
 8%% Base Crit]]></entry>
@@ -4460,7 +4526,7 @@ Self:
 {colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT1_3"><![CDATA[TODO:Placeholder]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT_5"><![CDATA[TODO:110 Base Acc, 6-11 Base Dmg, 6%% Base Crit
-{colour_start|blight}Blight Target:{colour_end} 6 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+{colour_start|blight}Blight Target:{colour_end} 6 pts/tn for 3 tns {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT1_5"><![CDATA[TODO:Placeholder]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_OPUL_RIPOSTE_TT_1"><![CDATA[TODO:95 Base Acc, Deals No Dmg, Cannot Crit
 Target: +8 {colour_start|stress}Stress{colour_end}]]></entry>
@@ -4844,6 +4910,9 @@ the Treasury successfully gives buffs
 <entry id="str_mark_self_profane"><![CDATA[TODO:The "holy" should burn upon their own effigies!]]></entry>
 <entry id="str_mark_self_profane"><![CDATA[TODO:The old ones will feast upon those foolish, pious morsels.]]></entry>
 <entry id="str_mark_self_profane"><![CDATA[TODO:The ancient forces will yet reclaim this world from the zealots.]]></entry>
+<entry id="str_quirk_name_ostvengr_merc_eye"><![CDATA[TODO:{colour_start|quirk_implant}EYE IMPLANT{colour_end}]]></entry>
+<entry id="str_quirk_name_ostvengr_merc_armor"><![CDATA[TODO:{colour_start|quirk_implant}SKIN IMPLANT{colour_end}]]></entry>
+<entry id="str_quirk_name_ostvengr_merc_spine"><![CDATA[TODO:{colour_start|quirk_implant}SPINE IMPLANT{colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_w"><![CDATA[TODO:{colour_start|symptom}Anorexia{colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_tended_w"><![CDATA[TODO:{colour_start|symptom}Anorexia (Tended){colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_s"><![CDATA[TODO:{colour_start|symptom}Anorexia{colour_end}]]></entry>
