@@ -9,9 +9,6 @@ CLOSING_LANGUAGE = "</language>"
 
 XML_TAG = '<?xml version="1.0" encoding="UTF-8"?>'
 
-
-	# <language id="english">
-
 ORIGINAL_FILES_PATH = Path("black_reliquary")
 TRANSLATION_SOURCE_PATH = Path("data")
 TRANSLATION_DESTINATION_PATH = Path("build")
@@ -21,7 +18,7 @@ def fake_translation(language:str):
     for original_filename in listdir(ORIGINAL_FILES_PATH):
         print(original_filename)
         open_translation(original_filename)
-        translation_injection(original_filename)
+        translation_injection(original_filename, mock_language=True)
         close_translation(original_filename)
 
 def translate_everything():
@@ -43,7 +40,7 @@ def partial_duplication(original_filename:str):
                     destination_file.write(line)
 
 
-def translation_injection(original_filename:str):
+def translation_injection(original_filename:str, mock_language:bool=False):
     for language in listdir(TRANSLATION_SOURCE_PATH):
         source_filepath = Path(TRANSLATION_SOURCE_PATH, language, original_filename)
         destination_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
@@ -52,7 +49,10 @@ def translation_injection(original_filename:str):
             with open(destination_filepath, mode="a", encoding="utf8") as destination_file:
 
                 destination_file.write(f'\n')
-                destination_file.write(f'\t<language id="{language}">\n')
+                if mock_language:
+                    destination_file.write(f'\t<language id="english">\n')
+                else:
+                    destination_file.write(f'\t<language id="{language}">\n')
                 inject_language_file(source_file, destination_file)
                 destination_file.write(f"\n\t{CLOSING_LANGUAGE}\n")
 
