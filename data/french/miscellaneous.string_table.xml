@@ -665,7 +665,7 @@
 <entry id="str_discard_items_from_your_inventory"><![CDATA[TODO:Your inventory is full. Discard items to make room.]]></entry>
 <entry id="str_disease_cured"><![CDATA[TODO:Disease Cured:]]></entry>
 <entry id="str_disease_new"><![CDATA[TODO:New Disease!]]></entry>
-<entry id="str_diseases"><![CDATA[TODO:Diseases]]></entry>
+<entry id="str_diseases"><![CDATA[Maladies]]></entry>
 <entry id="str_diseases_cured"><![CDATA[TODO:Diseases Cured:]]></entry>
 <entry id="str_dlc_disabled"><![CDATA[TODO:DLC Disabled]]></entry>
 <entry id="str_dlc_feature_locked_in"><![CDATA[TODO:This DLC cannot be disabled for this Estate.]]></entry>

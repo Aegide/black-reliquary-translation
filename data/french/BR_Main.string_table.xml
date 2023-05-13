@@ -4871,7 +4871,7 @@ the Treasury successfully gives buffs
 <entry id="buff_rule_tooltip_has_quirk"><![CDATA[TODO:%s if %s]]></entry>
 <entry id="buff_rule_tooltip_has_quirk_false"><![CDATA[TODO:%s if not %s]]></entry>
 <entry id="character_title_quirks"><![CDATA[]]></entry>
-<entry id="character_title_class_bonuses"><![CDATA[TODO:Symptoms/Diseases]]></entry>
+<entry id="character_title_class_bonuses"><![CDATA[Symptômes/Maladies]]></entry>
 <entry id="str_mark_self_regenerator"><![CDATA[TODO:Feeling right as rain!]]></entry>
 <entry id="str_mark_self_regenerator"><![CDATA[TODO:Hardly even feel it!]]></entry>
 <entry id="str_mark_self_regenerator"><![CDATA[TODO:Feeling strong and healthy!]]></entry>
