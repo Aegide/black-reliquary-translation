@@ -19,7 +19,7 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="menu_base_element_view_glossary"><![CDATA[TODO:Info Comms]]></entry>
 <entry id="town_event_title_out_of_date"><![CDATA[TODO:UP TO DATE]]></entry>
 <entry id="town_event_description_out_of_date"><![CDATA[TODO:Your version of Black Reliquary is now up to date]]></entry>
-<entry id="estate_title_format"><![CDATA[Le Z.N.O. %s]]></entry>
+<entry id="estate_title_format"><![CDATA[Le %s]]></entry>
 <entry id="curio_tooltip_quest_item_slot"><![CDATA[TODO:Drag QUEST ITEM from inventory here.]]></entry>
 <entry id="str_torch_overlay_hero_buffs_header"><![CDATA[TODO:Hero Party Effects]]></entry>
 <entry id="str_torch_overlay_monster_buffs_header"><![CDATA[TODO:Monster Effects]]></entry>
