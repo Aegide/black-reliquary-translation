@@ -1,2 +1,3 @@
 build/*.xml
 .vscode/settings.json
+*.pyc
