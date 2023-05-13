@@ -3,14 +3,26 @@ from os import listdir
 from pathlib import Path
 
 
+OPENING_ROOT = "<root>"
 CLOSING_ROOT = "</root>"
 CLOSING_LANGUAGE = "</language>"
 
+XML_TAG = '<?xml version="1.0" encoding="UTF-8"?>'
+
+
+	# <language id="english">
 
 ORIGINAL_FILES_PATH = Path("black_reliquary")
 TRANSLATION_SOURCE_PATH = Path("data")
 TRANSLATION_DESTINATION_PATH = Path("build")
 
+
+def fake_translation(language:str):
+    for original_filename in listdir(ORIGINAL_FILES_PATH):
+        print(original_filename)
+        open_translation(original_filename)
+        translation_injection(original_filename)
+        close_translation(original_filename)
 
 def translate_everything():
     for original_filename in listdir(ORIGINAL_FILES_PATH):
@@ -18,8 +30,6 @@ def translate_everything():
         partial_duplication(original_filename)
         translation_injection(original_filename)
         close_translation(original_filename)
-        # print(" ")
-    print(" ")
 
 
 def partial_duplication(original_filename:str):
@@ -35,7 +45,6 @@ def partial_duplication(original_filename:str):
 
 def translation_injection(original_filename:str):
     for language in listdir(TRANSLATION_SOURCE_PATH):
-        # print(f" - {language}")
         source_filepath = Path(TRANSLATION_SOURCE_PATH, language, original_filename)
         destination_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
         
@@ -58,3 +67,10 @@ def close_translation(original_filename:Path):
     translated_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
     with open(translated_filepath, mode="a", encoding="utf8") as translated_file:
         translated_file.write(f"\n{CLOSING_ROOT}")
+
+
+def open_translation(original_filename:Path):
+    destination_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
+    with open(destination_filepath, mode="w", encoding="utf8") as destination_file:
+        destination_file.write(XML_TAG)
+        destination_file.write(OPENING_ROOT)
