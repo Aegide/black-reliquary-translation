@@ -18,6 +18,8 @@ def translate_everything():
         partial_duplication(original_filename)
         translation_injection(original_filename)
         close_translation(original_filename)
+        # print(" ")
+    print(" ")
 
 
 def partial_duplication(original_filename:str):
@@ -33,7 +35,7 @@ def partial_duplication(original_filename:str):
 
 def translation_injection(original_filename:str):
     for language in listdir(TRANSLATION_SOURCE_PATH):
-        print(f" - {language}")
+        # print(f" - {language}")
         source_filepath = Path(TRANSLATION_SOURCE_PATH, language, original_filename)
         destination_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
         
