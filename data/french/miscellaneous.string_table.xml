@@ -1742,7 +1742,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="str_type_in_hero_name"><![CDATA[Nom du héros]]></entry>
 <entry id="str_type_in_trinket_name"><![CDATA[Nom de la breloque]]></entry>
 <entry id="str_ui_ATT"><![CDATA[PRÉ]]></entry>
-<entry id="str_ui_ATT_MOD"><![CDATA[MOD. DE PRÉ]]></entry>
+<entry id="str_ui_ATT_MOD"><![CDATA[PRÉCISION]]></entry>
 <entry id="str_ui_bleed"><![CDATA[Saignement]]></entry>
 <entry id="str_ui_bleed_resist"><![CDATA[]]></entry>
 <entry id="str_ui_blight_resist"><![CDATA[]]></entry>
