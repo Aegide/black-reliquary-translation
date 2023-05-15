@@ -4429,7 +4429,7 @@ Self:
 <entry id="buff_rule_data_tooltip_MUSK_AMMO_SWAP_AMMO3_SWAP"><![CDATA[TODO:Change Mode to: {colour_start|musk_ammo1}Standard Ammo{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="str_locked_building_summary"><![CDATA[TODO:Attempt tutorial mission to unlock]]></entry>
 <entry id="str_stage_coach_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
-<entry id="town_name_abbey"><![CDATA[Atelier d'ambre]]></entry>
+<entry id="town_name_abbey"><![CDATA[Atelier]]></entry>
 <entry id="town_name_activity_log"><![CDATA[Journal d'activités]]></entry>
 <entry id="town_name_blacksmith"><![CDATA[Forge]]></entry>
 <entry id="town_name_camping_trainer"><![CDATA[Gaspard]]></entry>
@@ -4448,12 +4448,16 @@ Self:
 <entry id="town_name_town_Event"><![CDATA[Oyez ! Oyez !]]></entry>
 <entry id="str_tavern_summary"><![CDATA[Réduction de stress]]></entry>
 <entry id="str_abbey_summary"><![CDATA[TODO:Amber Upgrading]]></entry>
-<entry id="str_blacksmith_summary"><![CDATA[Amélioration d'armes et d'armures]]></entry>
-<entry id="str_camping_trainer_summary"><![CDATA[Amélioration des compétences de campement]]></entry>
+<entry id="str_blacksmith_summary"><![CDATA[Amélioration d'armes
+et d'armures]]></entry>
+<entry id="str_camping_trainer_summary"><![CDATA[Amélioration des compétences
+de campement]]></entry>
 <entry id="str_graveyard_summary"><![CDATA[Voir les héros morts]]></entry>
-<entry id="str_guild_summary"><![CDATA[Amélioration des compétences de combats]]></entry>
+<entry id="str_guild_summary"><![CDATA[Amélioration des compétences
+de combats]]></entry>
 <entry id="str_nomad_wagon_summary"><![CDATA[Achat de breloques]]></entry>
-<entry id="str_sanitarium_summary"><![CDATA[Traitement des attributs et des maladies]]></entry>
+<entry id="str_sanitarium_summary"><![CDATA[Traitement des attributs
+et des maladies]]></entry>
 <entry id="str_stage_coach_summary"><![CDATA[Recrutement de nouveaux héros]]></entry>
 <entry id="str_statue_summary"><![CDATA[TODO:View Captain's Plans]]></entry>
 <entry id="str_statue_ancestor_quote"><![CDATA[Il reste tant à faire ...]]></entry>
@@ -4633,19 +4637,19 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_levantine_skirmisher"><![CDATA[TODO:Levantine Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_levantine"><![CDATA[Peur des levantins]]></entry>
 <entry id="str_quirk_name_levantine_slayer"><![CDATA[TODO:Levantine Nemesis]]></entry>
-<entry id="str_quirk_name_levantine_intimidated"><![CDATA[TODO:Levantine Intimidated]]></entry>
+<entry id="str_quirk_name_levantine_intimidated"><![CDATA[Mal des levantins]]></entry>
 <entry id="str_quirk_name_wildlander_skirmisher"><![CDATA[TODO:Wildlander Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_wildlander"><![CDATA[Peur des sauvages]]></entry>
 <entry id="str_quirk_name_wildlander_slayer"><![CDATA[TODO:Wildlander Nemesis]]></entry>
-<entry id="str_quirk_name_wildlander_intimidated"><![CDATA[TODO:Wildlander Intimidated]]></entry>
+<entry id="str_quirk_name_wildlander_intimidated"><![CDATA[Mal des sauvages]]></entry>
 <entry id="str_quirk_name_troglodyte_skirmisher"><![CDATA[TODO:Troglodyte Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_troglodyte"><![CDATA[Peur des troglodytes]]></entry>
 <entry id="str_quirk_name_troglodyte_slayer"><![CDATA[TODO:Troglodyte Nemesis]]></entry>
-<entry id="str_quirk_name_troglodyte_intimidated"><![CDATA[TODO:Troglodyte Intimidated]]></entry>
+<entry id="str_quirk_name_troglodyte_intimidated"><![CDATA[Mal des troglodytes]]></entry>
 <entry id="str_quirk_name_cactonid_skirmisher"><![CDATA[TODO:Cactonid Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_cactonid"><![CDATA[Peur des cactonides]]></entry>
 <entry id="str_quirk_name_cactonid_slayer"><![CDATA[TODO:Cactonid Nemesis]]></entry>
-<entry id="str_quirk_name_cactonid_intimidated"><![CDATA[TODO:Cactonid Intimidated]]></entry>
+<entry id="str_quirk_name_cactonid_intimidated"><![CDATA[Mal des cactonides]]></entry>
 <entry id="str_quirk_name_kvarotz_challenger"><![CDATA[TODO:Kvarotz Challenger]]></entry>
 <entry id="str_quirk_name_fear_of_kvarotz"><![CDATA[Peur des Kvarotz]]></entry>
 <entry id="str_quirk_name_lost_challenger"><![CDATA[TODO:Legion Challenger]]></entry>
@@ -4658,18 +4662,18 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_necrophobe"><![CDATA[Necrophobe]]></entry>
 <entry id="str_quirk_name_giant_slayer"><![CDATA[Tueur de géants]]></entry>
 <entry id="str_quirk_name_easily_intimidated"><![CDATA[Facile à intimider]]></entry>
-<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[TODO:Catacombs Adventurer]]></entry>
-<entry id="str_quirk_name_exposed_interior_adventurer"><![CDATA[TODO:Interior Adventurer]]></entry>
-<entry id="str_quirk_name_caverns_adventurer"><![CDATA[TODO:Caverns Adventurer]]></entry>
-<entry id="str_quirk_name_treasury_adventurer"><![CDATA[TODO:Treasury Adventurer]]></entry>
+<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[Brave les Catacombes]]></entry>
+<entry id="str_quirk_name_exposed_interior_adventurer"><![CDATA[Brave l'Intérieur]]></entry>
+<entry id="str_quirk_name_caverns_adventurer"><![CDATA[Brave les Cavernes]]></entry>
+<entry id="str_quirk_name_treasury_adventurer"><![CDATA[Brave la Trésorerie]]></entry>
 <entry id="str_quirk_name_catacombs_phobe"><![CDATA[Phobie des Catacombes]]></entry>
 <entry id="str_quirk_name_exposed_interior_phobe"><![CDATA[Phobie de l'Intérieur]]></entry>
 <entry id="str_quirk_name_caverns_phobe"><![CDATA[Phobie des Cavernes]]></entry>
 <entry id="str_quirk_name_treasury_phobe"><![CDATA[Phobie de la Trésorerie]]></entry>
-<entry id="str_quirk_name_catacombs_explorer"><![CDATA[TODO:Catacombs Explorer]]></entry>
-<entry id="str_quirk_name_exposed_interior_explorer"><![CDATA[TODO:Interior Explorer]]></entry>
-<entry id="str_quirk_name_caverns_explorer"><![CDATA[TODO:Caverns Explorer]]></entry>
-<entry id="str_quirk_name_treasury_explorer"><![CDATA[TODO:Treasury Explorer]]></entry>
+<entry id="str_quirk_name_catacombs_explorer"><![CDATA[Cartographie des Catacombes]]></entry>
+<entry id="str_quirk_name_exposed_interior_explorer"><![CDATA[Cartographie de l'Intérieur]]></entry>
+<entry id="str_quirk_name_caverns_explorer"><![CDATA[Cartographie des Cavernes]]></entry>
+<entry id="str_quirk_name_treasury_explorer"><![CDATA[Cartographie de la Trésorerie]]></entry>
 <entry id="str_quirk_name_catacombs_meanderer"><![CDATA[TODO:Catacombs Meanderer]]></entry>
 <entry id="str_quirk_name_exposed_interior_meanderer"><![CDATA[TODO:Interior Meanderer]]></entry>
 <entry id="str_quirk_name_caverns_meanderer"><![CDATA[TODO:Caverns Meanderer]]></entry>
@@ -6429,11 +6433,11 @@ the Treasury successfully gives buffs
 <entry id="str_ui_resist"><![CDATA[]]></entry>
 <entry id="str_ui_shuffle_dot_resist"><![CDATA[]]></entry>
 <entry id="str_ui_stress_dot_resist"><![CDATA[]]></entry>
-<entry id="resistance_name_debuff"><![CDATA[{colour_start|debuff}Malus{colour_end}/{colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="resistance_name_debuff"><![CDATA[{colour_start|debuff}Malus{colour_end}{colour_start|neutral}/{colour_end}{colour_start|mark}Marque{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[Chances d'infliger {colour_start|debuff}malus{colour_end}/{colour_start|mark}marque{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[Résistance aux {colour_start|debuff}malus{colour_end}/{colour_start|mark}marques{colour_end} %+d%%]]></entry>
 <entry id="str_ui_resist"><![CDATA[Résistance]]></entry>
-<entry id="resistance_name_disease"><![CDATA[{colour_start|symptom}Symptôme{colour_end}/{colour_start|disease}Maladie{colour_end}]]></entry>
+<entry id="resistance_name_disease"><![CDATA[{colour_start|symptom}Symptôme{colour_end}{colour_start|neutral}/{colour_end}{colour_start|disease}Maladie{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_resistance_disease"><![CDATA[Résistance aux {colour_start|symptom}symptômes{colour_end}/{colour_start|disease}maladies{colour_end} %+d%%]]></entry>
 <entry id="buff_bsrc_disease"><![CDATA[{colour_start|symptom}Symptôme{colour_end}/{colour_start|disease}Maladie{colour_end}]]></entry>
 <entry id="camping_skill_effect_remove_disease"><![CDATA[Soigne {colour_start|symptom}symptôme{colour_end}/{colour_start|disease}maladie{colour_end}]]></entry>
