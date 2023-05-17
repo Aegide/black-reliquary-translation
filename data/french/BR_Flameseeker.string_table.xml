@@ -98,7 +98,7 @@
 {colour_start|stress}Stress{colour_end} Heals 100]]></entry>
 <entry id="town_activity_name_bar"><![CDATA[Bar]]></entry>
 <entry id="town_activity_name_gambling"><![CDATA[Salle de jeux]]></entry>
-<entry id="town_activity_name_brothel"><![CDATA[Maison close]]></entry>
+<entry id="town_activity_name_brothel"><![CDATA[Arène]]></entry>
 <entry id="town_activity_name_treatment"><![CDATA[Aile psychiatrique]]></entry>
 <entry id="town_activity_name_disease_treatment"><![CDATA[Aile médicale]]></entry>
 <entry id="town_activity_name_meditation"><![CDATA[Raffinerie]]></entry>
@@ -472,8 +472,8 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="str_hero_slot_locked_bar"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_brothel"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_cancel_confirm"><![CDATA[TODO:You will not be refunded the cost, but the hero will be immediately available for use on quests. Are you sure?]]></entry>
-<entry id="str_hero_slot_locked_cancel_confirm_no"><![CDATA[TODO:No]]></entry>
-<entry id="str_hero_slot_locked_cancel_confirm_yes"><![CDATA[TODO:Yes]]></entry>
+<entry id="str_hero_slot_locked_cancel_confirm_no"><![CDATA[Non]]></entry>
+<entry id="str_hero_slot_locked_cancel_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="str_hero_slot_locked_disease_treatment"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_flagellation"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_gambling"><![CDATA[TODO:Cancel Activity]]></entry>
@@ -518,8 +518,8 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="town_secondary1"><![CDATA[TODO:Districts]]></entry>
 <entry id="buff_bsrc_district"><![CDATA[TODO:Side Decks]]></entry>
 <entry id="str_district_build_building_confirm"><![CDATA[TODO:Construct this deck?]]></entry>
-<entry id="str_district_build_building_confirm_no"><![CDATA[TODO:No]]></entry>
-<entry id="str_district_build_building_confirm_yes"><![CDATA[TODO:Yes]]></entry>
+<entry id="str_district_build_building_confirm_no"><![CDATA[Non]]></entry>
+<entry id="str_district_build_building_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[TODO:IF YOU'RE SEEING THIS, SOMETHING IS WRONG]]></entry>
 <entry id="town_event_info_br_districts_unlock"><![CDATA[TODO:[Side Deck Upgrades Available]]]></entry>
 <entry id="town_event_title_br_districts_unlock"><![CDATA[TODO:Room for Improvements]]></entry>
