@@ -116,10 +116,10 @@
 <entry id="stagecoach_empty_info"><![CDATA[TODO:The Ferry is empty.
 Check back after your next quest.]]></entry>
 <entry id="str_caretaker_goals_heading"><![CDATA[TODO:Crew Directives]]></entry>
-<entry id="town_quest_difficulty_1"><![CDATA[TODO:{colour_start|new_apprentice}Apprentice (Lvl 1){colour_end}]]></entry>
-<entry id="town_quest_difficulty_3"><![CDATA[TODO:{colour_start|new_veteran}Veteran (Lvl 3){colour_end}]]></entry>
-<entry id="town_quest_difficulty_5"><![CDATA[TODO:{colour_start|new_champion}Champion (Lvl 5){colour_end}]]></entry>
-<entry id="town_quest_difficulty_6"><![CDATA[TODO:{colour_start|new_champion}Darkest (Lvl 6){colour_end}]]></entry>
+<entry id="town_quest_difficulty_1"><![CDATA[{colour_start|new_apprentice}Novice (Niv. 1){colour_end}]]></entry>
+<entry id="town_quest_difficulty_3"><![CDATA[{colour_start|new_veteran}Vétéran (Niv. 3){colour_end}]]></entry>
+<entry id="town_quest_difficulty_5"><![CDATA[{colour_start|new_champion}Champion (Niv. 5){colour_end}]]></entry>
+<entry id="town_quest_difficulty_6"><![CDATA[{colour_start|new_champion}Ténébreux (Niv. 6){colour_end}]]></entry>
 <entry id="str_abbey_prayer_upgrade_lvl_1"><![CDATA[TODO:Commercial relations have been elevated. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
 <entry id="str_abbey_prayer_upgrade_lvl_2"><![CDATA[TODO:Commercial relations have been elevated. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
 <entry id="str_abbey_prayer_upgrade_lvl_3"><![CDATA[TODO:Commercial relations have been elevated. {colour_start|town_activity_log_positive_result}Level: {?level}%d{colour_end}]]></entry>
