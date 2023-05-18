@@ -4670,10 +4670,10 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_exposed_interior_phobe"><![CDATA[Phobie de l'Intérieur]]></entry>
 <entry id="str_quirk_name_caverns_phobe"><![CDATA[Phobie des Cavernes]]></entry>
 <entry id="str_quirk_name_treasury_phobe"><![CDATA[Phobie de la Trésorerie]]></entry>
-<entry id="str_quirk_name_catacombs_explorer"><![CDATA[Cartographie des Catacombes]]></entry>
-<entry id="str_quirk_name_exposed_interior_explorer"><![CDATA[Cartographie de l'Intérieur]]></entry>
-<entry id="str_quirk_name_caverns_explorer"><![CDATA[Cartographie des Cavernes]]></entry>
-<entry id="str_quirk_name_treasury_explorer"><![CDATA[Cartographie de la Trésorerie]]></entry>
+<entry id="str_quirk_name_catacombs_explorer"><![CDATA[Cartographe (Catacombes)]]></entry>
+<entry id="str_quirk_name_exposed_interior_explorer"><![CDATA[Cartographe (Intérieur)]]></entry>
+<entry id="str_quirk_name_caverns_explorer"><![CDATA[Cartographe (Cavernes)]]></entry>
+<entry id="str_quirk_name_treasury_explorer"><![CDATA[Cartographe (Trésorerie)]]></entry>
 <entry id="str_quirk_name_catacombs_meanderer"><![CDATA[TODO:Catacombs Meanderer]]></entry>
 <entry id="str_quirk_name_exposed_interior_meanderer"><![CDATA[TODO:Interior Meanderer]]></entry>
 <entry id="str_quirk_name_caverns_meanderer"><![CDATA[TODO:Caverns Meanderer]]></entry>
