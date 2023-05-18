@@ -729,7 +729,7 @@
 <entry id="str_game_mode_select_bloodmoon_tooltip"><![CDATA[TODO:Bloodmoon campaigns are not for the faint of heart. Expect no quarter, no forgiveness. You must conquer the evil within a time and hero death limit. (Bloodmoon is Stygian + Crimson Court)]]></entry>
 <entry id="str_game_mode_select_new_game_plus_tooltip"><![CDATA[TODO:Stygian campaigns are not for the faint of heart. Expect no quarter, no forgiveness. You must conquer the evil within a time and hero death limit. Also, many gameplay settings are locked.]]></entry>
 <entry id="str_game_mode_select_radiant_tooltip"><![CDATA[TODO:Radiant campaigns, while still challenging, are adjusted to be faster and more forgiving than normal. Suggested for your first Darkest Dungeon experience.]]></entry>
-<entry id="str_gold"><![CDATA[TODO:gold]]></entry>
+<entry id="str_gold"><![CDATA[pièces d'or]]></entry>
 <entry id="str_graveyard_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
 <entry id="str_graveyard_week_string"><![CDATA[TODO:Week %d]]></entry>
 <entry id="str_guild_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
@@ -794,7 +794,7 @@
 <entry id="str_inventory_title_gemruby"><![CDATA[TODO:Ruby]]></entry>
 <entry id="str_inventory_title_gemsapphire"><![CDATA[TODO:Sapphire]]></entry>
 <entry id="str_inventory_title_gemtrapezohedron"><![CDATA[TODO:Puzzling Trapezohedron]]></entry>
-<entry id="str_inventory_title_gold"><![CDATA[TODO:Gold]]></entry>
+<entry id="str_inventory_title_gold"><![CDATA[Or]]></entry>
 <entry id="str_inventory_title_heirloomurn"><![CDATA[TODO:Ancestor's Urn]]></entry>
 <entry id="str_inventory_title_jewellerybronze_necklace"><![CDATA[TODO:Bronze Necklace]]></entry>
 <entry id="str_inventory_title_provision"><![CDATA[TODO:Food]]></entry>
