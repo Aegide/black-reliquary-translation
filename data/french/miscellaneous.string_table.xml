@@ -838,7 +838,7 @@
 <entry id="str_language_default"><![CDATA[TODO:default]]></entry>
 <entry id="str_language_koreanb"><![CDATA[TODO:한국어 (B)]]></entry>
 <entry id="str_level"><![CDATA[TODO:Lvl.]]></entry>
-<entry id="str_loading_screen_continue"><![CDATA[TODO:Press {colour_start|town_activity_log_positive_result}[SPACE]{colour_end} or {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} to Continue]]></entry>
+<entry id="str_loading_screen_continue"><![CDATA[{colour_start|town_activity_log_positive_result}[ESPACE]{colour_end} ou {colour_start|town_activity_log_positive_result}[CLIC GAUCHE]{colour_end} pour continuer]]></entry>
 <entry id="str_lost"><![CDATA[TODO:lost {?amount}%d gold]]></entry>
 <entry id="str_map_ac_ambush_curio_tooltip"><![CDATA[Pièce avec curio]]></entry>
 <entry id="str_map_ac_ambush_tooltip"><![CDATA[Combat]]></entry>
