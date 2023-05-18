@@ -129,8 +129,8 @@
 <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[TODO:%-d%% Weapon Upgrade Cost]]></entry>
 <entry id="building_upgrade_title"><![CDATA[TODO:Upgraded:]]></entry>
 <entry id="camping_respite_description"><![CDATA[TODO:Use Camping skills to bolster your party's physical and mental health.]]></entry>
-<entry id="camping_respite_rest"><![CDATA[TODO:REST]]></entry>
-<entry id="camping_respite_title"><![CDATA[TODO:Respite]]></entry>
+<entry id="camping_respite_rest"><![CDATA[REPOS]]></entry>
+<entry id="camping_respite_title"><![CDATA[Répit]]></entry>
 <entry id="camping_skill_chance_effect_format"><![CDATA[TODO:({?decimal1}%d%% chance) {?string1}%s]]></entry>
 <entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[TODO:Party will not be surprised if ambushed]]></entry>
 <entry id="camping_skill_effect_buff"><![CDATA[TODO:{colour_start|buffNOT1}Buff +%d%%{colour_end}]]></entry>
@@ -410,10 +410,10 @@
 <entry id="raid_quest_complete"><![CDATA[TODO:Quest Complete!]]></entry>
 <entry id="raid_results_hero_resolve_from_quest"><![CDATA[TODO:+%d Resolve XP]]></entry>
 <entry id="raid_results_new_quirks_title"><![CDATA[TODO:New Quirks:]]></entry>
-<entry id="raid_results_party_gold_inventory_title"><![CDATA[TODO:Collected Treasure]]></entry>
-<entry id="raid_results_progression_heroes"><![CDATA[TODO:Next]]></entry>
-<entry id="raid_results_quest_inventory_title"><![CDATA[TODO:Quest Rewards]]></entry>
-<entry id="raid_results_quest_result_was_completed"><![CDATA[TODO:Victory!]]></entry>
+<entry id="raid_results_party_gold_inventory_title"><![CDATA[Trésors collectés]]></entry>
+<entry id="raid_results_progression_heroes"><![CDATA[Suivant]]></entry>
+<entry id="raid_results_quest_inventory_title"><![CDATA[Récompenses de quête]]></entry>
+<entry id="raid_results_quest_result_was_completed"><![CDATA[Victoire !]]></entry>
 <entry id="raid_results_quest_result_was_not_completed_defeat"><![CDATA[TODO:Defeat]]></entry>
 <entry id="raid_results_quest_result_was_not_completed_escape"><![CDATA[TODO:Escape]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_always"><![CDATA[TODO:Always]]></entry>
@@ -542,7 +542,7 @@
 <entry id="str_caretaker_goal_plot_kill_swine_prince_3"><![CDATA[TODO:Defeat the Swine God]]></entry>
 <entry id="str_caretaker_goal_plot_town_invasion_0"><![CDATA[TODO:Repel the Brigand Incursion]]></entry>
 <entry id="str_caretaker_goal_plot_tutorial_crypts"><![CDATA[TODO:Successfully complete your first foray into the Ruins]]></entry>
-<entry id="str_caretaker_goals_quest_goals_heading"><![CDATA[TODO:Quest Goals]]></entry>
+<entry id="str_caretaker_goals_quest_goals_heading"><![CDATA[Objectifs de quêtes]]></entry>
 <entry id="str_caretaker_goals_roster_goals_heading"><![CDATA[TODO:Roster Goals]]></entry>
 <entry id="str_caretaker_meditation"><![CDATA[TODO:Sometimes it's nice to find a quiet spot, that my dark musings go undisturbed.]]></entry>
 <entry id="str_caretaker_meditation"><![CDATA[TODO:Peace is acceptance. We are all but playthings of the Gods!]]></entry>
@@ -822,7 +822,7 @@
 <entry id="str_inventory_type_name_provision"><![CDATA[TODO:Provision]]></entry>
 <entry id="str_inventory_type_name_supply"><![CDATA[TODO:Supply]]></entry>
 <entry id="str_is_now_a"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end} is now {colour_start|town_activity_log_positive_result}{?level_name}%s {?class_name}%s (Lvl. {?level_number}%d){colour_end}.]]></entry>
-<entry id="str_its_a_trap"><![CDATA[TODO:TRAP!]]></entry>
+<entry id="str_its_a_trap"><![CDATA[PIÈGE !]]></entry>
 <entry id="str_language_italian"><![CDATA[TODO:italiano]]></entry>
 <entry id="str_language_brazilian"><![CDATA[TODO:português (BR)]]></entry>
 <entry id="str_language_czech"><![CDATA[TODO:čeština]]></entry>
@@ -847,9 +847,9 @@
 <entry id="str_map_ac_curio_tooltip"><![CDATA[TODO:Curio]]></entry>
 <entry id="str_map_ac_guarded_curio_tooltip"><![CDATA[TODO:Room Battle with Curio]]></entry>
 <entry id="str_map_ac_guarded_treasure_tooltip"><![CDATA[TODO:Room Battle with Treasure]]></entry>
-<entry id="str_map_ac_obstacle_tooltip"><![CDATA[TODO:Obstacle]]></entry>
-<entry id="str_map_ac_trap_tooltip"><![CDATA[TODO:Trap]]></entry>
-<entry id="str_map_boss_tooltip"><![CDATA[TODO:Boss]]></entry>
+<entry id="str_map_ac_obstacle_tooltip"><![CDATA[Obstacle]]></entry>
+<entry id="str_map_ac_trap_tooltip"><![CDATA[Piège]]></entry>
+<entry id="str_map_boss_tooltip"><![CDATA[Boss]]></entry>
 <entry id="str_map_quest_location_tooltip"><![CDATA[TODO:Quest Location]]></entry>
 <entry id="str_map_lockedroom_tooltip"><![CDATA[TODO:Locked Room]]></entry>
 <entry id="str_melee"><![CDATA[TODO:{colour_start|attacktype}Melee{colour_end}]]></entry>
@@ -1742,7 +1742,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="str_type_in_hero_name"><![CDATA[Nom du héros]]></entry>
 <entry id="str_type_in_trinket_name"><![CDATA[Nom de la breloque]]></entry>
 <entry id="str_ui_ATT"><![CDATA[PRÉ]]></entry>
-<entry id="str_ui_ATT_MOD"><![CDATA[PRÉCISION]]></entry>
+<entry id="str_ui_ATT_MOD"><![CDATA[PRÉ]]></entry>
 <entry id="str_ui_bleed"><![CDATA[Saignement]]></entry>
 <entry id="str_ui_bleed_resist"><![CDATA[]]></entry>
 <entry id="str_ui_blight_resist"><![CDATA[]]></entry>

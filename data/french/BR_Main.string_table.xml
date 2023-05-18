@@ -829,7 +829,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_cove_tip"><![CDATA[TODO:During the {colour_start|moon_torch}Night{colour_end}, torches can provide temporary {colour_start|stealth}Stealth{colour_end} bypass.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Exposed Interior has been unlocked.]]></entry>
 <entry id="bonus_currency_name_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="raid_results_party_heirloom_inventory_title"><![CDATA[TODO:Collected Relics]]></entry>
+<entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
 <entry id="str_inventory_title_heirloombust"><![CDATA[TODO:{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomcrest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[TODO:{colour_start|BR_heirloom}Amber{colour_end}]]></entry>
@@ -2782,7 +2782,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɦʐɬ{colour_end}The Hunger]]></entry>
 <entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandible Strike]]></entry>
 <entry id="str_monster_skill_cact_vetev_shuffle"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮɴ{colour_end}Psychotropic Spray]]></entry>
-<entry id="str_monster_skill_cact_vertev_lick"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʖ{colour_end}Slobber]]></entry>
+<entry id="str_monster_skill_cact_vertev_lick"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʖ{colour_end}Léchouille]]></entry>
 <entry id="str_monster_skill_cact_vetev_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Firm Grasp]]></entry>
 <entry id="str_monster_skill_cact_hermit_guard"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɦʐʗ{colour_end}Stonewall]]></entry>
 <entry id="str_monster_skill_cact_hermit_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʰɩɦɱʓ{colour_end}Slab Hammer]]></entry>
@@ -4436,7 +4436,7 @@ Self:
 <entry id="town_name_feflow"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="town_name_glossary"><![CDATA[Communications]]></entry>
 <entry id="town_name_graveyard"><![CDATA[Site funéraire]]></entry>
-<entry id="town_name_guild"><![CDATA[TODO:Training Hall]]></entry>
+<entry id="town_name_guild"><![CDATA[Salle d'entraînement]]></entry>
 <entry id="town_name_nomad_wagon"><![CDATA[TODO:Oddities Dealer]]></entry>
 <entry id="town_name_provision"><![CDATA[Provision]]></entry>
 <entry id="town_name_quest_select"><![CDATA[Carte du reliquaire]]></entry>
@@ -4711,8 +4711,8 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_rampager"><![CDATA[TODO:Rampager]]></entry> 
 <entry id="str_quirk_name_convalescent"><![CDATA[TODO:Convalescent]]></entry>
 <entry id="str_quirk_name_intercessor"><![CDATA[TODO:Intercessor]]></entry>
-<entry id="str_quirk_name_compulsive"><![CDATA[Compulsif]]></entry>
-<entry id="str_quirk_name_compulsive"><![CDATA[Compulsif]]></entry>
+<entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
+<entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
 <entry id="str_quirk_name_overzealous"><![CDATA[Zélé]]></entry>
 <entry id="str_quirk_name_profane"><![CDATA[Profane]]></entry>
 <entry id="str_quirk_name_life_fruit"><![CDATA[TODO:LIFE_FRUIT]]></entry>

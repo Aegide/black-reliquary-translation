@@ -95,8 +95,8 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_sunward_riposte_tooltip_4"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5%% {colour_start|deathblow}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_DD_DMG_STUN_TT"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} Target for 2 tns]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_dance_macabre_tooltip"><![CDATA[TODO:Max {colour_start|deathblow}Death Blow{colour_end} resist]]></entry>
-<entry id="skill_performer_hp_max"><![CDATA[TODO:Valid below %d%% HP]]></entry>
-<entry id="skill_performer_hp_min"><![CDATA[TODO:Valid above %d%% HP]]></entry>
+<entry id="skill_performer_hp_max"><![CDATA[Valide en-dessous de %d%% PV]]></entry>
+<entry id="skill_performer_hp_min"><![CDATA[Valide au-dessus de %d%% PV]]></entry>
 <entry id="skill_performer_hp_range"><![CDATA[TODO:Valid from %d%% to %d%% HP]]></entry>
 <entry id="effect_tooltip_cure_bleed"><![CDATA[TODO:Cure {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="effect_tooltip_cure_debuff"><![CDATA[TODO:Clear {colour_start|debuff}Debuffs{colour_end}]]></entry>
