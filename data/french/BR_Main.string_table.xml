@@ -4429,7 +4429,7 @@ Self:
 <entry id="buff_rule_data_tooltip_MUSK_AMMO_SWAP_AMMO3_SWAP"><![CDATA[TODO:Change Mode to: {colour_start|musk_ammo1}Standard Ammo{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="str_locked_building_summary"><![CDATA[TODO:Attempt tutorial mission to unlock]]></entry>
 <entry id="str_stage_coach_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
-<entry id="town_name_abbey"><![CDATA[Atelier]]></entry>
+<entry id="town_name_abbey"><![CDATA[Atelier d'ambre]]></entry>
 <entry id="town_name_activity_log"><![CDATA[Journal d'activités]]></entry>
 <entry id="town_name_blacksmith"><![CDATA[Forge]]></entry>
 <entry id="town_name_camping_trainer"><![CDATA[Gaspard]]></entry>
@@ -4550,30 +4550,30 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_3"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 tns, 140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_5"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 tns, 160%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IGNORE_PROT_TT"><![CDATA[TODO:Attacks Ignore PROT]]></entry>
-<entry id="str_quirk_name_1_faithless"><![CDATA[TODO:																													 						{colour_start|affiliation_faithless}Faithless{colour_end}
+<entry id="str_quirk_name_1_faithless"><![CDATA[																													 						{colour_start|affiliation_faithless}Athée{colour_end}
 ]]></entry>
-<entry id="str_quirk_name_1_religious"><![CDATA[TODO:																													 						{colour_start|affiliation_religious}Religious{colour_end}
+<entry id="str_quirk_name_1_religious"><![CDATA[																													 						{colour_start|affiliation_religious}Religieux{colour_end}
 ]]></entry>
-<entry id="str_quirk_name_1_pagan"><![CDATA[TODO:																													  	   	   {colour_start|affiliation_pagan}Pagan{colour_end}
+<entry id="str_quirk_name_1_pagan"><![CDATA[																													  	   	   {colour_start|affiliation_pagan}Payen{colour_end}
 ]]></entry>
 <entry id="str_quirk_name_deadly"><![CDATA[Force mortelle]]></entry>
 <entry id="str_quirk_name_misses_the_spot"><![CDATA[Visée faillible]]></entry>
 <entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
-<entry id="str_quirk_name_accurate"><![CDATA[Précis]]></entry>
-<entry id="str_quirk_name_inaccurate"><![CDATA[Imprécis]]></entry>
+<entry id="str_quirk_name_accurate"><![CDATA[Œil vif]]></entry>
+<entry id="str_quirk_name_inaccurate"><![CDATA[Œil de verre]]></entry>
 <entry id="str_quirk_name_risktaker"><![CDATA[Adepte du risque]]></entry>
-<entry id="str_quirk_name_fumbling"><![CDATA[Maladroit]]></entry>
+<entry id="str_quirk_name_fumbling"><![CDATA[Maladresse]]></entry>
 <entry id="str_quirk_name_clouded_mind"><![CDATA[Esprit troublé]]></entry>
 <entry id="str_quirk_name_superstitious"><![CDATA[Superstitieux]]></entry>
 <entry id="str_quirk_name_skeptic"><![CDATA[Sceptique]]></entry>
 <entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
 <entry id="str_quirk_name_adherent"><![CDATA[TODO:Adherent]]></entry>
 <entry id="str_quirk_name_dissenter"><![CDATA[TODO:Dissenter]]></entry>
-<entry id="str_quirk_name_penetrating"><![CDATA[Mortel]]></entry>
+<entry id="str_quirk_name_penetrating"><![CDATA[Infiltration]]></entry>
 <entry id="str_quirk_name_imperturbable"><![CDATA[Impassible]]></entry>
-<entry id="str_quirk_name_skittish"><![CDATA[Capricieux]]></entry>
-<entry id="str_quirk_name_cautious"><![CDATA[Prudent]]></entry>
-<entry id="str_quirk_name_reckless"><![CDATA[Imprudent]]></entry>
+<entry id="str_quirk_name_skittish"><![CDATA[Caprice]]></entry>
+<entry id="str_quirk_name_cautious"><![CDATA[Prudence]]></entry>
+<entry id="str_quirk_name_reckless"><![CDATA[Imprudence]]></entry>
 <entry id="str_quirk_name_assuaging"><![CDATA[Apaisant]]></entry>
 <entry id="str_quirk_name_pernicious"><![CDATA[Fourbe]]></entry>
 <entry id="str_quirk_name_fencer"><![CDATA[Escrimeur]]></entry>
@@ -4605,8 +4605,8 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_infirm"><![CDATA[Infirme]]></entry>
 <entry id="str_quirk_name_bad_healer"><![CDATA[Mauvais soigneur]]></entry>
 <entry id="str_quirk_name_brave"><![CDATA[Courage]]></entry>
-<entry id="str_quirk_name_on_the_mend"><![CDATA[TODO:On the Mend]]></entry>
-<entry id="str_quirk_name_off_the_mend"><![CDATA[TODO:Off the Mend]]></entry>
+<entry id="str_quirk_name_on_the_mend"><![CDATA[Métabolisme vif]]></entry>
+<entry id="str_quirk_name_off_the_mend"><![CDATA[Métabolisme lent]]></entry>
 <entry id="str_quirk_name_mellow"><![CDATA[Tendre]]></entry>
 <entry id="str_quirk_name_tense"><![CDATA[Stressé]]></entry>
 <entry id="str_quirk_name_regenerator"><![CDATA[Régénération]]></entry>
@@ -4622,7 +4622,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_uncoordinated"><![CDATA[TODO:Uncoordinated]]></entry>
 <entry id="str_quirk_name_opportunist"><![CDATA[Opportuniste]]></entry>
 <entry id="str_quirk_name_fair_player"><![CDATA[Beau joueur]]></entry>
-<entry id="str_quirk_name_technical"><![CDATA[TODO:Technical]]></entry>
+<entry id="str_quirk_name_technical"><![CDATA[Technique]]></entry>
 <entry id="str_quirk_name_untalented"><![CDATA[Sans-talent]]></entry>
 <entry id="str_quirk_name_forceful"><![CDATA[Brusque]]></entry>
 <entry id="str_quirk_name_weak"><![CDATA[Faible]]></entry>
@@ -4689,11 +4689,11 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_globetrotter"><![CDATA[Globe-trotter]]></entry>
 <entry id="str_quirk_name_love_interest"><![CDATA[TODO:Chipped Shoulder]]></entry>
 <entry id="str_quirk_name_deviant_tastes"><![CDATA[Combattant déloyal]]></entry>
-<entry id="str_quirk_name_silk_touch"><![CDATA[Ingénieux]]></entry>
-<entry id="str_quirk_name_tek_haggler"><![CDATA[Négociateur]]></entry>
+<entry id="str_quirk_name_silk_touch"><![CDATA[Délicatesse]]></entry>
+<entry id="str_quirk_name_tek_haggler"><![CDATA[Éloquence]]></entry>
 <entry id="str_quirk_name_prize_fighter"><![CDATA[TODO:Prize Fighter]]></entry>
 <entry id="str_quirk_name_glass_jaw"><![CDATA[TODO:Glass Jaw]]></entry>
-<entry id="str_quirk_name_den_addict"><![CDATA[TODO:Den Addict]]></entry>
+<entry id="str_quirk_name_den_addict"><![CDATA[Addicte à l'ambre]]></entry>
 <entry id="str_quirk_name_archaeomania"><![CDATA[Archéomanie]]></entry>
 <entry id="str_quirk_name_amber_hoarder"><![CDATA[TODO:Amber Hoarder]]></entry>
 <entry id="str_quirk_name_hagiomania"><![CDATA[Hagiomanie]]></entry>
