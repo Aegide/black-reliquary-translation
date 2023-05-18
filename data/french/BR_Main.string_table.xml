@@ -3030,7 +3030,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_swarm"><![CDATA[TODO:Swarming Monsters]]></entry>
 <entry id="buff_rule_data_tooltip_1_religious"><![CDATA[TODO:{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[TODO:{colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[TODO:{colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_faster"><![CDATA[TODO:Fairweather Faster]]></entry>
 <entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul_fever"><![CDATA[TODO:{colour_start|symptom}Ghoul Fever{colour_end}]]></entry>
@@ -4868,7 +4868,7 @@ the Treasury successfully gives buffs
 <entry id="str_quirk_description_1_pagan"><![CDATA[TODO:Rejects the light. Serves the old gods...]]></entry>
 <entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[TODO:{colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_religious"><![CDATA[TODO:{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[TODO:{colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_penitent"><![CDATA[TODO:Penitent]]></entry>
 <entry id="buff_rule_data_tooltip_convalescent"><![CDATA[TODO:Convalescent]]></entry>
 <entry id="buff_rule_data_tooltip_rampager"><![CDATA[TODO:Rampager]]></entry>
