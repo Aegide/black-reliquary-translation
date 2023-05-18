@@ -2760,11 +2760,11 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_missionary_lightning"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Rapture]]></entry>
 <entry id="str_monster_skill_munch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Mastication]]></entry>
 <entry id="str_monster_skill_carrion_curl_up"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʙ{colour_end}Curl Up]]></entry>
-<entry id="str_monster_skill_spider_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Bite]]></entry>
+<entry id="str_monster_skill_spider_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_webber_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Bite]]></entry>
-<entry id="str_monster_skill_spider_spit"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɷʏʑ{colour_end}Spit]]></entry>
+<entry id="str_monster_skill_spider_spit"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɷʏʑ{colour_end}Crachat]]></entry>
 <entry id="str_monster_skill_spider_skitter"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Skitter]]></entry>
-<entry id="str_monster_skill_spider_web"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʔ{colour_end}Web]]></entry>
+<entry id="str_monster_skill_spider_web"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʔ{colour_end}Toile]]></entry>
 <entry id="str_monster_skill_grave_nibble"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʓ{colour_end}Grave Nibble]]></entry>
 <entry id="str_monster_skill_maggot_squirm"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʑ{colour_end}Squirm]]></entry>
 <entry id="str_monster_skill_snail_slime"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʖ{colour_end}Brine]]></entry>
