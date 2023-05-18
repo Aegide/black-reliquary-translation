@@ -1,9 +1,9 @@
-<entry id="hero_class_name_shieldbreaker"><![CDATA[TODO:Shieldbreaker]]></entry>
-<entry id="str_dlc_title_shieldbreaker"><![CDATA[TODO:Shieldbreaker]]></entry>
-<entry id="str_confirm_dlc_details_shieldbreaker"><![CDATA[TODO:The Shieldbreaker DLC allows the Shieldbreaker hero class to be recruited in your Estate. Also contains several new monsters.]]></entry>
-<entry id="str_confirm_dlc_shieldbreaker"><![CDATA[TODO:Enable Shieldbreaker?]]></entry>
-<entry id="str_confirm_dlc_shieldbreaker_yes"><![CDATA[TODO:Enable]]></entry>
-<entry id="str_confirm_dlc_shieldbreaker_no"><![CDATA[TODO:Cancel]]></entry>
+<entry id="hero_class_name_shieldbreaker"><![CDATA[Brise-bouclier]]></entry>
+<entry id="str_dlc_title_shieldbreaker"><![CDATA[Shieldbreaker]]></entry>
+<entry id="str_confirm_dlc_details_shieldbreaker"><![CDATA[Le contenu téléchargeable Shieldbreaker permet à la classe de héros Brise-bouclier d'être recrutée dans votre domaine. Contient également plusieurs nouveaux monstres.]]></entry>
+<entry id="str_confirm_dlc_shieldbreaker"><![CDATA[Activer Shieldbreaker ?]]></entry>
+<entry id="str_confirm_dlc_shieldbreaker_yes"><![CDATA[Activer]]></entry>
+<entry id="str_confirm_dlc_shieldbreaker_no"><![CDATA[Annuler]]></entry>
 <entry id="upgrade_tree_name_shieldbreaker.weapon"><![CDATA[TODO:Assegai]]></entry>
 <entry id="upgrade_tree_name_shieldbreaker.armour"><![CDATA[TODO:Bedlah]]></entry>
 <entry id="shieldbreaker_armour_0"><![CDATA[TODO:Tattered Rags]]></entry>
