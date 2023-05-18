@@ -2644,10 +2644,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_mother_dash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦʲɩɧʑ{colour_end}Onslaught]]></entry>
 <entry id="str_monster_skill_mother_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʲɩɧʐ{colour_end}Weight of Wealth]]></entry>
 <entry id="str_monster_skill_mother_run"><![CDATA[TODO:{colour_start|white}ɪɥʲɩɧʟ{colour_end}Getaway]]></entry>
-<entry id="str_monster_skill_horned_toad_croak"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɧʑ{colour_end}Croak]]></entry>
+<entry id="str_monster_skill_horned_toad_croak"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɧʑ{colour_end}Croassement]]></entry>
 <entry id="str_monster_skill_horned_toad_glare"><![CDATA[TODO:Curious Glare]]></entry>
 <entry id="str_monster_skill_hornedtoad_lick"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥʫɩɦɲʖ{colour_end}Septic Scourge]]></entry>
-<entry id="str_monster_skill_hornedtoad_blood"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩʔɮʑ{colour_end}Œil pour œil]]></entry>
+<entry id="str_monster_skill_hornedtoad_blood"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩʔɮʑ{colour_end}Œil pour œil]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit1"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit2"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit3"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
