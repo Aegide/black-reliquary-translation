@@ -513,10 +513,10 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="str_roster_list_flagellation_bark"><![CDATA[TODO:Magnificent! Exquisite!]]></entry>
 <entry id="str_roster_list_flagellation_bark"><![CDATA[TODO:It's all worth it- just for this moment...]]></entry>
 <entry id="str_roster_list_flagellation_bark"><![CDATA[TODO:Let this moment last forever!]]></entry>
-<entry id="str_districts_locked_tooltip"><![CDATA[TODO:Side Decks Locked]]></entry>
-<entry id="town_name_district"><![CDATA[TODO:Side Decks]]></entry>
+<entry id="str_districts_locked_tooltip"><![CDATA[Pont supérieur bloqué]]></entry>
+<entry id="town_name_district"><![CDATA[Pont supérieur]]></entry>
 <entry id="town_secondary1"><![CDATA[TODO:Districts]]></entry>
-<entry id="buff_bsrc_district"><![CDATA[TODO:Side Decks]]></entry>
+<entry id="buff_bsrc_district"><![CDATA[Pont supérieur]]></entry>
 <entry id="str_district_build_building_confirm"><![CDATA[TODO:Construct this deck?]]></entry>
 <entry id="str_district_build_building_confirm_no"><![CDATA[Non]]></entry>
 <entry id="str_district_build_building_confirm_yes"><![CDATA[Oui]]></entry>
