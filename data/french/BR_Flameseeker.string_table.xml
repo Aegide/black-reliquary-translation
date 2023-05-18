@@ -468,7 +468,7 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[TODO:My sins will be expunged through spilt blood!]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[TODO:This is not the path to solace.]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[TODO:I belong elsewhere.]]></entry>
-<entry id="party_name_default"><![CDATA[TODO:{colour_start|notable}Build a Party From the Roster{colour_end}]]></entry>
+<entry id="party_name_default"><![CDATA[Formez un groupe à partir de la liste de recrues]]></entry>
 <entry id="str_hero_slot_locked_bar"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_brothel"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_cancel_confirm"><![CDATA[TODO:You will not be refunded the cost, but the hero will be immediately available for use on quests. Are you sure?]]></entry>

@@ -620,7 +620,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_29"><![CDATA[TODO:A special currency type that is most often used to upgrade buildings on the Ship. There are four types of Relics: Matakh, Amber, Salvaged Jewelry, and Valor Marks.]]></entry>
 <entry id="str_glossary_term_30"><![CDATA[TODO:Alum Censer]]></entry>
 <entry id="str_glossary_term_definition_30"><![CDATA[TODO:A type of provision used to temporarily increase a hero's resistances. Also can be used on dungeon curios.]]></entry>
-<entry id="str_glossary_term_31"><![CDATA[TODO:HP]]></entry>
+<entry id="str_glossary_term_31"><![CDATA[PV]]></entry>
 <entry id="str_glossary_term_definition_31"><![CDATA[TODO:Short for "health points". HP is removed as damage is taken. A hero with 0 HP is at Death's Door.]]></entry>
 <entry id="str_glossary_term_32"><![CDATA[PV MAX]]></entry>
 <entry id="str_glossary_term_definition_32"><![CDATA[TODO:Short for "maximum health points".]]></entry>
@@ -2655,12 +2655,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit5"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit6"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit7"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
-<entry id="str_monster_skill_carrion_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibles]]></entry>
+<entry id="str_monster_skill_carrion_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
 <entry id="str_monster_skill_carrion_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐʑɮ{colour_end}Buzz Blast]]></entry>
 <entry id="str_monster_skill_carrion_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Toxin Skewer]]></entry>
-<entry id="str_monster_skill_sentry_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Mandibles]]></entry>
-<entry id="str_monster_skill_sentry_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Eye of the Swarm]]></entry>
-<entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Eye of the Swarm]]></entry>
+<entry id="str_monster_skill_sentry_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Mandibules]]></entry>
+<entry id="str_monster_skill_sentry_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
+<entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
 <entry id="str_monster_skill_sentry_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Toxin Skewer]]></entry>
 <entry id="str_monster_skill_vulture_eat"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɭʐ{colour_end}CORPSE PICK]]></entry>
 <entry id="str_monster_skill_vulture_pursue"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʎ{colour_end}PURSUE]]></entry>
@@ -3814,7 +3814,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketpandoras_tongue"><![CDATA[TODO:Pandora's Tongue]]></entry>
 <entry id="str_inventory_title_trinketspring_herbs"><![CDATA[TODO:Spring Herbs]]></entry>
 <entry id="str_inventory_title_trinketbloodlust_talisman"><![CDATA[TODO:Bloodlust Talisman]]></entry>
-<entry id="str_inventory_title_trinketeye_of_the_storm"><![CDATA[TODO:Eye of the Storm]]></entry>
+<entry id="str_inventory_title_trinketeye_of_the_storm"><![CDATA[Œil de la tempête]]></entry>
 <entry id="str_inventory_title_trinketpiercing_lance"><![CDATA[TODO:Piercing Lance]]></entry>
 <entry id="str_inventory_title_trinketskull_talk"><![CDATA[TODO:Talkative Skull]]></entry>
 <entry id="str_inventory_title_trinketwildlander_rage"><![CDATA[TODO:Wildlander’s Vengeance]]></entry>

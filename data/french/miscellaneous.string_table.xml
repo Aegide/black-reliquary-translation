@@ -378,7 +378,7 @@
 <entry id="menu_transfer_saves_to_steam"><![CDATA[TODO:We've enabled Steam Cloud saves. Your save files have moved to your Steam user directory.]]></entry>
 <entry id="monster_panel_resistances"><![CDATA[TODO:Resistances]]></entry>
 <entry id="monster_tooltip_dodge_format"><![CDATA[TODO:DODGE: %0.f]]></entry>
-<entry id="monster_tooltip_hp_format"><![CDATA[TODO:HP: %.0f/%.0f]]></entry>
+<entry id="monster_tooltip_hp_format"><![CDATA[PV : %.0f/%.0f]]></entry>
 <entry id="monster_tooltip_prot_format"><![CDATA[TODO:PROT: %.0f%%]]></entry>
 <entry id="monster_tooltip_speed_format"><![CDATA[TODO:SPD: %0.f]]></entry>
 <entry id="no_shovel"><![CDATA[TODO:You don't have a shovel!]]></entry>
