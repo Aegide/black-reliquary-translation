@@ -2767,7 +2767,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_spider_web"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʔ{colour_end}Toile]]></entry>
 <entry id="str_monster_skill_grave_nibble"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʓ{colour_end}Grave Nibble]]></entry>
 <entry id="str_monster_skill_maggot_squirm"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʑ{colour_end}Squirm]]></entry>
-<entry id="str_monster_skill_snail_slime"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʖ{colour_end}Brine]]></entry>
+<entry id="str_monster_skill_snail_slime"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʖ{colour_end}Saumure]]></entry>
 <entry id="str_monster_skill_snail_spike"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Shell Shield]]></entry>
 <entry id="str_monster_skill_cact_hemo_spike"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Wall of Spines]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
@@ -2780,7 +2780,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_sav_eject"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɘɘɩɦʐʕ{colour_end}Injector Frenzy]]></entry>
 <entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʏ{colour_end}Venom Shower]]></entry>
 <entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɦʐɬ{colour_end}The Hunger]]></entry>
-<entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandible Strike]]></entry>
+<entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
 <entry id="str_monster_skill_cact_vetev_shuffle"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮɴ{colour_end}Psychotropic Spray]]></entry>
 <entry id="str_monster_skill_cact_vertev_lick"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʖ{colour_end}Léchouille]]></entry>
 <entry id="str_monster_skill_cact_vetev_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Firm Grasp]]></entry>
