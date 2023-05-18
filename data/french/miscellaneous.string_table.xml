@@ -421,7 +421,7 @@
 <entry id="realm_inventory_sell_trinket_confirm_question_format"><![CDATA[TODO:Really sell {?item_name}%s for {?amount}%d gold?]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="realm_inventory_trinket_sell_description"><![CDATA[TODO:Sell trinket for:]]></entry>
-<entry id="realm_inventory_trinket_sell_instruction"><![CDATA[TODO:Hold [SHIFT] to Sell Trinkets]]></entry>
+<entry id="realm_inventory_trinket_sell_instruction"><![CDATA[Maintenir [MAJ] permet de vendre des breloques]]></entry>
 <entry id="resistance_base"><![CDATA[de base]]></entry>
 <entry id="resistance_name_bleed"><![CDATA[{colour_start|bleed}Saignement{colour_end}]]></entry>
 <entry id="resistance_name_death_blow"><![CDATA[{colour_start|deathblow}Coup fatal{colour_end}]]></entry>
