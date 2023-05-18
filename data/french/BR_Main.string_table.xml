@@ -832,7 +832,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
 <entry id="str_inventory_title_heirloombust"><![CDATA[TODO:{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomcrest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
-<entry id="str_inventory_title_heirloomdeed"><![CDATA[TODO:{colour_start|BR_heirloom}Amber{colour_end}]]></entry>
+<entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[TODO:{colour_start|BR_heirloom}Salvaged Jewelry{colour_end}]]></entry>
 <entry id="str_inventory_title_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloombust"><![CDATA[TODO:The currency of the Kvarotz society, comprised of electrum.]]></entry>
@@ -2958,7 +2958,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_medicinal_herbs"><![CDATA[TODO:Cleansing Salt]]></entry>
 <entry id="buff_rule_data_tooltip_provision"><![CDATA[Nourriture]]></entry>
 <entry id="buff_rule_data_tooltip_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_deed"><![CDATA[TODO:{colour_start|BR_heirloom}Amber{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_deed"><![CDATA[TODO:{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_portrait"><![CDATA[TODO:{colour_start|BR_heirloom}Salvaged Jewelry{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_crest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_bust"><![CDATA[TODO:{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
