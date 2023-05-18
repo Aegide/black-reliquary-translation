@@ -2758,7 +2758,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_missionary_move"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Blockade Charge]]></entry>
 <entry id="str_monster_skill_missionary_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Guardian Assault]]></entry>
 <entry id="str_monster_skill_missionary_lightning"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Rapture]]></entry>
-<entry id="str_monster_skill_munch"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Munch]]></entry>
+<entry id="str_monster_skill_munch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Mastication]]></entry>
 <entry id="str_monster_skill_carrion_curl_up"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʙ{colour_end}Curl Up]]></entry>
 <entry id="str_monster_skill_spider_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Bite]]></entry>
 <entry id="str_monster_skill_webber_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Bite]]></entry>
