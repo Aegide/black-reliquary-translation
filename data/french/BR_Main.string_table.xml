@@ -3031,7 +3031,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_1_religious"><![CDATA[{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_faster"><![CDATA[TODO:Fairweather Faster]]></entry>
+<entry id="buff_rule_data_tooltip_faster"><![CDATA[Jeûne]]></entry>
 <entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul_fever"><![CDATA[TODO:{colour_start|symptom}Ghoul Fever{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul_plague"><![CDATA[TODO:{colour_start|disease}Ghoul Plague{colour_end}]]></entry>
@@ -4633,7 +4633,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_unsubtle"><![CDATA[Bruyant]]></entry>
 <entry id="str_quirk_name_sneaky"><![CDATA[Discrétion]]></entry>
 <entry id="str_quirk_name_imposter_syndrome_BR"><![CDATA[Syndrôme de l'imposteur]]></entry>
-<entry id="str_quirk_name_faster"><![CDATA[TODO:Fairweather Faster]]></entry>
+<entry id="str_quirk_name_faster"><![CDATA[Jeûne]]></entry>
 <entry id="str_quirk_name_levantine_skirmisher"><![CDATA[TODO:Levantine Skirmisher]]></entry>
 <entry id="str_quirk_name_fear_of_levantine"><![CDATA[Peur des levantins]]></entry>
 <entry id="str_quirk_name_levantine_slayer"><![CDATA[TODO:Levantine Nemesis]]></entry>
