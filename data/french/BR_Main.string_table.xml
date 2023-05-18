@@ -4588,7 +4588,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_hysterical"><![CDATA[Hystérique]]></entry>
 <entry id="str_quirk_name_executioner"><![CDATA[Bourreau]]></entry>
 <entry id="str_quirk_name_weak_finish"><![CDATA[Miséricorde]]></entry>
-<entry id="str_quirk_name_eraser"><![CDATA[TODO:Eraser]]></entry>
+<entry id="str_quirk_name_eraser"><![CDATA[Ambition]]></entry>
 <entry id="str_quirk_name_coward"><![CDATA[Lâche]]></entry>
 <entry id="str_quirk_name_hot_to_trot"><![CDATA[TODO:Hot to Trot]]></entry>
 <entry id="str_quirk_name_germophile"><![CDATA[Germophile]]></entry>
@@ -4650,13 +4650,13 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_fear_of_cactonid"><![CDATA[Peur des cactonides]]></entry>
 <entry id="str_quirk_name_cactonid_slayer"><![CDATA[Nemesis (Cactonide)]]></entry>
 <entry id="str_quirk_name_cactonid_intimidated"><![CDATA[Mal des cactonides]]></entry>
-<entry id="str_quirk_name_kvarotz_challenger"><![CDATA[TODO:Kvarotz Challenger]]></entry>
+<entry id="str_quirk_name_kvarotz_challenger"><![CDATA[Haine des Kvarotz]]></entry>
 <entry id="str_quirk_name_fear_of_kvarotz"><![CDATA[Peur des Kvarotz]]></entry>
-<entry id="str_quirk_name_lost_challenger"><![CDATA[TODO:Legion Challenger]]></entry>
+<entry id="str_quirk_name_lost_challenger"><![CDATA[Haine de la légion]]></entry>
 <entry id="str_quirk_name_fear_of_lost"><![CDATA[Peur de la légion]]></entry>
-<entry id="str_quirk_name_ghoul_challenger"><![CDATA[TODO:Ghoul Challenger]]></entry>
+<entry id="str_quirk_name_ghoul_challenger"><![CDATA[Haine des goules]]></entry>
 <entry id="str_quirk_name_fear_of_ghoul"><![CDATA[Peur des goules]]></entry>
-<entry id="str_quirk_name_wildlife_challenger"><![CDATA[TODO:Wildlife Challenger]]></entry>
+<entry id="str_quirk_name_wildlife_challenger"><![CDATA[Haine des créatures]]></entry>
 <entry id="str_quirk_name_fear_of_wildlife"><![CDATA[Peur des créatures]]></entry>
 <entry id="str_quirk_name_janitor"><![CDATA[Concierge]]></entry>
 <entry id="str_quirk_name_necrophobe"><![CDATA[Necrophobe]]></entry>
