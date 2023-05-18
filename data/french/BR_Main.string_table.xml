@@ -3028,8 +3028,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_veteran"><![CDATA[TODO:Veteran Monsters]]></entry>
 <entry id="buff_rule_data_tooltip_champion"><![CDATA[TODO:Champion Monsters]]></entry>
 <entry id="buff_rule_data_tooltip_swarm"><![CDATA[TODO:Swarming Monsters]]></entry>
-<entry id="buff_rule_data_tooltip_1_religious"><![CDATA[TODO:{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[TODO:{colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_religious"><![CDATA[{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_faster"><![CDATA[TODO:Fairweather Faster]]></entry>
 <entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
@@ -4866,8 +4866,8 @@ the Treasury successfully gives buffs
 <entry id="str_quirk_description_1_faithless"><![CDATA[TODO:Follows no creed nor god]]></entry>
 <entry id="str_quirk_description_1_religious"><![CDATA[TODO:Follows and searches for the Light]]></entry>
 <entry id="str_quirk_description_1_pagan"><![CDATA[TODO:Rejects the light. Serves the old gods...]]></entry>
-<entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[TODO:{colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_1_religious"><![CDATA[TODO:{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_1_religious"><![CDATA[{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_penitent"><![CDATA[TODO:Penitent]]></entry>
 <entry id="buff_rule_data_tooltip_convalescent"><![CDATA[TODO:Convalescent]]></entry>
