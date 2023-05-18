@@ -2647,7 +2647,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_horned_toad_croak"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɧʑ{colour_end}Croak]]></entry>
 <entry id="str_monster_skill_horned_toad_glare"><![CDATA[TODO:Curious Glare]]></entry>
 <entry id="str_monster_skill_hornedtoad_lick"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥʫɩɦɲʖ{colour_end}Septic Scourge]]></entry>
-<entry id="str_monster_skill_hornedtoad_blood"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩʔɮʑ{colour_end}Eye to Eye]]></entry>
+<entry id="str_monster_skill_hornedtoad_blood"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩʔɮʑ{colour_end}Œil pour œil]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit1"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit2"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit3"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Regorge]]></entry>
@@ -2761,7 +2761,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_munch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Mastication]]></entry>
 <entry id="str_monster_skill_carrion_curl_up"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʐʙ{colour_end}Curl Up]]></entry>
 <entry id="str_monster_skill_spider_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Morsure]]></entry>
-<entry id="str_monster_skill_webber_bite"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Bite]]></entry>
+<entry id="str_monster_skill_webber_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_spider_spit"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɷʏʑ{colour_end}Crachat]]></entry>
 <entry id="str_monster_skill_spider_skitter"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Skitter]]></entry>
 <entry id="str_monster_skill_spider_web"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʔ{colour_end}Toile]]></entry>
