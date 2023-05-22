@@ -132,7 +132,7 @@
 <entry id="camping_respite_rest"><![CDATA[REPOS]]></entry>
 <entry id="camping_respite_title"><![CDATA[Répit]]></entry>
 <entry id="camping_skill_chance_effect_format"><![CDATA[TODO:({?decimal1}%d%% chance) {?string1}%s]]></entry>
-<entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[TODO:Party will not be surprised if ambushed]]></entry>
+<entry id="camping_skill_effect_ambush_preparation_no_surprise"><![CDATA[Le groupe ne sera pas surpris en cas d'embuscade]]></entry>
 <entry id="camping_skill_effect_buff"><![CDATA[TODO:{colour_start|buffNOT1}Buff +%d%%{colour_end}]]></entry>
 <entry id="camping_skill_effect_campingAttackBuff"><![CDATA[TODO:ACC +%d]]></entry>
 <entry id="camping_skill_effect_campingAttackBuffRanged"><![CDATA[TODO:Improve {colour_start|attacktype}Ranged{colour_end} Attacks ACC +%d]]></entry>
@@ -146,12 +146,12 @@
 <entry id="camping_skill_effect_campingStressResistBuff"><![CDATA[TODO:Improve {colour_start|stressNOT1}Stress{colour_end} Resist by +%d%%]]></entry>
 <entry id="camping_skill_effect_health_damage_max_health_percent"><![CDATA[TODO:Suffer %d%% HP DMG]]></entry>
 <entry id="camping_skill_effect_health_heal_max_health_percent"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d%% HP]]></entry>
-<entry id="camping_skill_effect_increase_monsters_surprise_chance"><![CDATA[TODO:More likely to surprise monsters until next Camp]]></entry>
-<entry id="camping_skill_effect_item"><![CDATA[TODO:Chance to produce %s]]></entry>
-<entry id="camping_skill_effect_loot_S"><![CDATA[TODO:Produces a random supply item]]></entry>
-<entry id="camping_skill_effect_loot_T_ANTIQ_CAMP"><![CDATA[TODO:Produces a random trinket]]></entry>
-<entry id="camping_skill_effect_reduce_ambush_chance"><![CDATA[TODO:Prevents nighttime ambush]]></entry>
-<entry id="camping_skill_effect_reduce_party_surprise_chance"><![CDATA[TODO:Less likely to be surprised until next Camp]]></entry>
+<entry id="camping_skill_effect_increase_monsters_surprise_chance"><![CDATA[Chances accrues de surprendre les monstres jusqu'au prochain campement]]></entry>
+<entry id="camping_skill_effect_item"><![CDATA[Chances de produire %s]]></entry>
+<entry id="camping_skill_effect_loot_S"><![CDATA[Produit une provision aléatoire]]></entry>
+<entry id="camping_skill_effect_loot_T_ANTIQ_CAMP"><![CDATA[Produit une breloque aléatoire]]></entry>
+<entry id="camping_skill_effect_reduce_ambush_chance"><![CDATA[Empêche les embuscades nocturnes]]></entry>
+<entry id="camping_skill_effect_reduce_party_surprise_chance"><![CDATA[Chances réduites d'être surpris jusqu'au prochain campement]]></entry>
 <entry id="camping_skill_effect_reduce_torch"><![CDATA[TODO:Reduce torchlight by %d]]></entry>
 <entry id="camping_skill_effect_remove_bleeding"><![CDATA[TODO:Cure {colour_start|bleedNOT1}Bleeding{colour_end}]]></entry>
 <entry id="camping_skill_effect_remove_deaths_door_recovery_buffs"><![CDATA[TODO:Remove {colour_start|mortaldebuff}Mortality debuffs{colour_end}]]></entry>
