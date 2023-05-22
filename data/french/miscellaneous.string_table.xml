@@ -153,9 +153,9 @@
 <entry id="camping_skill_effect_reduce_ambush_chance"><![CDATA[Empêche les embuscades nocturnes]]></entry>
 <entry id="camping_skill_effect_reduce_party_surprise_chance"><![CDATA[Chances réduites d'être surpris jusqu'au prochain campement]]></entry>
 <entry id="camping_skill_effect_reduce_torch"><![CDATA[TODO:Reduce torchlight by %d]]></entry>
-<entry id="camping_skill_effect_remove_bleeding"><![CDATA[TODO:Cure {colour_start|bleedNOT1}Bleeding{colour_end}]]></entry>
+<entry id="camping_skill_effect_remove_bleeding"><![CDATA[Soigne un {colour_start|bleedNOT1}saignement{colour_end}]]></entry>
 <entry id="camping_skill_effect_remove_deaths_door_recovery_buffs"><![CDATA[TODO:Remove {colour_start|mortaldebuff}Mortality debuffs{colour_end}]]></entry>
-<entry id="camping_skill_effect_remove_poison"><![CDATA[TODO:Cure {colour_start|blightNOT1}Blight{colour_end}]]></entry>
+<entry id="camping_skill_effect_remove_poison"><![CDATA[Soigne une {colour_start|blightNOT1}infection{colour_end}]]></entry>
 <entry id="camping_skill_effect_scouting_buff"><![CDATA[TODO:Improve Scouting chance by %d%% until next Camp]]></entry>
 <entry id="camping_skill_effect_stress_damage_amount"><![CDATA[TODO:%+d {colour_start|stressNOT1}Stress{colour_end}]]></entry>
 <entry id="camping_skill_requirement_afflicted"><![CDATA[TODO:{colour_start|afflictedNOT1}afflicted{colour_end}]]></entry>
@@ -206,7 +206,7 @@
 <entry id="effect_tooltip_additional_description_condensed_format"><![CDATA[TODO:%s %s %s]]></entry>
 <entry id="effect_tooltip_additional_description_format"><![CDATA[TODO:%s %s
 %s]]></entry>
-<entry id="effect_tooltip_cure"><![CDATA[TODO:Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
+<entry id="effect_tooltip_cure"><![CDATA[Soigne {colour_start|blight}infection{colour_end}/{colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="effect_tooltip_dot_bleed"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="effect_tooltip_dot_format"><![CDATA[TODO:%d pts/tn for %d tns]]></entry>
 <entry id="effect_tooltip_dot_poison"><![CDATA[TODO:{colour_start|blight}Blight{colour_end}]]></entry>

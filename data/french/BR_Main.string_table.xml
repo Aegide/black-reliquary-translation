@@ -2929,13 +2929,13 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_is_stealthed"><![CDATA[TODO:%s if {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_is_stealthed_false"><![CDATA[TODO:%s if not {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stress_dot"><![CDATA[TODO:{colour_start|stress}Transfer Horror{colour_end}]]></entry>
-<entry id="effect_tooltip_clear_stress_dot"><![CDATA[TODO:Cure {colour_start|stress}Horror{colour_end}]]></entry>
+<entry id="effect_tooltip_clear_stress_dot"><![CDATA[Retire l'{colour_start|stress}horreur{colour_end}]]></entry>
 <entry id="effect_tooltip_stress_dot_format"><![CDATA[TODO:{colour_start|stress}Horror {colour_end}%+d/tn for %d tns]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_camping_eat"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Received from Camping Meals]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_hunger"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Received from Hunger]]></entry>
 <entry id="effect_tooltip_shuffle_dot_format"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} %d tns]]></entry>
-<entry id="effect_tooltip_cure_debuff"><![CDATA[TODO:Cure {colour_start|debuff}Debuffs{colour_end}]]></entry>
+<entry id="effect_tooltip_cure_debuff"><![CDATA[Soigne {colour_start|debuff}malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cove"><![CDATA[Intérieur exposé]]></entry>
 <entry id="buff_rule_data_tooltip_crypts"><![CDATA[Catacombes]]></entry>
 <entry id="buff_rule_data_tooltip_warrens"><![CDATA[Cavernes]]></entry>
