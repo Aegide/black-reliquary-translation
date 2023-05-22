@@ -49,7 +49,7 @@ Death Wish]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
 <!-- Addinfo lines-->
-<entry id="camping_skill_name_addinfo_veil"><![CDATA[TODO:Additional Information]]></entry>
+<entry id="camping_skill_name_addinfo_veil"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_HP_TT"><![CDATA[TODO:The Veiled grows stronger the lower his HP is 
 Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes:{colour_end} +20% {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>	

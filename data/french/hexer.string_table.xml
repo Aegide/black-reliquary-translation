@@ -97,7 +97,7 @@ Ichor Incantation]]></entry>
 <entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[TODO:Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[TODO:Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
 <!-- Addinfo -->
-<entry id="camping_skill_name_addinfo_hexer"><![CDATA[TODO:Additional Information]]></entry>
+<entry id="camping_skill_name_addinfo_hexer"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -40% ]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Is banned from the Amber Refinery and Tek Exchange]]></entry>
