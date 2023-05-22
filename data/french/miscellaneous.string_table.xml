@@ -164,7 +164,7 @@
 <entry id="camping_skill_requirement_has_quirk"><![CDATA[TODO:has quirk: %s]]></entry>
 <entry id="camping_skill_requirement_has_quirk_false"><![CDATA[TODO:doesn't have quirk: %s]]></entry>
 <entry id="camping_skill_requirement_not_religious"><![CDATA[Athée]]></entry>
-<entry id="camping_skill_requirement_religious"><![CDATA[Pieux]]></entry>
+<entry id="camping_skill_requirement_religious"><![CDATA[TODO:Pieux]]></entry>
 <entry id="camping_skill_selection_individual"><![CDATA[Un compagnon :]]></entry>
 <entry id="camping_skill_selection_party"><![CDATA[Groupe :]]></entry>
 <entry id="camping_skill_selection_party_other"><![CDATA[Tous les compagnons :]]></entry>
