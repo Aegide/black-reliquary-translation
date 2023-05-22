@@ -4574,9 +4574,9 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_skittish"><![CDATA[Caprice]]></entry>
 <entry id="str_quirk_name_cautious"><![CDATA[Prudence]]></entry>
 <entry id="str_quirk_name_reckless"><![CDATA[Imprudence]]></entry>
-<entry id="str_quirk_name_assuaging"><![CDATA[Apaisant]]></entry>
+<entry id="str_quirk_name_assuaging"><![CDATA[Apaisement]]></entry>
 <entry id="str_quirk_name_pernicious"><![CDATA[Fourbe]]></entry>
-<entry id="str_quirk_name_fencer"><![CDATA[Escrimeur]]></entry>
+<entry id="str_quirk_name_fencer"><![CDATA[Escrime]]></entry>
 <entry id="str_quirk_name_bad_reflexes"><![CDATA[Long à la détente]]></entry>
 <entry id="str_quirk_name_pertinacious"><![CDATA[TODO:Pertinacious]]></entry>
 <entry id="str_quirk_name_enervated"><![CDATA[TODO:Enervated]]></entry>
