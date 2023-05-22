@@ -507,7 +507,7 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 <entry id="camping_skill_name_tinker"><![CDATA[Réparations]]></entry>
 <entry id="camping_skill_name_overclock"><![CDATA[Surcadençage]]></entry>
 <entry id="camping_skill_name_omnitool_maintain"><![CDATA[Calibrer l'omni-pistolet]]></entry>
-<entry id="camping_skill_name_tale_of_the_fall"><![CDATA[Récite de la chute]]></entry>
+<entry id="camping_skill_name_tale_of_the_fall"><![CDATA[Récit de la chute]]></entry>
 <entry id="dredge_armour_0"><![CDATA[Veste abîmée et métal rouillé]]></entry>
 <entry id="dredge_armour_1"><![CDATA[Veste d'entraînement et revêtement en fer]]></entry>
 <entry id="dredge_armour_2"><![CDATA[Manteau de soldat et acier riveté]]></entry>
@@ -535,7 +535,7 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 <entry id="str_skill_mode_info_dredge_skill3_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill3_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill4_1"><![CDATA[À pied:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill4_2"><![CDATA[TODO:  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill4_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill5_1"><![CDATA[À pied:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill5_2"><![CDATA[En Mecha:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill6_1"><![CDATA[À pied:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
