@@ -504,10 +504,10 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 <entry id="upgrade_tree_name_dredge.dredge_laser"><![CDATA[Désastre prismatique]]></entry>
 <entry id="upgrade_tree_name_dredge.dredge_transform"><![CDATA[Cœur horrible]]></entry>
 <entry id="camping_skill_name_addinfo_dredge"><![CDATA[TODO:Additional Information]]></entry>
-<entry id="camping_skill_name_tinker"><![CDATA[RÉPARATION]]></entry>
-<entry id="camping_skill_name_overclock"><![CDATA[SURCADENÇAGE]]></entry>
-<entry id="camping_skill_name_omnitool_maintain"><![CDATA[CALIBRER]]></entry>
-<entry id="camping_skill_name_tale_of_the_fall"><![CDATA[RÉCIT DE LA CHUTE]]></entry>
+<entry id="camping_skill_name_tinker"><![CDATA[Réparations]]></entry>
+<entry id="camping_skill_name_overclock"><![CDATA[Surcadençage]]></entry>
+<entry id="camping_skill_name_omnitool_maintain"><![CDATA[Calibrer l'omni-pistolet]]></entry>
+<entry id="camping_skill_name_tale_of_the_fall"><![CDATA[Récite de la chute]]></entry>
 <entry id="dredge_armour_0"><![CDATA[Veste abîmée et métal rouillé]]></entry>
 <entry id="dredge_armour_1"><![CDATA[Veste d'entraînement et revêtement en fer]]></entry>
 <entry id="dredge_armour_2"><![CDATA[Manteau de soldat et acier riveté]]></entry>
