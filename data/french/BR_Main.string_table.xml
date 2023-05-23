@@ -4600,7 +4600,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_hippocratic"><![CDATA[Hippocratique]]></entry>
 <entry id="str_quirk_name_gifted"><![CDATA[Surdoué]]></entry>
 <entry id="str_quirk_name_perfectionist"><![CDATA[Perfectionniste]]></entry>
-<entry id="str_quirk_name_antsy"><![CDATA[TODO:Antsy]]></entry>
+<entry id="str_quirk_name_antsy"><![CDATA[Hyperactivité]]></entry>
 <entry id="str_quirk_name_imposter_syndrome"><![CDATA[Syndrôme de l'imposteur]]></entry>
 <entry id="str_quirk_name_infirm"><![CDATA[Infirme]]></entry>
 <entry id="str_quirk_name_bad_healer"><![CDATA[Mauvais soigneur]]></entry>
