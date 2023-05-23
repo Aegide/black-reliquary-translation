@@ -24,7 +24,7 @@ Battle Heal]]></entry>
 <entry id="combat_skill_name_crusader_holy_lance"><![CDATA[TODO:Holy Lance]]></entry>
 <entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Inspiring Cry]]></entry>
-<entry id="combat_skill_name_crusader_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_crusader_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_crusader.smite"><![CDATA[TODO:Smite]]></entry>
 <entry id="upgrade_tree_name_crusader.zealous_accusation"><![CDATA[TODO:Zealous Accusation]]></entry>
 <entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[TODO:Stunning Blow]]></entry>
@@ -36,7 +36,7 @@ Inspiring Cry]]></entry>
 <entry id="combat_skill_name_factotum_pistol_shot"><![CDATA[TODO:Pistol Shot]]></entry>
 <entry id="combat_skill_name_factotum_point_blank_shot"><![CDATA[TODO:Point Blank Shot]]></entry>
 <entry id="combat_skill_name_factotum_grape_shot_blast"><![CDATA[TODO:Grapeshot Blast]]></entry>
-<entry id="combat_skill_name_factotum_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_factotum_move"><![CDATA[Déplacement]]></entry>
 <entry id="combat_skill_name_highwayman_wicked_slice"><![CDATA[TODO:Wicked Slice]]></entry>
 <entry id="combat_skill_name_highwayman_pistol_shot"><![CDATA[TODO:Pistol Shot]]></entry>
 <entry id="combat_skill_name_highwayman_point_blank_shot"><![CDATA[TODO:Point Blank Shot]]></entry>
@@ -44,7 +44,7 @@ Inspiring Cry]]></entry>
 <entry id="combat_skill_name_highwayman_take_aim"><![CDATA[TODO:Tracking Shot]]></entry>
 <entry id="combat_skill_name_highwayman_duelist_advance"><![CDATA[TODO:Duelist's Advance]]></entry>
 <entry id="combat_skill_name_highwayman_opened_vein"><![CDATA[TODO:Open Vein]]></entry>
-<entry id="combat_skill_name_highwayman_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_highwayman_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_highwayman.wicked_slice"><![CDATA[TODO:Wicked Slice]]></entry>
 <entry id="upgrade_tree_name_highwayman.pistol_shot"><![CDATA[TODO:Pistol Shot]]></entry>
 <entry id="upgrade_tree_name_highwayman.point_blank_shot"><![CDATA[TODO:Point Blank Shot]]></entry>
@@ -60,7 +60,7 @@ Inspiring Cry]]></entry>
 Battlefield Medicine]]></entry>
 <entry id="combat_skill_name_plague_doctor_emboldening_vapours"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Emboldening Vapours]]></entry>
-<entry id="combat_skill_name_plague_doctor_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_plague_doctor_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_plague_doctor.noxious_blast"><![CDATA[TODO:Noxious Blast]]></entry>
 <entry id="upgrade_tree_name_plague_doctor.plague_grenade"><![CDATA[TODO:Plague Grenade]]></entry>
 <entry id="upgrade_tree_name_plague_doctor.blinding_gas"><![CDATA[TODO:Blinding Gas]]></entry>
@@ -76,7 +76,7 @@ Divine Grace]]></entry>
 Divine Comfort]]></entry>
 <entry id="combat_skill_name_vestal_gods_hand"><![CDATA[TODO:Hand of Light]]></entry>
 <entry id="combat_skill_name_vestal_gods_illumination"><![CDATA[TODO:Illumination]]></entry>
-<entry id="combat_skill_name_vestal_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_vestal_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_vestal.judgement"><![CDATA[TODO:Judgement]]></entry>
 <entry id="upgrade_tree_name_vestal.mace_bash"><![CDATA[TODO:Mace Bash]]></entry>
 <entry id="upgrade_tree_name_vestal.dazzling_light"><![CDATA[TODO:Dazzling Light]]></entry>
@@ -91,7 +91,7 @@ Divine Comfort]]></entry>
 <entry id="combat_skill_name_grave_robber_thrown_dagger"><![CDATA[TODO:Thrown Dagger]]></entry>
 <entry id="combat_skill_name_grave_robber_poison_dart"><![CDATA[TODO:Poison Darts]]></entry>
 <entry id="combat_skill_name_grave_robber_toxin_trickery"><![CDATA[TODO:Toxin Trickery]]></entry>
-<entry id="combat_skill_name_grave_robber_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_grave_robber_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_grave_robber.pick"><![CDATA[TODO:Pick to the Face]]></entry>
 <entry id="upgrade_tree_name_grave_robber.lunge"><![CDATA[TODO:Lunge]]></entry>
 <entry id="upgrade_tree_name_grave_robber.flashing_daggers"><![CDATA[TODO:Flashing Daggers]]></entry>
@@ -106,7 +106,7 @@ Divine Comfort]]></entry>
 <entry id="combat_skill_name_hellion_breakthru"><![CDATA[TODO:Breakthrough]]></entry>
 <entry id="combat_skill_name_hellion_adrenaline_rush"><![CDATA[TODO:Adrenaline Rush]]></entry>
 <entry id="combat_skill_name_hellion_bleed_out"><![CDATA[TODO:Bleed Out]]></entry>
-<entry id="combat_skill_name_hellion_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_hellion_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_hellion.wicked_hack"><![CDATA[TODO:Wicked Hack]]></entry>
 <entry id="upgrade_tree_name_hellion.iron_swan"><![CDATA[TODO:Iron Swan]]></entry>
 <entry id="upgrade_tree_name_hellion.barbaric_yawp"><![CDATA[TODO:Barbaric YAWP!]]></entry>
@@ -121,7 +121,7 @@ Divine Comfort]]></entry>
 <entry id="combat_skill_name_bounty_hunter_flashbang"><![CDATA[TODO:Flashbang]]></entry>
 <entry id="combat_skill_name_bounty_hunter_finish_him"><![CDATA[TODO:Finish Him]]></entry>
 <entry id="combat_skill_name_bounty_hunter_hook_and_slice"><![CDATA[TODO:Caltrops]]></entry>
-<entry id="combat_skill_name_bounty_hunter_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_bounty_hunter_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.collect_bounty"><![CDATA[TODO:Collect Bounty]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.target_tag"><![CDATA[TODO:Mark for Death]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.come_hither"><![CDATA[TODO:Come Hither]]></entry>
@@ -137,7 +137,7 @@ Wyrd Reconstruction]]></entry>
 <entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[TODO:Vulnerability Hex]]></entry>
 <entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[TODO:Hands from the Abyss]]></entry>
 <entry id="combat_skill_name_occultist_daemons_pull"><![CDATA[TODO:Daemon's Pull]]></entry>
-<entry id="combat_skill_name_occultist_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_occultist_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[TODO:Sacrificial Stab]]></entry>
 <entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[TODO:Abyssal Artillery]]></entry>
 <entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[TODO:Weakening Curse]]></entry>
@@ -153,7 +153,7 @@ Inspiring Tune]]></entry>
 <entry id="combat_skill_name_jester_battle_ballad"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
 Battle Ballad]]></entry>
 <entry id="combat_skill_name_jester_solo"><![CDATA[TODO:Solo]]></entry>
-<entry id="combat_skill_name_jester_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_jester_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_jester.dirk_stab"><![CDATA[TODO:Dirk Stab]]></entry>
 <entry id="upgrade_tree_name_jester.heroic_end"><![CDATA[TODO:Finale]]></entry>
 <entry id="upgrade_tree_name_jester.inspiring_tune"><![CDATA[TODO:Inspiring Tune]]></entry>
@@ -167,7 +167,7 @@ Battle Ballad]]></entry>
 <entry id="combat_skill_name_leper_solemnity"><![CDATA[TODO:Solemnity]]></entry>
 <entry id="combat_skill_name_leper_withstand"><![CDATA[TODO:Withstand]]></entry>
 <entry id="combat_skill_name_leper_intimidate"><![CDATA[TODO:Intimidate]]></entry>
-<entry id="combat_skill_name_leper_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_leper_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_leper.chop"><![CDATA[TODO:Chop]]></entry>
 <entry id="upgrade_tree_name_leper.hew"><![CDATA[TODO:Hew]]></entry>
 <entry id="upgrade_tree_name_leper.focus"><![CDATA[TODO:Purge]]></entry>
@@ -183,7 +183,7 @@ Battle Ballad]]></entry>
 <entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Battlefield Bandage]]></entry>
 <entry id="combat_skill_name_arbalest_flare"><![CDATA[TODO:Rallying Flare]]></entry>
-<entry id="combat_skill_name_arbalest_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_arbalest_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_arbalest.sniper_shot"><![CDATA[TODO:Sniper Shot]]></entry>
 <entry id="upgrade_tree_name_arbalest.suppressing_fire"><![CDATA[TODO:Suppressing Fire]]></entry>
 <entry id="upgrade_tree_name_arbalest.sniper_mark"><![CDATA[TODO:Sniper's Mark]]></entry>
@@ -201,7 +201,7 @@ Defender]]></entry>
 Command]]></entry>
 <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
 Bolster]]></entry>
-<entry id="combat_skill_name_man_at_arms_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_man_at_arms_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_man_at_arms.crush"><![CDATA[TODO:Crush]]></entry>
 <entry id="upgrade_tree_name_man_at_arms.rampart"><![CDATA[TODO:Rampart]]></entry>
 <entry id="upgrade_tree_name_man_at_arms.bellow"><![CDATA[TODO:Bellow]]></entry>
@@ -218,7 +218,7 @@ Cry Havoc]]></entry>
 Guard Dog]]></entry>
 <entry id="combat_skill_name_houndmaster_lick_wounds"><![CDATA[TODO:Lick Wounds]]></entry>
 <entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[TODO:Blackjack]]></entry>
-<entry id="combat_skill_name_houndmaster_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_houndmaster_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_houndmaster.hounds_rush"><![CDATA[TODO:Hound's Rush]]></entry>
 <entry id="upgrade_tree_name_houndmaster.hounds_harry"><![CDATA[TODO:Hound's Harry]]></entry>
 <entry id="upgrade_tree_name_houndmaster.whistle"><![CDATA[TODO:Target Whistle]]></entry>
@@ -233,7 +233,7 @@ Guard Dog]]></entry>
 <entry id="combat_skill_name_abomination_rake"><![CDATA[TODO:Rake]]></entry>
 <entry id="combat_skill_name_abomination_rage"><![CDATA[TODO:Rage]]></entry>
 <entry id="combat_skill_name_abomination_slam"><![CDATA[TODO:Slam]]></entry>
-<entry id="combat_skill_name_abomination_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_abomination_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_abomination.transform"><![CDATA[TODO:Transform]]></entry>
 <entry id="upgrade_tree_name_abomination.manacles"><![CDATA[TODO:Manacles]]></entry>
 <entry id="upgrade_tree_name_abomination.vomit"><![CDATA[TODO:Beast's Bile]]></entry>
@@ -250,7 +250,7 @@ Mending Vapours]]></entry>
 Fortifying Vapours]]></entry>
 <entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Protect Me]]></entry>
-<entry id="combat_skill_name_antiquarian_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_antiquarian_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_antiquarian.kris_stab"><![CDATA[TODO:Nervous Stab]]></entry>
 <entry id="upgrade_tree_name_antiquarian.festering_vapours"><![CDATA[TODO:Festering Vapours]]></entry>
 <entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[TODO:Flashpowder]]></entry>
@@ -263,7 +263,7 @@ Protect Me]]></entry>
 <entry id="combat_skill_name_musketeer_patch_up"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Patch Up]]></entry>
 <entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[TODO:Skeet Shot]]></entry>
-<entry id="combat_skill_name_musketeer_move"><![CDATA[TODO:Move]]></entry>
+<entry id="combat_skill_name_musketeer_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[TODO:Smokescreen]]></entry>
 <entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[TODO:Call the Shot]]></entry>
 <entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[TODO:Sidearm]]></entry>
