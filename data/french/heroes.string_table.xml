@@ -14,24 +14,24 @@
 <entry id="hero_class_name_abomination"><![CDATA[Abomination]]></entry>
 <entry id="hero_class_name_antiquarian"><![CDATA[Antiquaire]]></entry>
 <entry id="hero_class_name_musketeer"><![CDATA[Mousquetaire]]></entry>
-<entry id="combat_skill_name_level_format"><![CDATA[TODO:%s %d]]></entry>
-<entry id="combat_skill_name_crusader_smite"><![CDATA[TODO:Smite]]></entry>
-<entry id="combat_skill_name_crusader_zealous_accusation"><![CDATA[TODO:Zealous Accusation]]></entry>
-<entry id="combat_skill_name_crusader_stunning_blow"><![CDATA[TODO:Stunning Blow]]></entry>
-<entry id="combat_skill_name_crusader_bulwark_of_faith"><![CDATA[TODO:Bulwark of Faith]]></entry>
-<entry id="combat_skill_name_crusader_battle_heal"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Battle Heal]]></entry>
-<entry id="combat_skill_name_crusader_holy_lance"><![CDATA[TODO:Holy Lance]]></entry>
-<entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Inspiring Cry]]></entry>
+<entry id="combat_skill_name_level_format"><![CDATA[%s %d]]></entry>
+<entry id="combat_skill_name_crusader_smite"><![CDATA[Châtiment]]></entry>
+<entry id="combat_skill_name_crusader_zealous_accusation"><![CDATA[Fervente accusation]]></entry>
+<entry id="combat_skill_name_crusader_stunning_blow"><![CDATA[Coup étourdissant]]></entry>
+<entry id="combat_skill_name_crusader_bulwark_of_faith"><![CDATA[Rempart de la foi]]></entry>
+<entry id="combat_skill_name_crusader_battle_heal"><![CDATA[{colour_start|white}əəəə{colour_end}
+Soins de combat]]></entry>
+<entry id="combat_skill_name_crusader_holy_lance"><![CDATA[Lance sacrée]]></entry>
+<entry id="combat_skill_name_crusader_inspiring_cry"><![CDATA[{colour_start|white}əəəə{colour_end}
+Cri de ralliement]]></entry>
 <entry id="combat_skill_name_crusader_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_crusader.smite"><![CDATA[TODO:Smite]]></entry>
-<entry id="upgrade_tree_name_crusader.zealous_accusation"><![CDATA[TODO:Zealous Accusation]]></entry>
-<entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[TODO:Stunning Blow]]></entry>
-<entry id="upgrade_tree_name_crusader.bulwark_of_faith"><![CDATA[TODO:Bulwark of Faith]]></entry>
-<entry id="upgrade_tree_name_crusader.battle_heal"><![CDATA[TODO:Battle Heal]]></entry>
-<entry id="upgrade_tree_name_crusader.holy_lance"><![CDATA[TODO:Holy Lance]]></entry>
-<entry id="upgrade_tree_name_crusader.inspiring_cry"><![CDATA[TODO:Inspiring Cry]]></entry>
+<entry id="upgrade_tree_name_crusader.smite"><![CDATA[Châtiment]]></entry>
+<entry id="upgrade_tree_name_crusader.zealous_accusation"><![CDATA[Fervente accusation]]></entry>
+<entry id="upgrade_tree_name_crusader.stunning_blow"><![CDATA[Coup étourdissant]]></entry>
+<entry id="upgrade_tree_name_crusader.bulwark_of_faith"><![CDATA[Rempart de la foi]]></entry>
+<entry id="upgrade_tree_name_crusader.battle_heal"><![CDATA[Soins de combat]]></entry>
+<entry id="upgrade_tree_name_crusader.holy_lance"><![CDATA[Lance sacrée]]></entry>
+<entry id="upgrade_tree_name_crusader.inspiring_cry"><![CDATA[[Cri de ralliement]]></entry>
 <entry id="combat_skill_name_factotum_bold_slice"><![CDATA[TODO:Bold Slice]]></entry>
 <entry id="combat_skill_name_factotum_pistol_shot"><![CDATA[TODO:Pistol Shot]]></entry>
 <entry id="combat_skill_name_factotum_point_blank_shot"><![CDATA[TODO:Point Blank Shot]]></entry>
