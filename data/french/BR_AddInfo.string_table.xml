@@ -1,7 +1,7 @@
-<entry id="character_title_position_pips"><![CDATA[TODO:]]></entry>
-<entry id="character_title_target_pips"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_cost"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_aaaa"><![CDATA[TODO:]]></entry>
+<entry id="character_title_position_pips"><![CDATA[]]></entry>
+<entry id="character_title_target_pips"><![CDATA[]]></entry>
+<entry id="camping_skill_cost"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_aaaa"><![CDATA[]]></entry>
 <entry id="camping_skill_effect_loot_TIME_COST_0"><![CDATA[{colour_start|attacktype}Durée : 0 {colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_TIME_COST_1"><![CDATA[{colour_start|attacktype}Durée : 1 {colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_TIME_COST_2"><![CDATA[{colour_start|attacktype}Durée : 2 {colour_end}]]></entry>
@@ -69,12 +69,12 @@
 {colour_start|notable}Virtue Chance:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br841a"><![CDATA[TODO:
 {colour_start|notable}Alternate Skill Information:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br841b"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_br841c"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_br841d"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_br841e"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_br841f"><![CDATA[TODO:]]></entry>
-<entry id="camping_skill_selection_br841g"><![CDATA[TODO:]]></entry>
+<entry id="camping_skill_selection_br841b"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_br841c"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_br841d"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_br841e"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_br841f"><![CDATA[]]></entry>
+<entry id="camping_skill_selection_br841g"><![CDATA[]]></entry>
 <entry id="camping_skill_selection_br911a"><![CDATA[TODO:
 {colour_start|notable}Unique Virtues:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br941a"><![CDATA[TODO:

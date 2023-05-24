@@ -1,8 +1,8 @@
-<entry id="str_ui_actor_dot_complete"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_actor_dot_complete"><![CDATA[]]></entry>
 <entry id="buff_rule_tooltip_in_mode"><![CDATA[TODO:%s]]></entry>
 <entry id="buff_rule_tooltip_in_mode_false"><![CDATA[TODO:%s]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_none_format"><![CDATA[TODO:%s]]></entry>
-<entry id="str_ui_actor_dot_complete"><![CDATA[TODO:]]></entry>
+<entry id="str_ui_actor_dot_complete"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERBLIGHT_TT"><![CDATA[TODO:{colour_start|white}ɽ{colour_end}{colour_start|amberblighted}Amberblight:{colour_end}  
 Triggers on Action]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERBLIGHT_TT2_1"><![CDATA[TODO:On Non-Killing Attack: {colour_start|debuff}Debuffs Self:{colour_end} -15%% DMG]]></entry>
