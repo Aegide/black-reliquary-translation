@@ -115,7 +115,7 @@ Réconfort divin]]></entry>
 <entry id="upgrade_tree_name_hellion.adrenaline_rush"><![CDATA[Montée d'adrénaline]]></entry>
 <entry id="upgrade_tree_name_hellion.bleed_out"><![CDATA[Vide-sang]]></entry>
 <entry id="combat_skill_name_bounty_hunter_collect_bounty"><![CDATA[Collecte de prime]]></entry>
-<entry id="combat_skill_name_bounty_hunter_target_tag"><![CDATA[Collecte de prime]]></entry>
+<entry id="combat_skill_name_bounty_hunter_target_tag"><![CDATA[Marque de mort]]></entry>
 <entry id="combat_skill_name_bounty_hunter_come_hither"><![CDATA[Viens plus près]]></entry>
 <entry id="combat_skill_name_bounty_hunter_uppercut"><![CDATA[Uppercut]]></entry>
 <entry id="combat_skill_name_bounty_hunter_flashbang"><![CDATA[Grenade aveuglante]]></entry>
@@ -129,9 +129,9 @@ Réconfort divin]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.flashbang"><![CDATA[Grenade aveuglante]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.finish_him"><![CDATA[Coup de grâce]]></entry>
 <entry id="upgrade_tree_name_bounty_hunter.hook_and_slice"><![CDATA[Mutilation]]></entry>
-<entry id="combat_skill_name_occultist_bloodlet"><![CDATA[TODO:Sacrificial Stab]]></entry>
-<entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[TODO:Abyssal Artillery]]></entry>
-<entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[TODO:Weakening Curse]]></entry>
+<entry id="combat_skill_name_occultist_bloodlet"><![CDATA[Poignard sacrificiel]]></entry>
+<entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[Artillerie abyssale]]></entry>
+<entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Malédiction affaiblissante]]></entry>
 <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
 Wyrd Reconstruction]]></entry>
 <entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[TODO:Vulnerability Hex]]></entry>
