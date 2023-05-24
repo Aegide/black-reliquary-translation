@@ -1,4 +1,4 @@
-<entry id="action_select_hero"><![CDATA[TODO:Drag a hero from the roster here.]]></entry>
+<entry id="action_select_hero"><![CDATA[Placez ici un héros depuis la liste des recrues.]]></entry>
 <entry id="activity_assign_attempt_fail"><![CDATA[TODO:ACTIVITY ASSIGN FAIL:]]></entry>
 <entry id="activity_assign_attempt_fail_has_quirk_format"><![CDATA[TODO:Hero has quirk: %s]]></entry>
 <entry id="activity_assign_attempt_fail_not_enough_currency"><![CDATA[TODO:Not enough currency]]></entry>
@@ -731,7 +731,7 @@
 <entry id="str_game_mode_select_radiant_tooltip"><![CDATA[TODO:Radiant campaigns, while still challenging, are adjusted to be faster and more forgiving than normal. Suggested for your first Darkest Dungeon experience.]]></entry>
 <entry id="str_gold"><![CDATA[pièces d'or]]></entry>
 <entry id="str_graveyard_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
-<entry id="str_graveyard_week_string"><![CDATA[TODO:Week %d]]></entry>
+<entry id="str_graveyard_week_string"><![CDATA[Semaine %d]]></entry>
 <entry id="str_guild_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
 <entry id="str_hero_already_recruited"><![CDATA[TODO:Invalid Hero]]></entry>
 <entry id="str_hero_already_recruited_ok"><![CDATA[OK]]></entry>
