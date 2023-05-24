@@ -4628,7 +4628,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_weak"><![CDATA[Faible]]></entry>
 <entry id="str_quirk_name_blacksmith"><![CDATA[Forgeron]]></entry>
 <entry id="str_quirk_name_fast_learner"><![CDATA[Apprend vite]]></entry>
-<entry id="str_quirk_name_lounger"><![CDATA[TODO:Lounger]]></entry>
+<entry id="str_quirk_name_lounger"><![CDATA[Sociable]]></entry>
 <entry id="str_quirk_name_undaunted"><![CDATA[TODO:Undaunted]]></entry>
 <entry id="str_quirk_name_unsubtle"><![CDATA[Bruyant]]></entry>
 <entry id="str_quirk_name_sneaky"><![CDATA[Discrétion]]></entry>
@@ -4695,14 +4695,14 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_glass_jaw"><![CDATA[TODO:Glass Jaw]]></entry>
 <entry id="str_quirk_name_den_addict"><![CDATA[Addicte à l'ambre]]></entry>
 <entry id="str_quirk_name_archaeomania"><![CDATA[Archéomanie]]></entry>
-<entry id="str_quirk_name_amber_hoarder"><![CDATA[TODO:Amber Hoarder]]></entry>
+<entry id="str_quirk_name_amber_hoarder"><![CDATA[Voleur d'ambre]]></entry>
 <entry id="str_quirk_name_hagiomania"><![CDATA[Hagiomanie]]></entry>
 <entry id="str_quirk_name_thieving_habits"><![CDATA[Voleur]]></entry>
-<entry id="str_quirk_name_amber_symbiosis"><![CDATA[TODO:Amber Symbiosis]]></entry>
+<entry id="str_quirk_name_amber_symbiosis"><![CDATA[Amour de l'ambre]]></entry>
 <entry id="str_quirk_name_necromania"><![CDATA[Passion macabre]]></entry>
 <entry id="str_quirk_name_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
 <entry id="str_quirk_name_survivor"><![CDATA[Débrouillardise]]></entry> 
-<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[TODO:Contraband Collector]]></entry> 
+<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Contrebandier]]></entry> 
 <entry id="str_quirk_name_penitent"><![CDATA[Pénitence]]></entry>
 <entry id="str_quirk_name_ritualist"><![CDATA[Ritualiste]]></entry>
 <entry id="str_quirk_name_mystic"><![CDATA[Mystique]]></entry>
@@ -4713,7 +4713,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_intercessor"><![CDATA[TODO:Intercessor]]></entry>
 <entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
 <entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
-<entry id="str_quirk_name_overzealous"><![CDATA[Zélé]]></entry>
+<entry id="str_quirk_name_overzealous"><![CDATA[Zèle]]></entry>
 <entry id="str_quirk_name_profane"><![CDATA[Profane]]></entry>
 <entry id="str_quirk_name_life_fruit"><![CDATA[TODO:LIFE_FRUIT]]></entry>
 <entry id="str_quirk_description_alcoholism"><![CDATA[TODO:Will only Drink for stress recovery
