@@ -231,8 +231,8 @@ Check back after your next quest.]]></entry>
 <entry id="upgrade_tree_name_blacksmith.cost"><![CDATA[TODO:Furnace]]></entry>
 <entry id="upgrade_tree_name_blacksmith.weapon"><![CDATA[TODO:Weaponsmithing]]></entry>
 <entry id="upgrade_tree_name_camping_trainer.cost"><![CDATA[TODO:Field Guides]]></entry>
-<entry id="upgrade_tree_name_guild.cost"><![CDATA[TODO:Training Regimen]]></entry>
-<entry id="upgrade_tree_name_guild.skill_levels"><![CDATA[TODO:Instructor Mastery]]></entry>
+<entry id="upgrade_tree_name_guild.cost"><![CDATA[Régime d'entraînement]]></entry>
+<entry id="upgrade_tree_name_guild.skill_levels"><![CDATA[Formation]]></entry>
 <entry id="upgrade_tree_name_nomad_wagon.cost"><![CDATA[TODO:Discerning Eye]]></entry>
 <entry id="upgrade_tree_name_nomad_wagon.numitems"><![CDATA[TODO:Improved Stock]]></entry>
 <entry id="upgrade_tree_name_nomad_wagon.appraisal"><![CDATA[TODO:Brokery]]></entry>
