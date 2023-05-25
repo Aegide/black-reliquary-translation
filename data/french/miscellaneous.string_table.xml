@@ -127,7 +127,7 @@
 <entry id="buff_stat_tooltip_stun_chance"><![CDATA[TODO:%+d%% {colour_start|stun}Stun{colour_end} Skill Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_armour"><![CDATA[TODO:%-d%% Armor Upgrade Cost]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_weapon"><![CDATA[TODO:%-d%% Weapon Upgrade Cost]]></entry>
-<entry id="building_upgrade_title"><![CDATA[Amélioration]]></entry>
+<entry id="building_upgrade_title"><![CDATA[Amélioration ]]></entry>
 <entry id="camping_respite_description"><![CDATA[TODO:Use Camping skills to bolster your party's physical and mental health.]]></entry>
 <entry id="camping_respite_rest"><![CDATA[REPOS]]></entry>
 <entry id="camping_respite_title"><![CDATA[Répit]]></entry>

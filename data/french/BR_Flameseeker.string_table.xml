@@ -224,27 +224,27 @@ Check back after your next quest.]]></entry>
 <entry id="upgrade_tag_name_building"><![CDATA[TODO:Building]]></entry>
 <entry id="upgrade_tag_name_trinket"><![CDATA[TODO:Normal Trinkets]]></entry>
 <entry id="upgrade_tag_name_weapon"><![CDATA[TODO:Weapon]]></entry>
-<entry id="upgrade_tree_name_abbey.flagellation"><![CDATA[TODO:Amber Den]]></entry>
-<entry id="upgrade_tree_name_abbey.meditation"><![CDATA[TODO:Refinement Technique]]></entry>
-<entry id="upgrade_tree_name_abbey.prayer"><![CDATA[TODO:Exchange Upgrades]]></entry>
-<entry id="upgrade_tree_name_blacksmith.armour"><![CDATA[TODO:Armorsmithing]]></entry>
-<entry id="upgrade_tree_name_blacksmith.cost"><![CDATA[TODO:Furnace]]></entry>
-<entry id="upgrade_tree_name_blacksmith.weapon"><![CDATA[TODO:Weaponsmithing]]></entry>
-<entry id="upgrade_tree_name_camping_trainer.cost"><![CDATA[TODO:Field Guides]]></entry>
+<entry id="upgrade_tree_name_abbey.flagellation"><![CDATA[Repaire]]></entry>
+<entry id="upgrade_tree_name_abbey.meditation"><![CDATA[Raffinerie]]></entry>
+<entry id="upgrade_tree_name_abbey.prayer"><![CDATA[Marché]]></entry>
+<entry id="upgrade_tree_name_blacksmith.armour"><![CDATA[Forge d'armures]]></entry>
+<entry id="upgrade_tree_name_blacksmith.cost"><![CDATA[Fourneau]]></entry>
+<entry id="upgrade_tree_name_blacksmith.weapon"><![CDATA[Forge d'armes]]></entry>
+<entry id="upgrade_tree_name_camping_trainer.cost"><![CDATA[Manuels de survie]]></entry>
 <entry id="upgrade_tree_name_guild.cost"><![CDATA[Régime d'entraînement]]></entry>
 <entry id="upgrade_tree_name_guild.skill_levels"><![CDATA[Formation]]></entry>
 <entry id="upgrade_tree_name_nomad_wagon.cost"><![CDATA[TODO:Discerning Eye]]></entry>
 <entry id="upgrade_tree_name_nomad_wagon.numitems"><![CDATA[TODO:Improved Stock]]></entry>
-<entry id="upgrade_tree_name_nomad_wagon.appraisal"><![CDATA[TODO:Brokery]]></entry>
-<entry id="upgrade_tree_name_sanitarium.cost"><![CDATA[TODO:Treatment Library]]></entry>
-<entry id="upgrade_tree_name_sanitarium.disease_quirk_cost"><![CDATA[TODO:Medical Devices]]></entry>
-<entry id="upgrade_tree_name_sanitarium.slots"><![CDATA[TODO:Patient Cells]]></entry>
-<entry id="upgrade_tree_name_stage_coach.numrecruits"><![CDATA[TODO:Sails & Cabin]]></entry>
-<entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[TODO:Crew Accommodations]]></entry>
-<entry id="upgrade_tree_name_stage_coach.upgraded_recruits"><![CDATA[TODO:Experienced Recruits]]></entry>
-<entry id="upgrade_tree_name_tavern.bar"><![CDATA[TODO:Bar]]></entry>
-<entry id="upgrade_tree_name_tavern.brothel"><![CDATA[TODO:Fighting Pit]]></entry>
-<entry id="upgrade_tree_name_tavern.gambling"><![CDATA[TODO:Gambling]]></entry>
+<entry id="upgrade_tree_name_nomad_wagon.appraisal"><![CDATA[Rareté]]></entry>
+<entry id="upgrade_tree_name_sanitarium.cost"><![CDATA[Bibliothèque médicale]]></entry>
+<entry id="upgrade_tree_name_sanitarium.disease_quirk_cost"><![CDATA[Dispositifs médicaux]]></entry>
+<entry id="upgrade_tree_name_sanitarium.slots"><![CDATA[Cellules des patients]]></entry>
+<entry id="upgrade_tree_name_stage_coach.numrecruits"><![CDATA[Voiles & Cabines]]></entry>
+<entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[Hébergements]]></entry>
+<entry id="upgrade_tree_name_stage_coach.upgraded_recruits"><![CDATA[Recrues expérimentées]]></entry>
+<entry id="upgrade_tree_name_tavern.bar"><![CDATA[Bar]]></entry>
+<entry id="upgrade_tree_name_tavern.brothel"><![CDATA[Arène]]></entry>
+<entry id="upgrade_tree_name_tavern.gambling"><![CDATA[Salle de jeux]]></entry>
 <entry id="upgrade_tree_tooltip_description_abbey.flagellation"><![CDATA[TODO:Improves the den facilities.
 {colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
 Gain Stress Buff - 50% ]]></entry>
@@ -273,7 +273,7 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[Améliore la réduction du stress]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[Des héros de niveau %d apparaîtront parfois dans le ferry]]></entry>
 <entry id="upgrade_tree_tooltip_description_nomad_wagon.cost"><![CDATA[Réduit le prix des breloques]]></entry>
-<entry id="upgrade_tree_tooltip_description_nomad_wagon.numitems"><![CDATA[Augmente le nombre de breloques disponibles sur le marché noir]]></entry>
+<entry id="upgrade_tree_tooltip_description_nomad_wagon.numitems"><![CDATA[Augmente le nombre de breloques disponibles]]></entry>
 <entry id="upgrade_tree_tooltip_description_nomad_wagon.appraisal"><![CDATA[Taux d'apparition :
 {colour_start|common}Commune{colour_end} - 40% 
 {colour_start|uncommon}Peu commune{colour_end} - 30% 
@@ -292,9 +292,9 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_sanitarium.cost"><![CDATA[TODO:Reduces the cost of Clinic quirk treatments.]]></entry>
 <entry id="upgrade_tree_tooltip_description_sanitarium.disease_quirk_cost"><![CDATA[TODO:Reduces the cost of Clinic disease treatments.]]></entry>
 <entry id="upgrade_tree_tooltip_description_sanitarium.slots"><![CDATA[TODO:Increases the number of Clinic treatment slots.]]></entry>
-<entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[TODO:Increases the number of recruits available for hire. The change will take effect after you return from your next quest.]]></entry>
-<entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[TODO:Increases the size of the hero roster.]]></entry>
-<entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[TODO:Provides a chance of higher level recruits appearing in the Ferry.]]></entry>
+<entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Accroît le nombre de recrues disponibles Ce changement prendra effet après la prochaine quête]]></entry>
+<entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Augmente la capacité de votre liste de recrues]]></entry>
+<entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Octroie une chance au ferry de de proposer des recrues plus expérimentées]]></entry>
 <entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[TODO:Improves the bar facilities.
 {colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
 Gain Buff - 7.5% 
