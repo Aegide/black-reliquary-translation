@@ -110,11 +110,11 @@
 <entry id="building_verbose_graveyard"><![CDATA[TODO:The Funeral Site cannot be upgraded.]]></entry>
 <entry id="building_verbose_guild"><![CDATA[TODO:Upgrading the Training Hall allows for training of advanced ranks in hero skills.]]></entry>
 <entry id="building_verbose_nomad_wagon"><![CDATA[TODO:Upgrading the Oddities Dealer improves the trinket purchase selection and reduces their cost.]]></entry>
-<entry id="building_verbose_sanitarium"><![CDATA[TODO:Upgrading the Clinic allows for more quirk treatment slots and reduces treatment cost.]]></entry>
-<entry id="building_verbose_stage_coach"><![CDATA[TODO:Upgrading the Ferry increases the available heroes for hire each week or increases your roster size.]]></entry>
-<entry id="building_verbose_tavern"><![CDATA[TODO:Upgrading the Galley increases the types of stress treatments and their effectiveness.]]></entry>
-<entry id="stagecoach_empty_info"><![CDATA[TODO:The Ferry is empty.
-Check back after your next quest.]]></entry>
+<entry id="building_verbose_sanitarium"><![CDATA[Améliorer la clinique accroît le nombre de places disponibles et réduit les prix.]]></entry>
+<entry id="building_verbose_stage_coach"><![CDATA[Améliorer le ferry accroît le nombre de héros disponibles chaque semaine ou la taille de la liste de recrues.]]></entry>
+<entry id="building_verbose_tavern"><![CDATA[Améliorer la taverne accroît le nombre de méthodes de traitement du stress et leur efficacité.]]></entry>
+<entry id="stagecoach_empty_info"><![CDATA[Le ferry est vide.
+Revenez après votre prochaine quête.]]></entry>
 <entry id="str_caretaker_goals_heading"><![CDATA[TODO:Crew Directives]]></entry>
 <entry id="town_quest_difficulty_1"><![CDATA[{colour_start|new_apprentice}Novice (Niv. 1){colour_end}]]></entry>
 <entry id="town_quest_difficulty_3"><![CDATA[{colour_start|new_veteran}Vétéran (Niv. 3){colour_end}]]></entry>
