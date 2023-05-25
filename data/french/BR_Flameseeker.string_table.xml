@@ -280,18 +280,18 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 {colour_start|rare}Rare{colour_end} - 20% 
 {colour_start|very_rare}Très rare{colour_end} - 9% 
 {colour_start|nomad}Chasseur de la Flamme{colour_end} - 1% ]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_chance_of_negative_side_effects"><![CDATA[TODO:Reduces chance of side effects]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_cost_of_camping_skills_format"><![CDATA[TODO:Reduces cost of training Camping skills by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_cost_of_combat_skill_upgrades_format"><![CDATA[TODO:Reduces cost of skill training by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_cost_of_items_format"><![CDATA[TODO:Reduces trinket cost by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_cost_of_weapon_and_armour_upgrades_format"><![CDATA[TODO:Reduces cost of weapon and armor upgrades by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_disease_quirk_treatment_cost_format"><![CDATA[TODO:Reduces disease treatment cost by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_negative_quirk_treatment_cost_format"><![CDATA[TODO:Reduces negative quirk treatment cost by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_positive_quirk_treatment_cost_format"><![CDATA[TODO:Reduces positive quirk treatment cost by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_reduces_treatment_cost_format"><![CDATA[TODO:Reduces treatment cost by %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_sanitarium.cost"><![CDATA[TODO:Reduces the cost of Clinic quirk treatments.]]></entry>
-<entry id="upgrade_tree_tooltip_description_sanitarium.disease_quirk_cost"><![CDATA[TODO:Reduces the cost of Clinic disease treatments.]]></entry>
-<entry id="upgrade_tree_tooltip_description_sanitarium.slots"><![CDATA[TODO:Increases the number of Clinic treatment slots.]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_chance_of_negative_side_effects"><![CDATA[Réduit les probabilités d'effets secondaires]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_cost_of_camping_skills_format"><![CDATA[Réduit de %d%% le coût des compétences de campement]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_cost_of_combat_skill_upgrades_format"><![CDATA[Réduit de %d%% le coût des compétences]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_cost_of_items_format"><![CDATA[Réduit de %d%% le prix des breloques]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_cost_of_weapon_and_armour_upgrades_format"><![CDATA[Réduit de %d%% le coût d'amélioration des armes et armures]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_disease_quirk_treatment_cost_format"><![CDATA[Réduit de %d%% le coût du traitement de maladie]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_negative_quirk_treatment_cost_format"><![CDATA[Réduit de %d%% le coût du traitement d'attribut négatif]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_positive_quirk_treatment_cost_format"><![CDATA[Réduit de %d%% le coût du traitement d'attribut positif]]></entry>
+<entry id="upgrade_tree_tooltip_description_reduces_treatment_cost_format"><![CDATA[Réduit de %d%% le coût des traitements]]></entry>
+<entry id="upgrade_tree_tooltip_description_sanitarium.cost"><![CDATA[Réduit le coût de traitement des attributs à la clinique]]></entry>
+<entry id="upgrade_tree_tooltip_description_sanitarium.disease_quirk_cost"><![CDATA[Réduit le coût de traitement des maladies au sanatorium]]></entry>
+<entry id="upgrade_tree_tooltip_description_sanitarium.slots"><![CDATA[Accroît le nombre de places à la clinique]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Accroît le nombre de recrues disponibles Ce changement prendra effet après la prochaine quête]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Augmente la capacité de votre liste de recrues]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Octroie une chance au ferry de de proposer des recrues plus expérimentées]]></entry>
