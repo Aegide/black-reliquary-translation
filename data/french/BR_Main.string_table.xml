@@ -840,7 +840,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_inventory_description_heirloomdeed"><![CDATA[TODO:A mystical substance flowing from the Reliquary into the valley.]]></entry>
 <entry id="str_inventory_description_heirloomportrait"><![CDATA[TODO:There is something odd about this beautiful jewelry...]]></entry>
 <entry id="str_inventory_description_shard"><![CDATA[TODO:Carefully extracted and ground into a fine powder, this refined luxury is worth its weight in gold...]]></entry>
-<entry id="town_name_heirloom_exchange"><![CDATA[TODO:Trade Relics]]></entry>
+<entry id="town_name_heirloom_exchange"><![CDATA[Échange de reliques]]></entry>
 <entry id="town_estate_bar_tooltip_bust"><![CDATA[TODO:Matakh: %d (Used to upgrade airship facilities.)]]></entry>
 <entry id="town_estate_bar_tooltip_crest"><![CDATA[TODO:Valor Mark: %d (Used to upgrade airship facilities.)]]></entry>
 <entry id="town_estate_bar_tooltip_deed"><![CDATA[TODO:Amber: %d (Used to upgrade airship facilities.)]]></entry>
