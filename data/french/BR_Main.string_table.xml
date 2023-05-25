@@ -572,7 +572,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_5"><![CDATA[TODO:A type of provision used to remove Blight. Antivenom ignores Blight Cure Received Chance debuffs. It also has uses on many dungeon curios.]]></entry>
 <entry id="str_glossary_term_6"><![CDATA[TODO:Armor]]></entry>
 <entry id="str_glossary_term_definition_6"><![CDATA[TODO:A hero's armor determines their base DODGE and MAX HP. Armor can be upgraded at the Blacksmith.]]></entry>
-<entry id="str_glossary_term_7"><![CDATA[TODO:Bandage]]></entry>
+<entry id="str_glossary_term_7"><![CDATA[Bandage]]></entry>
 <entry id="str_glossary_term_definition_7"><![CDATA[TODO:A type of provision used to remove Bleed. Bandages ignores Bleed Cure Received Chance debuffs. It also has uses on many dungeon curios.]]></entry>
 <entry id="str_glossary_term_8"><![CDATA[Saignement]]></entry>
 <entry id="str_glossary_term_definition_8"><![CDATA[TODO:Heroes or enemies with Bleed take damage each combat round or hallway step. It will eventually go away but can be cured early with bandages, combat skills, and Camping skills.]]></entry>
@@ -650,7 +650,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_44"><![CDATA[TODO:The collection of all the player's hired heroes.]]></entry>
 <entry id="str_glossary_term_45"><![CDATA[TODO:Shovel]]></entry>
 <entry id="str_glossary_term_definition_45"><![CDATA[TODO:A type of provision. Used to clear obstacles to prevent taking DMG and stress.]]></entry>
-<entry id="str_glossary_term_46"><![CDATA[TODO:Skeleton Key]]></entry>
+<entry id="str_glossary_term_46"><![CDATA[Passe-partout]]></entry>
 <entry id="str_glossary_term_definition_46"><![CDATA[TODO:A type of provision used on curios in dungeons.]]></entry>
 <entry id="str_glossary_term_47"><![CDATA[TODO:SPD]]></entry>
 <entry id="str_glossary_term_definition_47"><![CDATA[TODO:Short for "speed". Speed influences the order in which combatants act. Initiative is re-rolled each round per combatant. Base value is 1-12, plus modifiers.]]></entry>
@@ -830,7 +830,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Exposed Interior has been unlocked.]]></entry>
 <entry id="bonus_currency_name_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
-<entry id="str_inventory_title_heirloombust"><![CDATA[TODO:{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
+<entry id="str_inventory_title_heirloombust"><![CDATA[{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomcrest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[TODO:{colour_start|BR_heirloom}Salvaged Jewelry{colour_end}]]></entry>
@@ -1449,14 +1449,14 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_inventory_title_supplyhoning_oil"><![CDATA[Huile d'affûtage]]></entry>
 <entry id="str_inventory_description_supplyhoning_oil"><![CDATA[TODO:This oil brings edges to a razor-sharpness while applied.]]></entry>
 <entry id="buff_rule_data_tooltip_honing_oil"><![CDATA[Huile d'affûtage]]></entry>
-<entry id="buff_rule_data_tooltip_bandage"><![CDATA[TODO:Bandage]]></entry>
+<entry id="buff_rule_data_tooltip_bandage"><![CDATA[Bandage]]></entry>
 <entry id="buff_rule_data_tooltip_antivenom"><![CDATA[TODO:Antivenom]]></entry>
-<entry id="str_inventory_title_supplyarch_kit"><![CDATA[TODO:Archaeology Kit]]></entry>
+<entry id="str_inventory_title_supplyarch_kit"><![CDATA[Kit archéologique]]></entry>
 <entry id="str_inventory_description_supplyarch_kit"><![CDATA[TODO:A set of tools for the purposes of carefully unearthing and revealing lost artifacts.]]></entry>
-<entry id="buff_rule_data_tooltip_arch_kit"><![CDATA[TODO:Archaeology Kit]]></entry>
-<entry id="str_inventory_title_supplydisease_kit"><![CDATA[TODO:Disease Kit]]></entry>
+<entry id="buff_rule_data_tooltip_arch_kit"><![CDATA[Kit archéologique]]></entry>
+<entry id="str_inventory_title_supplydisease_kit"><![CDATA[Trousse médicinale]]></entry>
 <entry id="str_inventory_description_supplydisease_kit"><![CDATA[TODO:A set of herbs, medicines, and tools used to tend symptoms and stabilize diseases.]]></entry>
-<entry id="buff_rule_data_tooltip_disease_kit"><![CDATA[TODO:Disease Kit]]></entry>
+<entry id="buff_rule_data_tooltip_disease_kit"><![CDATA[Trousse médicinale]]></entry>
 <entry id="str_inventory_title_supplyamber_residue"><![CDATA[TODO:Amber Residue]]></entry>
 <entry id="str_inventory_description_supplyamber_residue"><![CDATA[TODO:A congealed amber slurry.
 {colour_start|skill_unselectable}{colour_start|buff}Buff Target:{colour_end} +10% DMG, +5% CRT, +10% Damage Taken (1 Battle)
@@ -1492,7 +1492,7 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_order_of_honor"><![CDATA[TODO:Order of Honor]]></entry>
 <entry id="str_inventory_title_estatelife_fruit"><![CDATA[TODO:LIFE FRUIT]]></entry>
 <entry id="str_inventory_description_estatelife_fruit"><![CDATA[TODO: {colour_start|skill_unselectable}(Self: Grants LIFE FRUIT Quirk){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_life_fruit"><![CDATA[TODO:Disease Kit]]></entry>
+<entry id="buff_rule_data_tooltip_life_fruit"><![CDATA[Trousse médicinale]]></entry>
 <entry id="str_inventory_title_estateCurioStresshealPagans"><![CDATA[TODO:IF YOU SEE THIS SOMETHING IS WRONG]]></entry>
 <entry id="str_inventory_description_estateCurioStresshealPagans"><![CDATA[TODO:IF YOU SEE THIS SOMETHING IS WRONG]]></entry>
 <entry id="str_inventory_title_heirloomblueprint"><![CDATA[TODO:{colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
@@ -4140,10 +4140,10 @@ Offensive buffs are halved ]]></entry>
 <entry id="combat_skill_name_grave_robber_bash"><![CDATA[TODO:Shovel Bash]]></entry>
 <entry id="upgrade_tree_name_grave_robber.bash"><![CDATA[TODO:Shovel Bash]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_COOLDOWN"><![CDATA[TODO:Shadow Fade on Cooldown]]></entry>
-<entry id="camping_skill_effect_loot_SHOVELONLY"><![CDATA[TODO:Produce a Shovel]]></entry> 
-<entry id="camping_skill_effect_loot_DISEASEKITONLY"><![CDATA[TODO:Produce a Disease Kit]]></entry>
-<entry id="camping_skill_effect_loot_DISEASEKIT2"><![CDATA[TODO:Produce 2 Disease Kits]]></entry>
-<entry id="camping_skill_effect_loot_HMDOGTREATS"><![CDATA[TODO:Produce 2 Dog Treats]]></entry>
+<entry id="camping_skill_effect_loot_SHOVELONLY"><![CDATA[Produit une pelle]]></entry> 
+<entry id="camping_skill_effect_loot_DISEASEKITONLY"><![CDATA[Produit une trousse médicinale]]></entry>
+<entry id="camping_skill_effect_loot_DISEASEKIT2"><![CDATA[Produit 2 trousses médicinales]]></entry>
+<entry id="camping_skill_effect_loot_HMDOGTREATS"><![CDATA[Produit 2 biscuits pour chien]]></entry>
 <entry id="combat_skill_name_occultist_amber_curse"><![CDATA[TODO:Amber Curse]]></entry>
 <entry id="upgrade_tree_name_occultist.amber_curse"><![CDATA[TODO:Amber Curse]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCCULTIST_HEAL_VS_PAGAN_TT"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Done if Target is {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>

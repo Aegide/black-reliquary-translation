@@ -186,36 +186,36 @@ Mode persists after combat end]]></entry>
 <entry id="camping_skill_effect_loot_PD_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +20% {colour_start|blight}Blight{colour_end} Chance]]></entry>
 <entry id="camping_skill_effect_loot_SB_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +15% PROT]]></entry>
 <entry id="camping_skill_effect_loot_VES_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +25% {colour_start|healhp}Healing{colour_end} Skills]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_KEY"><![CDATA[TODO:1 Skeleton Key]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_ARCH"><![CDATA[TODO:1 Archaeology Kit]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_SHOVEL"><![CDATA[TODO:1 Shovel]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_BANDAGE"><![CDATA[TODO:1 Bandage]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_TREAT"><![CDATA[TODO:2 Dog Treats]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_VIRTUE_CHECK_TT"><![CDATA[TODO:Base 15%]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_1"><![CDATA[TODO:{colour_start|move}Forward{colour_end} 1]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_2"><![CDATA[TODO:{colour_start|move}Forward{colour_end} 2]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_3"><![CDATA[TODO:{colour_start|move}Forward{colour_end} 3]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_0"><![CDATA[TODO:{colour_start|move}Back{colour_end} 1]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_1"><![CDATA[TODO:{colour_start|move}Back{colour_end} 1
-{colour_start|move}Forward{colour_end} 1]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_2"><![CDATA[TODO:{colour_start|move}Back{colour_end} 1
-{colour_start|move}Forward{colour_end} 2]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_3"><![CDATA[TODO:{colour_start|move}Back{colour_end} 1
-{colour_start|move}Forward{colour_end} 3]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_0"><![CDATA[TODO:{colour_start|move}Back{colour_end} 2]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_1"><![CDATA[TODO:{colour_start|move}Back{colour_end} 2
-{colour_start|move}Forward{colour_end} 1]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_2"><![CDATA[TODO:{colour_start|move}Back{colour_end} 2
-{colour_start|move}Forward{colour_end} 2]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_3"><![CDATA[TODO:{colour_start|move}Back{colour_end} 2
-{colour_start|move}Forward{colour_end} 3]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_0"><![CDATA[TODO:{colour_start|move}Back{colour_end} 3]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_1"><![CDATA[TODO:{colour_start|move}Back{colour_end} 3
-{colour_start|move}Forward{colour_end} 1]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_2"><![CDATA[TODO:{colour_start|move}Back{colour_end} 3
-{colour_start|move}Forward{colour_end} 2]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_3"><![CDATA[TODO:{colour_start|move}Back{colour_end} 3
-{colour_start|move}Forward{colour_end} 3]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_KEY"><![CDATA[1 Passe-partout]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_ARCH"><![CDATA[1 Kit archéologique]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_SHOVEL"><![CDATA[1 Pelle]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_BANDAGE"><![CDATA[1 Bandage]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_TREAT"><![CDATA[2 Biscuits pour chien]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_VIRTUE_CHECK_TT"><![CDATA[15% de base]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_1"><![CDATA[{colour_start|move}Avancée{colour_end} 1]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_2"><![CDATA[{colour_start|move}Avancée{colour_end} 2]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_0_3"><![CDATA[{colour_start|move}Avancée{colour_end} 3]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_0"><![CDATA[{colour_start|move}Recul{colour_end} 1]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_1"><![CDATA[{colour_start|move}Recul{colour_end} 1
+{colour_start|move}Avancée{colour_end} 1]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_2"><![CDATA[{colour_start|move}Recul{colour_end} 1
+{colour_start|move}Avancée{colour_end} 2]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_1_3"><![CDATA[{colour_start|move}Recul{colour_end} 1
+{colour_start|move}Avancée{colour_end} 3]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_0"><![CDATA[{colour_start|move}Recul{colour_end} 2]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_1"><![CDATA[{colour_start|move}Recul{colour_end} 2
+{colour_start|move}Avancée{colour_end} 1]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_2"><![CDATA[{colour_start|move}Recul{colour_end} 2
+{colour_start|move}Avancée{colour_end} 2]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_2_3"><![CDATA[{colour_start|move}Recul{colour_end} 2
+{colour_start|move}Avancée{colour_end} 3]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_0"><![CDATA[{colour_start|move}Recul{colour_end} 3]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_1"><![CDATA[{colour_start|move}Recul{colour_end} 3
+{colour_start|move}Avancée{colour_end} 1]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_2"><![CDATA[{colour_start|move}Recul{colour_end} 3
+{colour_start|move}Avancée{colour_end} 2]]></entry>	
+<entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_3"><![CDATA[{colour_start|move}Recul{colour_end} 3
+{colour_start|move}Avancée{colour_end} 3]]></entry>	
 <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_FAITHLESS"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_PAGAN"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_RELIGIOUS"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
