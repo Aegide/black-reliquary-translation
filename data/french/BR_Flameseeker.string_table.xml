@@ -252,34 +252,34 @@ Gain Stress Buff - 50% ]]></entry>
 Base Yield: 5-7 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[TODO:Improve our bargaining power with the Rot Hering Co.
 Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
-<entry id="upgrade_tree_tooltip_description_allows_armour_upgrades_of_rank_format"><![CDATA[TODO:Allows armor upgrades to rank %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_allows_combat_skill_upgrades_of_rank_format"><![CDATA[TODO:Allows skill upgrades to rank %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_allows_weapon_upgrades_of_rank_format"><![CDATA[TODO:Allows weapon upgrades to rank %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_blacksmith.armour"><![CDATA[TODO:Allows upgrading hero armor to higher ranks.]]></entry>
-<entry id="upgrade_tree_tooltip_description_blacksmith.cost"><![CDATA[TODO:Reduces cost of hero weapon and armor upgrades.]]></entry>
-<entry id="upgrade_tree_tooltip_description_blacksmith.weapon"><![CDATA[TODO:Allows upgrading hero weapons to higher ranks.]]></entry>
-<entry id="upgrade_tree_tooltip_description_camping_trainer.cost"><![CDATA[TODO:Reduces the cost of Camping skill purchases.]]></entry>
-<entry id="upgrade_tree_tooltip_description_disease_cure_all_chance_format"><![CDATA[TODO:Increase chances to cure all diseases to %d%%]]></entry>
-<entry id="upgrade_tree_tooltip_description_guild.cost"><![CDATA[TODO:Reduces cost of upgrading hero skills.]]></entry>
-<entry id="upgrade_tree_tooltip_description_guild.skill_levels"><![CDATA[TODO:Allows upgrading hero combat skills to higher ranks.]]></entry>
+<entry id="upgrade_tree_tooltip_description_allows_armour_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armures jusqu'au rang %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_allows_combat_skill_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les compétences jusqu'au rang %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_allows_weapon_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armes jusqu'au rang %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_blacksmith.armour"><![CDATA[Permet d'améliorer les armures des héros aux rangs supérieurs]]></entry>
+<entry id="upgrade_tree_tooltip_description_blacksmith.cost"><![CDATA[Réduit le coût d'amélioration des armes et armures]]></entry>
+<entry id="upgrade_tree_tooltip_description_blacksmith.weapon"><![CDATA[Permet d'améliorer les armes des héros aux rangs supérieurs]]></entry>
+<entry id="upgrade_tree_tooltip_description_camping_trainer.cost"><![CDATA[Réduit le coût des compétences de campement]]></entry>
+<entry id="upgrade_tree_tooltip_description_disease_cure_all_chance_format"><![CDATA[Fixe à %d%% les chances de soigner toutes les maladies]]></entry>
+<entry id="upgrade_tree_tooltip_description_guild.cost"><![CDATA[Réduit le coût d'amélioration des compétences]]></entry>
+<entry id="upgrade_tree_tooltip_description_guild.skill_levels"><![CDATA[Permet d'améliorer les compétences de combat aux rangs supérieurs]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_chance_of_affliction_cure"><![CDATA[TODO:Chance to yield up to 2 additional resources.]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_extra_disease_cure_format"><![CDATA[TODO:Increases chance of curing extra diseases.]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_disease_slots_format"><![CDATA[TODO:Increases number of medical ward slots to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_heroes_generated_format"><![CDATA[TODO:Increases number of available heroes to %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_extra_disease_cure_format"><![CDATA[Augmente les chances de soigner des maladies supplémentaires]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_disease_slots_format"><![CDATA[Fixe à %d le nombre de places dans la branche médicale]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_heroes_generated_format"><![CDATA[Fixe à %d le nombre de héros disponibles]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_items_generated_format"><![CDATA[TODO:Increases number of trinkets available to %d]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_quirk_slots_format"><![CDATA[TODO:Increases number of treatment ward slots to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[TODO:Increases number of slots to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[TODO:Increases size of roster to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[TODO:Increases stress recovery]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[TODO:Heroes of Resolve Level %d will sometimes appear in the Ferry.]]></entry>
-<entry id="upgrade_tree_tooltip_description_nomad_wagon.cost"><![CDATA[TODO:Reduces the cost of trinket purchases.]]></entry>
-<entry id="upgrade_tree_tooltip_description_nomad_wagon.numitems"><![CDATA[TODO:Increases the number of available trinkets at the Oddities Dealer.]]></entry>
-<entry id="upgrade_tree_tooltip_description_nomad_wagon.appraisal"><![CDATA[TODO:Rarity Spawn Chance:
-{colour_start|common}Common{colour_end} - 40% 
-{colour_start|uncommon}Uncommon{colour_end} - 30% 
+<entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Fixe à %d le nombre de breloques disponibles]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[Fixe à %d la capacité de la liste de recrues]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[Améliore la réduction du stress]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[Des héros de niveau %d apparaîtront parfois dans le ferry]]></entry>
+<entry id="upgrade_tree_tooltip_description_nomad_wagon.cost"><![CDATA[Réduit le prix des breloques]]></entry>
+<entry id="upgrade_tree_tooltip_description_nomad_wagon.numitems"><![CDATA[Augmente le nombre de breloques disponibles sur le marché noir]]></entry>
+<entry id="upgrade_tree_tooltip_description_nomad_wagon.appraisal"><![CDATA[Taux d'apparition :
+{colour_start|common}Commune{colour_end} - 40% 
+{colour_start|uncommon}Peu commune{colour_end} - 30% 
 {colour_start|rare}Rare{colour_end} - 20% 
-{colour_start|very_rare}Very Rare{colour_end} - 9% 
-{colour_start|nomad}Nomad{colour_end} - 1% ]]></entry>
+{colour_start|very_rare}Très rare{colour_end} - 9% 
+{colour_start|nomad}Chasseur de la Flamme{colour_end} - 1% ]]></entry>
 <entry id="upgrade_tree_tooltip_description_reduces_chance_of_negative_side_effects"><![CDATA[TODO:Reduces chance of side effects]]></entry>
 <entry id="upgrade_tree_tooltip_description_reduces_cost_of_camping_skills_format"><![CDATA[TODO:Reduces cost of training Camping skills by %d%%]]></entry>
 <entry id="upgrade_tree_tooltip_description_reduces_cost_of_combat_skill_upgrades_format"><![CDATA[TODO:Reduces cost of skill training by %d%%]]></entry>
