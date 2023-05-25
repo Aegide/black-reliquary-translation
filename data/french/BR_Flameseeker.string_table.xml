@@ -315,14 +315,14 @@ Gain Gold - 10%
 Gain Trinket - 5% 
 Chance to Lose Gold - 20% 
 Chance Stay in Activity - 15% ]]></entry>
-<entry id="str_empty_hero_slot_action"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_bar"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_brothel"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_flagellation"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_gambling"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_meditation"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_prayer"><![CDATA[TODO:Drag a hero here.]]></entry>
-<entry id="str_empty_hero_slot_treatment"><![CDATA[TODO:Drag a hero here.]]></entry>
+<entry id="str_empty_hero_slot_action"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_bar"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_brothel"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_flagellation"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_gambling"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_meditation"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_prayer"><![CDATA[Placez un héros ici.]]></entry>
+<entry id="str_empty_hero_slot_treatment"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_[activity]_activity_lock_story"><![CDATA[TODO:- [hero name][str_meditation_activity_lock_story]]]></entry>
 <entry id="str_[activity]_add_buff_[buff_name]_story"><![CDATA[TODO:- [hero name][str_meditation_add_buff_buff_story]]></entry>
 <entry id="str_[activity]_add_quirk_[quirk_name]_story"><![CDATA[TODO:- [hero name][str_meditation_add_quirk_selfish_story]]]></entry>
