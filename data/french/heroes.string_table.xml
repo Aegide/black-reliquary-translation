@@ -132,75 +132,75 @@ Réconfort divin]]></entry>
 <entry id="combat_skill_name_occultist_bloodlet"><![CDATA[Poignard sacrificiel]]></entry>
 <entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[Artillerie abyssale]]></entry>
 <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Malédiction affaiblissante]]></entry>
-<entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Wyrd Reconstruction]]></entry>
-<entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[TODO:Vulnerability Hex]]></entry>
-<entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[TODO:Hands from the Abyss]]></entry>
-<entry id="combat_skill_name_occultist_daemons_pull"><![CDATA[TODO:Daemon's Pull]]></entry>
+<entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[{colour_start|white}əəəə{colour_end}
+Reconstruction Wyrd]]></entry>
+<entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[Sort de vulnérabilité]]></entry>
+<entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[Mains abyssales]]></entry>
+<entry id="combat_skill_name_occultist_daemons_pull"><![CDATA[L'étreinte du démon]]></entry>
 <entry id="combat_skill_name_occultist_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[TODO:Sacrificial Stab]]></entry>
-<entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[TODO:Abyssal Artillery]]></entry>
-<entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[TODO:Weakening Curse]]></entry>
-<entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[TODO:Wyrd Reconstruction]]></entry>
-<entry id="upgrade_tree_name_occultist.disruptive_curse"><![CDATA[TODO:Vulnerability Hex]]></entry>
-<entry id="upgrade_tree_name_occultist.hands_from_abyss"><![CDATA[TODO:Hands from the Abyss]]></entry>
-<entry id="upgrade_tree_name_occultist.daemons_pull"><![CDATA[TODO:Daemon's Pull]]></entry>
-<entry id="combat_skill_name_jester_dirk_stab"><![CDATA[TODO:Dirk Stab]]></entry>
-<entry id="combat_skill_name_jester_heroic_end"><![CDATA[TODO:Finale]]></entry>
-<entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Inspiring Tune]]></entry>
-<entry id="combat_skill_name_jester_slice_off"><![CDATA[TODO:Slice Off]]></entry>
-<entry id="combat_skill_name_jester_battle_ballad"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Battle Ballad]]></entry>
-<entry id="combat_skill_name_jester_solo"><![CDATA[TODO:Solo]]></entry>
+<entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[Poignard sacrificiel]]></entry>
+<entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[Artillerie abyssale]]></entry>
+<entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[Malédiction affaiblissante]]></entry>
+<entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[Reconstruction Wyrd]]></entry>
+<entry id="upgrade_tree_name_occultist.disruptive_curse"><![CDATA[Sort de vulnérabilité]]></entry>
+<entry id="upgrade_tree_name_occultist.hands_from_abyss"><![CDATA[Mains abyssales]]></entry>
+<entry id="upgrade_tree_name_occultist.daemons_pull"><![CDATA[L'étreinte du démon]]></entry>
+<entry id="combat_skill_name_jester_dirk_stab"><![CDATA[Coup de poignard]]></entry>
+<entry id="combat_skill_name_jester_heroic_end"><![CDATA[Final]]></entry>
+<entry id="combat_skill_name_jester_inspiring_tune"><![CDATA[{colour_start|white}əəəə{colour_end}
+Mélodie exaltante]]></entry>
+<entry id="combat_skill_name_jester_slice_off"><![CDATA[Découpage]]></entry>
+<entry id="combat_skill_name_jester_battle_ballad"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Ballade guerrière]]></entry>
+<entry id="combat_skill_name_jester_solo"><![CDATA[Solo]]></entry>
 <entry id="combat_skill_name_jester_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_jester.dirk_stab"><![CDATA[TODO:Dirk Stab]]></entry>
-<entry id="upgrade_tree_name_jester.heroic_end"><![CDATA[TODO:Finale]]></entry>
-<entry id="upgrade_tree_name_jester.inspiring_tune"><![CDATA[TODO:Inspiring Tune]]></entry>
-<entry id="upgrade_tree_name_jester.slice_off"><![CDATA[TODO:Slice Off]]></entry>
-<entry id="upgrade_tree_name_jester.battle_ballad"><![CDATA[TODO:Battle Ballad]]></entry>
-<entry id="upgrade_tree_name_jester.solo"><![CDATA[TODO:Solo]]></entry>
-<entry id="combat_skill_name_leper_chop"><![CDATA[TODO:Chop]]></entry>
-<entry id="combat_skill_name_leper_hew"><![CDATA[TODO:Hew]]></entry>
-<entry id="combat_skill_name_leper_focus"><![CDATA[TODO:Purge]]></entry>
-<entry id="combat_skill_name_leper_revenge"><![CDATA[TODO:Revenge]]></entry>
-<entry id="combat_skill_name_leper_solemnity"><![CDATA[TODO:Solemnity]]></entry>
-<entry id="combat_skill_name_leper_withstand"><![CDATA[TODO:Withstand]]></entry>
-<entry id="combat_skill_name_leper_intimidate"><![CDATA[TODO:Intimidate]]></entry>
+<entry id="upgrade_tree_name_jester.dirk_stab"><![CDATA[Coup de poignard]]></entry>
+<entry id="upgrade_tree_name_jester.heroic_end"><![CDATA[Final]]></entry>
+<entry id="upgrade_tree_name_jester.inspiring_tune"><![CDATA[Mélodie exaltante]]></entry>
+<entry id="upgrade_tree_name_jester.slice_off"><![CDATA[Découpage]]></entry>
+<entry id="upgrade_tree_name_jester.battle_ballad"><![CDATA[Ballade guerrière]]></entry>
+<entry id="upgrade_tree_name_jester.solo"><![CDATA[Solo]]></entry>
+<entry id="combat_skill_name_leper_chop"><![CDATA[Trancher]]></entry>
+<entry id="combat_skill_name_leper_hew"><![CDATA[Tailler]]></entry>
+<entry id="combat_skill_name_leper_focus"><![CDATA[Purge]]></entry>
+<entry id="combat_skill_name_leper_revenge"><![CDATA[Vengeance]]></entry>
+<entry id="combat_skill_name_leper_solemnity"><![CDATA[Solennité]]></entry>
+<entry id="combat_skill_name_leper_withstand"><![CDATA[Endurance]]></entry>
+<entry id="combat_skill_name_leper_intimidate"><![CDATA[Intimider]]></entry>
 <entry id="combat_skill_name_leper_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_leper.chop"><![CDATA[TODO:Chop]]></entry>
-<entry id="upgrade_tree_name_leper.hew"><![CDATA[TODO:Hew]]></entry>
-<entry id="upgrade_tree_name_leper.focus"><![CDATA[TODO:Purge]]></entry>
-<entry id="upgrade_tree_name_leper.revenge"><![CDATA[TODO:Revenge]]></entry>
-<entry id="upgrade_tree_name_leper.solemnity"><![CDATA[TODO:Solemnity]]></entry>
-<entry id="upgrade_tree_name_leper.withstand"><![CDATA[TODO:Withstand]]></entry>
-<entry id="upgrade_tree_name_leper.intimidate"><![CDATA[TODO:Intimidate]]></entry>
-<entry id="combat_skill_name_arbalest_sniper_shot"><![CDATA[TODO:Sniper Shot]]></entry>
-<entry id="combat_skill_name_arbalest_suppressing_fire"><![CDATA[TODO:Suppressing Fire]]></entry>
-<entry id="combat_skill_name_arbalest_sniper_mark"><![CDATA[TODO:Sniper's Mark]]></entry>
-<entry id="combat_skill_name_arbalest_bola"><![CDATA[TODO:Bola]]></entry>
-<entry id="combat_skill_name_arbalest_blindfire"><![CDATA[TODO:Blindfire]]></entry>
-<entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Battlefield Bandage]]></entry>
-<entry id="combat_skill_name_arbalest_flare"><![CDATA[TODO:Rallying Flare]]></entry>
+<entry id="upgrade_tree_name_leper.chop"><![CDATA[Trancher]]></entry>
+<entry id="upgrade_tree_name_leper.hew"><![CDATA[Tailler]]></entry>
+<entry id="upgrade_tree_name_leper.focus"><![CDATA[Purge]]></entry>
+<entry id="upgrade_tree_name_leper.revenge"><![CDATA[Vengeance]]></entry>
+<entry id="upgrade_tree_name_leper.solemnity"><![CDATA[Solennité]]></entry>
+<entry id="upgrade_tree_name_leper.withstand"><![CDATA[Endurance]]></entry>
+<entry id="upgrade_tree_name_leper.intimidate"><![CDATA[Intimider]]></entry>
+<entry id="combat_skill_name_arbalest_sniper_shot"><![CDATA[Tir d'élite]]></entry>
+<entry id="combat_skill_name_arbalest_suppressing_fire"><![CDATA[Tir de couverture]]></entry>
+<entry id="combat_skill_name_arbalest_sniper_mark"><![CDATA[Ligne de mire]]></entry>
+<entry id="combat_skill_name_arbalest_bola"><![CDATA[Bolas]]></entry>
+<entry id="combat_skill_name_arbalest_blindfire"><![CDATA[Tir à l'aveugle]]></entry>
+<entry id="combat_skill_name_arbalest_battlefield_bandage"><![CDATA[{colour_start|white}əəəə{colour_end}
+Bandages militaires]]></entry>
+<entry id="combat_skill_name_arbalest_flare"><![CDATA[Fusée de ralliement]]></entry>
 <entry id="combat_skill_name_arbalest_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_arbalest.sniper_shot"><![CDATA[TODO:Sniper Shot]]></entry>
-<entry id="upgrade_tree_name_arbalest.suppressing_fire"><![CDATA[TODO:Suppressing Fire]]></entry>
-<entry id="upgrade_tree_name_arbalest.sniper_mark"><![CDATA[TODO:Sniper's Mark]]></entry>
-<entry id="upgrade_tree_name_arbalest.bola"><![CDATA[TODO:Bola]]></entry>
-<entry id="upgrade_tree_name_arbalest.blindfire"><![CDATA[TODO:Blindfire]]></entry>
-<entry id="upgrade_tree_name_arbalest.battlefield_bandage"><![CDATA[TODO:Battlefield Bandage]]></entry>
-<entry id="upgrade_tree_name_arbalest.flare"><![CDATA[TODO:Rallying Flare]]></entry>
-<entry id="combat_skill_name_man_at_arms_crush"><![CDATA[TODO:Crush]]></entry>
-<entry id="combat_skill_name_man_at_arms_rampart"><![CDATA[TODO:Rampart]]></entry>
-<entry id="combat_skill_name_man_at_arms_bellow"><![CDATA[TODO:Bellow]]></entry>
-<entry id="combat_skill_name_man_at_arms_defender"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Defender]]></entry>
-<entry id="combat_skill_name_man_at_arms_retribution"><![CDATA[TODO:Retribution]]></entry>
-<entry id="combat_skill_name_man_at_arms_command"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Command]]></entry>
-<entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Bolster]]></entry>
+<entry id="upgrade_tree_name_arbalest.sniper_shot"><![CDATA[Tir d'élite]]></entry>
+<entry id="upgrade_tree_name_arbalest.suppressing_fire"><![CDATA[Tir de couverture]]></entry>
+<entry id="upgrade_tree_name_arbalest.sniper_mark"><![CDATA[Ligne de mire]]></entry>
+<entry id="upgrade_tree_name_arbalest.bola"><![CDATA[Bolas]]></entry>
+<entry id="upgrade_tree_name_arbalest.blindfire"><![CDATA[Tir à l'aveugle]]></entry>
+<entry id="upgrade_tree_name_arbalest.battlefield_bandage"><![CDATA[Bandages militaires]]></entry>
+<entry id="upgrade_tree_name_arbalest.flare"><![CDATA[Fusée de ralliement]]></entry>
+<entry id="combat_skill_name_man_at_arms_crush"><![CDATA[Écraser]]></entry>
+<entry id="combat_skill_name_man_at_arms_rampart"><![CDATA[Rempart]]></entry>
+<entry id="combat_skill_name_man_at_arms_bellow"><![CDATA[Beuglement]]></entry>
+<entry id="combat_skill_name_man_at_arms_defender"><![CDATA[{colour_start|white}əəəə{colour_end}
+Défenseur]]></entry>
+<entry id="combat_skill_name_man_at_arms_retribution"><![CDATA[Châtiment]]></entry>
+<entry id="combat_skill_name_man_at_arms_command"><![CDATA[{colour_start|white}əəəə{colour_end}
+Ordre]]></entry>
+<entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Soutien]]></entry>
 <entry id="combat_skill_name_man_at_arms_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_man_at_arms.crush"><![CDATA[TODO:Crush]]></entry>
 <entry id="upgrade_tree_name_man_at_arms.rampart"><![CDATA[TODO:Rampart]]></entry>

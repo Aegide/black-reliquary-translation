@@ -4447,7 +4447,7 @@ Self:
 <entry id="town_name_tavern"><![CDATA[Taverne]]></entry>
 <entry id="town_name_town_Event"><![CDATA[Oyez ! Oyez !]]></entry>
 <entry id="str_tavern_summary"><![CDATA[Réduction de stress]]></entry>
-<entry id="str_abbey_summary"><![CDATA[TODO:Amber Upgrading]]></entry>
+<entry id="str_abbey_summary"><![CDATA[Gestion de l'ambre]]></entry>
 <entry id="str_blacksmith_summary"><![CDATA[Amélioration d'armes
 et d'armures]]></entry>
 <entry id="str_camping_trainer_summary"><![CDATA[Amélioration des compétences
@@ -4459,7 +4459,7 @@ de combats]]></entry>
 <entry id="str_sanitarium_summary"><![CDATA[Traitement des attributs
 et des maladies]]></entry>
 <entry id="str_stage_coach_summary"><![CDATA[Recrutement de nouveaux héros]]></entry>
-<entry id="str_statue_summary"><![CDATA[TODO:View Captain's Plans]]></entry>
+<entry id="str_statue_summary"><![CDATA[Voir les plans du capitaine]]></entry>
 <entry id="str_statue_ancestor_quote"><![CDATA[Il reste tant à faire ...]]></entry>
 <entry id="str_media_backer_journals"><![CDATA[Journaux collectés]]></entry>
 <entry id="str_media_boss_quests"><![CDATA[Notre destin]]></entry>
