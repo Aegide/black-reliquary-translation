@@ -4450,11 +4450,9 @@ Self:
 <entry id="str_abbey_summary"><![CDATA[Gestion de l'ambre]]></entry>
 <entry id="str_blacksmith_summary"><![CDATA[Amélioration d'armes
 et d'armures]]></entry>
-<entry id="str_camping_trainer_summary"><![CDATA[Amélioration des compétences
-de campement]]></entry>
+<entry id="str_camping_trainer_summary"><![CDATA[Compétences de campement]]></entry>
 <entry id="str_graveyard_summary"><![CDATA[Voir les héros morts]]></entry>
-<entry id="str_guild_summary"><![CDATA[Amélioration des compétences
-de combats]]></entry>
+<entry id="str_guild_summary"><![CDATA[Compétences de combats]]></entry>
 <entry id="str_nomad_wagon_summary"><![CDATA[Achat de breloques]]></entry>
 <entry id="str_sanitarium_summary"><![CDATA[Traitement des attributs
 et des maladies]]></entry>
