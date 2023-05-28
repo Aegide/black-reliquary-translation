@@ -1501,9 +1501,9 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_gemotekh_head"><![CDATA[TODO:Facade of the Formless]]></entry>
 <entry id="str_inventory_description_gemotekh_head"><![CDATA[TODO:The most exotic material ever conceived by the Kvarotz before their downfall. Fetches a hefty price.]]></entry>
 <entry id="buff_rule_data_tooltip_otekh_head"><![CDATA[TODO:Facade of the Formless]]></entry>
-<entry id="str_inventory_title_gemdaric"><![CDATA[TODO:Kvarotz Daric]]></entry>
+<entry id="str_inventory_title_gemdaric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[TODO:Extravagant riches exchanged by the Kvarotz upper class.]]></entry>
-<entry id="buff_rule_data_tooltip_daric"><![CDATA[TODO:Kvarotz Daric]]></entry>
+<entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_title_gemdune_lily"><![CDATA[TODO:Dune Lily]]></entry>
 <entry id="str_inventory_description_gemdune_lily"><![CDATA[TODO:The amber-infused nectar in these lilies fills the air with an invigorating scent!
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 

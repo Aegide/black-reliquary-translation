@@ -36,19 +36,19 @@
 <entry id="camping_skill_name_addinfo_maa"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_occ"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_judi"><![CDATA[Informations supplémentaires]]></entry>
-<entry id="camping_skill_selection_br111a"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Melee{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111b"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Ranged{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111c"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mystical{colour_end}]]></entry>
-<entry id="camping_skill_selection_br141a"><![CDATA[TODO:
-{colour_start|notable}Movement:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mêlée{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Distance{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mystique{colour_end}]]></entry>
+<entry id="camping_skill_selection_br141a"><![CDATA[
+{colour_start|notable}Mouvement :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br211a"><![CDATA[TODO:
 {colour_start|notable}Crit Effects:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br241a"><![CDATA[TODO:
 {colour_start|notable}Modes:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br311a"><![CDATA[TODO:
 {colour_start|notable}Passive Effects:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br341a"><![CDATA[TODO:
-{colour_start|notable}Starting Supplies:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br341a"><![CDATA[
+{colour_start|notable}Provisions supplémentaires :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br371a"><![CDATA[TODO:
 {colour_start|notable}Stack Bonuses:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br411a"><![CDATA[TODO:
@@ -79,15 +79,15 @@
 {colour_start|notable}Unique Virtues:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br941a"><![CDATA[TODO:
 {colour_start|notable}Unique Afflictions:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br971a"><![CDATA[TODO:
-{colour_start|notable}Flashbacks:{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT1"><![CDATA[TODO:On Curio Interaction:
-{colour_start|notable}Minor Antique{colour_end} - 87% 
-{colour_start|notable}Rare  Antique{colour_end} - 13% 
+<entry id="camping_skill_selection_br971a"><![CDATA[
+{colour_start|notable}Souvenirs:{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT1"><![CDATA[Interaction avec curio :
+{colour_start|notable}Antiquité mineure{colour_end} - 87% 
+{colour_start|notable}Antiquité rare{colour_end} - 13% 
 ]]></entry>
-<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT2"><![CDATA[TODO:On Combat End:
-{colour_start|notable}Minor Antique{colour_end} - 87% 
-{colour_start|notable}Rare  Antique{colour_end} - 13% ]]></entry>
+<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT2"><![CDATA[Fin du combat :
+{colour_start|notable}Antiquité mineure{colour_end} - 87% 
+{colour_start|notable}Antiquité rare{colour_end} - 13% ]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[TODO:Increase Stack of Gold by 1000]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[TODO:Increase Stack of Kvarotz Daric by 10]]></entry>
 <entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[TODO:Modes can be switched using Transform Skill
