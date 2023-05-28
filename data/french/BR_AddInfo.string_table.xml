@@ -216,11 +216,11 @@ Mode persists after combat end]]></entry>
 {colour_start|move}Avancée{colour_end} 2]]></entry>	
 <entry id="camping_skill_effect_loot_GENERAL_BREL_MOVEMENT_3_3"><![CDATA[{colour_start|move}Recul{colour_end} 3
 {colour_start|move}Avancée{colour_end} 3]]></entry>	
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_FAITHLESS"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_PAGAN"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_RELIGIOUS"><![CDATA[TODO:Cannot spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_FAITHLESS"><![CDATA[TODO:Can only spawn as {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_PAGAN"><![CDATA[TODO:Can only spawn as {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_RELIGIOUS"><![CDATA[TODO:Can only spawn as {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_BREL_HORROR_NO_CLEAR"><![CDATA[TODO:{colour_start|skill_unselectable}Horror is Incurable{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_BREL_DEBUFF_NO_CLEAR"><![CDATA[TODO:{colour_start|skill_unselectable}Debuffs are Incurable{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_FAITHLESS"><![CDATA[Jamais {colour_start|affiliation_faithless}athée{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_PAGAN"><![CDATA[Jamais {colour_start|affiliation_pagan}païen{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFFILIATION_RELIGIOUS"><![CDATA[Jamais {colour_start|affiliation_religious}religieux{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_FAITHLESS"><![CDATA[Uniquement {colour_start|affiliation_faithless}athée{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_PAGAN"><![CDATA[Uniquement {colour_start|affiliation_pagan}païen{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_GENERAL_BREL_AFF_ONLY_RELIGIOUS"><![CDATA[Uniquement {colour_start|affiliation_religious}religieux{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_BREL_HORROR_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Horreur (insoignable){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_BREL_DEBUFF_NO_CLEAR"><![CDATA[{colour_start|skill_unselectable}Malus (insoignable){colour_end}]]></entry>
