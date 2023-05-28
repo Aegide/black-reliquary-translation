@@ -750,7 +750,7 @@ Monster Effects: +5% CRT, Certain Enemies start battle with Stealth
 Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_glossary_term_1028"><![CDATA[TODO:Amber Residue]]></entry>
 <entry id="str_glossary_term_definition_1028"><![CDATA[TODO:A consumable item which applies buffs and debuffs of varying strengths based upon affiliation.]]></entry>
-<entry id="str_glossary_term_1029"><![CDATA[TODO:Aegis Scale]]></entry>
+<entry id="str_glossary_term_1029"><![CDATA[Écaille d'égide]]></entry>
 <entry id="str_glossary_term_definition_1029"><![CDATA[TODO:An item which grants 1 Block to its user. Can be purchased from the provision screen with Refined Amber Dust.]]></entry>
 <entry id="str_glossary_term_1034"><![CDATA[TODO:Reflex Serum]]></entry>
 <entry id="str_glossary_term_definition_1034"><![CDATA[TODO:An item which grants temporary buffs and riposte to its user. Produced by the Adrenaline Manufactorum, and obtained from the provision screen.]]></entry>
@@ -1484,7 +1484,7 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_estateadrenaline"><![CDATA[TODO:A potent injection that dramatically increases aggression and reaction speed. 
 {colour_start|skill_unselectable}Target: Gain {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(3 tns){colour_end}{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_adrenaline"><![CDATA[TODO:Reflex Serum]]></entry>
-<entry id="str_inventory_title_supplysnake_scale"><![CDATA[TODO:Aegis Scale]]></entry>
+<entry id="str_inventory_title_supplysnake_scale"><![CDATA[Écaille d'égide]]></entry>
 <entry id="str_inventory_description_supplysnake_scale"><![CDATA[TODO:A Mysterious scale from the wastes below. Fierce protection.
 {colour_start|skill_unselectable}Target: Gain 1 Block{colour_end}]]></entry>
 <entry id="str_inventory_title_estateorder_of_honor"><![CDATA[TODO:Order of Honor]]></entry>
@@ -1504,13 +1504,13 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_gemdaric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[TODO:Extravagant riches exchanged by the Kvarotz upper class.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
-<entry id="str_inventory_title_gemdune_lily"><![CDATA[TODO:Dune Lily]]></entry>
+<entry id="str_inventory_title_gemdune_lily"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_inventory_description_gemdune_lily"><![CDATA[TODO:The amber-infused nectar in these lilies fills the air with an invigorating scent!
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 +4 ACC, +2% CRT, 
 +10% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist
 Buff does not Stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_dune_lily"><![CDATA[TODO:Dune Lily]]></entry>
+<entry id="buff_rule_data_tooltip_dune_lily"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_inventory_title_gemcursed_gem0"><![CDATA[TODO:{colour_start|cursed_gem}Totem of Wails{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem0"><![CDATA[TODO:This ancient treasure won't stop making noise!
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
@@ -3381,7 +3381,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE"><![CDATA[TODO:{colour_start|notable}Amber Provision Table:{colour_end}
 Gingseng Powder {colour_start|skill_unselectable}(40%%){colour_end}
 Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[TODO:Aegis Scale {colour_start|skill_unselectable}(20%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[Écaille d'égide {colour_start|skill_unselectable}(20%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WURM_SCARF_TT"><![CDATA[TODO:On Monster Kill: Self: Clear {colour_start|mark}Mark{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_TT"><![CDATA[TODO:On Attack Hit: Self: {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARCH_COMPENDIUM_TT"><![CDATA[TODO:Can be used on Kvarotz Curios for guaranteed Darics
