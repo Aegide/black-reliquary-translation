@@ -1,9 +1,9 @@
-from utils import translate_everything, fake_translation
+from utils import translate_everything, review_everything
 
 
 def main():
     translate_everything()
-    # fake_translation("french")
+    review_everything()
 
 if __name__ == "__main__":
     main()
