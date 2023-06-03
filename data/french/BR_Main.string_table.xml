@@ -3057,7 +3057,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_stress_on_miss"><![CDATA[TODO:%+d stress when attack misses]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_combat_skill"><![CDATA[TODO:%-d%% Combat Skill Upgrade Cost]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_camping_skill"><![CDATA[TODO:%-d%% Camp Skill Unlock Cost]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"> <![CDATA[TODO:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"><![CDATA[TODO:​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT1"><![CDATA[TODO:{colour_start|skill_unselectable}+10%% Ghoul Encounter Chance{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}+3%% Chance to Encounter Ghoul Mother on Champ Missions{colour_end}]]></entry> 
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}Chance doubled for each additional plagued hero		{colour_end}]]></entry>
@@ -3604,7 +3604,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketman_slayers_ring"><![CDATA[Anneau de tueur d'humains]]></entry>
 <entry id="str_inventory_title_trinketmartyrs_seal"><![CDATA[Sceau de martyre]]></entry>
 <entry id="str_inventory_title_trinketmedics_boots"><![CDATA[Bottes de médecin]]></entry>
-<entry id="str_inventory_title_trinketmedics_greaves"><![CDATA[Jambières de médecin]></entry>
+<entry id="str_inventory_title_trinketmedics_greaves"><![CDATA[Jambières de médecin]]></entry>
 <entry id="str_inventory_title_trinketmoon_cloak"><![CDATA[Cape lunaire]]></entry>
 <entry id="str_inventory_title_trinketmoon_ring"><![CDATA[Anneau lunaire]]></entry>
 <entry id="str_inventory_title_trinketmove_amulet"><![CDATA[Amulette de déplacement]]></entry>
