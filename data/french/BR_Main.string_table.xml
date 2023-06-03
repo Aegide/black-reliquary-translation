@@ -3636,7 +3636,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketscouting_whistle"><![CDATA[TODO:Coordinating Whistle]]></entry>
 <entry id="str_inventory_title_trinketseer_stone"><![CDATA[Pierre de prophète]]></entry>
 <entry id="str_inventory_title_trinketseers_satchel"><![CDATA[TODO:Deadeye Satchel]]></entry>
-<entry id="str_inventory_title_trinketselfish_armlet"><![CDATA[TODO:Swift Armlet]]></entry>
+<entry id="str_inventory_title_trinketselfish_armlet"><![CDATA[Bracelet léger]]></entry>
 <entry id="str_inventory_title_trinketselfish_pendant"><![CDATA[TODO:Glimmering Pendant]]></entry>
 <entry id="str_inventory_title_trinketsharpening_sheath"><![CDATA[Fourreau aiguisoir]]></entry>
 <entry id="str_inventory_title_trinketshimmering_cloak"><![CDATA[Cape chatoyante]]></entry>
@@ -3759,9 +3759,9 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketflag_flesh_eating_helm"><![CDATA[TODO:Flesh-Eating Helm]]></entry>
 <entry id="str_inventory_title_trinketmaa_amber_halo"><![CDATA[TODO:Amber Aureole]]></entry>
 <entry id="str_inventory_title_trinkethwm_damascene_pistol"><![CDATA[TODO:Damascene Pistol]]></entry>
-<entry id="str_inventory_title_trinkethell_raiding_horn"><![CDATA[TODO:Horn of Fervor]]></entry>
+<entry id="str_inventory_title_trinkethell_raiding_horn"><![CDATA[Corne de ferveur]]></entry>
 <entry id="str_inventory_title_trinketpilebunker"><![CDATA[TODO:Pilebunker]]></entry>
-<entry id="str_inventory_title_trinketleper_clockwork_heart"><![CDATA[TODO:Clockwork Heart]]></entry>
+<entry id="str_inventory_title_trinketleper_clockwork_heart"><![CDATA[cœur mécanique]]></entry>
 <entry id="str_inventory_title_trinkethm_captains_cutlass"><![CDATA[TODO:Coxswain's Cutlass]]></entry>
 <entry id="str_inventory_title_trinketjes_overgrown_setar"><![CDATA[TODO:Overgrown Setar]]></entry>
 <entry id="str_inventory_title_trinketsb_snake_wine"><![CDATA[Vin de serpent]]></entry>

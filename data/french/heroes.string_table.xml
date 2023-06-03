@@ -31,7 +31,7 @@ Cri de ralliement]]></entry>
 <entry id="upgrade_tree_name_crusader.bulwark_of_faith"><![CDATA[Rempart de la foi]]></entry>
 <entry id="upgrade_tree_name_crusader.battle_heal"><![CDATA[Soins de combat]]></entry>
 <entry id="upgrade_tree_name_crusader.holy_lance"><![CDATA[Lance sacrée]]></entry>
-<entry id="upgrade_tree_name_crusader.inspiring_cry"><![CDATA[[Cri de ralliement]]></entry>
+<entry id="upgrade_tree_name_crusader.inspiring_cry"><![CDATA[Cri de ralliement]]></entry>
 <entry id="combat_skill_name_factotum_bold_slice"><![CDATA[Entaille intrépide]]></entry>
 <entry id="combat_skill_name_factotum_pistol_shot"><![CDATA[Tir au pistolet]]></entry>
 <entry id="combat_skill_name_factotum_point_blank_shot"><![CDATA[Tir à bout portant]]></entry>
@@ -49,7 +49,7 @@ Cri de ralliement]]></entry>
 <entry id="upgrade_tree_name_highwayman.pistol_shot"><![CDATA[Tir au pistolet]]></entry>
 <entry id="upgrade_tree_name_highwayman.point_blank_shot"><![CDATA[Tir à bout portant]]></entry>
 <entry id="upgrade_tree_name_highwayman.grape_shot_blast"><![CDATA[Mitraille]]></entry>
-<entry id="upgrade_tree_name_highwayman.take_aim"><![CDATA[Viser]></entry>
+<entry id="upgrade_tree_name_highwayman.take_aim"><![CDATA[Viser]]></entry>
 <entry id="upgrade_tree_name_highwayman.duelist_advance"><![CDATA[Avancée de duelliste]]></entry>
 <entry id="upgrade_tree_name_highwayman.opened_vein"><![CDATA[Ouvre-veine]]></entry>
 <entry id="combat_skill_name_plague_doctor_noxious_blast"><![CDATA[Explosion toxique]]></entry>
@@ -100,7 +100,7 @@ Réconfort divin]]></entry>
 <entry id="upgrade_tree_name_grave_robber.poison_dart"><![CDATA[Fléchettes empoisonnées]]></entry>
 <entry id="upgrade_tree_name_grave_robber.toxin_trickery"><![CDATA[Toxines astucieuses]]></entry>
 <entry id="combat_skill_name_hellion_wicked_hack"><![CDATA[Coup vicieux]]></entry>
-<entry id="combat_skill_name_hellion_iron_swan"><![CDATA[kill_name_hellion_iron_swan"><![CDATA[]]></entry>
+<entry id="combat_skill_name_hellion_iron_swan"><![CDATA[Cygne de fer]]></entry>
 <entry id="combat_skill_name_hellion_barbaric_yawp"><![CDATA[Cri barbare]]></entry>
 <entry id="combat_skill_name_hellion_if_it_bleeds"><![CDATA[Si ça saigne]]></entry>
 <entry id="combat_skill_name_hellion_breakthru"><![CDATA[Percée]]></entry>
@@ -108,7 +108,7 @@ Réconfort divin]]></entry>
 <entry id="combat_skill_name_hellion_bleed_out"><![CDATA[Vide-sang]]></entry>
 <entry id="combat_skill_name_hellion_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_hellion.wicked_hack"><![CDATA[Coup vicieux]]></entry>
-<entry id="upgrade_tree_name_hellion.iron_swan"><![CDATA[kill_name_hellion_iron_swan"><![CDATA[]]></entry>
+<entry id="upgrade_tree_name_hellion.iron_swan"><![CDATA[Cygne de fer]]></entry>
 <entry id="upgrade_tree_name_hellion.barbaric_yawp"><![CDATA[Cri barbare]]></entry>
 <entry id="upgrade_tree_name_hellion.if_it_bleeds"><![CDATA[Si ça saigne]]></entry>
 <entry id="upgrade_tree_name_hellion.breakthru"><![CDATA[Percée]]></entry>
