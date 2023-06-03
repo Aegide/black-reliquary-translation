@@ -1,5 +1,7 @@
-build/*.xml
+
 .vscode/settings.json
 *.pyc
+
+build/*.xml
 build.txt
-.gitignore
+missing_strings.csv
