@@ -4,4 +4,6 @@
 
 build/*.xml
 build.txt
+
+review/*.xml
 missing_strings.csv
