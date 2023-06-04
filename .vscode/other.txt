@@ -1,4 +1,5 @@
 # Words that make no sense
+abom
 ADDHEAL
 addinfo
 additionaleffect
@@ -6,7 +7,10 @@ afterprep
 AMBERPAGE
 attacktype
 barehand
+bloodcrate
+bloodflower
 bloodsap
+bluekey
 boneman
 breakthru
 BREL
@@ -15,6 +19,7 @@ cata
 clawstrike
 critbyhero
 CUIRBOILLI
+currencycrimson
 darkestdungeon
 deathsdoor
 Destress
@@ -24,6 +29,8 @@ doomedpage
 estateadrenaline
 estatelife
 estateorder
+estatesnake
+estatethe
 əəəə
 əəəəɥɘɘɣɣɩɦʚʐ
 əəəəɥɘɘɣɣɩɦɬɭ
@@ -138,6 +145,7 @@ estateorder
 ɚɛɛɜɥʫɩɦʐʗ
 ɚɛɛɜɥʫɩɧʐ
 fightclub
+fingerbone
 FINGERBONE
 firstroundonly
 flamepage
@@ -145,6 +153,7 @@ FOOTWRAPS
 gemdaric
 gemdune
 gemotekh
+greenkey
 ɡɘɘɘɥɣɘɘɘɩɨ
 ɡɡɘɘʦɘɣɣɣɩɧʏ
 ɡɡɘɘɥɘɘɣɣɩɦʓʑ
@@ -264,6 +273,8 @@ horiz
 hornedtoad
 hpabove
 hpbelow
+itemkey
+itemtorch
 ɪʤɘɘɣɣɩɧʐ
 ɪʩɣɣɣɣɩɦʋʐ
 ɪʨɣɣɘɘɩɧʐ
@@ -309,21 +320,26 @@ hpbelow
 ɪɥʫɩʠɬʁ
 ɪɥʫɩʀɮɶ
 ɪɥʫɩʃɭʐ
+lawmans
 meleeonly
 monke
 monstername
 notspecified
 numitems
 numrecruits
+osmond
 otekh
 packhound
 phero
 PUSHPREP
 questparty
+quitk
 rangedonly
+redkey
 regen
 RIPO
 rostersize
+shuffledot
 skel
 stoneworkq
 Stressheal
@@ -334,7 +350,9 @@ supplyholy
 supplyhoning
 supplymedicinal
 supplysnake
+torchsettings
 trea
+trinketamulet
 trinketcact
 trinketcc
 trinketdazzling
@@ -355,6 +373,7 @@ trinketethereal
 trinketevasion
 trinketfasting
 trinketfeather
+trinketflag
 trinketflashfire
 trinketflesh
 trinketfocus
@@ -409,11 +428,13 @@ trinketresilience
 trinketrotgut
 trinketsacred
 trinketsacrificial
+trinketsb
 trinketscouting
 trinketseer
 trinketseers
 trinketselfish
 trinketsharpening
+trinketshield
 trinketshimmering
 trinketsiren
 trinketslayer
@@ -456,4 +477,6 @@ trinketyouth
 unwellness
 UPGRADETT
 vetev
+xform
+yellowkey
 ygastrosaur

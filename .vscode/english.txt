@@ -1,5 +1,10 @@
 # Valid english words
+Aaah
+Ahahah
+AHAHAH
 Armorsmithing
+armour
+Bedlah
 bloodlet
 Bloodlust
 Brokery
@@ -23,7 +28,9 @@ foliagic
 Fuselighter
 Gleek
 Godsplitter
+hahaha
 Heehee
+Hmmmmm
 houndmaster
 Hrmmm
 Imbuement
@@ -43,6 +50,7 @@ Resculpt
 ruleset
 SCRAW
 Shardspear
+shieldbreaker
 Sidewind
 Skybound
 Soulflicker
