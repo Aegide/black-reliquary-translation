@@ -64,7 +64,7 @@ def translation_injection(original_filename:str, mock_language:bool=False):
 
 def inject_language_file(source:TextIOWrapper, destination:TextIOWrapper):
     for line in source.readlines():
-        line_with_tabs = f"\t\t{line}"
+        line_with_tabs = f"{line}"
         destination.write(line_with_tabs)
 
 
