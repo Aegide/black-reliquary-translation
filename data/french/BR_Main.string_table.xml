@@ -1266,6 +1266,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_trog_bone_pile_effect"><![CDATA[TODO:The corpse was horrifyingly defiled!]]></entry>
 <entry id="str_curio_trog_bone_pile_disease"><![CDATA[TODO:The festering flesh is noxious!]]></entry>
 <entry id="str_curio_trog_bone_pile_disease_kit_loot"><![CDATA[TODO:The bolstered hero searches the fetid remains.]]></entry>
+<entry id="str_curio_trog_bone_pile_bandage_loot"><![CDATA[TODO:Wrappings guard against the bone shards!]]></entry>
 <entry id="str_curio_trog_bone_pile_arch_kit_effect"><![CDATA[TODO:The corpse is too "fresh" to study safely.]]></entry>
 <entry id="str_curio_trog_bone_pile_torch_effect"><![CDATA[TODO:Cremation is all that can be done now.]]></entry>
 <entry id="str_curio_trog_bone_pile_shovel_effect"><![CDATA[TODO:A sufficient grave is dug.]]></entry>
@@ -1871,6 +1872,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_hellion_A"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_B"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_C"><![CDATA[Furie sauvage]]></entry>
+<entry id="str_monstername_wildlander_hellion_N"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_D"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_E"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_F"><![CDATA[Furie sauvage]]></entry>
@@ -3259,17 +3261,17 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 Additional -33%% Stress Healing Received from Crits{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE1_1"><![CDATA[TODO:{colour_start|skill_unselectable}On Crit: Target: Take +2 Additional Dmg
 Additional -34%% Stress Healing Received from Crits{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Friendly Skill: Self: Additional +2%% CRT{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}Friendly Skill: Self: Additional +1%% Crits Received{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +10%% Bleed/Blight Resist, -3 ACC{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}On Friendly Skill: Additional +1%% PROT, -1 DODGE{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Bleed/Blight Resist, -1 ACC{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_SECRET_BUFF"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Move Resist{colour_end}]]></entry>
@@ -3279,7 +3281,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
 {colour_start|skill_unselectable}Additional +10%% Move Resist{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_LIVE_AMMO_HEAL_REC_LIVE_TT"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received if {colour_start|musk_ammo4}Live Ammo{colour_end} is Equipped]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LIVE_AMMO_HEAL_TT1"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Self:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LIVE_AMMO_HEAL_TT2"><![CDATA[TODO: +15%% {colour_start|healhp}Healing{colour_end} Received if {colour_start|musk_ammo4}Live Ammo{colour_end} is Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
@@ -3723,19 +3725,19 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketcata_axe_lvl0"><![CDATA[TODO:Strange Hatchet (LVL 1)]]></entry>
 <entry id="str_inventory_title_trinketcata_axe_lvl1"><![CDATA[TODO:Whispering Axe (LVL 2)]]></entry>
 <entry id="str_inventory_title_trinketcata_axe_lvl2"><![CDATA[TODO:Dreadful Cleaver (LVL 3)]]></entry>
-<entry id="str_inventory_title_trinketcata_axe_lvl3"><![CDATA[TODO:Azazel (LVL MAX)]]></entry>
+<entry id="str_inventory_title_trinketcata_axe_lvl3"><![CDATA[Azazel (NIV. MAX)]]></entry>
 <entry id="str_inventory_title_trinketei_cowl_lvl0"><![CDATA[TODO:Sturdy Hood (LVL 1)]]></entry>
 <entry id="str_inventory_title_trinketei_cowl_lvl1"><![CDATA[TODO:Thrumming Cowl (LVL 2)]]></entry>
 <entry id="str_inventory_title_trinketei_cowl_lvl2"><![CDATA[TODO:Bloodire Helmet (LVL 3)]]></entry>
-<entry id="str_inventory_title_trinketei_cowl_lvl3"><![CDATA[TODO:Valkyrja (LVL MAX)]]></entry>
+<entry id="str_inventory_title_trinketei_cowl_lvl3"><![CDATA[Valkyrja (NIV. MAX)]]></entry>
 <entry id="str_inventory_title_trinketcave_shell_lvl0"><![CDATA[TODO:Seed-Shell (LVL 1)]]></entry>
 <entry id="str_inventory_title_trinketcave_shell_lvl1"><![CDATA[TODO:Growth Chitin (LVL 2)]]></entry>
 <entry id="str_inventory_title_trinketcave_shell_lvl2"><![CDATA[TODO:Flourishing Carapace (LVL 3)]]></entry>
-<entry id="str_inventory_title_trinketcave_shell_lvl3"><![CDATA[TODO:Sefirot (LVL MAX)]]></entry>
+<entry id="str_inventory_title_trinketcave_shell_lvl3"><![CDATA[Sefirot (NIV. MAX)]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl0"><![CDATA[TODO:Inconspicuous Cactus (LVL 1)]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl1"><![CDATA[TODO:Unusual Houseplant (LVL 2)]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl2"><![CDATA[TODO:Concerning Succulent (LVL 3)]]></entry>
-<entry id="str_inventory_title_trinkettrea_cact_lvl3"><![CDATA[TODO:Charybdis (LVL MAX)]]></entry>
+<entry id="str_inventory_title_trinkettrea_cact_lvl3"><![CDATA[Charybdis (NIV. MAX)]]></entry>
 <entry id="str_inventory_title_trinketyngolian_torch_1"><![CDATA[TODO:Dormant Shadow]]></entry>
 <entry id="str_inventory_title_trinketyngolian_torch_2"><![CDATA[TODO:Stirring Crescent]]></entry>
 <entry id="str_inventory_title_trinketyngolian_torch_3"><![CDATA[TODO:Waking Gibbous]]></entry>

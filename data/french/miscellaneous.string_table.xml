@@ -1942,6 +1942,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_provision_embark_no"><![CDATA[Non]]></entry>
 <entry id="town_provision_embark_yes"><![CDATA[Oui]]></entry>
 <entry id="town_provision_no_trinkets_equipped"><![CDATA[Votre groupe n'est pas complètement équipé en breloques. Désirez-vous vraiment embarquer ?]]></entry>
+<entry id="town_provision_not_enough_food_confirm_format"><![CDATA[Vous n'avez que peu de nourriture pour votre expédition. La quantité de nourriture recommandée pour cette quête est de %d. Poursuivre quand même ?]]></entry>
 <entry id="town_quest_description_cleanse+1+cove+battle_all_rooms"><![CDATA[Un poisson bipède ? Testez la force de cette nouvelle menace.]]></entry>
 <entry id="town_quest_description_cleanse+1+crypts+battle_all_rooms"><![CDATA[Des abominations impies retournant la lumière contre elle-même. Faites-leur face et apprenez comment les combattre.]]></entry>
 <entry id="town_quest_description_cleanse+1+warrens+battle_all_rooms"><![CDATA[Une mission d'exploration dans un réseau démentiel de tunnels. Combattez l'ennemi et revenez avec de nouvelles informations.]]></entry>
@@ -1974,6 +1975,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_quest_description_inventory_activate+2+crypts+inventory_activate_corrupted_altar"><![CDATA[Les abominations qui occupent cette maison ont transformé les autels lumineux en réceptacles pour leur culte diabolique. Purifiez ces autels avec de l'essence sanctifiée et ramenez la Lumière.]]></entry>
 <entry id="town_quest_description_inventory_activate+2+warrens+inventory_activate_animalistic_shrine"><![CDATA[Les hommes-bêtes ont érigé des sanctuaires crasseux et grossiers à leurs dieux païens. Abattez-les à la pioche et entravez leur culte !]]></entry>
 <entry id="town_quest_description_inventory_activate+2+weald+inventory_activate_infected_corpse"><![CDATA[Des corps infectés gisent sur la vieille route, grouillants de crasse et de maladies. Les voyages depuis et vers le Hameau exposent à la maladie. Détruisez l'infection à l'aide d'un baume puissant.]]></entry>
+<entry id="town_quest_description_kill_boss+2+crypts+kill_necromancer"><![CDATA[Un Nécromancien se livre à d'innommables rituels dans les halls en ruines de votre demeure ancestrale. Il faut l'arrêter.]]></entry>
 <entry id="town_quest_description_kill_boss+3+crypts+kill_necromancer"><![CDATA[Au plus profond des caveaux de votre demeure ancestrale, un Nécromancien se livre à d'innommables rituels... allant jusqu'à lever les morts ! Il faut l'arrêter.]]></entry>
 <entry id="town_quest_description_plot_crow_trinket"><![CDATA[Sidérés par l'apparente valeur de ce qui se cache dans ses plumes putrides, les curieux se demandent s'ils ne devraient pas monter une expédition et se rendre à son perchoir...]]></entry>
 <entry id="town_quest_description_plot_darkest_dungeon_1"><![CDATA[La puissance de la créature accroît terriblement. Récupérez les reliques protectrices dans le camp abandonné, mais méfiez-vous de l'Horreur qui rôde.]]></entry>
