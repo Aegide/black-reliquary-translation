@@ -309,12 +309,12 @@
 <entry id="menu_options_element_always_show_circus_tutorials"><![CDATA[TODO:Always Show Circus Tutorials]]></entry>
 <entry id="menu_options_element_playfab_sandbox"><![CDATA[TODO:Use Sandbox Profile]]></entry>
 <entry id="menu_options_element_playfab_private_matchmaking"><![CDATA[TODO:Use Private Matchmaking Queue]]></entry>
-<entry id="menu_options_element_trinket_warning"><![CDATA[TODO:Circus Trinket Warning]]></entry>
-<entry id="menu_options_back_confirm_dialog_answer_discard"><![CDATA[TODO:DISCARD]]></entry>
-<entry id="menu_options_back_confirm_dialog_answer_save"><![CDATA[TODO:SAVE]]></entry>
-<entry id="menu_options_back_confirm_dialog_question"><![CDATA[TODO:Save these changes?]]></entry>
-<entry id="menu_options_element_bark_dismissal"><![CDATA[TODO:Bark Dismissal]]></entry>
-<entry id="menu_options_element_blur"><![CDATA[TODO:Blur Effect]]></entry>
+<entry id="menu_options_element_trinket_warning"><![CDATA[Avertissement breloque (cirque)]]></entry>
+<entry id="menu_options_back_confirm_dialog_answer_discard"><![CDATA[ANNULER]]></entry>
+<entry id="menu_options_back_confirm_dialog_answer_save"><![CDATA[SAUVEGARDER]]></entry>
+<entry id="menu_options_back_confirm_dialog_question"><![CDATA[Sauvegarder ces modifications ?]]></entry>
+<entry id="menu_options_element_bark_dismissal"><![CDATA[Suppression des bulles]]></entry>
+<entry id="menu_options_element_blur"><![CDATA[Effet de flou]]></entry>
 <entry id="menu_options_element_combat_pivot_camera"><![CDATA[TODO:Combat Pivot Camera]]></entry>
 <entry id="menu_options_element_controller_enabled"><![CDATA[TODO:Controller Enabled]]></entry>
 <entry id="menu_options_element_corpses"><![CDATA[TODO:Monsters Leave Corpses]]></entry>
@@ -326,7 +326,7 @@
 <entry id="menu_options_element_fullscreen"><![CDATA[TODO:Fullscreen?]]></entry>
 <entry id="menu_options_element_heart_attack"><![CDATA[TODO:Heart Attacks]]></entry>
 <entry id="menu_options_element_keep_battle_quest_fail_trinkets"><![CDATA[TODO:KEEP TRINKETS?]]></entry>
-<entry id="menu_options_element_language"><![CDATA[TODO:Language]]></entry>
+<entry id="menu_options_element_language"><![CDATA[Langue]]></entry>
 <entry id="menu_options_element_map_follow_party"><![CDATA[TODO:Auto-Center Dungeon Map]]></entry>
 <entry id="menu_options_element_master_volume"><![CDATA[TODO:Master Volume]]></entry>
 <entry id="menu_options_element_metrics"><![CDATA[TODO:Enable Anonymous Data Collection]]></entry>
@@ -418,7 +418,7 @@
 <entry id="raid_results_quest_result_was_not_completed_escape"><![CDATA[Fuite]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_always"><![CDATA[Toujours]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_no"><![CDATA[Non]]></entry>
-<entry id="realm_inventory_sell_trinket_confirm_question_format"><![CDATA[TODO:Really sell {?item_name}%s for {?amount}%d gold?]]></entry>
+<entry id="realm_inventory_sell_trinket_confirm_question_format"><![CDATA[Désirez-vous vraiment vendre {?item_name}%s pour {?amount}%d pièces d'or ?]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="realm_inventory_trinket_sell_description"><![CDATA[Vendre pour :]]></entry>
 <entry id="realm_inventory_trinket_sell_instruction"><![CDATA[Maintenir [MAJ] permet de vendre des breloques]]></entry>
