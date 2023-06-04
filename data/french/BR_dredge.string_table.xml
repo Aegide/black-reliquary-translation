@@ -527,7 +527,7 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 <entry id="action_verbose_body_guild_dredge"><![CDATA[Peu de soldats Ostvengr ont reçu l'honneur de devenir pilote de scaphe. Encore moins sont ceux qui ont survécus. Après l'effondrement de son empire, ce scaphe itinérant a trouvé une nouvelle vocation sur un nouveau champ de bataille.]]></entry>
 <entry id="action_verbose_body_blacksmith_dredge"><![CDATA[Les Ostvengr se considèrent depuis longtemps comme les gardiens de la technologie, et leurs scaphes ne font pas exception à la règle.
 
-Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour améliorer ses armes et son armure, qui peuvent être obtenues au {colour_start|notable}marché{colour_end} dans la {colour_start|notable}raffinerie{colour_end}.]]></entry>
+Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour améliorer ses armes et son armure, qui peuvent être obtenues au {colour_start|notable}marché{colour_end} dans l{colour_start|notable}atelier{colour_end}.]]></entry>
 <entry id="action_verbose_body_camping_trainer_dredge"><![CDATA[Étant donné que les fonderies et usines d'Ostvengr ont été perdues lors de la catastrophe, l'entretien du matériel restant est devenu particulièrement critique. Non seulement leur production s'est arrêtée, mais les pièces de rechange se font de plus en plus rares.]]></entry>
 <entry id="dredge+str_combat_knockback"><![CDATA[]]></entry>
 <entry id="str_skill_mode_info_dredge_skill1_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
