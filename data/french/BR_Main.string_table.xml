@@ -3440,7 +3440,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="trinket_rarity_perfumer2"><![CDATA[Parfumeur]]></entry>
 <entry id="trinket_rarity_perfumer3"><![CDATA[Parfumeur]]></entry>
 <entry id="trinket_rarity_perfumer4"><![CDATA[Parfumeur]]></entry>
-<entry id="trinket_rarity_spoils"><![CDATA[TODO:Reliquary's Spoils]]></entry>
+<entry id="trinket_rarity_spoils"><![CDATA[Trésor du Reliquaire]]></entry>
 <entry id="trinket_rarity_ghoul_mother"><![CDATA[Mère des goules]]></entry>
 <entry id="trinket_rarity_comet"><![CDATA[Contrebande]]></entry>
 <entry id="trinket_rarity_fight_pit"><![CDATA[Chasseur de la Flamme]]></entry>
@@ -3455,7 +3455,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="trinket_rarity_yngolian_visual3"><![CDATA[Céleste]]></entry>
 <entry id="trinket_rarity_yngolian_visual4"><![CDATA[Céleste]]></entry>
 <entry id="trinket_rarity_yngolian_visual5"><![CDATA[Céleste]]></entry>
-<entry id="trinket_rarity_spoils_visual"><![CDATA[TODO:Reliquary's Spoils]]></entry>
+<entry id="trinket_rarity_spoils_visual"><![CDATA[Trésor du Reliquaire]]></entry>
 <entry id="trinket_rarity_fight_pit_visual"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="trinket_rarity_gambling_visual"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="trinket_rarity_nomad_visual"><![CDATA[Chasseur de la Flamme]]></entry>
@@ -3466,10 +3466,10 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketstatue_r_leg"><![CDATA[TODO:That Which Rampages]]></entry>
 <entry id="str_inventory_title_trinketstatue_l_leg"><![CDATA[TODO:That Which Shifts]]></entry>
 <entry id="str_inventory_title_trinketfortifying_garlic"><![CDATA[TODO:Putrid Garlic]]></entry>
-<entry id="str_inventory_title_trinketresolve_stone"><![CDATA[TODO:Resolve Stone]]></entry>
-<entry id="str_inventory_title_trinketderesolve_stone"><![CDATA[TODO:Hindering Stone]]></entry>
+<entry id="str_inventory_title_trinketresolve_stone"><![CDATA[Pierre de progression]]></entry>
+<entry id="str_inventory_title_trinketderesolve_stone"><![CDATA[Pierre de régression]]></entry>
 <entry id="str_inventory_title_trinketstone_of_endurance"><![CDATA[TODO:Stone of Endurance]]></entry>
-<entry id="str_inventory_title_trinketmoon_crown"><![CDATA[TODO:Moon Crown]]></entry>
+<entry id="str_inventory_title_trinketmoon_crown"><![CDATA[Couronne lunaire]]></entry>
 <entry id="str_inventory_title_trinketaccuracy_stone"><![CDATA[Pierre de précision]]></entry>
 <entry id="str_inventory_title_trinketagile_talon"><![CDATA[Serre d'agilité]]></entry>
 <entry id="str_inventory_title_trinketagility_whistle"><![CDATA[Sifflet d'agilité]]></entry>
@@ -3639,7 +3639,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketseer_stone"><![CDATA[Pierre de prophète]]></entry>
 <entry id="str_inventory_title_trinketseers_satchel"><![CDATA[TODO:Deadeye Satchel]]></entry>
 <entry id="str_inventory_title_trinketselfish_armlet"><![CDATA[Bracelet léger]]></entry>
-<entry id="str_inventory_title_trinketselfish_pendant"><![CDATA[TODO:Glimmering Pendant]]></entry>
+<entry id="str_inventory_title_trinketselfish_pendant"><![CDATA[Pendentif brillant]]></entry>
 <entry id="str_inventory_title_trinketsharpening_sheath"><![CDATA[Fourreau aiguisoir]]></entry>
 <entry id="str_inventory_title_trinketshimmering_cloak"><![CDATA[Cape chatoyante]]></entry>
 <entry id="str_inventory_title_trinketsiren_5"><![CDATA[Conque de la Sirène]]></entry>
@@ -3749,7 +3749,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketcauldron_hand"><![CDATA[TODO:Half-Cooked Hand]]></entry>
 <entry id="str_inventory_title_trinketcache_sword"><![CDATA[Lame runique]]></entry>
 <entry id="str_inventory_title_trinketamber_extraction_kit"><![CDATA[TODO:Amber Extraction Kit]]></entry>
-<entry id="str_inventory_title_trinketamber_compass"><![CDATA[TODO:Amber Compass]]></entry>
+<entry id="str_inventory_title_trinketamber_compass"><![CDATA[Compas d'ambre]]></entry>
 <entry id="str_inventory_title_trinketamber_incense"><![CDATA[TODO:Amber Incense]]></entry>
 <entry id="str_inventory_title_trinketpoacher_mask"><![CDATA[TODO:Poacher's Garb]]></entry>
 <entry id="str_inventory_title_trinketarchaeologist_compendium"><![CDATA[TODO:Archaeologist's Compendium]]></entry>
@@ -3757,9 +3757,9 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketcursed_golem_scraps"><![CDATA[TODO:Cursed Golem Scraps]]></entry>
 <entry id="str_inventory_title_trinketamber_encased_specimens"><![CDATA[TODO:Amber Encased Specimens]]></entry>
 <entry id="str_inventory_title_trinketmusk_live_ammo"><![CDATA[TODO:Living Ammo]]></entry>
-<entry id="str_inventory_title_trinketanti_amber_grinder"><![CDATA[TODO:Amber Grinder]]></entry>
-<entry id="str_inventory_title_trinketflag_flesh_eating_helm"><![CDATA[TODO:Flesh-Eating Helm]]></entry>
-<entry id="str_inventory_title_trinketmaa_amber_halo"><![CDATA[TODO:Amber Aureole]]></entry>
+<entry id="str_inventory_title_trinketanti_amber_grinder"><![CDATA[Broyeur d'ambre]]></entry>
+<entry id="str_inventory_title_trinketflag_flesh_eating_helm"><![CDATA[Masque dévoreur de chair]]></entry>
+<entry id="str_inventory_title_trinketmaa_amber_halo"><![CDATA[Auréole d'ambre]]></entry>
 <entry id="str_inventory_title_trinkethwm_damascene_pistol"><![CDATA[TODO:Damascene Pistol]]></entry>
 <entry id="str_inventory_title_trinkethell_raiding_horn"><![CDATA[Corne de ferveur]]></entry>
 <entry id="str_inventory_title_trinketpilebunker"><![CDATA[TODO:Pilebunker]]></entry>
@@ -3772,7 +3772,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketperfumers_needle"><![CDATA[TODO:Perfumer's Needle]]></entry>
 <entry id="str_inventory_title_trinketabom_bloodtaint_strain"><![CDATA[TODO:Bloodtaint Strain]]></entry>
 <entry id="str_inventory_title_trinketarb_jolly_bandana"><![CDATA[TODO:Jolly Bandana]]></entry>
-<entry id="str_inventory_title_trinketgr_private_reserve"><![CDATA[TODO:The Private Reserve]]></entry>
+<entry id="str_inventory_title_trinketgr_private_reserve"><![CDATA[La réserve privée]]></entry>
 <entry id="str_inventory_title_trinketocc_smoldering_soapstone"><![CDATA[TODO:Smoldering Soapstone]]></entry>
 <entry id="str_inventory_title_trinketvestal_bloodlust_periapt"><![CDATA[TODO:Bloodlust Periapt]]></entry>
 <entry id="str_inventory_title_trinketcru_ostvengr_banner"><![CDATA[TODO:Remnant of the Empire]]></entry>
