@@ -220,7 +220,7 @@
     <entry id="effect_tooltip_guard_performer"><![CDATA[Force {colour_start|guard}Guard{colour_end} by Ally]]></entry>
     <entry id="effect_tooltip_heal_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d HP]]></entry>
     <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d pts/tn for %d tns]]></entry>
-    <entry id="aaaeffect_tooltip_kill_enemy_type"><![CDATA[Clear all %ss]]></entry>
+    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Clear all %ss]]></entry>
     <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Knockback{colour_end} %d]]></entry>
     <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Pull{colour_end} %d]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[All Heroes:]]></entry>
