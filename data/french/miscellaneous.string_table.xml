@@ -1772,7 +1772,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="str_ui_hero_to_hit"><![CDATA[Succès]]></entry>
 <entry id="str_ui_hp_heal_dot_onset"><![CDATA[Restauration]]></entry>
 <entry id="str_ui_hunger_choice_eat"><![CDATA[Manger %.0f de nourriture, regagner %d%% de santé]]></entry>
-<entry id="str_ui_hunger_choice_starve"><![CDATA[[Ne pas manger, subir %d%% de dégâts et du stress]]></entry>
+<entry id="str_ui_hunger_choice_starve"><![CDATA[Ne pas manger, subir %d%% de dégâts et du stress]]></entry>
 <entry id="str_ui_hunger_content"><![CDATA[L'effort de l'aventure a généré au sein du groupe une faim grandissante.]]></entry>
 <entry id="str_ui_hunger_title"><![CDATA[Faim]]></entry>
 <entry id="str_ui_immune"><![CDATA[IMMUNITÉ !]]></entry>
@@ -1852,7 +1852,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_event_description_idle_resolve_level_plague_doctor"><![CDATA[L'ombre de la maladie et de l'affliction s'est portée sur notre Hameau, accompagnée de la panique.]]></entry>
 <entry id="town_event_description_idle_stress_heal_buff"><![CDATA[…et malgré le fait que cette campagne semble interminable, les récents évènements donnent du courage à l'équipe actuelle. Leur assurance n'a jamais été aussi grande.]]></entry>
 <entry id="town_event_description_in_activity_buff_stress_heal_buff"><![CDATA[Ce temps agréable est un changement bienvenu, particulièrement pour ceux qui profitent d'une période de convalescence.]]></entry>
-<entry id="town_event_description_in_activity_buff_stress_heal_debuff"><![CDATA[[...Comme l'a dit quelqu'un, "Y'a un truc pas net avec ces ombres-là, qui font rien qu'à bouger et qu'à s'tordre comme ça." On recommande aux habitants de ne pas sortir de chez eux avant le lever du soleil.]]></entry>
+<entry id="town_event_description_in_activity_buff_stress_heal_debuff"><![CDATA[...Comme l'a dit quelqu'un, "Y'a un truc pas net avec ces ombres-là, qui font rien qu'à bouger et qu'à s'tordre comme ça." On recommande aux habitants de ne pas sortir de chez eux avant le lever du soleil.]]></entry>
 <entry id="town_event_description_lock_bar_discount_tavern"><![CDATA[Il parait ironique que les individus les plus perturbés par la pénurie actuelle d'alcool et d'hydromel sont ceux-là même dont l'exubérance sans limite de la nuit passée a épuisé les réserves.]]></entry>
 <entry id="town_event_description_lock_brothel_discount_tavern"><![CDATA[Les draps et les taies brillent d'une blancheur intense sur leur fil, leur histoire lascive des derniers jours aisément effacée, au contraire des consciences de ceux qui les ont souillés.]]></entry>
 <entry id="town_event_description_lock_flagellation_discount_abbey"><![CDATA[L'abbé refuse de commenter l'état actuel de la salle de pénitence, sauf pour dire qu'il prévoit une reprise des activités habituelles sous peu.]]></entry>
@@ -1873,7 +1873,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_event_info_format_activity_cost_change"><![CDATA[Prix modifié : {?activity}%s / {?cost_change}%d%%]]></entry>
 <entry id="town_event_info_format_activity_lock"><![CDATA[L'activité %s est fermée]]></entry>
 <entry id="town_event_info_format_embark_party_buff"><![CDATA[%s pour la prochaine quête]]></entry>
-<entry id="town_event_info_format_free_activity"><![CDATA[[Activité gratuite : %s]]></entry>
+<entry id="town_event_info_format_free_activity"><![CDATA[Activité gratuite : %s]]></entry>
 <entry id="town_event_info_format_idle_buff"><![CDATA[Héros inactifs : %s]]></entry>
 <entry id="town_event_info_format_idle_resolve_level"><![CDATA[Héros inactifs : les {?hero_class}%ss gagnent {?resolve_level}%d de détermination]]></entry>
 <entry id="town_event_info_format_plot_quest"><![CDATA[Quête narrative : %s]]></entry>
