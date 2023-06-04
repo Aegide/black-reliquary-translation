@@ -252,11 +252,11 @@
 <entry id="enemy_type_name_beast"><![CDATA[TODO:Beast]]></entry>
 <entry id="enemy_type_name_carpentry"><![CDATA[TODO:Carpentry]]></entry>
 <entry id="enemy_type_name_cauldron"><![CDATA[TODO:Crockery]]></entry>
-<entry id="enemy_type_name_corpse"><![CDATA[TODO:Corpse]]></entry>
+<entry id="enemy_type_name_corpse"><![CDATA[Cadavre]]></entry>
 <entry id="enemy_type_name_cosmic"><![CDATA[TODO:Cosmic]]></entry>
 <entry id="enemy_type_name_eldritch"><![CDATA[TODO:Eldritch]]></entry>
 <entry id="enemy_type_name_ironwork"><![CDATA[TODO:Ironwork]]></entry>
-<entry id="enemy_type_name_man"><![CDATA[TODO:Human]]></entry>
+<entry id="enemy_type_name_man"><![CDATA[Humain]]></entry>
 <entry id="enemy_type_name_seperator"><![CDATA[TODO:/]]></entry>
 <entry id="enemy_type_name_thatchery"><![CDATA[TODO:Thatchery]]></entry>
 <entry id="enemy_type_name_unholy"><![CDATA[TODO:Unholy]]></entry>
@@ -376,11 +376,11 @@
 <entry id="menu_options_value_seperation_resolution"><![CDATA[x]]></entry>
 <entry id="menu_transfer_and_enable_steam_files"><![CDATA[Ok]]></entry>
 <entry id="menu_transfer_saves_to_steam"><![CDATA[TODO:We've enabled Steam Cloud saves. Your save files have moved to your Steam user directory.]]></entry>
-<entry id="monster_panel_resistances"><![CDATA[TODO:Resistances]]></entry>
-<entry id="monster_tooltip_dodge_format"><![CDATA[TODO:DODGE: %0.f]]></entry>
+<entry id="monster_panel_resistances"><![CDATA[Résistances]]></entry>
+<entry id="monster_tooltip_dodge_format"><![CDATA[ESQUIVE : %0.f]]]></entry>
 <entry id="monster_tooltip_hp_format"><![CDATA[PV : %.0f/%.0f]]></entry>
-<entry id="monster_tooltip_prot_format"><![CDATA[TODO:PROT: %.0f%%]]></entry>
-<entry id="monster_tooltip_speed_format"><![CDATA[TODO:SPD: %0.f]]></entry>
+<entry id="monster_tooltip_prot_format"><![CDATA[PROT : %.0f%%]]></entry>
+<entry id="monster_tooltip_speed_format"><![CDATA[VIT : %0.f]]></entry>
 <entry id="no_shovel"><![CDATA[TODO:You don't have a shovel!]]></entry>
 <entry id="no_shovel_confirm"><![CDATA[TODO:You aren't carrying a shovel!]]></entry>
 <entry id="not_enough_camping_points"><![CDATA[TODO:Not enough Camping points!]]></entry>
@@ -403,12 +403,12 @@
 <entry id="options_value_subtitles_high"><![CDATA[TODO:Top]]></entry>
 <entry id="options_value_subtitles_low"><![CDATA[TODO:Bottom]]></entry>
 <entry id="options_value_subtitles_off"><![CDATA[TODO:Off]]></entry>
-<entry id="pass_ability_description"><![CDATA[TODO:PASS TURN 
-(hero will suffer stress)]]></entry>
+<entry id="pass_ability_description"><![CDATA[PASSER LE TOUR
+(le héros subira du stress)]]></entry>
 <entry id="provision_sell_back_info"><![CDATA[TODO:[CLICK] inventory to sell back]]></entry>
 <entry id="quirk_curio_tag_explicit_format"><![CDATA[TODO:Curio Tag: {?curio_tag_chance}%+d%% chance of interacting with {?curio_tag}%s curios]]></entry>
-<entry id="raid_quest_complete"><![CDATA[TODO:Quest Complete!]]></entry>
-<entry id="raid_results_hero_resolve_from_quest"><![CDATA[TODO:+%d Resolve XP]]></entry>
+<entry id="raid_quest_complete"><![CDATA[Quête accomplie !]]></entry>
+<entry id="raid_results_hero_resolve_from_quest"><![CDATA[EXP de détermination +%d]]></entry>
 <entry id="raid_results_new_quirks_title"><![CDATA[TODO:New Quirks:]]></entry>
 <entry id="raid_results_party_gold_inventory_title"><![CDATA[Trésors collectés]]></entry>
 <entry id="raid_results_progression_heroes"><![CDATA[Suivant]]></entry>
@@ -1713,7 +1713,7 @@
 <entry id="str_stat_defense_bonus"><![CDATA[Mod. d'ESQUIVE]]></entry>
 <entry id="str_stat_health_points_bonus"><![CDATA[Mod. de PV]]></entry>
 <entry id="str_stat_maxhp"><![CDATA[POINTS DE VIE MAX]]></entry>
-<entry id="str_stat_protection"><![CDATA[POINTS DE PROTECTION]]></entry>
+<entry id="str_stat_protection"><![CDATA[PROTECTION]]></entry>
 <entry id="str_stat_protection_bonus"><![CDATA[Mod. de PROT]]></entry>
 <entry id="str_stat_speed"><![CDATA[VITESSE]]></entry>
 <entry id="str_stat_speed_bonus"><![CDATA[Mod. de VIT]]></entry>
