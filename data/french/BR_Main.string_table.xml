@@ -3025,7 +3025,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[Soins de {colour_start|stress}stress{colour_end} reçus %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent_camping_eat"><![CDATA[TODO:%+d%% {colour_start|stress}Stress Healing {colour_end}Received from Camping Meal]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent_hero_crit"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Healing Received from Crits]]></entry>
-<entry id="buff_stat_tooltip_damage_received_percent"><![CDATA[TODO:%+d%% Damage Taken]]></entry>
+<entry id="buff_stat_tooltip_damage_received_percent"><![CDATA[DGT subis %+d%%]]></entry>
 <entry id="buff_rule_data_tooltip_apprentice"><![CDATA[TODO:Apprentice Monsters]]></entry>
 <entry id="buff_rule_data_tooltip_veteran"><![CDATA[TODO:Veteran Monsters]]></entry>
 <entry id="buff_rule_data_tooltip_champion"><![CDATA[TODO:Champion Monsters]]></entry>
@@ -4662,10 +4662,10 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_necrophobe"><![CDATA[Necrophobe]]></entry>
 <entry id="str_quirk_name_giant_slayer"><![CDATA[Tueur de géants]]></entry>
 <entry id="str_quirk_name_easily_intimidated"><![CDATA[Facile à intimider]]></entry>
-<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[Maîtrise (Catacombes)]]></entry>
-<entry id="str_quirk_name_exposed_interior_adventurer"><![CDATA[Maîtrise (Intérieur)]]></entry>
-<entry id="str_quirk_name_caverns_adventurer"><![CDATA[Maîtrise (Cavernes)]]></entry>
-<entry id="str_quirk_name_treasury_adventurer"><![CDATA[Maîtrise (Trésorerie)]]></entry>
+<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[Calme (Catacombes)]]></entry>
+<entry id="str_quirk_name_exposed_interior_adventurer"><![CDATA[Calme (Intérieur)]]></entry>
+<entry id="str_quirk_name_caverns_adventurer"><![CDATA[Calme (Cavernes)]]></entry>
+<entry id="str_quirk_name_treasury_adventurer"><![CDATA[Calme (Trésorerie)]]></entry>
 <entry id="str_quirk_name_catacombs_phobe"><![CDATA[Phobie des Catacombes]]></entry>
 <entry id="str_quirk_name_exposed_interior_phobe"><![CDATA[Phobie de l'Intérieur]]></entry>
 <entry id="str_quirk_name_caverns_phobe"><![CDATA[Phobie des Cavernes]]></entry>

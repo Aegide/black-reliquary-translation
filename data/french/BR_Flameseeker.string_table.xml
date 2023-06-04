@@ -471,7 +471,7 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="party_name_default"><![CDATA[Formez un groupe à partir de la liste de recrues]]></entry>
 <entry id="str_hero_slot_locked_bar"><![CDATA[TODO:Cancel Activity]]></entry>
 <entry id="str_hero_slot_locked_brothel"><![CDATA[TODO:Cancel Activity]]></entry>
-<entry id="str_hero_slot_locked_cancel_confirm"><![CDATA[TODO:You will not be refunded the cost, but the hero will be immediately available for use on quests. Are you sure?]]></entry>
+<entry id="str_hero_slot_locked_cancel_confirm"><![CDATA[Le traitement ne sera pas remboursé, mais le héros sera immédiatement disponible pour partir en quête. Confirmer ?]]></entry>
 <entry id="str_hero_slot_locked_cancel_confirm_no"><![CDATA[Non]]></entry>
 <entry id="str_hero_slot_locked_cancel_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="str_hero_slot_locked_disease_treatment"><![CDATA[TODO:Cancel Activity]]></entry>
