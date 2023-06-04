@@ -188,7 +188,7 @@
 <entry id="corrupt_save_confirm_answer_load_corrupted_save"><![CDATA[TODO:Attempt to load anyway. (NOT RECOMMENDED)]]></entry>
 <entry id="corrupt_save_confirm_question"><![CDATA[TODO:Your save file appears to have been corrupted. We recommend backing up your save files to your Desktop or other location before continuing.]]></entry>
 <entry id="dlc_missing_for_save_confirm_question"><![CDATA[TODO:Your save file requires DLC that isn't installed. Estate cannot be loaded. Please reinstall DLC and try again.]]></entry>
-<entry id="curio_announcement_purge_format"><![CDATA[TODO:%s Quirk Removed!]]></entry>
+<entry id="curio_announcement_purge_format"><![CDATA[Attribut "%s" supprimé !]]></entry>
 <entry id="str_curio_no_negative_quirks_to_remove"><![CDATA[TODO:No negative quirks to remove.]]></entry>
 <entry id="curio_type_All"><![CDATA[TODO:all]]></entry>
 <entry id="curio_type_Body"><![CDATA[TODO:body]]></entry>
@@ -420,7 +420,7 @@
 <entry id="realm_inventory_sell_trinket_confirm_no"><![CDATA[TODO:No]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_question_format"><![CDATA[TODO:Really sell {?item_name}%s for {?amount}%d gold?]]></entry>
 <entry id="realm_inventory_sell_trinket_confirm_yes"><![CDATA[Oui]]></entry>
-<entry id="realm_inventory_trinket_sell_description"><![CDATA[TODO:Sell trinket for:]]></entry>
+<entry id="realm_inventory_trinket_sell_description"><![CDATA[Vendre breloque pour :]]></entry>
 <entry id="realm_inventory_trinket_sell_instruction"><![CDATA[Maintenir [MAJ] permet de vendre des breloques]]></entry>
 <entry id="resistance_base"><![CDATA[de base]]></entry>
 <entry id="resistance_name_bleed"><![CDATA[{colour_start|bleed}Saignement{colour_end}]]></entry>
@@ -2234,7 +2234,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="effect_unstealth_format"><![CDATA[{colour_start|stealth}Sortie de furtivité{colour_end}]]></entry>
 <entry id="effect_health_damage_blocks_format"><![CDATA[%d absorption(s)]]></entry>
 <entry id="tray_icon_tooltip_health_damage_blocks_format"><![CDATA[%d absorption(s) restante(s)]]></entry>
-<entry id="buff_stat_tooltip_guard_blocked"><![CDATA[Garde inefficace]]></entry>
+<entry id="buff_stat_tooltip_guard_blocked"><![CDATA[{colour_start|guard}Garde{colour_end} inefficace]]></entry>
 <entry id="str_ui_health_damage_block_onset"><![CDATA[Égide]]></entry>
 <entry id="str_ui_health_damage_block"><![CDATA[Absorption]]></entry>
 <entry id="str_ui_tag_block"><![CDATA[Absorption]]></entry>
