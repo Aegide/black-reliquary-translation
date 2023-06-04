@@ -103,7 +103,7 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="effect_tooltip_clear_stress_dot"><![CDATA[TODO:Clear {colour_start|stress}Horror{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_deathblow_chance"><![CDATA[TODO:%+d%% {colour_start|deathblow}Death Blow{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_torch_decrease_percent"><![CDATA[TODO:%+d%% Torch Decrease Modifier]]></entry>
-<entry id="buff_rule_tooltip_is_actor_status"><![CDATA[TODO:%s while %s]]></entry>
+<entry id="buff_rule_tooltip_is_actor_status"><![CDATA[%s durant %s]]></entry>
 <entry id="buff_rule_data_tooltip_veil_lifesteal"><![CDATA[TODO:Withering Chant]]></entry>
 <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d pts/tn for %d tns]]></entry>
 <entry id="effect_tooltip_hp_heal_party_dot_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} Party %d pts/tn for %d tns]]></entry>

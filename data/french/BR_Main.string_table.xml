@@ -2965,7 +2965,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_crest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_bust"><![CDATA[TODO:{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_actorStatus_false"><![CDATA[TODO:%s vs not %s]]></entry>
-<entry id="buff_rule_tooltip_is_actor_status_false"><![CDATA[TODO:%s if not %s]]></entry>
+<entry id="buff_rule_tooltip_is_actor_status_false"><![CDATA[%s durant %s]]></entry>
 <entry id="buff_stat_tooltip_hp_dot_poison_duration_percent"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Duration Applied]]></entry>
 <entry id="buff_stat_tooltip_hp_dot_poison_duration_received_percent"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Duration Received]]></entry>
 <entry id="buff_stat_tooltip_hp_dot_poison_amount_percent"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
