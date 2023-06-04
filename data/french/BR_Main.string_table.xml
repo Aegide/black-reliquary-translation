@@ -4872,7 +4872,7 @@ the Treasury successfully gives buffs
 <entry id="buff_rule_data_tooltip_penitent"><![CDATA[TODO:Penitent]]></entry>
 <entry id="buff_rule_data_tooltip_convalescent"><![CDATA[TODO:Convalescent]]></entry>
 <entry id="buff_rule_data_tooltip_rampager"><![CDATA[TODO:Rampager]]></entry>
-<entry id="buff_rule_tooltip_has_quirk"><![CDATA[TODO:%s if %s]]></entry>
+<entry id="buff_rule_tooltip_has_quirk"><![CDATA[%s si %s]]></entry>
 <entry id="buff_rule_tooltip_has_quirk_false"><![CDATA[TODO:%s if not %s]]></entry>
 <entry id="character_title_quirks"><![CDATA[]]></entry>
 <entry id="character_title_class_bonuses"><![CDATA[Symptômes/Maladies]]></entry>
