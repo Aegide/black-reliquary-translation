@@ -241,7 +241,7 @@
 <entry id="effect_tooltip_target"><![CDATA[Cible :]]></entry>
 <entry id="effect_tooltip_target_buff"><![CDATA[{colour_start|buff}Bonus sur cible :{colour_end}]]></entry>
 <entry id="effect_tooltip_target_debuff"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end}]]></entry>
-<entry id="effect_tooltip_target_group"><![CDATA[[Groupe ennemi :]]></entry>
+<entry id="effect_tooltip_target_group"><![CDATA[Groupe ennemi :]]></entry>
 <entry id="effect_tooltip_target_group_buff"><![CDATA[{colour_start|buff}Bonus ennemis :{colour_end}]]></entry>
 <entry id="effect_tooltip_target_group_debuff"><![CDATA[{colour_start|debuff}Malus ennemis :{colour_end}]]></entry>
 <entry id="effect_tooltip_target_group_other_buff"><![CDATA[{colour_start|buff}Bonus autres ennemis :{colour_end}]]></entry>
@@ -272,7 +272,7 @@
 <entry id="game_over_number_of_weeks_format"><![CDATA[Semaines : %d]]></entry>
 <entry id="game_over_porgress_forward"><![CDATA[Échec]]></entry>
 <entry id="game_over_reason_dead_heroes"><![CDATA[Le sang des morts a revigoré la Chose, accélérant ainsi sa renaissance !]]></entry>
-<entry id="game_over_reason_weeks"><![CDATA[[Trop de temps a passé, la créature est toute puissante et s'apprête à prendre les étoiles d'assaut !]]></entry>
+<entry id="game_over_reason_weeks"><![CDATA[Trop de temps a passé, la créature est toute puissante et s'apprête à prendre les étoiles d'assaut !]]></entry>
 <entry id="graveyard_death_count_format"><![CDATA[Morts : %d/%d]]></entry>
 <entry id="help_panel_back"><![CDATA[{colour_start|help_panel_controls}Retour{colour_end}]]></entry>
 <entry id="help_panel_controls"><![CDATA[{colour_start|help_panel_controls}Contrôles{colour_end}]]></entry>
