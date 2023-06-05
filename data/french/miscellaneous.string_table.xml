@@ -2172,7 +2172,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="tray_icon_tooltip_guard_name_with_rank_format"><![CDATA[%s (rang : %d)]]></entry>
 <entry id="tray_icon_tooltip_guard_title"><![CDATA[Héros gardé par :]]></entry>
 <entry id="tray_icon_tooltip_immobilized"><![CDATA[Immobilisation]]></entry>
-<entry id="tray_icon_tooltip_poison_format"><![CDATA[%d damage per rd (%d rds)]]></entry>
+<entry id="tray_icon_tooltip_poison_format"><![CDATA[%d dégâts par tr (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_riposte"><![CDATA[{colour_start|riposte}RIPOSTE{colour_end} (%d tours)]]></entry>
 <entry id="tray_icon_tooltip_stress_dot_format"><![CDATA[%d stress par tr (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_tag_hero"><![CDATA[Attire l'ennemi et devient susceptible à certaines attaques.]]></entry>
