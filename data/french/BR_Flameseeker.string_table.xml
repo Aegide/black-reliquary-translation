@@ -268,7 +268,7 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_heroes_generated_format"><![CDATA[Fixe à %d le nombre de héros disponibles]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_items_generated_format"><![CDATA[TODO:Increases number of trinkets available to %d]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_quirk_slots_format"><![CDATA[TODO:Increases number of treatment ward slots to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Fixe à %d le nombre de breloques disponibles]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Fixe à %d le nombre d'emplacements]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[Fixe à %d la capacité de la liste de recrues]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[Améliore la réduction du stress]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_upgraded_recruit_level_format"><![CDATA[Des héros de niveau %d apparaîtront parfois dans le ferry]]></entry>

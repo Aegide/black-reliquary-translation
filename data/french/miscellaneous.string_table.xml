@@ -372,7 +372,7 @@
 <entry id="menu_options_element_tutorial"><![CDATA[Tutoriels]]></entry>
 <entry id="menu_options_element_video_volume"><![CDATA[Volume des cinématiques]]></entry>
 <entry id="menu_options_not_recommended_confirm_dialog"><![CDATA[Il est recommandé de conserver cette option pour une expérience plus authentique. Désactiver quand même ?]]></entry>
-<entry id="menu_options_require_restart"><![CDATA[Vous devrez relancer le jeu pour que ces modifications soient prises en compte.]]></entry>
+<entry id="menu_options_require_restart"><![CDATA[Relancez le jeu pour que ces modifications soient prises en compte.]]></entry>
 <entry id="menu_options_value_seperation_resolution"><![CDATA[x]]></entry>
 <entry id="menu_transfer_and_enable_steam_files"><![CDATA[Ok]]></entry>
 <entry id="menu_transfer_saves_to_steam"><![CDATA[Nous avons activé la sauvegarde Steam Cloud. Vos fichiers de sauvegarde ont été transférés dans votre répertoire utilisateur Steam.]]></entry>

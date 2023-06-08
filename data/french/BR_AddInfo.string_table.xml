@@ -152,7 +152,7 @@ Mode persists after combat end]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT2"><![CDATA[TODO:+2 {colour_start|bleed}Bleed{colour_end} Amount per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_RIPO_TT3"><![CDATA[TODO:+20% {colour_start|bleed}Bleed{colour_end} Chance per Difficulty]]></entry>
-<entry id="camping_skill_effect_loot_GR_BREL_RIPO_TT"><![CDATA[TODO:Armor Piercing]]></entry>
+<entry id="camping_skill_effect_loot_GR_BREL_RIPO_TT"><![CDATA[Perçage d'armure]]></entry>
 <entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT"><![CDATA[TODO:+25% DMG vs Target below 25% HP]]></entry>
 <entry id="camping_skill_effect_loot_HEL_BREL_RIPO_TT2"><![CDATA[TODO:+10% CRT vs Target below 25% HP]]></entry>
 <entry id="camping_skill_effect_loot_HM_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|stun}Stun{colour_end} Resist {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
