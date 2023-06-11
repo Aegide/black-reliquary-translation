@@ -202,73 +202,73 @@ Ordre]]></entry>
 <entry id="combat_skill_name_man_at_arms_bolster"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
 Soutien]]></entry>
 <entry id="combat_skill_name_man_at_arms_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.crush"><![CDATA[TODO:Crush]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.rampart"><![CDATA[TODO:Rampart]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.bellow"><![CDATA[TODO:Bellow]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.defender"><![CDATA[TODO:Defender]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.retribution"><![CDATA[TODO:Retribution]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.command"><![CDATA[TODO:Command]]></entry>
-<entry id="upgrade_tree_name_man_at_arms.bolster"><![CDATA[TODO:Bolster]]></entry>
-<entry id="combat_skill_name_houndmaster_hounds_rush"><![CDATA[TODO:Hound's Rush]]></entry>
-<entry id="combat_skill_name_houndmaster_hounds_harry"><![CDATA[TODO:Hound's Harry]]></entry>
-<entry id="combat_skill_name_houndmaster_whistle"><![CDATA[TODO:Target Whistle]]></entry>
-<entry id="combat_skill_name_houndmaster_howl"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Cry Havoc]]></entry>
-<entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Guard Dog]]></entry>
-<entry id="combat_skill_name_houndmaster_lick_wounds"><![CDATA[TODO:Lick Wounds]]></entry>
-<entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[TODO:Blackjack]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.crush"><![CDATA[Écraser]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.rampart"><![CDATA[Rempart]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.bellow"><![CDATA[Beuglement]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.defender"><![CDATA[Défenseur]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.retribution"><![CDATA[Châtiment]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.command"><![CDATA[Ordre]]></entry>
+<entry id="upgrade_tree_name_man_at_arms.bolster"><![CDATA[Soutien]]></entry>
+<entry id="combat_skill_name_houndmaster_hounds_rush"><![CDATA[Assaut canin]]></entry>
+<entry id="combat_skill_name_houndmaster_hounds_harry"><![CDATA[Harcèlement canin]]></entry>
+<entry id="combat_skill_name_houndmaster_whistle"><![CDATA[Sifflet de ciblage]]></entry>
+<entry id="combat_skill_name_houndmaster_howl"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Hurler au loup]]></entry>
+<entry id="combat_skill_name_houndmaster_guard_dog"><![CDATA[ {colour_start|white}əəəə{colour_end}
+Chien de garde]]></entry>
+<entry id="combat_skill_name_houndmaster_lick_wounds"><![CDATA[Léchage de plaies]]></entry>
+<entry id="combat_skill_name_houndmaster_blackjack"><![CDATA[Blackjack]]></entry>
 <entry id="combat_skill_name_houndmaster_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_houndmaster.hounds_rush"><![CDATA[TODO:Hound's Rush]]></entry>
-<entry id="upgrade_tree_name_houndmaster.hounds_harry"><![CDATA[TODO:Hound's Harry]]></entry>
-<entry id="upgrade_tree_name_houndmaster.whistle"><![CDATA[TODO:Target Whistle]]></entry>
-<entry id="upgrade_tree_name_houndmaster.howl"><![CDATA[TODO:Cry Havoc]]></entry>
-<entry id="upgrade_tree_name_houndmaster.guard_dog"><![CDATA[TODO:Guard Dog]]></entry>
-<entry id="upgrade_tree_name_houndmaster.lick_wounds"><![CDATA[TODO:Lick Wounds]]></entry>
-<entry id="upgrade_tree_name_houndmaster.blackjack"><![CDATA[TODO:Blackjack]]></entry>
-<entry id="combat_skill_name_abomination_transform"><![CDATA[TODO:Transform]]></entry>
-<entry id="combat_skill_name_abomination_manacles"><![CDATA[TODO:Manacles]]></entry>
-<entry id="combat_skill_name_abomination_vomit"><![CDATA[TODO:Beast's Bile]]></entry>
-<entry id="combat_skill_name_abomination_absolution"><![CDATA[TODO:Absolution]]></entry>
-<entry id="combat_skill_name_abomination_rake"><![CDATA[TODO:Rake]]></entry>
-<entry id="combat_skill_name_abomination_rage"><![CDATA[TODO:Rage]]></entry>
-<entry id="combat_skill_name_abomination_slam"><![CDATA[TODO:Slam]]></entry>
+<entry id="upgrade_tree_name_houndmaster.hounds_rush"><![CDATA[Assaut canin]]></entry>
+<entry id="upgrade_tree_name_houndmaster.hounds_harry"><![CDATA[Harcèlement canin]]></entry>
+<entry id="upgrade_tree_name_houndmaster.whistle"><![CDATA[Sifflet de ciblage]]></entry>
+<entry id="upgrade_tree_name_houndmaster.howl"><![CDATA[Hurler au loup]]></entry>
+<entry id="upgrade_tree_name_houndmaster.guard_dog"><![CDATA[Chien de garde]]></entry>
+<entry id="upgrade_tree_name_houndmaster.lick_wounds"><![CDATA[Léchage de plaies]]></entry>
+<entry id="upgrade_tree_name_houndmaster.blackjack"><![CDATA[Blackjack]]></entry>
+<entry id="combat_skill_name_abomination_transform"><![CDATA[Transformation]]></entry>
+<entry id="combat_skill_name_abomination_manacles"><![CDATA[Chaînes]]></entry>
+<entry id="combat_skill_name_abomination_vomit"><![CDATA[Bile bestiale]]></entry>
+<entry id="combat_skill_name_abomination_absolution"><![CDATA[Absolution]]></entry>
+<entry id="combat_skill_name_abomination_rake"><![CDATA[Griffure]]></entry>
+<entry id="combat_skill_name_abomination_rage"><![CDATA[Rage]]></entry>
+<entry id="combat_skill_name_abomination_slam"><![CDATA[Charge]]></entry>
 <entry id="combat_skill_name_abomination_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_abomination.transform"><![CDATA[TODO:Transform]]></entry>
-<entry id="upgrade_tree_name_abomination.manacles"><![CDATA[TODO:Manacles]]></entry>
-<entry id="upgrade_tree_name_abomination.vomit"><![CDATA[TODO:Beast's Bile]]></entry>
-<entry id="upgrade_tree_name_abomination.absolution"><![CDATA[TODO:Absolution]]></entry>
-<entry id="upgrade_tree_name_abomination.rake"><![CDATA[TODO:Rake]]></entry>
-<entry id="upgrade_tree_name_abomination.rage"><![CDATA[TODO:Rage]]></entry>
-<entry id="upgrade_tree_name_abomination.slam"><![CDATA[TODO:Slam]]></entry>
+<entry id="upgrade_tree_name_abomination.transform"><![CDATA[Transformation]]></entry>
+<entry id="upgrade_tree_name_abomination.manacles"><![CDATA[Chaînes]]></entry>
+<entry id="upgrade_tree_name_abomination.vomit"><![CDATA[Bile bestiale]]></entry>
+<entry id="upgrade_tree_name_abomination.absolution"><![CDATA[Absolution]]></entry>
+<entry id="upgrade_tree_name_abomination.rake"><![CDATA[Griffure]]></entry>
+<entry id="upgrade_tree_name_abomination.rage"><![CDATA[Rage]]></entry>
+<entry id="upgrade_tree_name_abomination.slam"><![CDATA[Charge]]></entry>
 <entry id="combat_skill_name_antiquarian_kris_stab"><![CDATA[Coup nerveux]]></entry>
-<entry id="combat_skill_name_antiquarian_festering_vapours"><![CDATA[TODO:Festering Vapours]]></entry>
-<entry id="combat_skill_name_antiquarian_flashpowder"><![CDATA[TODO:Flashpowder]]></entry>
-<entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Mending Vapours]]></entry>
-<entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Fortifying Vapours]]></entry>
-<entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Protect Me]]></entry>
+<entry id="combat_skill_name_antiquarian_festering_vapours"><![CDATA[Vapeurs insidieuses]]></entry>
+<entry id="combat_skill_name_antiquarian_flashpowder"><![CDATA[Poudre aveuglante]]></entry>
+<entry id="combat_skill_name_antiquarian_fortifying_vapours"><![CDATA[{colour_start|white}əəəə{colour_end}
+Vapeurs vivifiantes]]></entry>
+<entry id="combat_skill_name_antiquarian_invigorating_vapours"><![CDATA[{colour_start|white}əəəə{colour_end}
+Vapeurs fortifiantes]]></entry>
+<entry id="combat_skill_name_antiquarian_protect_me"><![CDATA[{colour_start|white}əəəə{colour_end}
+Protection forcée]]></entry>
 <entry id="combat_skill_name_antiquarian_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_antiquarian.kris_stab"><![CDATA[Coup nerveux]]></entry>
-<entry id="upgrade_tree_name_antiquarian.festering_vapours"><![CDATA[TODO:Festering Vapours]]></entry>
-<entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[TODO:Flashpowder]]></entry>
-<entry id="upgrade_tree_name_antiquarian.fortifying_vapours"><![CDATA[TODO:Mending Vapours]]></entry>
-<entry id="upgrade_tree_name_antiquarian.invigorating_vapours"><![CDATA[TODO:Fortifying Vapours]]></entry>
-<entry id="upgrade_tree_name_antiquarian.protect_me"><![CDATA[TODO:Protect Me]]></entry>
-<entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[TODO:Smokescreen]]></entry>
-<entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[TODO:Call the Shot]]></entry>
-<entry id="combat_skill_name_musketeer_sidearm"><![CDATA[TODO:Sidearm]]></entry>
-<entry id="combat_skill_name_musketeer_patch_up"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Patch Up]]></entry>
-<entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[TODO:Skeet Shot]]></entry>
+<entry id="upgrade_tree_name_antiquarian.festering_vapours"><![CDATA[Vapeurs insidieuses]]></entry>
+<entry id="upgrade_tree_name_antiquarian.flashpowder"><![CDATA[Poudre aveuglante]]></entry>
+<entry id="upgrade_tree_name_antiquarian.fortifying_vapours"><![CDATA[Vapeurs vivifiantes]]></entry>
+<entry id="upgrade_tree_name_antiquarian.invigorating_vapours"><![CDATA[Vapeurs fortifiantes]]></entry>
+<entry id="upgrade_tree_name_antiquarian.protect_me"><![CDATA[Protection forcée]]></entry>
+<entry id="combat_skill_name_musketeer_smokescreen"><![CDATA[Écran de fumée]]></entry>
+<entry id="combat_skill_name_musketeer_call_the_shot"><![CDATA[Préparation au tir]]></entry>
+<entry id="combat_skill_name_musketeer_sidearm"><![CDATA[Arme d'appoint]]></entry>
+<entry id="combat_skill_name_musketeer_patch_up"><![CDATA[{colour_start|white}əəəə{colour_end}
+Rafistolage]]></entry>
+<entry id="combat_skill_name_musketeer_skeet_shot"><![CDATA[Tir aux pigeons]]></entry>
 <entry id="combat_skill_name_musketeer_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[TODO:Smokescreen]]></entry>
-<entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[TODO:Call the Shot]]></entry>
-<entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[TODO:Sidearm]]></entry>
-<entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[TODO:Patch Up]]></entry>
-<entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[TODO:Skeet Shot]]></entry>
+<entry id="upgrade_tree_name_musketeer.smokescreen"><![CDATA[Écran de fumée]]></entry>
+<entry id="upgrade_tree_name_musketeer.call_the_shot"><![CDATA[Préparation au tir]]></entry>
+<entry id="upgrade_tree_name_musketeer.sidearm"><![CDATA[Arme d'appoint]]></entry>
+<entry id="upgrade_tree_name_musketeer.patch_up"><![CDATA[Rafistolage]]></entry>
+<entry id="upgrade_tree_name_musketeer.skeet_shot"><![CDATA[Tir aux pigeons]]></entry>
 <entry id="camping_skill_name_encourage"><![CDATA[Encouragement]]></entry>
 <entry id="camping_skill_name_first_aid"><![CDATA[Pansements]]></entry>
 <entry id="camping_skill_name_pep_talk"><![CDATA[Motivation]]></entry>
