@@ -847,11 +847,11 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="town_estate_bar_tooltip_portrait"><![CDATA[TODO:Salvaged Jewelry: %d (Used to upgrade airship facilities.)]]></entry>
 <entry id="town_estate_bar_tooltip_shard"><![CDATA[TODO:Refined Amber Dust: %d (Used for luxury resources and activities.)]]></entry>
 <entry id="town_estate_bar_tooltip_blueprint"><![CDATA[TODO:Lost Tek: %d (Used to create ship decks.)]]></entry>
-<entry id="curio_tooltip_pass"><![CDATA[TODO:Ignore]]></entry>
-<entry id="str_curio_item_had_no_effect"><![CDATA[TODO:That item had no effect.]]></entry>
-<entry id="curio_tooltip_item_slot"><![CDATA[TODO:[OPTIONAL] Drag an item here to use it on this object.]]></entry>
-<entry id="curio_tooltip_item_slot_gather_curio"><![CDATA[TODO:[This is quest curio. No item is necessary to open it.]]]></entry>
-<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[TODO:Open it...]]></entry>
+<entry id="curio_tooltip_pass"><![CDATA[Ignorer]]></entry>
+<entry id="str_curio_item_had_no_effect"><![CDATA[L'objet n'a aucun effet.]]></entry>
+<entry id="curio_tooltip_item_slot"><![CDATA[[OPTIONNEL] Faites glisser un objet ici pour l'utiliser sur cet élément.]]></entry>
+<entry id="curio_tooltip_item_slot_gather_curio"><![CDATA[[Ceci est une curiosité de quête. Aucun objet requis pour l'ouvrir.]]]></entry>
+<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[Ouvrir...]]></entry>
 <entry id="str_curio_title_kvarotz_vase_tutorial"><![CDATA[TODO:Primeval Vase]]></entry>
 <entry id="str_curio_content_kvarotz_vase_tutorial"><![CDATA[TODO:Leftover pottery from the Kvarotz dynasty.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_vase_tutorial"><![CDATA[TODO:Peer inside...]]></entry>
@@ -1382,7 +1382,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_cact_imit_skeleton_key_summon_cact_imitator_key"><![CDATA[TODO:The key is spat back out like a bullet!]]></entry> 
 <entry id="str_curio_cact_imit_shovel_summon_cact_imitator_shovel"><![CDATA[TODO:The disguised cactonid is staggered by the hit!]]></entry>
 <entry id="str_curio_cact_imit_holy_water_summon_cact_imit_cursed"><![CDATA[TODO:The alum disturbs a relic inside of the Cactonid!]]></entry>
-<entry id="str_curio_title_dune_lilies"><![CDATA[TODO:Dune Lilies]]></entry>
+<entry id="str_curio_title_dune_lilies"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_curio_content_dune_lilies"><![CDATA[TODO:Beautiful glowing flowers. They seem delicate...]]></entry>
 <entry id="str_curio_tooltip_investigate_dune_lilies"><![CDATA[TODO:Such a beauty must be plucked...]]></entry>
 <entry id="str_curio_dune_lilies_nothing"><![CDATA[TODO:The dead flowers only looked fresh.]]></entry>
@@ -1403,7 +1403,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_poison_peddler_laudanum_effect"><![CDATA[TODO:The beverage makes you feel strange, but confident!]]></entry>
 <entry id="str_curio_poison_peddler_antivenom_effect"><![CDATA[TODO:The peddler makes the most incredible of antitoxins!]]></entry>
 <entry id="str_curio_poison_peddler_honing_oil_effect"><![CDATA[TODO:The peddler calls it "safer than being killed".]]></entry>
-<entry id="str_curio_title_cursed_gem_buyer"><![CDATA[TODO:Mythical Warrioress]]></entry>
+<entry id="str_curio_title_cursed_gem_buyer"><![CDATA[Guerrières légendaires]]></entry>
 <entry id="str_curio_content_cursed_gem_buyer"><![CDATA[TODO:VENDOR: She and her follower have come looking for dark treasures.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem5_loot"><![CDATA[TODO:The two gaze at the great orb and reward you appropriately.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem4_loot"><![CDATA[TODO:The ancient headgear is stuffed into a sack and your reward is presented.]]></entry>
@@ -1433,7 +1433,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_obstacle_caverns_torch_description"><![CDATA[TODO:This nest and mass of webs seems highly flammable.]]></entry>
 <entry id="str_obstacle_caverns_torch_title"><![CDATA[TODO:Egg Clutch]]></entry>
 <entry id="str_obstacle_treasury_blockage_description"><![CDATA[TODO:The fleshy plant life has become interwoven with the dense stone.]]></entry>
-<entry id="str_obstacle_treasury_blockage_title"><![CDATA[TODO:Living Rampart]]></entry>
+<entry id="str_obstacle_treasury_blockage_title"><![CDATA[Rempart vivant]]></entry>
 <entry id="str_obstacle_treasury_sap_description"><![CDATA[TODO:This hardened sap requires a solution...]]></entry>
 <entry id="str_obstacle_treasury_sap_title"><![CDATA[TODO:Hardened Sap]]></entry>
 <entry id="item_cant_sell_confirm"><![CDATA[TODO:This item cannot be sold. (It might be a free item that came from using a specific class, like shovel from the Grave Robber.)]]></entry>
@@ -2775,7 +2775,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
-<entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Rotten Rebuke]]></entry>
+<entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Battle Regrowth]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Filth Powder]]></entry>
 <entry id="str_monster_skill_cact_homonid_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Back Lash]]></entry>
@@ -5224,7 +5224,7 @@ the Treasury successfully gives buffs
 <entry id="str_roster_quirk_transition_tetanus_tended_c"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
 <entry id="str_quirk_name_creeping_cough_c"><![CDATA[TODO:Creeping Cough]]></entry>
 <entry id="str_quirk_name_creeping_cough_tended_c"><![CDATA[TODO:Creeping Cough (Stabilized)]]></entry>
-<entry id="str_quirk_name_tetanus_c"><![CDATA[TODO:Tetanus]]></entry>
+<entry id="str_quirk_name_tetanus_c"><![CDATA[Tétanos]]></entry>
 <entry id="str_quirk_name_tetanus_tended_c"><![CDATA[TODO:Tetanus (Stabilized)]]></entry>
 <entry id="str_quirk_name_the_ague_c"><![CDATA[TODO:The Ague]]></entry>
 <entry id="str_quirk_name_the_ague_tended_c"><![CDATA[TODO:The Ague (Stabilized)]]></entry>
@@ -5310,7 +5310,7 @@ the Treasury successfully gives buffs
 <entry id="str_roster_quirk_transition_lethargy_tended_f"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
 <entry id="str_quirk_name_the_ague_f"><![CDATA[TODO:The Ague]]></entry>
 <entry id="str_quirk_name_the_ague_tended_f"><![CDATA[TODO:The Ague (Stabilized)]]></entry>
-<entry id="str_quirk_name_tetanus_f"><![CDATA[TODO:Tetanus]]></entry>
+<entry id="str_quirk_name_tetanus_f"><![CDATA[Tétanos]]></entry>
 <entry id="str_quirk_name_tetanus_tended_f"><![CDATA[TODO:Tetanus (Stabilized)]]></entry>
 <entry id="str_quirk_name_lethargy_f"><![CDATA[TODO:Lethargy]]></entry>
 <entry id="str_quirk_name_lethargy_tended_f"><![CDATA[TODO:Lethargy (Stabilized)]]></entry>
@@ -5677,7 +5677,7 @@ the Treasury successfully gives buffs
 <entry id="quirk_transition_bad_humors_h_to_bad_humors_tended_h"><![CDATA[TODO:It'll take more than that to pull me down.]]></entry>
 <entry id="quirk_transition_bad_humors_h_to_bad_humors_tended_h"><![CDATA[TODO:I've been through worse.]]></entry>
 <entry id="quirk_transition_bad_humors_h_to_bad_humors_tended_h"><![CDATA[TODO:I'm too busy to fall to sickness.]]></entry>
-<entry id="str_quirk_name_nausea_b"><![CDATA[TODO:{colour_start|symptom}Nausea{colour_end}]]></entry>
+<entry id="str_quirk_name_nausea_b"><![CDATA[{colour_start|symptom}Nausée{colour_end}]]></entry>
 <entry id="str_quirk_name_nausea_tended_b"><![CDATA[TODO:{colour_start|symptom}Nausea (Tended){colour_end}]]></entry>
 <entry id="str_quirk_name_nausea_a"><![CDATA[TODO:{colour_start|symptom}Nausea{colour_end}]]></entry>
 <entry id="str_quirk_name_nausea_tended_a"><![CDATA[TODO:{colour_start|symptom}Nausea (Tended){colour_end}]]></entry>
@@ -6157,9 +6157,9 @@ the Treasury successfully gives buffs
 <entry id="str_quirk_name_spotted_fever_s"><![CDATA[TODO:Spotted Fever]]></entry>
 <entry id="str_quirk_name_spotted_fever_tended_s"><![CDATA[TODO:Spotted Fever (Stabilized)]]></entry>
 <entry id="str_quirk_description_spotted_fever_s"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Blight Self: 4 pts/tn for 3 tns (140% base) (8% Chance){colour_end}]]></entry>
-<entry id="str_quirk_name_tetanus_s"><![CDATA[TODO:Tetanus]]></entry>
+<entry id="str_quirk_name_tetanus_s"><![CDATA[Tétanos]]></entry>
 <entry id="str_quirk_name_tetanus_tended_s"><![CDATA[TODO:Tetanus (Stabilized)]]></entry>
-<entry id="str_quirk_name_black_plague_s"><![CDATA[TODO:Black Plague]]></entry>
+<entry id="str_quirk_name_black_plague_s"><![CDATA[Peste noire]]></entry>
 <entry id="str_quirk_name_black_plague_tended_s"><![CDATA[TODO:Black Plague (Stabilized)]]></entry>
 <entry id="str_quirk_name_red_plague_s"><![CDATA[TODO:Red Plague]]></entry>
 <entry id="str_quirk_name_red_plague_tended_s"><![CDATA[TODO:Red Plague (Stabilized)]]></entry>
