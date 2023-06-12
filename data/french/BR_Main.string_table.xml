@@ -940,7 +940,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_kvarotz_mummy_loot"><![CDATA[TODO:It's only wrappings?]]></entry>
 <entry id="str_curio_kvarotz_mummy_effect"><![CDATA[TODO:This occupant seems to have been mummified alive!]]></entry>
 <entry id="str_curio_kvarotz_mummy_disease"><![CDATA[TODO:Noxious fumes of rotted flesh pour out.]]></entry>
-<entry id="str_curio_kvarotz_mummy_nothing"><![CDATA[TODO:Nothing but a corpse...]]></entry>
+<entry id="str_curio_kvarotz_mummy_nothing"><![CDATA[Rien qu'un cadavre ...]]></entry>
 <entry id="str_curio_kvarotz_mummy_shovel_loot"><![CDATA[TODO:The coffin is pried open from a safe distance.]]></entry>
 <entry id="str_curio_kvarotz_mummy_bandage_loot"><![CDATA[TODO:The bandage guards against torture devices inside the coffin!]]></entry>
 <entry id="str_curio_kvarotz_mummy_archaeologist_compendium_loot"><![CDATA[TODO:A small box in the mummy's chest is revealed!]]></entry>
@@ -948,7 +948,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_content_levantine_supplies"><![CDATA[TODO:Some abandoned Levantine equipment.]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_supplies"><![CDATA[TODO:There could be something useful here...]]></entry>
 <entry id="str_curio_levantine_supplies_loot"><![CDATA[TODO:They were well supplied!]]></entry>
-<entry id="str_curio_levantine_supplies_nothing"><![CDATA[TODO:Empty...]]></entry>
+<entry id="str_curio_levantine_supplies_nothing"><![CDATA[Vide ...]]></entry>
 <entry id="str_curio_levantine_supplies_scout"><![CDATA[TODO:A small map is discovered!]]></entry>
 <entry id="str_curio_levantine_supplies_torch_effect"><![CDATA[TODO:The Supplies are burned!]]></entry>
 <entry id="str_curio_levantine_supplies_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
@@ -961,20 +961,20 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_levantine_cartography_arch_kit_effect"><![CDATA[TODO:Upon closer inspection, secrets of the Catacombs are revealed!]]></entry>
 <entry id="str_curio_title_levantine_defector"><![CDATA[Déserteur levantin]]></entry>
 <entry id="str_curio_content_levantine_defector"><![CDATA[TODO:VENDOR: The Levantine defector offers riches in exchange for supplies.]]></entry>
-<entry id="str_curio_levantine_defector_torch_loot"><![CDATA[TODO:"It's not much, but I'll take it."]]></entry>
-<entry id="str_curio_levantine_defector_laudanum_loot"><![CDATA[TODO:"I'll find a use for it."]]></entry>
-<entry id="str_curio_levantine_defector__loot"><![CDATA[TODO:"At least I know I won't go hungry."]]></entry>
-<entry id="str_curio_levantine_defector_bandage_loot"><![CDATA[TODO:"That'll help."]]></entry>
-<entry id="str_curio_levantine_defector_antivenom_loot"><![CDATA[TODO:"Doesn't hurt to be careful."]]></entry>
-<entry id="str_curio_levantine_defector_holy_water_loot"><![CDATA[TODO:"That'll keep me in good health."]]></entry>
-<entry id="str_curio_levantine_defector_medicinal_herbs_loot"><![CDATA[TODO:"I'm sure it'll come in handy."]]></entry>
-<entry id="str_curio_levantine_defector_skeleton_key_loot"><![CDATA[TODO:"Hrmmm..."]]></entry>
-<entry id="str_curio_levantine_defector_honing_oil_loot"><![CDATA[TODO:"My blade thanks you."]]></entry>
-<entry id="str_curio_levantine_defector_shovel_loot"><![CDATA[TODO:"Thanks, I needed one of these."]]></entry>
-<entry id="str_curio_levantine_defector_arch_kit_loot"><![CDATA[TODO:"This'll help with those traps."]]></entry>
-<entry id="str_curio_levantine_defector_disease_kit_loot"><![CDATA[TODO:"I'll be in good health."]]></entry>
-<entry id="str_curio_levantine_defector_firewood_loot"><![CDATA[TODO:"Never hurts to have a little more timber."]]></entry>
-<entry id="str_curio_levantine_defector_dog_treats_effect"><![CDATA[TODO:"Heh, good one!"]]></entry>
+<entry id="str_curio_levantine_defector_torch_loot"><![CDATA["Ce n'est pas grand-chose, mais merci."]]></entry>
+<entry id="str_curio_levantine_defector_laudanum_loot"><![CDATA["Je trouverai quoi en faire"]]></entry>
+<entry id="str_curio_levantine_defector__loot"><![CDATA["Au moins, je n'aurai pas faim."]]></entry>
+<entry id="str_curio_levantine_defector_bandage_loot"><![CDATA["Ça sera utile."]]></entry>
+<entry id="str_curio_levantine_defector_antivenom_loot"><![CDATA["Il n'y a pas de mal à être prudent."]]></entry>
+<entry id="str_curio_levantine_defector_holy_water_loot"><![CDATA["Ça m'aidera à rester en vie."]]></entry>
+<entry id="str_curio_levantine_defector_medicinal_herbs_loot"><![CDATA["Je suis sûr que ça sera utile."]]></entry>
+<entry id="str_curio_levantine_defector_skeleton_key_loot"><![CDATA["Hmmmm..."]]></entry>
+<entry id="str_curio_levantine_defector_honing_oil_loot"><![CDATA["Ma lame vous remercie."]]></entry>
+<entry id="str_curio_levantine_defector_shovel_loot"><![CDATA["Merci, j'en avais besoin."]]></entry>
+<entry id="str_curio_levantine_defector_arch_kit_loot"><![CDATA["Ça aidera pour les pièges."]]></entry>
+<entry id="str_curio_levantine_defector_disease_kit_loot"><![CDATA["Avec ça, je serai en pleine forme."]]></entry>
+<entry id="str_curio_levantine_defector_firewood_loot"><![CDATA["Ça ne fait pas d'mal d'avoir plus de bois."]]></entry>
+<entry id="str_curio_levantine_defector_dog_treats_effect"><![CDATA["Hahaha, pas mal."]]></entry>
 <entry id="str_curio_title_kvarotz_vending"><![CDATA[TODO:Kvarotz Vending Golem]]></entry>
 <entry id="str_curio_content_kvarotz_vending"><![CDATA[TODO:VENDOR: It seems to only take currency from the Kvarotz era...]]></entry>
 <entry id="str_curio_kvarotz_vending_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
@@ -4686,12 +4686,12 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_caverns_tactician"><![CDATA[Expertise (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_tactician"><![CDATA[Expertise (Trésorerie)]]></entry>
 <entry id="str_quirk_name_globetrotter"><![CDATA[Globe-trotter]]></entry>
-<entry id="str_quirk_name_love_interest"><![CDATA[TODO:Chipped Shoulder]]></entry>
+<entry id="str_quirk_name_love_interest"><![CDATA[Épaule cassée]]></entry>
 <entry id="str_quirk_name_deviant_tastes"><![CDATA[Combattant déloyal]]></entry>
 <entry id="str_quirk_name_silk_touch"><![CDATA[Délicatesse]]></entry>
 <entry id="str_quirk_name_tek_haggler"><![CDATA[Éloquence]]></entry>
 <entry id="str_quirk_name_prize_fighter"><![CDATA[TODO:Prize Fighter]]></entry>
-<entry id="str_quirk_name_glass_jaw"><![CDATA[TODO:Glass Jaw]]></entry>
+<entry id="str_quirk_name_glass_jaw"><![CDATA[Mâchoire de verre]]></entry>
 <entry id="str_quirk_name_den_addict"><![CDATA[Addicte à l'ambre]]></entry>
 <entry id="str_quirk_name_archaeomania"><![CDATA[Archéomanie]]></entry>
 <entry id="str_quirk_name_amber_hoarder"><![CDATA[Voleur d'ambre]]></entry>
@@ -4699,7 +4699,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_thieving_habits"><![CDATA[Voleur]]></entry>
 <entry id="str_quirk_name_amber_symbiosis"><![CDATA[Amour de l'ambre]]></entry>
 <entry id="str_quirk_name_necromania"><![CDATA[Passion macabre]]></entry>
-<entry id="str_quirk_name_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
+<entry id="str_quirk_name_golem_curse"><![CDATA[Marque du Golem]]></entry>
 <entry id="str_quirk_name_survivor"><![CDATA[Débrouillardise]]></entry> 
 <entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Contrebandier]]></entry> 
 <entry id="str_quirk_name_penitent"><![CDATA[Pénitence]]></entry>
@@ -4715,10 +4715,10 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_overzealous"><![CDATA[Zèle]]></entry>
 <entry id="str_quirk_name_profane"><![CDATA[Profane]]></entry>
 <entry id="str_quirk_name_life_fruit"><![CDATA[TODO:LIFE_FRUIT]]></entry>
-<entry id="str_quirk_description_alcoholism"><![CDATA[TODO:Will only Drink for stress recovery
+<entry id="str_quirk_description_alcoholism"><![CDATA[TODO:En ville, ne fait que boire.
 {colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities
 Amber Den not affected{colour_end}]]></entry>
-<entry id="str_quirk_description_resolution"><![CDATA[TODO:Will never Drink for stress recovery.]]></entry>
+<entry id="str_quirk_description_resolution"><![CDATA[En ville, ne boit jamais.]]></entry>
 <entry id="str_quirk_description_love_interest"><![CDATA[TODO:Will only participate in the Fighting Pit for stress recovery.
 {colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}
 {colour_start|skill_unselectable}Amber Den not affected{colour_end}]]></entry>
