@@ -2239,8 +2239,8 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="str_ui_health_damage_block"><![CDATA[Absorption]]></entry>
 <entry id="str_ui_tag_block"><![CDATA[Absorption]]></entry>
 <entry id="buff_stat_tooltip_tag_blocked"><![CDATA[Marque impossible]]></entry>
-<entry id="buff_rule_tooltip_is_guarded"><![CDATA[%s si héros gardé]]></entry>
-<entry id="buff_rule_tooltip_target_is_guarded"><![CDATA[%s vs ennemi gardé]]></entry>
+<entry id="buff_rule_tooltip_is_guarded"><![CDATA[%s si héros {colour_start|guard}gardé{colour_end}]]></entry>
+<entry id="buff_rule_tooltip_target_is_guarded"><![CDATA[%s vs ennemi {colour_start|guard}gardé{colour_end}]]></entry>
 <entry id="str_stat_additional_monster"><![CDATA[Statut du monstre]]></entry>
 <entry id="tray_icon_tooltip_stealth_title_round"><![CDATA[{colour_start|stealth}Furtivité{colour_end} (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_stealth_title_before_turn"><![CDATA[{colour_start|stealth}Furtivité{colour_end} (%d trs)]]></entry>
