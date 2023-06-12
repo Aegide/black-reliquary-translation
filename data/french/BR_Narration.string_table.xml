@@ -228,10 +228,10 @@ When you put your mind to it.]]></entry>
 <entry id="str_vo_good_BR_treasury_success_activate_02_0"><![CDATA[TODO:Hmm! We may need to release some balast to offset this haul.]]></entry>
 <entry id="str_vo_good_BR_treasury_success_activate_03_0"><![CDATA[TODO:A beautiful, gleaming bounty... -For the cause of course!]]></entry>
 <entry id="str_vo_good_BR_general_crit_monster_01_0"><![CDATA[TODO:Yes. Strike true!]]></entry>
-<entry id="str_vo_good_BR_general_crit_monster_02_0"><![CDATA[TODO:Spectacular!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_02_0"><![CDATA[Spectaculaire !]]></entry>
 <entry id="str_vo_good_BR_general_crit_monster_03_0"><![CDATA[TODO:Good. Drive them to the ground!]]></entry>
-<entry id="str_vo_good_BR_general_crit_monster_04_0"><![CDATA[TODO:Yes. Yes!]]></entry>
-<entry id="str_vo_good_BR_general_crit_monster_05_0"><![CDATA[TODO:Devastation!]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_04_0"><![CDATA[Oui. Oui !]]></entry>
+<entry id="str_vo_good_BR_general_crit_monster_05_0"><![CDATA[Dévastation !]]></entry>
 <entry id="str_vo_good_BR_general_crit_monster_06_0"><![CDATA[TODO:Strike them down, do not relent!]]></entry>
 <entry id="str_vo_good_BR_general_kill_big_01_0"><![CDATA[TODO:Another obstacle is cleared from our path.]]></entry>
 <entry id="str_vo_good_BR_general_kill_big_02_0"><![CDATA[TODO:No wall cannot crumble. No tree cannot be felled.]]></entry>
@@ -248,8 +248,8 @@ When you put your mind to it.]]></entry>
 <entry id="str_vo_good_BR_general_kill_DOT_06_0"><![CDATA[TODO:The hourglass empties...]]></entry>
 <entry id="str_vo_good_BR_general_kill_DOT_07_0"><![CDATA[TODO:A cut vein, a drop of venom. Death does not regard the method.]]></entry>
 <entry id="str_vo_good_BR_general_kill_strong_01_0"><![CDATA[TODO:What a deathstroke!]]></entry>
-<entry id="str_vo_good_BR_general_kill_strong_02_0"><![CDATA[TODO:Destroyed.]]></entry>
-<entry id="str_vo_good_BR_general_kill_strong_03_0"><![CDATA[TODO:Devastated.]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_02_0"><![CDATA[Détruit.]]></entry>
+<entry id="str_vo_good_BR_general_kill_strong_03_0"><![CDATA[Dévasté.]]></entry>
 <entry id="str_vo_good_BR_general_kill_strong_04_0"><![CDATA[TODO:The obstacle is removed.]]></entry>
 <entry id="str_vo_good_BR_general_kill_weak_01_0"><![CDATA[TODO:Dismantled.]]></entry>
 <entry id="str_vo_good_BR_general_kill_weak_02_0"><![CDATA[TODO:Brought down!]]></entry>
