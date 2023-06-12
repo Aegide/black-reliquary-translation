@@ -534,9 +534,9 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="town_event_info_br_champ_unlock"><![CDATA[TODO:+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
 <entry id="town_event_title_br_champ_unlock"><![CDATA[TODO:Cache in the Dunes]]></entry>
 <entry id="town_event_description_br_champ_unlock"><![CDATA[TODO:One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
-<entry id="town_event_info_br_free_tech"><![CDATA[TODO:+50 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
-<entry id="town_event_title_br_free_tech"><![CDATA[TODO:Quid Pro Quo]]></entry>
-<entry id="town_event_description_br_free_tech"><![CDATA[TODO:The Ostvengr are as generous as they are shrewd. A favor has been granted, but favors will eventually be called in.]]></entry>
+<entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
+<entry id="town_event_title_br_free_tech"><![CDATA[Quid pro quo]]></entry>
+<entry id="town_event_description_br_free_tech"><![CDATA[Les Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
 <entry id="town_event_info_br_amber_explosion"><![CDATA[TODO:{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken{colour_end} {colour_start|neutral}on next quest{colour_end}
 {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
 <entry id="town_event_title_br_amber_explosion"><![CDATA[TODO:Amber Accident]]></entry>
