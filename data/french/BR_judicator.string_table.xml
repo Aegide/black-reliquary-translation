@@ -9,19 +9,19 @@
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_NAIL_CANT_PUSHPREP"><![CDATA[TODO:After {colour_start|prep_round}Prep Round:{colour_end}
 {colour_start|move}Knockback{colour_end} 2 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_judi_melee"><![CDATA[TODO:Dual Convocation]]></entry>
-<entry id="buff_rule_data_tooltip_judi_expiate"><![CDATA[TODO:Indictment Brand]]></entry>
+<entry id="buff_rule_data_tooltip_judi_expiate"><![CDATA[Accusation]]></entry>
 <entry id="buff_rule_data_tooltip_judi_amber"><![CDATA[TODO:Ambernail]]></entry>
-<entry id="buff_rule_data_tooltip_judi_exp_killer"><![CDATA[TODO:Crucify]]></entry>
-<entry id="buff_rule_data_tooltip_judi_amb_killer"><![CDATA[TODO:Fury of the Ancients]]></entry>
+<entry id="buff_rule_data_tooltip_judi_exp_killer"><![CDATA[Crucifixion]]></entry>
+<entry id="buff_rule_data_tooltip_judi_amb_killer"><![CDATA[Fureur des Anciens]]></entry>
 <entry id="buff_rule_data_tooltip_judi_condemn"><![CDATA[TODO:Calcified Condemnation]]></entry>
-<entry id="buff_rule_data_tooltip_judi_guard"><![CDATA[TODO:Glassworks]]></entry>
+<entry id="buff_rule_data_tooltip_judi_guard"><![CDATA[Communion]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 75 / DMG mod: -60%]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT1"><![CDATA[TODO:-10% DMG, +10% Damage Taken {colour_start|skill_unselectable}(1rd) (100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_1"><![CDATA[TODO:-20% DMG Taken from {colour_start|expiated}Expiated{colour_end} Enemies]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_2"><![CDATA[TODO:+20% PROT while {colour_start|expiated}Expiated{colour_end}]]></entry>
-<entry id="camping_skill_selection_br151a"><![CDATA[TODO:
-{colour_start|notable}Passive:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br151a"><![CDATA[
+{colour_start|notable}Passif :{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[TODO:+15% PROT if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[TODO:+15% DMG if {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JUDI_INDICTMENT_COOLDOWN_TT"><![CDATA[TODO:Indictment Brand on Cooldown]]></entry>
@@ -30,27 +30,27 @@
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_AMBER_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: Target: Gain Quirk: Amber Symbiosis {colour_start|skill_unselectable}(33%% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_BUFF_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5 ACC if has Amber Symbiosis]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_DEBUFF_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist if has Amber Symbiosis]]></entry>
-<entry id="buff_rule_data_tooltip_amber_symbiosis"><![CDATA[TODO:Amber Symbiosis]]></entry>
-<entry id="hero_class_name_judicator"><![CDATA[TODO:Judicator]]></entry>
+<entry id="buff_rule_data_tooltip_amber_symbiosis"><![CDATA[Symbiose avec l'ambre]]></entry>
+<entry id="hero_class_name_judicator"><![CDATA[Médiateur]]></entry>
 <entry id="combat_skill_name_judicator_judi_melee"><![CDATA[TODO:Dual Convocation]]></entry>
-<entry id="combat_skill_name_judicator_judi_expiate"><![CDATA[TODO:Indictment Brand]]></entry>
+<entry id="combat_skill_name_judicator_judi_expiate"><![CDATA[Accusation]]></entry>
 <entry id="combat_skill_name_judicator_judi_amber"><![CDATA[TODO:Ambernail]]></entry>
-<entry id="combat_skill_name_judicator_judi_exp_killer"><![CDATA[TODO:Crucify]]></entry>
-<entry id="combat_skill_name_judicator_judi_amb_killer"><![CDATA[TODO:Fury of the Ancients]]></entry>
+<entry id="combat_skill_name_judicator_judi_exp_killer"><![CDATA[Crucifixion]]></entry>
+<entry id="combat_skill_name_judicator_judi_amb_killer"><![CDATA[Fureur des Anciens]]></entry>
 <entry id="combat_skill_name_judicator_judi_condemn"><![CDATA[TODO:Calcified Condemnation]]></entry>
-<entry id="combat_skill_name_judicator_judi_guard"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Glassworks]]></entry>
+<entry id="combat_skill_name_judicator_judi_guard"><![CDATA[{colour_start|white}əəəə{colour_end}
+Communion]]></entry>
 <entry id="combat_skill_name_judicator_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_judicator.judi_melee"><![CDATA[TODO:Dual Convocation]]></entry>
-<entry id="upgrade_tree_name_judicator.judi_expiate"><![CDATA[TODO:Indictment Brand]]></entry>
+<entry id="upgrade_tree_name_judicator.judi_expiate"><![CDATA[Accusation]]></entry>
 <entry id="upgrade_tree_name_judicator.judi_amber"><![CDATA[TODO:Ambernail]]></entry>
-<entry id="upgrade_tree_name_judicator.judi_exp_killer"><![CDATA[TODO:Crucify]]></entry>
-<entry id="upgrade_tree_name_judicator.judi_amb_killer"><![CDATA[TODO:Fury of the Ancients]]></entry>
+<entry id="upgrade_tree_name_judicator.judi_exp_killer"><![CDATA[Crucifixion]]></entry>
+<entry id="upgrade_tree_name_judicator.judi_amb_killer"><![CDATA[Fureur des Anciens]]></entry>
 <entry id="upgrade_tree_name_judicator.judi_condemn"><![CDATA[TODO:Calcified Condemnation]]></entry>
-<entry id="upgrade_tree_name_judicator.judi_guard"><![CDATA[TODO:Glassworks]]></entry>	
-<entry id="camping_skill_name_judi_religious_stress_heal"><![CDATA[TODO:FERVENT SERMON]]></entry>
-<entry id="camping_skill_name_judi_random_buff"><![CDATA[TODO:PECULIAR TASTES]]></entry>
-<entry id="camping_skill_name_judi_pagan_buff"><![CDATA[TODO:DUBIOUS LOYALTIES]]></entry>
+<entry id="upgrade_tree_name_judicator.judi_guard"><![CDATA[Communion]]></entry>	
+<entry id="camping_skill_name_judi_religious_stress_heal"><![CDATA[Sermon passionné]]></entry>
+<entry id="camping_skill_name_judi_random_buff"><![CDATA[Goûts particuliers]]></entry>
+<entry id="camping_skill_name_judi_pagan_buff"><![CDATA[Loyauté douteuse]]></entry>
 <entry id="camping_skill_name_judi_nighttime_prevent"><![CDATA[TODO:AMBER WARD]]></entry>
 <entry id="str_inventory_title_trinketjudi_seal"><![CDATA[Seau de chevalier]]></entry>
 <entry id="str_inventory_title_trinketjudi_hammer"><![CDATA[Marteau de la première croisade]]></entry>
