@@ -769,7 +769,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_glossary_term_2002"><![CDATA[TODO:Restoration]]></entry>
 <entry id="str_glossary_term_definition_2002"><![CDATA[TODO:An effect that restores health at the beginning of a hero's turn.]]></entry>
 <entry id="str_town_tip"><![CDATA[TODO:Aspects of the Flameseeker are subject to change as Black Reliquary develops.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Not all mechanics and functions in Black Reliquary are finalized.]]></entry>
+<entry id="str_town_tip"><![CDATA[Les fonctionnalités de Black Reliquary ne sont pas toutes finalisées.]]></entry>
 <entry id="str_town_tip"><![CDATA[TODO:Remember to place heroes in the Amber Refinery each week.]]></entry>
 <entry id="str_town_tip"><![CDATA[TODO:Positive quirks are now locked in by default, and can be removed in the Clinic.]]></entry>
 <entry id="str_town_tip"><![CDATA[TODO:Positive quirks can no longer be replaced by new quirks. Money will need to be spent to make space for new quirks.]]></entry>
@@ -2999,8 +2999,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[TODO:%+d {colour_start|healhp}Healing{colour_end} Done]]></entry>
 <entry id="effect_tooltip_heal_percent_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d%% Max HP]]></entry>
 <entry id="effect_health_damage_format"><![CDATA[TODO:{colour_start|harmful}Suffer{colour_end} %d HP]]></entry>
-<entry id="buff_stat_tooltip_ignore_stealth"><![CDATA[TODO:Ignores {colour_start|stealth}Stealth{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_ignore_guard"><![CDATA[TODO:Bypass {colour_start|guard}Guard{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_ignore_stealth"><![CDATA[Ignore la {colour_start|stealth}furtivité{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_ignore_guard"><![CDATA[Ignore la {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Done]]></entry>
 <entry id="buff_stat_tooltip_damage_reflect_percent"><![CDATA[TODO:%+d%% Damage Reflection]]></entry>
 <entry id="buff_stat_tooltip_random_target_chance"><![CDATA[TODO:%+d%% Chance for Random Target]]></entry>
