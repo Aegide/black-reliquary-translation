@@ -2486,9 +2486,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_pilgrim_weak_stab"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Stumbling Thrust]]></entry>
 <entry id="str_monster_skill_pilgrim_shout"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʇʐ{colour_end}Indignant Rally]]></entry>
 <entry id="str_monster_skill_pilgrim_rabble"><![CDATA[TODO:Rabble Rout]]></entry>
-<entry id="str_monster_skill_rebuke_the_rotten"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
-<entry id="str_monster_skill_rebuke_the_rotten_tutorial"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
-<entry id="str_monster_skill_rebuke_the_rotten_dummy"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
+<entry id="str_monster_skill_rebuke_the_rotten"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
+<entry id="str_monster_skill_rebuke_the_rotten_tutorial"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
+<entry id="str_monster_skill_rebuke_the_rotten_dummy"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
 <entry id="str_monster_skill_friar_soothe_the_stoic"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɧɭ{colour_end}Soothe the Stoic]]></entry>
 <entry id="str_monster_skill_friar_mend_the_masses"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɧɬ{colour_end}Mend the Masses]]></entry>
 <entry id="str_monster_skill_friar_cure_the_cursed"><![CDATA[TODO:Cleanse the Cursed]]></entry>
@@ -2542,8 +2542,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
 <entry id="str_monster_skill_wildlander_breakthru"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Wreck]]></entry>
-<entry id="str_monster_skill_wildlander_yawp"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
-<entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
+<entry id="str_monster_skill_wildlander_yawp"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
+<entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
 <entry id="str_monster_skill_wildlander_coward"><![CDATA[TODO:Coward's Resolve]]></entry>
 <entry id="str_monster_skill_wildlander_iron_swan"><![CDATA[TODO:{colour_start|white}ɡɘɘɘɥɣɘɘɘɩɨ{colour_end}Steel Falcon]]></entry>
 <entry id="str_monster_skill_dogsteel_slash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Backside Cleaver]]></entry>
@@ -2560,7 +2560,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_packhound_backspin"><![CDATA[TODO:Cackling Flight]]></entry>
 <entry id="str_monster_skill_bombard_dash"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʥɘɘɣɣɩɧʓ{colour_end}Headlong Crash]]></entry>
 <entry id="str_monster_skill_bombard_blast"><![CDATA[TODO:{colour_start|white}ɘɘɠɟʩɣɣɘɘɩɨ{colour_end}Ballistic Thunder]]></entry>
-<entry id="str_monster_skill_bombard_flare"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʑ{colour_end}Reveal the Weaklings]]></entry>
+<entry id="str_monster_skill_bombard_flare"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʑ{colour_end}Exposer les faibles]]></entry>
 <entry id="str_monster_skill_bombard_blast_weak"><![CDATA[TODO:Ballistic Blunder]]></entry>
 <entry id="str_monster_skill_bombard_crash_a"><![CDATA[TODO:Out of the Way!]]></entry>
 <entry id="str_monster_skill_bombard_crash_b"><![CDATA[TODO:Out of the Way!]]></entry>
@@ -2775,7 +2775,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
-<entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous]]></entry>
+<entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Battle Regrowth]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Filth Powder]]></entry>
 <entry id="str_monster_skill_cact_homonid_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Back Lash]]></entry>
@@ -2996,12 +2996,12 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[{?string1}%s vs autre que taille {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_activated_first"><![CDATA[TODO:%s when acting First in the Party]]></entry>
 <entry id="buff_rule_tooltip_activated_last"><![CDATA[TODO:%s when acting Last in the Party]]></entry>
-<entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[TODO:%+d {colour_start|healhp}Healing{colour_end} Done]]></entry>
+<entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[Compétences de {colour_start|healhp}soin{colour_end} %+d]]></entry>
 <entry id="effect_tooltip_heal_percent_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d%% Max HP]]></entry>
 <entry id="effect_health_damage_format"><![CDATA[TODO:{colour_start|harmful}Suffer{colour_end} %d HP]]></entry>
 <entry id="buff_stat_tooltip_ignore_stealth"><![CDATA[Ignore la {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_ignore_guard"><![CDATA[Ignore la {colour_start|guard}garde{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Done]]></entry>
+<entry id="buff_stat_tooltip_hp_heal_percent"><![CDATA[Compétences de {colour_start|healhp}soin{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_damage_reflect_percent"><![CDATA[TODO:%+d%% Damage Reflection]]></entry>
 <entry id="buff_stat_tooltip_random_target_chance"><![CDATA[TODO:%+d%% Chance for Random Target]]></entry>
 <entry id="buff_stat_tooltip_random_target_friendly_chance"><![CDATA[TODO:%+d%% Random Friendly Target Chance]]></entry>
@@ -3019,8 +3019,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_BAG_OF_MARBLES_TT"><![CDATA[TODO:+2 SPD per different Gem and Vestige in Inventory]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GLIMMERING_PENDANT_TT"><![CDATA[TODO:-5%% {colour_start|stress}Stress{colour_end} Received per different Gem and Vestige in Inventory]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SKILL_COOLDOWN"><![CDATA[TODO:{colour_start|notable}Cooldown: %d tn(s){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[TODO:%+d%% {colour_start|stress}Stress Healing {colour_end}Done]]></entry>
-<entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[TODO:%+d%% {colour_start|stress}Stress Healing {colour_end}Done]]></entry>
+<entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[Compétences de {colour_start|stress}stress{colour_end} %+d%%]]></entry>
+<entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[Compétences de {colour_start|stress}stress{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[Soins de {colour_start|stress}stress{colour_end} reçus %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent_camping_eat"><![CDATA[TODO:%+d%% {colour_start|stress}Stress Healing {colour_end}Received from Camping Meal]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent_hero_crit"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Healing Received from Crits]]></entry>
@@ -3303,7 +3303,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT2"><![CDATA[TODO:On Attack Hit: Self: {colour_start|deathdoor}Suffer{colour_end} 4 HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT3"><![CDATA[TODO:On Attack Hit: {colour_start|debuff}Debuff Self:{colour_end} +15%% Damage Taken]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT4"><![CDATA[TODO:On Friendly Skill: Clear all {colour_start|buff}Buffs{colour_end}/{colour_start|debuff}Debuffs{colour_end} from this Trinket]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_TRAY_TT1"><![CDATA[TODO:%+d%% Damage Taken]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_TRAY_TT1"><![CDATA[%+d%% dégâts subis]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_NO_HEAL_TT"><![CDATA[TODO:Battlefield Bandage: Can't {colour_start|healhp}Heal{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT1"><![CDATA[TODO:Extends Cooldown On Battle Ballad by 1 tn]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 tns {colour_start|skill_unselectable}(100%% Base) (1 tn){colour_end}]]></entry>
@@ -3320,11 +3320,11 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STYX_URN_TT3"><![CDATA[TODO:On Melee Attack vs Corpse Hit: {colour_start|debuff}Debuff Self:{colour_end} -4%% Max HP {colour_start|skill_unselectable}(4 Battles){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STYX_URN_TT4"><![CDATA[TODO:On Melee Attack vs Corpse Hit: Clear Corpse]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT"><![CDATA[TODO:On Monster Kill: After Combat: Gain 1 Amber Residue {colour_start|skill_unselectable}(67%% Chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT1"><![CDATA[TODO:Gain Permanent {colour_start|riposte}Riposte{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT1"><![CDATA[{colour_start|riposte}Riposte{colour_end} permanente]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT2"><![CDATA[TODO:On {colour_start|riposte}Riposte{colour_end} Hit: After Combat: Gain 1 Extract {colour_start|skill_unselectable}(33%% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}Extract differs based on dungeon{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT3"><![CDATA[TODO:-15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Chance]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_NODODGE_TT"><![CDATA[TODO:Hero Can't Dodge]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_NODODGE_TT"><![CDATA[Esquive impossible]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_WHEN_HIT_TT"><![CDATA[TODO:On Being Hit: {colour_start|buff}Buff Self:{colour_end} +33%% {colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAGE_SLAM_TT"><![CDATA[TODO:On Rage/Slam Hit: {colour_start|blight}Blight Target{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[TODO:On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
@@ -3406,8 +3406,8 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 {colour_start|skill_unselectable}Additional Prevents Nighttime Ambush{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
 <entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[TODO:On Attack:]]></entry>
-<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[TODO:On Attack Hit:]]></entry>
-<entry id="trinket_attack_skill_additional_effects_miss"><![CDATA[TODO:On Attack Miss:]]></entry>
+<entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[Quand l'attaque touche :]]></entry>
+<entry id="trinket_attack_skill_additional_effects_miss"><![CDATA[Quand l'attaque rate :]]></entry>
 <entry id="trinket_friendly_skill_additional_effects"><![CDATA[TODO:On Friendly Skill:]]></entry>
 <entry id="trinket_was_hit_additional_effects"><![CDATA[TODO:On Being Hit:]]></entry>
 <entry id="trinket_ranged_attack_skill_additional_effects_hit_miss"><![CDATA[Quand l'attaque à distance :]]></entry>
@@ -3883,7 +3883,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_bark_amber_powder"><![CDATA[TODO:Who'd have guessed this would work in powder?]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[TODO:Can Only Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_absolution"><![CDATA[TODO:Absolution]]></entry>
+<entry id="buff_rule_data_tooltip_absolution"><![CDATA[Absolution]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_CLEAR_GUARD_GUARDING_TT"><![CDATA[TODO:Breaks Target's {colour_start|guard}Guard{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRUSADER_BULWARK_STRESS_HEAL_RELIGIOUS_TT"><![CDATA[TODO:Other {colour_start|affiliation_religious}Religious{colour_end} Heroes
 %d {colour_start|stress}Stress{colour_end}]]></entry>
@@ -4567,7 +4567,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_skeptic"><![CDATA[Sceptique]]></entry>
 <entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
 <entry id="str_quirk_name_adherent"><![CDATA[TODO:Adherent]]></entry>
-<entry id="str_quirk_name_dissenter"><![CDATA[TODO:Dissenter]]></entry>
+<entry id="str_quirk_name_dissenter"><![CDATA[Déconcentration]]></entry>
 <entry id="str_quirk_name_penetrating"><![CDATA[Infiltration]]></entry>
 <entry id="str_quirk_name_imperturbable"><![CDATA[Impassible]]></entry>
 <entry id="str_quirk_name_skittish"><![CDATA[Caprice]]></entry>
@@ -4578,7 +4578,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_fencer"><![CDATA[Escrime]]></entry>
 <entry id="str_quirk_name_bad_reflexes"><![CDATA[Long à la détente]]></entry>
 <entry id="str_quirk_name_pertinacious"><![CDATA[TODO:Pertinacious]]></entry>
-<entry id="str_quirk_name_enervated"><![CDATA[TODO:Enervated]]></entry>
+<entry id="str_quirk_name_enervated"><![CDATA[Fatigue]]></entry>
 <entry id="str_quirk_name_unbalanced"><![CDATA[Déséquilibré]]></entry>
 <entry id="str_quirk_name_impervious"><![CDATA[Sang épais]]></entry>
 <entry id="str_quirk_name_ashen"><![CDATA[Brûlures]]></entry>
