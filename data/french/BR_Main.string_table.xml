@@ -2588,7 +2588,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_summon"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Rally the Clan]]></entry>
 <entry id="str_monster_skill_warhawk_ground_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɘɣɣɣɩʻʟʐ{colour_end}Reckless Cannon-Fire]]></entry>
 <entry id="str_monster_skill_warhawk_monkey"><![CDATA[TODO:Monkey Business]]></entry>
-<entry id="str_monster_skill_scav_scavenge"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Plunder]]></entry>
+<entry id="str_monster_skill_scav_scavenge"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Pillage]]></entry>
 <entry id="str_monster_skill_scav_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Outreach]]></entry>
 <entry id="str_monster_skill_scav_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal Flurry]]></entry>
 <entry id="str_monster_skill_scav_clawstrike"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʑ{colour_end}Unkind Talon]]></entry>

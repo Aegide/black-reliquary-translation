@@ -264,10 +264,10 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_guild.skill_levels"><![CDATA[Permet d'améliorer les compétences de combat aux rangs supérieurs]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_chance_of_affliction_cure"><![CDATA[TODO:Chance to yield up to 2 additional resources.]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_extra_disease_cure_format"><![CDATA[Augmente les chances de soigner des maladies supplémentaires]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_disease_slots_format"><![CDATA[Fixe à %d le nombre de places dans la branche médicale]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_disease_slots_format"><![CDATA[Fixe à %d le nombre de places dans l'aile médicale]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_heroes_generated_format"><![CDATA[Fixe à %d le nombre de héros disponibles]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_items_generated_format"><![CDATA[TODO:Increases number of trinkets available to %d]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_quirk_slots_format"><![CDATA[TODO:Increases number of treatment ward slots to %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_quirk_slots_format"><![CDATA[Fixe à %d le nombre de places dans l'aile psychiatrique]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Fixe à %d le nombre d'emplacements]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[Fixe à %d la capacité de la liste de recrues]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_stress_recovery"><![CDATA[Améliore la réduction du stress]]></entry>
