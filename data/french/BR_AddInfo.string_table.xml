@@ -65,10 +65,10 @@
 {colour_start|notable}On Death Effects:{colour_end}]]></entry>
 <entry id="camping_skill_selection_br741a"><![CDATA[TODO:
 {colour_start|notable}Party Restrictions:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br811a"><![CDATA[TODO:
-{colour_start|notable}Virtue Chance:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br841a"><![CDATA[TODO:
-{colour_start|notable}Alternate Skill Information:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br811a"><![CDATA[
+{colour_start|notable}Chances de vertu :{colour_end}]]></entry>
+<entry id="camping_skill_selection_br841a"><![CDATA[
+{colour_start|notable}Compétences de combat :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br841b"><![CDATA[]]></entry>
 <entry id="camping_skill_selection_br841c"><![CDATA[]]></entry>
 <entry id="camping_skill_selection_br841d"><![CDATA[]]></entry>
@@ -115,11 +115,11 @@ Harmful Act-outs and Reactions]]></entry>
 Modes can be switched using Change Ammo Skill
 Changing Mode is instant and unlimited
 Mode persists after combat end]]></entry>
-<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT1"><![CDATA[TODO:Living Ammo - Additional Skill Effects:]]></entry>
-<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT2"><![CDATA[TODO:{colour_start|notable}Standard Shot{colour_end}: -20% DMG, Self: {colour_start|healhp}Heal{colour_end} 8(+2/level) HP]]></entry>
-<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[TODO:{colour_start|notable}Smokescreen{colour_end}: +30(+10/level)% {colour_start|blight}Blight{colour_end} Amount Received {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT4"><![CDATA[TODO:{colour_start|notable}Buckshot{colour_end}: -100% {colour_start|healhp}Healing{colour_end} Received, -100% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Cure Received Chance {colour_start|skill_unselectable}(110(+10/level)% base){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT5"><![CDATA[TODO:{colour_start|notable}Bombard{colour_end}: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn per 2 levels) {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT1"><![CDATA[{colour_start|musk_ammo4}Parasite{colour_end} :]]></entry>
+<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT2"><![CDATA[{colour_start|notable}Tir de précision{colour_end} : -20% DMG, Sur soi : {colour_start|healhp}Soigne{colour_end} 8 PV]]></entry>
+<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[{colour_start|notable}Écran de fumée{colour_end} : +30% d'{colour_start|blight}Infection{colour_end} reçue {colour_start|skill_unselectable}( base : 100% ){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT4"><![CDATA[{colour_start|notable}Grenaille{colour_end} : {colour_start|healhp}Soins{colour_end} reçus -100% , Soigner {colour_start|blight}Infection{colour_end} -100% {colour_start|skill_unselectable}( base : 110% ){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT5"><![CDATA[{colour_start|notable}Bombardement{colour_end} : {colour_start|blight}Infection{colour_end} 2 pts/tr sur 3 trs {colour_start|skill_unselectable}( base : 100% ){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT1"><![CDATA[TODO:Remnant of the Empire - Adjusted Skill Effects:]]></entry>
 <entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT2"><![CDATA[TODO:{colour_start|notable}Battle Heal{colour_end}: +40% {colour_start|healhp}Healing{colour_end} Done, Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end},]]></entry>
 <entry id="camping_skill_effect_loot_CRUS_BREL_TRINKET_BANNER_TT3"><![CDATA[TODO:Self: {colour_start|bleed}Bleed{colour_end} 2/3 tns (+1pt/tn at skill level 2 and 4) & Self: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn at skill level 3 and 5) {colour_start|skill_unselectable}(120(+15/level)% base){colour_end}]]></entry>
