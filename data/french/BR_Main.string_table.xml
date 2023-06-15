@@ -3011,11 +3011,11 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_is_guarding"><![CDATA[TODO:%s when {colour_start|guard}Guarding{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_ignore_protection"><![CDATA[Perçage d'armure %+d%%]]></entry>
 <entry id="buff_stat_tooltip_crit_received_chance"><![CDATA[Chances de crits reçus %+d%%]]></entry>
-<entry id="buff_rule_tooltip_no_trinkets"><![CDATA[TODO:%s when no Trinkets are Equipped]]></entry>
+<entry id="buff_rule_tooltip_no_trinkets"><![CDATA[%s si aucun bibelot n'est équipé]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_AFTER_ROUND"><![CDATA[{colour_start|mark}Marque{colour_end} la cible {colour_start|skill_unselectable}(%d trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_COMBAT_END"><![CDATA[{colour_start|mark}Marque{colour_end} la cible {colour_start|skill_unselectable}(%d combats){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_AFTER_ROUND_SELF"><![CDATA[TODO:{colour_start|mark}Mark{colour_end} Self {colour_start|skill_unselectable}(%d rds){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_COMBAT_END_SELF"><![CDATA[TODO:{colour_start|mark}Mark{colour_end} Self  {colour_start|skill_unselectable}(%d Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_AFTER_ROUND_SELF"><![CDATA[{colour_start|mark}Marque{colour_end} sur soi {colour_start|skill_unselectable}(%d trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_COMBAT_END_SELF"><![CDATA[{colour_start|mark}Marque{colour_end} sur soi {colour_start|skill_unselectable}(%d combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BAG_OF_MARBLES_TT"><![CDATA[TODO:+2 SPD per different Gem and Vestige in Inventory]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GLIMMERING_PENDANT_TT"><![CDATA[TODO:-5%% {colour_start|stress}Stress{colour_end} Received per different Gem and Vestige in Inventory]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SKILL_COOLDOWN"><![CDATA[TODO:{colour_start|notable}Cooldown: %d tn(s){colour_end}]]></entry>
@@ -3033,7 +3033,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_1_faithless"><![CDATA[{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_faster"><![CDATA[Jeûne]]></entry>
-<entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[TODO:Automaton's Accursed]]></entry>
+<entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[Marque du Golem]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul_fever"><![CDATA[TODO:{colour_start|symptom}Ghoul Fever{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ghoul_plague"><![CDATA[TODO:{colour_start|disease}Ghoul Plague{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_catacombs_explorer"><![CDATA[TODO:Catacombs Explorer]]></entry>
@@ -4225,8 +4225,8 @@ Self:
 <entry id="buff_stat_tooltip_upgrade_discount_MUSKETEER_AMMO_CONCUSS_T_TT"><![CDATA[TODO:Ammo Type: {colour_start|musk_ammo3}Concussive{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MUSK_BUCKSHOT_COOLDOWN"><![CDATA[TODO:Buckshot on Cooldown]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MUSK_AMMO_TT_FREE"><![CDATA[TODO:{colour_start|notable}Free Action{colour_end}]]></entry>
-<entry id="combat_skill_name_musketeer_bombard"><![CDATA[TODO:Bombard]]></entry>
-<entry id="upgrade_tree_name_musketeer.bombard"><![CDATA[TODO:Bombard]]></entry>
+<entry id="combat_skill_name_musketeer_bombard"><![CDATA[Bombardement]]></entry>
+<entry id="upgrade_tree_name_musketeer.bombard"><![CDATA[Bombardement]]></entry>
 <entry id="str_skill_mode_info_musk_normal_t"><![CDATA[TODO:{colour_start|musk_ammo1}Standard Ammo{colour_end}]]></entry>
 <entry id="str_skill_mode_info_musk_shrapnel_t"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel Ammo{colour_end}]]></entry>
 <entry id="str_skill_mode_info_musk_concuss_t"><![CDATA[TODO:{colour_start|musk_ammo3}Concussive Ammo{colour_end}]]></entry>
