@@ -1,5 +1,5 @@
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_HEAT_LEVEL_TT"><![CDATA[TODO:Current {colour_start|debuff}Heat Level{colour_end}: %d%%]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_HEAT_LEVEL_0_TT"><![CDATA[TODO:Current {colour_start|debuff}Heat Level{colour_end}: 0%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_HEAT_LEVEL_TT"><![CDATA[{colour_start|debuff}Chaleur{colour_end} : %d%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_HEAT_LEVEL_0_TT"><![CDATA[{colour_start|debuff}Chaleur{colour_end} : 0%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_INCREASE_HEAT_8_TT"><![CDATA[TODO:+40%% {colour_start|debuff}Heat Level{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_INCREASE_HEAT_4_TT"><![CDATA[TODO:+20%% {colour_start|debuff}Heat Level{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_INCREASE_HEAT_3_TT"><![CDATA[TODO:+15%% {colour_start|debuff}Heat Level{colour_end}]]></entry>
