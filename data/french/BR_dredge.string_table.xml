@@ -16,7 +16,7 @@
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_PREP_TT"><![CDATA[TODO:{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[TODO:Otherwise:
 {colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_HEAT_SCALING_TT"><![CDATA[TODO:+20%% DMG / +3%% CRIT per {colour_start|debuff}Heat Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_HEAT_SCALING_TT"><![CDATA[DMG 20%% / CRIT +3%% par {colour_start|debuff}Chaleur{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Debuff Target On Miss:{colour_end} -4 DODGE {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target On Miss:{colour_end} -5 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Debuff Target On Miss:{colour_end} -6 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
@@ -52,9 +52,8 @@ Each of the Dredge’s skills in Mech mode cause her {colour_start|debuff}Heat L
 <entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT3"><![CDATA[TODO:and debuffs herself for +20% DMG Taken until she leaves Mech mode.]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[TODO:Modes can be switched using Eldritch Core skill]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_MODE_TT2"><![CDATA[TODO:Does not change modes at combat end.]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[TODO:Amber Core - New Skills:
-{colour_start|notable}Gleaming Drill{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 90 ACC/-35% DMG/+4% CRT
-+50% DMG vs {colour_start|amberblighted}Amberblight{colour_end}, +100% Armor Piercing, +40% {colour_start|debuff}Heat{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[( {colour_start|amberblighted}Cœur d'ambre pur{colour_end} )
+DMG +50% vs {colour_start|amberblighted}Amberblight{colour_end} , Perçage d'armure +100% , {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[TODO:{colour_start|notable}Amber Fumigation{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} 95 ACC/-70% DMG/+2% CRT
 Ignores {colour_start|prep_round}Prep Round{colour_end} ACC Reduction, {colour_start|amberblighted}Amberblight{colour_end} Target, +15% {colour_start|debuff}Heat{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[TODO:{colour_start|notable}Amberlight Annihilation{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 95 ACC/+25% DMG/+5% CRT
@@ -565,7 +564,7 @@ Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour am�
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE23"><![CDATA[TODO: {colour_start|debuff}Debuff Target On Miss:{colour_end} -6 DODGE {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE24"><![CDATA[TODO: {colour_start|debuff}Debuff Target On Miss:{colour_end} -7 DODGE {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE25"><![CDATA[TODO: {colour_start|debuff}Debuff Target On Miss:{colour_end} -8 DODGE {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_DRED_SKILL2_HEAT"><![CDATA[TODO:  +5% {colour_start|debuff}Heat Level{colour_end} per Target Hit  {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_DRED_SKILL2_HEAT"><![CDATA[{colour_start|debuff}Chaleur{colour_end} +5% par cible touchée]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_TYPE"><![CDATA[{colour_start|attacktype}Distance{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_ACC"><![CDATA[TODO:ACC Base: %d]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_DMG"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
