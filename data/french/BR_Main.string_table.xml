@@ -3051,7 +3051,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_corpse"><![CDATA[Cadavre]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_mode"><![CDATA[{colour_start|stress}Stress{colour_end} de transformation %+d%%]]></entry>
 <entry id="buff_stat_tooltip_riposte_duration_percent"><![CDATA[TODO:%+d%% {colour_start|riposte}Riposte{colour_end} Duration Applied]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_IMMUNE_TT"><![CDATA[TODO:Can't Be {colour_start|riposte}Riposted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_IMMUNE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_CLEAR_TT"><![CDATA[TODO:Clears {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_WARTABLE_SCOUT_TT"><![CDATA[TODO:+20%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_WARTABLE_TORCH_PLAYER_SURPRISED_TT"><![CDATA[TODO:-50%% Chance Party {colour_start|surprised}Surprised{colour_end}]]></entry>
@@ -4498,7 +4498,7 @@ et des maladies]]></entry>
 6%% Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_CHAMP_RIPOSTE_TT_5"><![CDATA[TODO:80 Base Acc, 14-29 Base Dmg, 
 8%% Base Crit]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_RIPOSTE_TT"><![CDATA[TODO:Attacks Can't Be {colour_start|riposte}Riposted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_RIPOSTE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_OVERHEATDMG_TT"><![CDATA[TODO:{colour_start|deathdoor}Suffer{colour_end} Dmg to self on Attack]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_1"><![CDATA[TODO:75 Base Acc, 6-13 Base Dmg, 
 4%% Base Crit]]></entry>
@@ -4517,7 +4517,7 @@ et des maladies]]></entry>
 2%% Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SNAKE_RATTLER_RIPOSTE_TT_5"><![CDATA[TODO:102 Base Acc, 6-12 Base Dmg, 
 4%% Base Crit]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_NEXT_ATTACK_NO_RIPOSTE_TT"><![CDATA[TODO:Attacks Can't Be {colour_start|riposte}Riposted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_NEXT_ATTACK_NO_RIPOSTE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SADDLEBACK_AMBERBLIGHT_TT"><![CDATA[TODO:Attacks from Saddleback's Ally apply {colour_start|amberblighted}Amberblight{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GASTROSAUR_RIPOSTE_TT"><![CDATA[TODO:90 Base Acc, 4-8 Base Dmg
 {colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
