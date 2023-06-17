@@ -1,6 +1,8 @@
 from io import TextIOWrapper
 from os import listdir
 from pathlib import Path
+import uuid
+
 
 import re
 
@@ -62,10 +64,18 @@ def translation_injection(original_filename:str, mock_language:bool=False):
                 destination_file.write(f"\n\t{CLOSING_LANGUAGE}\n")
 
 
+def uuid_generator(_match:re.Match[str]):
+    full_uuid = str(uuid.uuid1())
+    partial_uuid = full_uuid[4:8]
+    return f"({partial_uuid}):"
+
+
 def inject_language_file(source:TextIOWrapper, destination:TextIOWrapper):
     for line in source.readlines():
-        line_with_tabs = f"{line}"
-        destination.write(line_with_tabs)
+        keyword = "TODO:"
+        result = re.sub(keyword, uuid_generator, line)
+        # result = f"{line}"
+        destination.write(result)
 
 
 def close_translation(original_filename:str):
