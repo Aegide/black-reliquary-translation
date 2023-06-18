@@ -3071,12 +3071,12 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SLOW_DISEASE_PROGRESSION_BY_50"><![CDATA[TODO:-50%% {colour_start|symptom}Symptom{colour_end}/ {colour_start|disease}Disease{colour_end} Progression Rate]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SCOUTCHANCE_TT"><![CDATA[TODO:%+d%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_RESIST_TT"><![CDATA[TODO:+5%% All Resists]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Debuff Chance/Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Move Chance/Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Stun Chance/Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_CHANCE_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Blight Chance/Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger malus +20%% par difficulté{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un déplacement +20%% par difficulté{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un étourdissement +20%% par difficulté{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_CHANCE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger une infection +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_AMOUNT_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+50%% Blight Amount Applied/Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLEED_CHANCE_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Bleed Chance/Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLEED_CHANCE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un saignement +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLEED_AMOUNT_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+50%% Bleed Amount Applied/Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CANT_VIRTUE"><![CDATA[TODO:Can't {colour_start|virtue}Virtue{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BEDTIME_STORY_AOE_DEBUFFS"><![CDATA[TODO:Rallying Flare/Suppressive Fire/Bola: -20%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Chance]]></entry>
