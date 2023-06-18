@@ -4097,7 +4097,7 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_5"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} 
 +30%% DMG, +10%% CRT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_YAWP_COOLDOWN_TT"><![CDATA[TODO:Barbaric Yawp on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_PREP"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_PREP"><![CDATA[Pendant la {colour_start|prep_round}préparation :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE / -10%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -13 DODGE / -10%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -15 DODGE / -10%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
