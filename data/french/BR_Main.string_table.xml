@@ -4701,7 +4701,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_necromania"><![CDATA[Passion macabre]]></entry>
 <entry id="str_quirk_name_golem_curse"><![CDATA[Marque du Golem]]></entry>
 <entry id="str_quirk_name_survivor"><![CDATA[Débrouillardise]]></entry> 
-<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Contrebandier]]></entry> 
+<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Fan du marché noir]]></entry> 
 <entry id="str_quirk_name_penitent"><![CDATA[Pénitence]]></entry>
 <entry id="str_quirk_name_ritualist"><![CDATA[Ritualiste]]></entry>
 <entry id="str_quirk_name_mystic"><![CDATA[Mystique]]></entry>
