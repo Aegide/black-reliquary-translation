@@ -81,7 +81,7 @@
 <entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s vs autre que %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[Hors {colour_start|attacktype}distance{colour_end} : %s]]></entry>
 <entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Riposte{colour_end} : %s]]></entry>
-<entry id="buff_rule_tooltip_skill"><![CDATA[%s: %s]]></entry>
+<entry id="buff_rule_tooltip_skill"><![CDATA[{colour_start|notable}%s{colour_end} : %s]]></entry>
 <entry id="buff_rule_tooltip_stress_above"><![CDATA[{?string1}%s si {colour_start|stress}stress{colour_end} supérieur à {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_stress_below"><![CDATA[{?string1}%s si {colour_start|stress}stress{colour_end} inférieur à {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_virtued"><![CDATA[%s en cas de {colour_start|virtue}vertu{colour_end}]]></entry>
