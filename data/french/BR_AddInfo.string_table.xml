@@ -36,9 +36,9 @@
 <entry id="camping_skill_name_addinfo_maa"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_occ"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_judi"><![CDATA[Informations supplémentaires]]></entry>
-<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mêlée{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Distance{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte:{colour_end} {colour_start|attacktype}Mystique{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Mêlée{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Distance{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Mystique{colour_end}]]></entry>
 <entry id="camping_skill_selection_br141a"><![CDATA[
 {colour_start|notable}Mouvement :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br211a"><![CDATA[
@@ -167,7 +167,7 @@ Mode persists after combat end]]></entry>
 <entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT2"><![CDATA[TODO:+2 {colour_start|blight}Blight{colour_end} Amount per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_SB_BREL_RIPO_TT3"><![CDATA[TODO:+20% {colour_start|blight}Blight{colour_end} Chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
+<entry id="camping_skill_effect_loot_VES_BREL_RIPO_TT2"><![CDATA[Chances d'infliger un {colour_start|debuff}malus{colour_end} +20% par difficulté]]></entry>
 <entry id="camping_skill_effect_loot_ABO_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} DMG +15% et compétences de {colour_start|stress}stress{colour_end} +50%]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} ESQUIVE +10]]></entry>
 <entry id="camping_skill_effect_loot_ARB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} DMG +33% vs {colour_start|mark}Marque{colour_end}]]></entry>
