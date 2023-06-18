@@ -3075,9 +3075,9 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un déplacement +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un étourdissement +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_CHANCE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger une infection +20%% par difficulté{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_AMOUNT_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+50%% Blight Amount Applied/Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLIGHT_AMOUNT_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Infection infligée +50%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLEED_CHANCE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un saignement +20%% par difficulté{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLEED_AMOUNT_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+50%% Bleed Amount Applied/Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLEED_AMOUNT_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Saignement infligé +50%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CANT_VIRTUE"><![CDATA[TODO:Can't {colour_start|virtue}Virtue{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BEDTIME_STORY_AOE_DEBUFFS"><![CDATA[TODO:Rallying Flare/Suppressive Fire/Bola: -20%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_KILL_LIST_MARK_TRIGGER"><![CDATA[TODO:On Mark for Death Hit: {colour_start|buff}Buff Self:{colour_end} +55%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
