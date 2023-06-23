@@ -4579,7 +4579,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_bad_reflexes"><![CDATA[Long à la détente]]></entry>
 <entry id="str_quirk_name_pertinacious"><![CDATA[TODO:Pertinacious]]></entry>
 <entry id="str_quirk_name_enervated"><![CDATA[Fatigue]]></entry>
-<entry id="str_quirk_name_unbalanced"><![CDATA[Déséquilibré]]></entry>
+<entry id="str_quirk_name_unbalanced"><![CDATA[Déséquilibre]]></entry>
 <entry id="str_quirk_name_impervious"><![CDATA[Sang épais]]></entry>
 <entry id="str_quirk_name_ashen"><![CDATA[Brûlures]]></entry>
 <entry id="str_quirk_name_noctomania"><![CDATA[Noctomanie]]></entry>
@@ -4607,7 +4607,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_on_the_mend"><![CDATA[Métabolisme vif]]></entry>
 <entry id="str_quirk_name_off_the_mend"><![CDATA[Métabolisme lent]]></entry>
 <entry id="str_quirk_name_mellow"><![CDATA[Tendre]]></entry>
-<entry id="str_quirk_name_tense"><![CDATA[Stressé]]></entry>
+<entry id="str_quirk_name_tense"><![CDATA[Anxiété]]></entry>
 <entry id="str_quirk_name_regenerator"><![CDATA[Régénération]]></entry>
 <entry id="str_quirk_name_algophilic"><![CDATA[Algophile]]></entry>
 <entry id="str_quirk_name_self_assured"><![CDATA[Confiance]]></entry>
