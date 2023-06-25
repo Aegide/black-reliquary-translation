@@ -588,7 +588,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_13"><![CDATA[Une compétence utilisée par un héros en combat.]]></entry>
 <entry id="str_glossary_term_14"><![CDATA[Cadavre]]></entry>
 <entry id="str_glossary_term_definition_14"><![CDATA[TODO:Most dead monsters leave a temporary corpse. Corpses preserve the enemy order for a time and require heroes to use skills to attack around the corpses, move other enemies in reach, and so on. Alternatively, corpses can be attacked and cleared manually.]]></entry>
-<entry id="str_glossary_term_15"><![CDATA[Marque de courage]]></entry>
+<entry id="str_glossary_term_15"><![CDATA[Trophée]]></entry>
 <entry id="str_glossary_term_definition_15"><![CDATA[TODO:A relic found in Exposed Interior dungeons. Used to upgrade buildings in on the ship.]]></entry>
 <entry id="str_glossary_term_16"><![CDATA[CRIT]]></entry>
 <entry id="str_glossary_term_definition_16"><![CDATA[Diminutif de "chances de critique". Les coups critiques font plus de dégâts et réduisent le stress (crit de héros) ou l'augmentent (crit de monstre).]]></entry>
@@ -632,7 +632,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_35"><![CDATA[TODO:Bonus towards resisting enemy moves that cause a position change.]]></entry>
 <entry id="str_glossary_term_36"><![CDATA[Obstacle]]></entry>
 <entry id="str_glossary_term_definition_36"><![CDATA[TODO:An object found in dungeons that impedes the party's progress. They can be removed by hand or with a Shovel. Clearing an obstacle by hand inflicts DMG and stress on the entire party.]]></entry>
-<entry id="str_glossary_term_37"><![CDATA[Bijoux luxuriants]]></entry>
+<entry id="str_glossary_term_37"><![CDATA[Bijoux]]></entry>
 <entry id="str_glossary_term_definition_37"><![CDATA[TODO:A Relic typically found in the Treasury. Used to upgrade buildings on the Ship.]]></entry>
 <entry id="str_glossary_term_38"><![CDATA[PROT]]></entry>
 <entry id="str_glossary_term_definition_38"><![CDATA[TODO:Short for "protection". Indicates what percentage of incoming damage is mitigated. DoTs (bleed, blight), effects and Expiated ignore PROT.]]></entry>
@@ -672,7 +672,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_55"><![CDATA[TODO:A type of equipment used by a hero to combat the dangers found in dungeons. A hero's weapon determines their base DMG, CRT and SPD. Weapons can be upgraded at the Blacksmith.]]></entry>
 <entry id="str_glossary_term_56"><![CDATA[Test de détermination]]></entry>
 <entry id="str_glossary_term_definition_56"><![CDATA[TODO:Made whenever a hero reaches 100 Stress and results in an Affliction or Virtue state.]]></entry>
-<entry id="str_glossary_term_57"><![CDATA[TODO:Hero Surprise]]></entry>
+<entry id="str_glossary_term_57"><![CDATA[Surprise]]></entry>
 <entry id="str_glossary_term_definition_57"><![CDATA[TODO:Surprised heroes have their order jumbled. Heroes are surprised when Ambushed or randomly at the start of non-scouted enemy combats.]]></entry>
 <entry id="str_glossary_term_58"><![CDATA[Historique d'afflictions]]></entry>
 <entry id="str_glossary_term_definition_58"><![CDATA[TODO:A hidden log of which Afflictions a particular hero has a tendency to develop.]]></entry>
@@ -686,7 +686,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_62"><![CDATA[TODO:Monsters with Stealth cannot be hit with direct attacks until Stealth expires or is negated with a hero skill. AOE attacks CAN hit stealthed monsters, though!]]></entry>
 <entry id="str_glossary_term_63"><![CDATA[Perçage d'armure]]></entry>
 <entry id="str_glossary_term_definition_63"><![CDATA[TODO:Armor Piercing effects make attacks ignore part of target's PROT, which means the attack damage doesn't get reduced by protection as much.]]></entry>
-<entry id="str_glossary_term_64"><![CDATA[TODO:Bubblenator]]></entry>
+<entry id="str_glossary_term_64"><![CDATA[Bubblenator]]></entry>
 <entry id="str_glossary_term_definition_64"><![CDATA[TODO:Bubblenator is not a word in a dictionary. We just want to check how many people actually read those entries. You can redeem your award by going into trinket menu, pressing enter and typing "Reading Comprehension"]]></entry>
 <entry id="str_glossary_term_1001"><![CDATA[Symptôme]]></entry>
 <entry id="str_glossary_term_definition_1001"><![CDATA[TODO:An indication of a disease that hero will get, if the symptom isn't tended to using Disease Kit nor cured in Clinic.]]></entry>
@@ -726,11 +726,11 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_1018"><![CDATA[TODO:Remnants of the vast Kvarotz Empire. Their sentinels and enforcers still roam the Valley in the dark, and are extremely dangerous to the bodies and minds of those caught in their wake.]]></entry>
 <entry id="str_glossary_term_1019"><![CDATA[Sauvage]]></entry>
 <entry id="str_glossary_term_definition_1019"><![CDATA[TODO:A matriarchal clan of nomadic warriors who worship Pagan gods and the pursuit of unmatched power. They fight with the utmost brutality and relentless onslaughts.]]></entry>
-<entry id="str_glossary_term_1020"><![CDATA[TODO:Stumble]]></entry>
+<entry id="str_glossary_term_1020"><![CDATA[Chute]]></entry>
 <entry id="str_glossary_term_definition_1020"><![CDATA[TODO:An effect that applies Shuffle over specific amount of turns.]]></entry>
-<entry id="str_glossary_term_1021"><![CDATA[TODO:Cooldown]]></entry>
+<entry id="str_glossary_term_1021"><![CDATA[Récupération]]></entry>
 <entry id="str_glossary_term_definition_1021"><![CDATA[TODO:Number of rounds before a skill can be used again. Cooldowns are refreshed on combat end.]]></entry>
-<entry id="str_glossary_term_1022"><![CDATA[TODO:Refined Amber Dust]]></entry>
+<entry id="str_glossary_term_1022"><![CDATA[Poudre d'ambre raffinée]]></entry>
 <entry id="str_glossary_term_definition_1022"><![CDATA[TODO:A refined version of Amber. Can be created in the Amber Refinery Activity in the Amber Workshop Facility on the Flameseeker, and occasionally be found as loot. Used to purchase luxury provisions, use the Amber Den Activity, and to buy Contraband Trinkets.]]></entry>
 <entry id="str_glossary_term_1023"><![CDATA[Troglodyte]]></entry>
 <entry id="str_glossary_term_definition_1023"><![CDATA[TODO:The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength.]]></entry>
@@ -2674,7 +2674,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Sickening Spew]]></entry>
 <entry id="str_monster_skill_trog_slinger_bola"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɦɱɽ{colour_end}Amber Bola]]></entry>
 <entry id="str_monster_skill_trog_slinger_flashbomb"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦɮʓ{colour_end}Subterranean Discharge]]></entry>
-<entry id="str_monster_skill_trog_lurker_dig"><![CDATA[TODO:{colour_start|white}ɪʤɘɘɣɣɩɧʐ{colour_end}Tunneling]]></entry>
+<entry id="str_monster_skill_trog_lurker_dig"><![CDATA[{colour_start|white}ɪʤɘɘɣɣɩɧʐ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_bonk"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɽʑ{colour_end}Crush 'em]]></entry>
 <entry id="str_monster_skill_trog_lurker_bleed"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Carve 'em]]></entry>
 <entry id="str_monster_skill_trog_cultivator_regen"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɦɭʐ{colour_end}Strength of the Carapace]]></entry>
@@ -4686,8 +4686,8 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_caverns_tactician"><![CDATA[Expertise (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_tactician"><![CDATA[Expertise (Trésorerie)]]></entry>
 <entry id="str_quirk_name_globetrotter"><![CDATA[Globe-trotter]]></entry>
-<entry id="str_quirk_name_love_interest"><![CDATA[Épaule cassée]]></entry>
-<entry id="str_quirk_name_deviant_tastes"><![CDATA[Combattant déloyal]]></entry>
+<entry id="str_quirk_name_love_interest"><![CDATA[Besoin de violence]]></entry>
+<entry id="str_quirk_name_deviant_tastes"><![CDATA[Excès de violence]]></entry>
 <entry id="str_quirk_name_silk_touch"><![CDATA[Délicatesse]]></entry>
 <entry id="str_quirk_name_tek_haggler"><![CDATA[Éloquence]]></entry>
 <entry id="str_quirk_name_prize_fighter"><![CDATA[TODO:Prize Fighter]]></entry>
@@ -6434,10 +6434,10 @@ the Treasury successfully gives buffs
 <entry id="str_ui_stress_dot_resist"><![CDATA[]]></entry>
 <entry id="resistance_name_debuff"><![CDATA[{colour_start|debuff}Malus{colour_end}{colour_start|neutral}/{colour_end}{colour_start|mark}Marque{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[Chances d'infliger {colour_start|debuff}malus{colour_end}/{colour_start|mark}marque{colour_end} %+d%%]]></entry>
-<entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[Résistance aux {colour_start|debuff}malus{colour_end}/{colour_start|mark}marques{colour_end} %+d%%]]></entry>
+<entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[Résist. {colour_start|debuff}malus{colour_end}/{colour_start|mark}marques{colour_end} %+d%%]]></entry>
 <entry id="str_ui_resist"><![CDATA[Résistance]]></entry>
 <entry id="resistance_name_disease"><![CDATA[{colour_start|symptom}Symptôme{colour_end}{colour_start|neutral}/{colour_end}{colour_start|disease}Maladie{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_resistance_disease"><![CDATA[Résistance aux {colour_start|symptom}symptômes{colour_end}/{colour_start|disease}maladies{colour_end} %+d%%]]></entry>
+<entry id="buff_stat_tooltip_resistance_disease"><![CDATA[Résist. {colour_start|symptom}symptômes{colour_end}/{colour_start|disease}maladies{colour_end} %+d%%]]></entry>
 <entry id="buff_bsrc_disease"><![CDATA[{colour_start|symptom}Symptôme{colour_end}/{colour_start|disease}Maladie{colour_end}]]></entry>
 <entry id="camping_skill_effect_remove_disease"><![CDATA[Soigne {colour_start|symptom}symptôme{colour_end}/{colour_start|disease}maladie{colour_end}]]></entry>
 <entry id="effect_tooltip_disease"><![CDATA[Cause {colour_start|symptom}symptôme{colour_end}/{colour_start|disease}maladie{colour_end}]]></entry>
