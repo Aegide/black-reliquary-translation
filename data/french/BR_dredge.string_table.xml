@@ -12,90 +12,94 @@
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT3"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end} VIT -12 {colour_start|skill_unselectable}(base : 120%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT4"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end} VIT -13 {colour_start|skill_unselectable}(base : 130%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT5"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end} VIT -14 {colour_start|skill_unselectable}(base : 140%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_DMG_PREP_TT"><![CDATA[TODO:-67%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_PREP_TT"><![CDATA[TODO:{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[TODO:Otherwise:
-{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_HEAT_SCALING_TT"><![CDATA[DMG 20%% / CRIT +3%% par {colour_start|debuff}Chaleur{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_DMG_PREP_TT"><![CDATA[DGT -67%% pendant {colour_start|prep_round}Préparation{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_PREP_TT"><![CDATA[{colour_start|move}Poussée{colour_end} 1 {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[Sinon :
+{colour_start|move}Poussée{colour_end} 1 {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_HEAT_SCALING_TT"><![CDATA[DMG 20%% / CRIT +3%% par {colour_start|debuff}chaleur{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT1"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -4 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT2"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -5 {colour_start|skill_unselectable}(base : 110%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT3"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -6 {colour_start|skill_unselectable}(base : 120%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT4"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -7 {colour_start|skill_unselectable}(base : 130%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT5"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -8 {colour_start|skill_unselectable}(base : 140%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_LASER_CLEAR_RIPOSTE_TT"><![CDATA[Destruction de {colour_start|riposte}Riposte{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_LASER_CLEAR_RIPOSTE_TT"><![CDATA[Destruction de {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_COOLDOWN"><![CDATA[Cœur horrible en récupération]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_ON_FOOT_TT"><![CDATA[TODO:{colour_start|move}Forward{colour_end} 2
-Change to mode: In Mech]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_MECH_1_TT"><![CDATA[TODO:{colour_start|move}Back{colour_end} 2
-Change to mode: On Foot]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_MECH_2_TT"><![CDATA[TODO:Clear Eldritch Core {colour_start|buff}Buffs{colour_end} and {colour_start|debuff}Overheat{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_SKILL_COOLDOWN"><![CDATA[TODO:{colour_start|notable}Cooldown: Until Camp{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_CLEAR_SPACES"><![CDATA[TODO:{colour_start|invisible} ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ {colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT1"><![CDATA[TODO:+20%% DMG if In Mech]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT2"><![CDATA[TODO:+8%% CRT if In Mech]]></entry>		
-<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT3"><![CDATA[TODO:+6 SPD if In Mech]]></entry>		
-<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT4"><![CDATA[TODO:-25%% PROT if In Mech]]></entry>			
-<entry id="buff_stat_tooltip_upgrade_discount_OMNITOOL_MAINTAIN_ACC_TT"><![CDATA[TODO:+10 ACC if On Foot]]></entry>	
-<entry id="actor_mode_name_on_foot"><![CDATA[À pied]]></entry>
-<entry id="actor_mode_name_mech_heat_0"><![CDATA[En Mecha]]></entry>
-<entry id="str_skill_mode_info_on_foot"><![CDATA[À pied :]]></entry>
-<entry id="str_skill_mode_info_mech_heat_0"><![CDATA[En Mecha :]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ELDRITCHFIRE_NONHUMAN_DEBUFF_TT"><![CDATA[TODO:%+d%% DMG Taken if not Human]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 80 / DMG mod: -60% / CRIT: -2%]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT1"><![CDATA[TODO:If in On Foot mode: -50% DMG]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT2"><![CDATA[TODO:If in On Foot mode: {colour_start|debuff}Debuff Target:{colour_end} -8 ACC {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_CRIT"><![CDATA[TODO:+10 DODGE if On Foot
-+15% PROT if In Mech]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_ON_FOOT_TT"><![CDATA[{colour_start|move}Avancée{colour_end} 2
+Passe en mode : Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_MECH_1_TT"><![CDATA[{colour_start|move}Recul{colour_end} 2
+Passe en mode : Pilote]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_MECH_2_TT"><![CDATA[Retire la {colour_start|debuff}surchauffe{colour_end}
+Retire les {colour_start|buff}bonus{colour_end} de {colour_start|notable}Cœur horrible{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_SKILL_COOLDOWN"><![CDATA[{colour_start|notable}Récupération : Campement{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_CLEAR_SPACES"><![CDATA[{colour_start|invisible} ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ {colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT1"><![CDATA[DMG +20%% si Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT2"><![CDATA[CRIT +8%% si Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT3"><![CDATA[VIT +6 SPD si Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERCLOCK_BUFF_TT4"><![CDATA[PROT -25%%  si Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OMNITOOL_MAINTAIN_ACC_TT"><![CDATA[PRÉ +10 si Pilote]]></entry>	
+<entry id="actor_mode_name_on_foot"><![CDATA[Pilote]]></entry>
+<entry id="actor_mode_name_mech_heat_0"><![CDATA[Mecha]]></entry>
+<entry id="str_skill_mode_info_on_foot"><![CDATA[Pilote :]]></entry>
+<entry id="str_skill_mode_info_mech_heat_0"><![CDATA[Mechaa :]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ELDRITCHFIRE_NONHUMAN_DEBUFF_TT"><![CDATA[DGT reçus %+d%% si non-Humain]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_RIPO_STATS_TT"><![CDATA[PRÉ de base : 80 / Mod. de DGT : -60% / Mod. de CRIT : -2%]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT1"><![CDATA[Si Pilote : DGT -50%]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_RIPO_EFFECT_TT2"><![CDATA[Si Pilote : {colour_start|debuff}Malus sur cible :{colour_end} PRÉ -8 {colour_start|skill_unselectable}( base : 100% ){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_CRIT"><![CDATA[ ESQUIVE +10 si Pilote
+PROT +15% si Mecha]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT1"><![CDATA[( {colour_start|debuff}Surchauffe{colour_end} )
-Les compétences du Scaphe génèrent de la {colour_start|debuff}Chaleur{colour_end}, et une {colour_start|debuff}Surchauffe{colour_end} à 100.]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT2"><![CDATA[Utiliser une compétence en {colour_start|debuff}Surchauffe{colour_end} infligera 6 {colour_start|skill_unselectable}(+1/niveau){colour_end} au Scaphe]]></entry>
+Les compétences en Mecha génèrent de la {colour_start|debuff}chaleur{colour_end}, et une {colour_start|debuff}surchauffe{colour_end} à 100.]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT2"><![CDATA[Utiliser une compétence en {colour_start|debuff}surchauffe{colour_end} infligera 6 {colour_start|skill_unselectable}(+1/niveau){colour_end} au Scaphe]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT3"><![CDATA[et un malus de +20% aux dégâts subis, tant qu'elle restera en Mecha.]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[La compétence {colour_start|notable}Cœur horrible{colour_end} permet de changer de mode.]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[{colour_start|notable}Cœur horrible{colour_end} permet de changer de mode.]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_MODE_TT2"><![CDATA[Le mode est conservé à la fin d'un combat.]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[( {colour_start|amberblighted}Cœur d'ambre pur{colour_end} )
+{colour_start|notable}Foreuse{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 90 / DGT -35% / CRIT +4% 
 DMG +50% vs {colour_start|amberblighted}Amberblight{colour_end} , Perçage d'armure +100% , {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[TODO:{colour_start|notable}Vitrification{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} 95 ACC/-70% DMG/+2% CRT
-Ignores {colour_start|prep_round}Prep Round{colour_end} ACC Reduction, {colour_start|amberblighted}Amberblight{colour_end} Target, +15% {colour_start|debuff}Heat{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[TODO:{colour_start|notable}Rayonnement ultra-ambré{colour_end}: {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} 95 ACC/+25% DMG/+5% CRT
-Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start|debuff}Heat{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[{colour_start|notable}Vitrification{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} PRÉ 95 / DGT -70% / CRIT +2% 
+Ignore le malus de {colour_start|prep_round}préparation{colour_end}, {colour_start|amberblighted}Amberblight{colour_end} la cible, {colour_start|debuff}Chaleur{colour_end} +15%]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[{colour_start|notable}Rayonnement ultra-ambré{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 95 / DGT +25% / CRIT +5% 
+Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% DMG {colour_start|skill_unselectable}(2 trs){colour_end}, {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produit 3 huiles d'affûtage]]></entry>
-<entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Matrice focale anti-organique]]></entry>
-<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Module à particules liées]]></entry>
+<entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Vision d'horreur]]></entry>
+<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Lance-grapin]]></entry>
 <entry id="str_inventory_title_trinketdredge_pilebunker_blueprint"><![CDATA[Amélioration de forage lourd]]></entry>
 <entry id="str_inventory_title_trinketdredge_eldritchfire_scope"><![CDATA[Réservoir de carburant interdit]]></entry>
 <entry id="str_inventory_title_trinketdredge_ostvengr_knapsack"><![CDATA[Rations d'Ostvengr]]></entry>
 <entry id="str_inventory_title_trinketdredge_prototype_blueprint"><![CDATA[Le premier prototype]]></entry>
 <entry id="str_inventory_title_trinketdredge_amber_core"><![CDATA[Cœur d'ambre pur]]></entry>
 <entry id="str_inventory_set_title_cc_dredge"><![CDATA["Pour combattre les monstres, nous en sommes devenus..."]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_ON_FOOT_TT"><![CDATA[TODO:%+d%% DMG if On Foot]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_IN_MECH_TT"><![CDATA[TODO:%+d%% DMG if In Mech]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ACC_ON_FOOT_TT"><![CDATA[TODO:%+d ACC if On Foot]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ACC_IN_MECH_TT"><![CDATA[TODO:%+d ACC if In Mech]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DODGE_ON_FOOT_TT"><![CDATA[TODO:%+d DODGE if On Foot]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DODGE_IN_MECH_TT"><![CDATA[TODO:%+d DODGE if In Mech]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SPD_ON_FOOT_TT"><![CDATA[TODO:%+d SPD if On Foot]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SPD_IN_MECH_TT"><![CDATA[TODO:%+d SPD if In Mech]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_REC_IN_MECH_TT"><![CDATA[TODO:%+d%% DMG Taken if In Mech]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_PROT_IN_MECH_TT"><![CDATA[TODO:%+d%% PROT if In Mech]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_POISON_BLIGHT_OMNIPISTOL_TT"><![CDATA[TODO:On Omnipistol Blast Hit: {colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_HOOK_PULL_OMNIPISTOL_TT"><![CDATA[TODO:On Omnipistol Blast Hit: {colour_start|move}Pull{colour_end} Target 2 {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PILEBUNKER_BREAK_GUARD_MELEE_TT"><![CDATA[TODO:On Melee Attack Hit: Break {colour_start|guard}Guard{colour_end}/{colour_start|guard}Guarding{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PILEBUNKER_DEBUFF_PROT_MELEE_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -20%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_ELDRITCHFIRE_DEBUFF_RANGED_TT"><![CDATA[TODO:On Omnipistol Blast Hit: {colour_start|debuff}Debuff Target:{colour_end} +15%% DMG Taken if not Human {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_FRIENDLY_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end}: {colour_start|buff}Bonus sur soi :{colour_end} ESQUIVE +20, VIT +10 en Mecha]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Buffs last for duration of Eldritch Core{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_REDUCE_ELDRITCH_CORE_COOLDOWN_TT"><![CDATA[TODO:Reduces Cooldown on Eldritch Core to 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_NO_KILLING_ON_FOOT_TT"><![CDATA[TODO:Can't Deal Damage, Crit, or {colour_start|blight}Blight{colour_end} while On Foot]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_CHANGE_TO_AMBER_TT"><![CDATA[TODO:On Monster Kill: Equip {colour_start|amberblighted}Pure Amber Core{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_DURATION_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Lasts for duration of Eldritch Core{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_RESET_HEAT_TT"><![CDATA[TODO:On Monster Kill: Reset {colour_start|debuff}Heat Level{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SCOUT_IN_MECH_TT"><![CDATA[TODO:-20%% {colour_start|scouting}Scouting{colour_end} Chance if In Mech]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_RESISTS_IN_MECH_TT"><![CDATA[TODO:-15%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end} and {colour_start|move}Move{colour_end} Resist if In Mech]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_SMOKE_DEBUFFS_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}
--10 DODGE]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_LASER_DEBUFFS_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Self:{colour_end}
--15%% DMG
-+15%% DMG Taken]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_ON_FOOT_TT"><![CDATA[DGT %+d%% si Pilote]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_IN_MECH_TT"><![CDATA[DGT %+d%% si Mecha]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ACC_ON_FOOT_TT"><![CDATA[PRÉ %+d si Pilote]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ACC_IN_MECH_TT"><![CDATA[PRÉ %+d si Mecha]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DODGE_ON_FOOT_TT"><![CDATA[ESQUIVE %+d si Pilote]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DODGE_IN_MECH_TT"><![CDATA[ESQUIVE %+d si Mecha]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SPD_ON_FOOT_TT"><![CDATA[VIT %+d si Pilote]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SPD_IN_MECH_TT"><![CDATA[VIT %+d si Mecha]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DMG_REC_IN_MECH_TT"><![CDATA[DGT subis %+d%% si Mecha]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_PROT_IN_MECH_TT"><![CDATA[PROT %+d%% si Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_POISON_BLIGHT_OMNIPISTOL_TT"><![CDATA[{colour_start|notable}Tir d'omni-pistolet{colour_end} : {colour_start|blight}Infection{colour_end} 4 pts/tr pour 3 trs {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_HOOK_PULL_OMNIPISTOL_TT"><![CDATA[{colour_start|notable}Tir d'omni-pistolet{colour_end} : {colour_start|move}Traction{colour_end} 2 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PILEBUNKER_BREAK_GUARD_MELEE_TT"><![CDATA[Compétences {colour_start|attacktype}de mêlée{colour_end} : Destruction {colour_start|guard}Garde{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PILEBUNKER_DEBUFF_PROT_MELEE_TT"><![CDATA[Compétences {colour_start|attacktype}de mêlée{colour_end} : {colour_start|debuff}Malus sur cible :{colour_end} PROT -20%% {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_ELDRITCHFIRE_DEBUFF_RANGED_TT"><![CDATA[{colour_start|notable}Tir d'omni-pistolet{colour_end} : {colour_start|debuff}Malus sur cible :{colour_end} DMG subis +15%% si non-Humain {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_FRIENDLY_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur soi :{colour_end}
+ESQUIVE +20 en Mecha
+VIT +10 en Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Bonus en mode Mecha{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_REDUCE_ELDRITCH_CORE_COOLDOWN_TT"><![CDATA[{colour_start|notable}Cœur horrible : Récupération : 3 trs{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_NO_KILLING_ON_FOOT_TT"><![CDATA[Dégàts/critiques/{colour_start|blight}infections{colour_end} impossibles en Pilote]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_CHANGE_TO_AMBER_TT"><![CDATA[Monstre tué : Active {colour_start|amberblighted}Cœur d'ambre pur{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Actif uniquement en Mecha{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_RESET_HEAT_TT"><![CDATA[Monstre tué : Retire {colour_start|debuff}chaleur{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SCOUT_IN_MECH_TT"><![CDATA[Chances de {colour_start|scouting}repérage{colour_end} -20%% en Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_RESISTS_IN_MECH_TT"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} -15%% en Mecha]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_SMOKE_DEBUFFS_TT"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end}
+ESQUIVE -10]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_LASER_DEBUFFS_TT"><![CDATA[{colour_start|debuff}Malus sur soi :{colour_end}
+DGT -15%%
+DGT subis +15%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_LASER_COOLDOWN_TT"><![CDATA[Rayonnement ultra-ambré en récupération]]></entry>
 <entry id="buff_rule_data_tooltip_dredge_melee"><![CDATA[Frappe Atlas]]></entry>
 <entry id="buff_rule_data_tooltip_dredge_ranged"><![CDATA[Tir d'omni-pistolet]]></entry>
@@ -491,7 +495,7 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 <entry id="combat_skill_name_dredge_dredge_flamethrower"><![CDATA[Déflagration]]></entry>
 <entry id="combat_skill_name_dredge_dredge_laser"><![CDATA[Désastre prismatique]]></entry>
 <entry id="combat_skill_name_dredge_dredge_transform"><![CDATA[Cœur horrible]]></entry>
-<entry id="combat_skill_name_dredge_dredge_drill"><![CDATA[¤Foreuse brillante{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="combat_skill_name_dredge_dredge_drill"><![CDATA[¤Foreuse{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="combat_skill_name_dredge_dredge_smoke"><![CDATA[Vitrification {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="combat_skill_name_dredge_dredge_amber_laser"><![CDATA[¤¤Rayonnement ultra-ambré{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="combat_skill_name_dredge_move"><![CDATA[Déplacement]]></entry>
@@ -535,22 +539,22 @@ Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour am�
 <entry id="str_skill_mode_info_dredge_skill2_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill3_1"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill3_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill4_1"><![CDATA[À pied :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill4_1"><![CDATA[Pilote :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_dredge_skill4_2"><![CDATA[  ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill5_1"><![CDATA[À pied :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill5_2"><![CDATA[En Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill6_1"><![CDATA[À pied :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill6_2"><![CDATA[En Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill7_1"><![CDATA[À pied :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="str_skill_mode_info_dredge_skill7_2"><![CDATA[En Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE1"><![CDATA[TODO: Ignores {colour_start|prep_round}Prep Round's{colour_end} ACC Reduction]]></entry>
+<entry id="str_skill_mode_info_dredge_skill5_1"><![CDATA[Pilote :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill5_2"><![CDATA[Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill6_1"><![CDATA[Pilote :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill6_2"><![CDATA[Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill7_1"><![CDATA[Pilote :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="str_skill_mode_info_dredge_skill7_2"><![CDATA[Mecha :​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE1"><![CDATA[ Ignore le malus de {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE21"><![CDATA[^^^^^^^^^^^^^^^^^^^^Perçage d'armure +20%%]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE22"><![CDATA[Perçage d'armure +25%%]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE23"><![CDATA[Perçage d'armure +30%%]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE24"><![CDATA[Perçage d'armure +35%%]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE25"><![CDATA[Perçage d'armure +40%%]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE2"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^-67%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE3"><![CDATA[TODO: On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE2"><![CDATA[^^^^^^^^^^^^^^^^^^^^DGT -67%% pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE3"><![CDATA[ {colour_start|prep_round}Préparation :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE5"><![CDATA[^^{colour_start|buff}Bonus sur soi :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE41"><![CDATA[DGT +12%%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE42"><![CDATA[DGT +14%%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -558,7 +562,7 @@ Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour am�
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE44"><![CDATA[DGT +18%%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL1_LINE45"><![CDATA[DGT +20%%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_DRED_SKILL1_HEAT"><![CDATA[{colour_start|debuff}Chaleur{colour_end} +10% {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE1"><![CDATA[   DMG +20%% / CRT +3%% par 20%% {colour_start|debuff}Chaleur{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE1"><![CDATA[   DMG +20%% et CRT +3%% par 20%% de {colour_start|debuff}chaleur{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE21"><![CDATA[ {colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -4 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE22"><![CDATA[ {colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -5 {colour_start|skill_unselectable}(base : 110%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL2_LINE23"><![CDATA[ {colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -6 {colour_start|skill_unselectable}(base : 120%%){colour_end}]]></entry>
@@ -570,25 +574,26 @@ Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour am�
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_DMG"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DREDGE_LASER_CRT"><![CDATA[Mod. de CRIT : %+d.0%%]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE1"><![CDATA[ {colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE2"><![CDATA[ DMG +35%%  vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL3_LINE2"><![CDATA[ DMG +35%% vs {colour_start|mark}Marque{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_DRED_SKILL3_HEAT"><![CDATA[{colour_start|debuff}Chaleur{colour_end} +10% {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE1"><![CDATA[À pied :]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE1"><![CDATA[Pilote :]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE2"><![CDATA[
 {colour_start|move}Avancée{colour_end} 2]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE3"><![CDATA[Passe en mode : Mecha]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE4"><![CDATA[Sur soi :]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE51"><![CDATA[TODO:+35%% PROT / +40%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE52"><![CDATA[TODO:+37%% PROT / +45%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE53"><![CDATA[TODO:+40%% PROT / +50%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE54"><![CDATA[TODO:+42%% PROT / +55%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE55"><![CDATA[TODO:+45%% PROT / +60%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end}, {colour_start|move}Move{colour_end} Resist]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE61"><![CDATA[-20 ESQUIVE / -10 VIT]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE62"><![CDATA[-20 ESQUIVE / -10 VIT]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE63"><![CDATA[-20 ESQUIVE / -10 VIT]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE64"><![CDATA[-20 ESQUIVE / -10 VIT]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE65"><![CDATA[-20 ESQUIVE / -10 VIT]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[Chances de {colour_start|trap}désarmer{colour_end} -40%%
-TODO:{colour_start|notable}Cooldown: Until Camp {colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE8"><![CDATA[En Mecha :]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE4"><![CDATA[ Sur soi :]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE51"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} +40%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE52"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} +45%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE53"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} +50%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE54"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} +55%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE55"><![CDATA[Résistance aux {colour_start|bleed}saign.{colour_end}/{colour_start|stun}étourd.{colour_end}/{colour_start|move}déplac.{colour_end} +60%%]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE61"><![CDATA[ PROT +35%% / ESQUIVE -20 / VIT -10 ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE62"><![CDATA[ PROT +37%% / ESQUIVE -20 / VIT -10 ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE63"><![CDATA[ PROT +40%% / ESQUIVE -20 / VIT -10 ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE64"><![CDATA[ PROT +42%% / ESQUIVE -20 / VIT -10 ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE65"><![CDATA[ PROT +45%% / ESQUIVE -20 / VIT -10 ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[1)Chances de {colour_start|trap}désarmer{colour_end} -40%%
+{colour_start|notable}Récupération : Campement{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE8"><![CDATA[Mecha :]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE9"><![CDATA[{colour_start|move}Recul{colour_end} 2]]></entry>
-<entry id="buff_rule_data_tooltip_DRED_SKILL4_HEAT"><![CDATA[TODO: Change to mode: On Foot / Clear Eldritch Core {colour_start|buff}Buffs{colour_end} and {colour_start|debuff}Overheat{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_DRED_SKILL4_HEAT"><![CDATA[Passe en mode : Pilote
+Retire ces {colour_start|buff}bonus{colour_end} et la {colour_start|debuff}chaleur{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
