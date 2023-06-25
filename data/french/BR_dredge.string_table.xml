@@ -591,7 +591,7 @@ Le Scaphe a besoin de {colour_start|BR_lost_tek}tek antique{colour_end} pour am�
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE63"><![CDATA[ PROT +40%% / ESQUIVE -20 / VIT -10 ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE64"><![CDATA[ PROT +42%% / ESQUIVE -20 / VIT -10 ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE65"><![CDATA[ PROT +45%% / ESQUIVE -20 / VIT -10 ]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[1)Chances de {colour_start|trap}désarmer{colour_end} -40%%
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE7"><![CDATA[Chances de {colour_start|trap}désarmer{colour_end} -40%%
 {colour_start|notable}Récupération : Campement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE8"><![CDATA[Mecha :]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_DRED_SKILL4_LINE9"><![CDATA[{colour_start|move}Recul{colour_end} 2]]></entry>
