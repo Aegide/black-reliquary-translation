@@ -8,6 +8,7 @@ Bedlah
 bloodlet
 Bloodlust
 Brokery
+carapaced
 Chakram
 charybdian
 Chloroshell

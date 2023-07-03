@@ -15,12 +15,14 @@ Cactonid
 Cactonids
 Corvid
 Dismas
+Dolorosa
 Duplicant
 Expeditionist
 Feuerfaust
 Firewalker
 Flameseeker
 forgemaster
+Gaolang
 Gaspard
 Gastrosaur
 giblett
@@ -45,7 +47,9 @@ philomath
 Pliskin
 Pterotillus
 Rakshasa
+sandwurm
 Sandwurm
+Sêtar
 Shieldbreaker
 Spellblighter
 Steelpath
@@ -56,6 +60,7 @@ trogs
 Verterephile
 Warhawk
 Webber
+wildlander
 Wildlander
 Wildlanders
 Worrystone

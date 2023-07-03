@@ -4,6 +4,7 @@ ADDHEAL
 addinfo
 additionaleffect
 afterprep
+allperished
 AMBERPAGE
 attacktype
 barehand
@@ -343,6 +344,7 @@ rostersize
 shuffledot
 skel
 stoneworkq
+stressdot
 Stressheal
 studyhall
 supplyarch
