@@ -2906,10 +2906,8 @@ Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invi
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT_NEW"><![CDATA[TODO:Ignore Prep Round ACC Reduction Moves: ACC Reduced by 50ʪ
 Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT2_NEW"><![CDATA[TODO:Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_tooltip_firstroundonly"><![CDATA[Pendant la {colour_start|prep_round}préparation{colour_end} :
-%s]]></entry>
-<entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[Après la {colour_start|prep_round}préparation{colour_end} :
-%s]]></entry>
+<entry id="buff_rule_tooltip_firstroundonly"><![CDATA[%s pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
+<entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[%s après la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_NEGATE_PREP_ROUND_ACC_TT"><![CDATA[Ignore le malus de {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DMGDONE_TT"><![CDATA[TODO:-50%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DEBUFF_TT"><![CDATA[TODO:Can't {colour_start|debuff}Debuff{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
