@@ -768,12 +768,16 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_glossary_term_definition_1036"><![CDATA[TODO:When a Frantic hero performs a non-fatal attack, they have a chance to be moved backwards and become horrified.]]></entry>
 <entry id="str_glossary_term_2002"><![CDATA[Restauration]]></entry>
 <entry id="str_glossary_term_definition_2002"><![CDATA[TODO:An effect that restores health at the beginning of a hero's turn.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Aspects of the Flameseeker are subject to change as Black Reliquary develops.]]></entry>
-<entry id="str_town_tip"><![CDATA[Les fonctionnalités de Black Reliquary ne sont pas toutes finalisées.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Remember to place heroes in the Amber Refinery each week.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Positive quirks are now locked in by default, and can be removed in the Clinic.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Positive quirks can no longer be replaced by new quirks. Money will need to be spent to make space for new quirks.]]></entry>
-<entry id="str_town_tip"><![CDATA[TODO:Disease kits can mitigate the severity of symptoms and diseases.]]></entry>
+<entry id="str_town_tip"><![CDATA[Certains aspects du "Chasseur de la Flamme" pourront changer
+au cours du développement de Black Reliquary.]]></entry>
+<entry id="str_town_tip"><![CDATA[Black Reliquary est en cours de développement.]]></entry>
+<entry id="str_town_tip"><![CDATA[N'oubliez pas d'assigner, chaque semaine,
+des héros à l'atelier d'ambre.]]></entry>
+<entry id="str_town_tip"><![CDATA[Les attributs positifs sont verrouillés par défaut,
+et peuvent être retirés à la clinique.]]></entry>
+<entry id="str_town_tip"><![CDATA[Les attributs positifs ne peuvent pas être remplacés,
+il faudra dépenser de l'argent pour les retirer.]]></entry>
+<entry id="str_town_tip"><![CDATA[Les trousse médicinale réduisent la sévérité des symptômes et des maladies.]]></entry>
 <entry id="str_town_title"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="str_return_to_hamlet_tooltip"><![CDATA[Retourner au navire]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:The filthy Troglodytes are resistant to toxins and cuts, but their carapaced bodies are easily stunned.]]></entry>
@@ -828,25 +832,25 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_cove_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
 <entry id="str_cove_tip"><![CDATA[TODO:During the {colour_start|moon_torch}Night{colour_end}, torches can provide temporary {colour_start|stealth}Stealth{colour_end} bypass.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Exposed Interior has been unlocked.]]></entry>
-<entry id="bonus_currency_name_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
+<entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
 <entry id="str_inventory_title_heirloombust"><![CDATA[{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
-<entry id="str_inventory_title_heirloomcrest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
+<entry id="str_inventory_title_heirloomcrest"><![CDATA[{colour_start|BR_heirloom}Trophée{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
-<entry id="str_inventory_title_heirloomportrait"><![CDATA[TODO:{colour_start|BR_heirloom}Salvaged Jewelry{colour_end}]]></entry>
-<entry id="str_inventory_title_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="str_inventory_description_heirloombust"><![CDATA[TODO:The currency of the Kvarotz society, comprised of electrum.]]></entry>
-<entry id="str_inventory_description_heirloomcrest"><![CDATA[TODO:Wildlander tokens denoting one's strength and accomplishments.]]></entry>
-<entry id="str_inventory_description_heirloomdeed"><![CDATA[TODO:A mystical substance flowing from the Reliquary into the valley.]]></entry>
-<entry id="str_inventory_description_heirloomportrait"><![CDATA[TODO:There is something odd about this beautiful jewelry...]]></entry>
-<entry id="str_inventory_description_shard"><![CDATA[TODO:Carefully extracted and ground into a fine powder, this refined luxury is worth its weight in gold...]]></entry>
+<entry id="str_inventory_title_heirloomportrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
+<entry id="str_inventory_title_shard"><![CDATA[:{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
+<entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de la nation Kvarotz, composée d'électrum.]]></entry>
+<entry id="str_inventory_description_heirloomcrest"><![CDATA[Un symbole de force et de respect parmi les sauvages.]]></entry>
+<entry id="str_inventory_description_heirloomdeed"><![CDATA[Une substance mystique qui proviens du Reliquaire.]]></entry>
+<entry id="str_inventory_description_heirloomportrait"><![CDATA[Ce magnifique bijou a quelque chose d'étrange ...]]></entry>
+<entry id="str_inventory_description_shard"><![CDATA[Soigneusement extrait et réduit en une fine poudre, ce produit de luxe vaut son pesant d'or ...]]></entry>
 <entry id="town_name_heirloom_exchange"><![CDATA[Échange de reliques]]></entry>
-<entry id="town_estate_bar_tooltip_bust"><![CDATA[TODO:Matakh: %d (Used to upgrade airship facilities.)]]></entry>
-<entry id="town_estate_bar_tooltip_crest"><![CDATA[TODO:Valor Mark: %d (Used to upgrade airship facilities.)]]></entry>
-<entry id="town_estate_bar_tooltip_deed"><![CDATA[TODO:Amber: %d (Used to upgrade airship facilities.)]]></entry>
-<entry id="town_estate_bar_tooltip_portrait"><![CDATA[TODO:Salvaged Jewelry: %d (Used to upgrade airship facilities.)]]></entry>
-<entry id="town_estate_bar_tooltip_shard"><![CDATA[TODO:Refined Amber Dust: %d (Used for luxury resources and activities.)]]></entry>
-<entry id="town_estate_bar_tooltip_blueprint"><![CDATA[TODO:Lost Tek: %d (Used to create ship decks.)]]></entry>
+<entry id="town_estate_bar_tooltip_bust"><![CDATA[Matakh : %d (sert à améliorer le navire.)]]></entry>
+<entry id="town_estate_bar_tooltip_crest"><![CDATA[Trophées : %d (servent à améliorer le navire.)]]></entry>
+<entry id="town_estate_bar_tooltip_deed"><![CDATA[Ambre : %d (sert à améliorer le navire.)]]></entry>
+<entry id="town_estate_bar_tooltip_portrait"><![CDATA[Bijoux : %d (servent à améliorer le navire.)]]></entry>
+<entry id="town_estate_bar_tooltip_shard"><![CDATA[Poussière d'ambre raffinée : %d (sert à réduire le stress.)]]></entry>
+<entry id="town_estate_bar_tooltip_blueprint"><![CDATA[Tek antique : %d (sert à améliorer le pont supérieur.)]]></entry>
 <entry id="curio_tooltip_pass"><![CDATA[Ignorer]]></entry>
 <entry id="str_curio_item_had_no_effect"><![CDATA[L'objet n'a aucun effet.]]></entry>
 <entry id="curio_tooltip_item_slot"><![CDATA[[OPTIONNEL] Faites glisser un objet ici pour l'utiliser sur cet élément.]]></entry>
@@ -1309,9 +1313,9 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_poacher_adrenaline_loot"><![CDATA[TODO:His curiosity is piqued by the substance!]]></entry>
 <entry id="str_curio_poacher__loot"><![CDATA[TODO:He hastily tucks the refined dust into a personal satchel.]]></entry>
 <entry id="str_curio_poacher_dune_lily_loot"><![CDATA[TODO:The poacher delicately lifts the flower from the hero's hands.]]></entry>
-<entry id="str_curio_title_waxen_penitent"><![CDATA[TODO:Waxen Penitent]]></entry>
+<entry id="str_curio_title_waxen_penitent"><![CDATA[Pénitent de cire]]></entry>
 <entry id="str_curio_content_waxen_penitent"><![CDATA[TODO:This person seems to have died in this pose...]]></entry>
-<entry id="str_curio_tooltip_investigate_waxen_penitent"><![CDATA[TODO:Inspect the cadaver.]]></entry>
+<entry id="str_curio_tooltip_investigate_waxen_penitent"><![CDATA[Inspecter le cadavre.]]></entry>
 <entry id="str_curio_waxen_penitent_nothing"><![CDATA[TODO:Dry bones and melted candles...]]></entry>
 <entry id="str_curio_waxen_penitent_effect"><![CDATA[TODO:The display inflicts powerful thoughts.]]></entry>
 <entry id="str_curio_waxen_penitent_shovel_effect"><![CDATA[TODO:Demolishing the display feels somehow wrong.]]></entry>
@@ -1411,7 +1415,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem2_loot"><![CDATA[TODO:The dagger is placed in a box and your reward is produced.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem1_loot"><![CDATA[TODO:The tablet is wrapped in cloth, and your prize is handed over.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem0_loot"><![CDATA[TODO:The totem is stuffed into their bag, and you receive a palmful of gems.]]></entry>
-<entry id="str_curio_title_yngolian_altar"><![CDATA[TODO:Yngolian's Beacon]]></entry>
+<entry id="str_curio_title_yngolian_altar"><![CDATA[ Balise de l'Yngolien]]></entry>
 <entry id="str_curio_content_yngolian_altar"><![CDATA[TODO:An otherworldly force flows from this object, demanding ignition.]]></entry>
 <entry id="str_curio_tooltip_investigate_yngolian_altar"><![CDATA[TODO:It thirsts for flame...]]></entry>
 <entry id="str_curio_yngolian_altar_nothing"><![CDATA[TODO:The beacon ignites, but nothing happens...]]></entry>
@@ -1591,7 +1595,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="enemy_type_name_stoneworkq"><![CDATA[Maçonnerie ?]]></entry>
 <entry id="enemy_type_name_br_enemy"><![CDATA[]]></entry>
 <entry id="enemy_type_name_monke"><![CDATA[{colour_start|white}̠{colour_end}]]></entry>
-<entry id="enemy_type_name_corpses_tt"><![CDATA[TODO:Clear All Corpses^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="enemy_type_name_corpses_tt"><![CDATA[Retire les cadavres^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
 <entry id="str_monstername_attack_dummy_A"><![CDATA[]]></entry>
 <entry id="str_monstername_BR_corpse_A"><![CDATA[Cadavre]]></entry>
@@ -2866,7 +2870,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_yng_arm"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʁ{colour_end}Radiation]]></entry>
 <entry id="str_monster_skill_yng_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʏʑʟ{colour_end}Ruptured Ether]]></entry>
 <entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
-<entry id="enemy_type_name_corpses_tt"><![CDATA[TODO:Clear All Corpses^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="enemy_type_name_corpses_tt"><![CDATA[Retire les cadavres^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="str_death_effect_effect"><![CDATA[TODO:died due to unfortunate circumstances.]]></entry>
 <entry id="buff_bsrc_flashback_result"><![CDATA[Bonus supplémentaires]]></entry>
 <entry id="buff_bsrc_flashback_start"><![CDATA[TODO:Expiated]]></entry>
@@ -2902,8 +2906,10 @@ Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invi
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT_NEW"><![CDATA[TODO:Ignore Prep Round ACC Reduction Moves: ACC Reduced by 50ʪ
 Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT2_NEW"><![CDATA[TODO:Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_tooltip_firstroundonly"><![CDATA[TODO:%s on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-<entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[TODO:%s after {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+<entry id="buff_rule_tooltip_firstroundonly"><![CDATA[Pendant la {colour_start|prep_round}préparation{colour_end} :
+%s]]></entry>
+<entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[Après la {colour_start|prep_round}préparation{colour_end} :
+%s]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_NEGATE_PREP_ROUND_ACC_TT"><![CDATA[Ignore le malus de {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DMGDONE_TT"><![CDATA[TODO:-50%% DMG on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DEBUFF_TT"><![CDATA[TODO:Can't {colour_start|debuff}Debuff{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
@@ -2985,7 +2991,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_cure_poison_received_chance"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Cure Received Chance]]></entry>
 <entry id="buff_stat_tooltip_cure_bleed_chance"><![CDATA[TODO:%+d%% {colour_start|bleed}Bleed{colour_end} Cure Chance]]></entry>
 <entry id="buff_stat_tooltip_cure_poison_chance"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Cure Chance]]></entry>
-<entry id="buff_stat_tooltip_guard_duration_percent"><![CDATA[TODO:%+d%% {colour_start|guard}Guard{colour_end} Duration Applied]]></entry>
+<entry id="buff_stat_tooltip_guard_duration_percent"><![CDATA[Durée de la {colour_start|guard}garde{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_guard_duration_received_percent"><![CDATA[TODO:%+d%% {colour_start|guard}Guard{colour_end} Duration Received]]></entry>
 <entry id="buff_stat_tooltip_ambush_chance"><![CDATA[TODO:%+d%% Chance of being Ambushed]]></entry>
 <entry id="buff_rule_tooltip_target_hpabove"><![CDATA[TODO:{?string1}%s vs Targets above {?percent1}%d%% Max HP]]></entry>
@@ -3018,7 +3024,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SHARED_MARK_TT_COMBAT_END_SELF"><![CDATA[{colour_start|mark}Marque{colour_end} sur soi {colour_start|skill_unselectable}(%d combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BAG_OF_MARBLES_TT"><![CDATA[TODO:+2 SPD per different Gem and Vestige in Inventory]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GLIMMERING_PENDANT_TT"><![CDATA[TODO:-5%% {colour_start|stress}Stress{colour_end} Received per different Gem and Vestige in Inventory]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SKILL_COOLDOWN"><![CDATA[TODO:{colour_start|notable}Cooldown: %d tn(s){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SKILL_COOLDOWN"><![CDATA[{colour_start|notable}Récupération : %d tr(s){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[Compétences de {colour_start|stress}stress{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[Compétences de {colour_start|stress}stress{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_heal_received_percent"><![CDATA[Soins de {colour_start|stress}stress{colour_end} reçus %+d%%]]></entry>
@@ -3896,17 +3902,17 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 {colour_start|stress}Stress{colour_end} on Target {colour_start|skill_unselectable}(Up to 100){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_GUARD_PREP_ROUND_TT"><![CDATA[TODO:+50%% {colour_start|guard}Guard{colour_end} Duration during {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_ZEALOUS_COOLDOWN_TT"><![CDATA[TODO:Zealous Accusation on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_1"><![CDATA[TODO:Party:
-Heal 3-3 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_2"><![CDATA[TODO:Party:
-Heal 3-4 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_3"><![CDATA[TODO:Party:
-Heal 4-4 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_4"><![CDATA[TODO:Party:
-Heal 4-5 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_5"><![CDATA[TODO:Party:
-Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_DISABLE_HEAL_TT"><![CDATA[TODO:Lick Wounds on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_1"><![CDATA[Groupe :
+{colour_start|stress}Stress{colour_end} -3]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_2"><![CDATA[Groupe :
+{colour_start|stress}Stress{colour_end} -3/-4]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_3"><![CDATA[Groupe :
+{colour_start|stress}Stress{colour_end} -4]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_4"><![CDATA[Groupe :
+{colour_start|stress}Stress{colour_end} -4/-5]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_5"><![CDATA[Groupe :
+{colour_start|stress}Stress{colour_end} -5]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_DISABLE_HEAL_TT"><![CDATA[Récupération : Léchage de plaies]]></entry>
 <entry id="str_skill_mode_info_hound_rush_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_hound_rush_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_hound_harry_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
@@ -4021,8 +4027,9 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_3"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte{colour_end}: 85 Base ACC / -60%% DMG / -2%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_4"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte{colour_end}: 90 Base ACC / -60%% DMG / -1%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_5"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte{colour_end}: 95 Base ACC / -60%% DMG]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_COMMAND_TT_ACTIVATE"><![CDATA[TODO:Activates {colour_start|riposte}Riposte{colour_end} on Target]]></entry>
-<entry id="buff_rule_data_tooltip_rampart"><![CDATA[TODO:Rampart]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_COMMAND_TT_ACTIVATE"><![CDATA[{colour_start|buff}Bonus sur cible :{colour_end}
+Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_rampart"><![CDATA[Rempart]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte{colour_end}: 85 Base ACC / -25%% DMG / +1%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte{colour_end}: 90 Base ACC / -25%% DMG / +2%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_3"><![CDATA[TODO:Activates {colour_start|riposte}Riposte{colour_end}: 95 Base ACC / -25%% DMG / +3%% CRT]]></entry>
@@ -4038,12 +4045,12 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_NON_PREP_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} +6%% Crits Received Chance {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_NON_PREP_DEBUFF_TT4"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} +7%% Crits Received Chance {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_NON_PREP_DEBUFF_TT5"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} +8%% Crits Received Chance  {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DMG_VS_EXPIATED_TT"><![CDATA[TODO:%+d%% DMG vs {colour_start|expiated}Expiated{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DMG_VS_EXPIATED_TT"><![CDATA[DGT %+d%% vs {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT1"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +2 ACC per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +3 ACC per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT3"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +4 ACC per 25 Torch]]></entry>
 <entry id="buff_rule_data_tooltip_target_tag"><![CDATA[TODO:Mark for Death]]></entry>
-<entry id="buff_rule_data_tooltip_bombard"><![CDATA[TODO:Bombard]]></entry>
+<entry id="buff_rule_data_tooltip_bombard"><![CDATA[Bombardement]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_GUARD_COOLDOWN"><![CDATA[TODO:Protect Me on Cooldown]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_NOT_DURING_PREP_TT"><![CDATA[TODO:Can't Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_ONLY_CORPSES_TT"><![CDATA[TODO:{colour_start|notable}Requires Corpse Present To Use{colour_end}]]></entry>
@@ -4633,19 +4640,19 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_sneaky"><![CDATA[Discrétion]]></entry>
 <entry id="str_quirk_name_imposter_syndrome_BR"><![CDATA[Syndrôme de l'imposteur]]></entry>
 <entry id="str_quirk_name_faster"><![CDATA[Jeûne]]></entry>
-<entry id="str_quirk_name_levantine_skirmisher"><![CDATA[TODO:Levantine Skirmisher]]></entry>
+<entry id="str_quirk_name_levantine_skirmisher"><![CDATA[Compréhension (Levantin)]]></entry>
 <entry id="str_quirk_name_fear_of_levantine"><![CDATA[Peur des levantins]]></entry>
 <entry id="str_quirk_name_levantine_slayer"><![CDATA[Némésis (Levantin)]]></entry>
 <entry id="str_quirk_name_levantine_intimidated"><![CDATA[Mal des levantins]]></entry>
-<entry id="str_quirk_name_wildlander_skirmisher"><![CDATA[TODO:Wildlander Skirmisher]]></entry>
+<entry id="str_quirk_name_wildlander_skirmisher"><![CDATA[Compréhension (Sauvage)]]></entry>
 <entry id="str_quirk_name_fear_of_wildlander"><![CDATA[Peur des sauvages]]></entry>
 <entry id="str_quirk_name_wildlander_slayer"><![CDATA[Némésis (Sauvage)]]></entry>
 <entry id="str_quirk_name_wildlander_intimidated"><![CDATA[Mal des sauvages]]></entry>
-<entry id="str_quirk_name_troglodyte_skirmisher"><![CDATA[TODO:Troglodyte Skirmisher]]></entry>
+<entry id="str_quirk_name_troglodyte_skirmisher"><![CDATA[Compréhension (Troglodyte)]]></entry>
 <entry id="str_quirk_name_fear_of_troglodyte"><![CDATA[Peur des troglodytes]]></entry>
 <entry id="str_quirk_name_troglodyte_slayer"><![CDATA[Némésis (Troglodyte)]]></entry>
 <entry id="str_quirk_name_troglodyte_intimidated"><![CDATA[Mal des troglodytes]]></entry>
-<entry id="str_quirk_name_cactonid_skirmisher"><![CDATA[TODO:Cactonid Skirmisher]]></entry>
+<entry id="str_quirk_name_cactonid_skirmisher"><![CDATA[Compréhension (Cactonide)]]></entry>
 <entry id="str_quirk_name_fear_of_cactonid"><![CDATA[Peur des cactonides]]></entry>
 <entry id="str_quirk_name_cactonid_slayer"><![CDATA[Némésis (Cactonide)]]></entry>
 <entry id="str_quirk_name_cactonid_intimidated"><![CDATA[Mal des cactonides]]></entry>
