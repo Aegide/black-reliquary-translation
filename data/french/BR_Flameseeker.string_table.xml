@@ -115,7 +115,7 @@
 <entry id="building_verbose_tavern"><![CDATA[Améliorer la taverne accroît le nombre de méthodes de traitement du stress et leur efficacité.]]></entry>
 <entry id="stagecoach_empty_info"><![CDATA[Le ferry est vide.
 Revenez après votre prochaine quête.]]></entry>
-<entry id="str_caretaker_goals_heading"><![CDATA[TODO:Crew Directives]]></entry>
+<entry id="str_caretaker_goals_heading"><![CDATA[Ordres du Capitaine]]></entry>
 <entry id="town_quest_difficulty_1"><![CDATA[{colour_start|new_apprentice}Novice (Niv. 1){colour_end}]]></entry>
 <entry id="town_quest_difficulty_3"><![CDATA[{colour_start|new_veteran}Vétéran (Niv. 3){colour_end}]]></entry>
 <entry id="town_quest_difficulty_5"><![CDATA[{colour_start|new_champion}Champion (Niv. 5){colour_end}]]></entry>
