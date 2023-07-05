@@ -1501,8 +1501,8 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_life_fruit"><![CDATA[Trousse médicinale]]></entry>
 <entry id="str_inventory_title_estateCurioStresshealPagans"><![CDATA[SI VOUS VOYEZ CECI, IL Y A UN PROBLÈME]]></entry>
 <entry id="str_inventory_description_estateCurioStresshealPagans"><![CDATA[SI VOUS VOYEZ CECI, IL Y A UN PROBLÈME]]></entry>
-<entry id="str_inventory_title_heirloomblueprint"><![CDATA[TODO:{colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
-<entry id="str_inventory_description_heirloomblueprint"><![CDATA[Vieille technologie Ostvengr, datant d'avant l'effondrement ...]]></entry>
+<entry id="str_inventory_title_heirloomblueprint"><![CDATA[{colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
+<entry id="str_inventory_description_heirloomblueprint"><![CDATA[Vieille technologie d'Ostvengr, d'avant l'effondrement ...]]></entry>
 <entry id="buff_rule_data_tooltip_blueprint"><![CDATA[TODO:{colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="str_inventory_title_gemotekh_head"><![CDATA[Visage sans-forme]]></entry>
 <entry id="str_inventory_description_gemotekh_head"><![CDATA[Le matériau le plus exotique jamais conçu par les Kvarotz avant leur chute. Il se vend à prix d'or.]]></entry>
@@ -1945,8 +1945,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_raptor_Z"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildbox_cactus_B"><![CDATA[Munitions cactonides]]></entry>
 <entry id="str_monstername_wildbox_lev_B"><![CDATA[Munitions levantines]]></entry>
-<entry id="str_monstername_wildbox_trog_B"><![CDATA[Munitions troglodyte]]></entry>
-<entry id="str_monstername_wildlander_warhawk_B"><![CDATA[TODO:Warhawk Matron]]></entry>
+<entry id="str_monstername_wildbox_trog_B"><![CDATA[Munitions troglodytes]]></entry>
+<entry id="str_monstername_wildlander_warhawk_B"><![CDATA[Matrone de guerre]]></entry>
 <entry id="str_monstername_wildlander_scav_A"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_B"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_C"><![CDATA[Pilleuse sauvage]]></entry>
@@ -1957,7 +1957,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_scav_X"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_Y"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_Z"><![CDATA[Pilleuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_steelpath_C"><![CDATA[TODO:Steelpath Matron]]></entry>
+<entry id="str_monstername_wildlander_steelpath_C"><![CDATA[Matrone de fer]]></entry>
 <entry id="str_monstername_wildlander_druid_A"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_B"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_C"><![CDATA[Druidesse sauvage]]></entry>
@@ -2136,8 +2136,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_trog_pack_combo_ssd_B"><![CDATA[Meute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_combo_ssd_C"><![CDATA[Meute troglodyte]]></entry>
 <entry id="str_monstername_trog_gastrosaur_B"><![CDATA[Gastrosaure troglodyte]]></entry>
-<entry id="str_monstername_trog_greater_wurm_C"><![CDATA[Grand ver des sables]]></entry>
-<entry id="str_monstername_trog_greater_mouth_C"><![CDATA[Langue de ver]]></entry>
+<entry id="str_monstername_trog_greater_wurm_C"><![CDATA[Dévoreur des sables]]></entry>
+<entry id="str_monstername_trog_greater_mouth_C"><![CDATA[Langue du Dévoreur]]></entry>
 <entry id="str_monstername_trog_wurm_A"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_B"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_C"><![CDATA[Ver des sables]]></entry>
@@ -2579,7 +2579,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Splitting Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Flying Guillotine]]></entry>
-<entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fury of the Old Ones]]></entry>
+<entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fureur des Anciens]]></entry>
 <entry id="str_monster_skill_warhawk_load_lev"><![CDATA[TODO:Load the Scraps]]></entry>
 <entry id="str_monster_skill_warhawk_lev_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʹ{colour_end}Fortress Buster]]></entry>
 <entry id="str_monster_skill_warhawk_lev_multi"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʩɘɣɣɣɩɦʻʎ{colour_end}Salvo of Steel]]></entry>
@@ -4464,7 +4464,7 @@ et d'armures]]></entry>
 <entry id="str_sanitarium_summary"><![CDATA[Traitement des attributs
 et des maladies]]></entry>
 <entry id="str_stage_coach_summary"><![CDATA[Recrutement de nouveaux héros]]></entry>
-<entry id="str_statue_summary"><![CDATA[Voir les plans du capitaine]]></entry>
+<entry id="str_statue_summary"><![CDATA[Voir les plans du Capitaine]]></entry>
 <entry id="str_statue_ancestor_quote"><![CDATA[Il reste tant à faire ...]]></entry>
 <entry id="str_media_backer_journals"><![CDATA[Journaux collectés]]></entry>
 <entry id="str_media_boss_quests"><![CDATA[Notre destin]]></entry>
