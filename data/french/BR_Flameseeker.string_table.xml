@@ -290,7 +290,7 @@ Rendement : 5-7 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_reduces_positive_quirk_treatment_cost_format"><![CDATA[Réduit de %d%% le coût du traitement d'attribut positif]]></entry>
 <entry id="upgrade_tree_tooltip_description_reduces_treatment_cost_format"><![CDATA[Réduit de %d%% le coût des traitements]]></entry>
 <entry id="upgrade_tree_tooltip_description_sanitarium.cost"><![CDATA[Réduit le coût de traitement des attributs à la clinique]]></entry>
-<entry id="upgrade_tree_tooltip_description_sanitarium.disease_quirk_cost"><![CDATA[Réduit le coût de traitement des maladies au sanatorium]]></entry>
+<entry id="upgrade_tree_tooltip_description_sanitarium.disease_quirk_cost"><![CDATA[Réduit le coût de traitement des maladies à la clinique]]></entry>
 <entry id="upgrade_tree_tooltip_description_sanitarium.slots"><![CDATA[Accroît le nombre de places à la clinique]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Accroît le nombre de recrues disponibles Ce changement prendra effet après la prochaine quête]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Augmente la capacité de votre liste de recrues]]></entry>
