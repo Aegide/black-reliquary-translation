@@ -250,7 +250,7 @@ Revenez après votre prochaine quête.]]></entry>
 Gain de bonus (stress) - 50% ]]></entry>
 <entry id="upgrade_tree_tooltip_description_abbey.meditation"><![CDATA[Améliore la raffinerie.
 Rendement : 5-7 {colour_start|BR_heirloom}poudre d'ambre raffinée{colour_end}]]></entry>
-<entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[Améliore nos relations avec Ostvengr.
+<entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[Améliore nos relations commerciales avec l'Ostvengr.
 Rendement : 5-7 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_armour_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armures jusqu'au rang %d]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_combat_skill_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les compétences jusqu'au rang %d]]></entry>
@@ -536,7 +536,7 @@ Refus de partir - 15% ]]></entry>
 <entry id="town_event_description_br_champ_unlock"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
 <entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="town_event_title_br_free_tech"><![CDATA[Quid pro quo]]></entry>
-<entry id="town_event_description_br_free_tech"><![CDATA[Les Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
+<entry id="town_event_description_br_free_tech"><![CDATA[Ceux d'Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
 <entry id="town_event_info_br_amber_explosion"><![CDATA[TODO:{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken{colour_end} {colour_start|neutral}on next quest{colour_end}
 {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
 <entry id="town_event_title_br_amber_explosion"><![CDATA[Explosion d'ambre]]></entry>
