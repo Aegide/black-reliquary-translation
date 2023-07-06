@@ -526,25 +526,25 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="town_event_description_br_districts_unlock"><![CDATA[TODO:"The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
 <entry id="town_event_info_br_intro"><![CDATA[TODO:[Enabling Tutorials is RECOMMENDED]
 [Press H to open the Help Menus]]]></entry>
-<entry id="town_event_title_br_intro"><![CDATA[TODO:Finding Your Sky Legs]]></entry>
-<entry id="town_event_description_br_intro"><![CDATA[TODO:"All hand are to make accommodations for our guest and help them get situated!"]]></entry>
-<entry id="town_event_info_br_free_dust"><![CDATA[TODO:+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="town_event_title_br_free_dust"><![CDATA[TODO:Cache in the Dunes]]></entry>
-<entry id="town_event_description_br_free_dust"><![CDATA[TODO:One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
-<entry id="town_event_info_br_champ_unlock"><![CDATA[TODO:+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="town_event_title_br_champ_unlock"><![CDATA[TODO:Cache in the Dunes]]></entry>
-<entry id="town_event_description_br_champ_unlock"><![CDATA[TODO:One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
+<entry id="town_event_title_br_intro"><![CDATA[Trouver ses racines]]></entry>
+<entry id="town_event_description_br_intro"><![CDATA["Tout l'équipage est prié d'accueillir notre invité, et de l'aider à se mettre à son aise !"]]></entry>
+<entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}poudre d'ambre raffinée{colour_end}]]></entry>
+<entry id="town_event_title_br_free_dust"><![CDATA[L'ambre doit couler]]></entry>
+<entry id="town_event_description_br_free_dust"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
+<entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}poudre d'ambre raffinée{colour_end}]]></entry>
+<entry id="town_event_title_br_champ_unlock"><![CDATA[L'ambre doit couler]]></entry>
+<entry id="town_event_description_br_champ_unlock"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
 <entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="town_event_title_br_free_tech"><![CDATA[Quid pro quo]]></entry>
 <entry id="town_event_description_br_free_tech"><![CDATA[Les Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
 <entry id="town_event_info_br_amber_explosion"><![CDATA[TODO:{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken{colour_end} {colour_start|neutral}on next quest{colour_end}
 {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
-<entry id="town_event_title_br_amber_explosion"><![CDATA[TODO:Amber Accident]]></entry>
+<entry id="town_event_title_br_amber_explosion"><![CDATA[Explosion d'ambre]]></entry>
 <entry id="town_event_description_br_amber_explosion"><![CDATA[TODO:A mishap in the refinery has resulted in a miasma of amber fumes filling the entire ship. Try to take short breaths.]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[TODO:{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
 <entry id="town_event_info_br_hero_death"><![CDATA[TODO:{colour_start|notable}All Stress Relief Activities in the Galley are Free
 +10 Idle Stress Relief{colour_end}]]></entry>
-<entry id="town_event_title_br_hero_death"><![CDATA[TODO:Proper Remembrance]]></entry>
+<entry id="town_event_title_br_hero_death"><![CDATA[En mémoire des morts]]></entry>
 <entry id="town_event_description_br_hero_death"><![CDATA[TODO:The first has fallen. Let us savor that bitter taste of defeat, as we supplement it with wines and brews.]]></entry>
 <entry id="tutorial_popup_shard_nomad_wagon_title"><![CDATA[TODO:Black Market Dealings]]></entry>
 <entry id="tutorial_popup_shard_nomad_wagon_description"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end} has a niche but voracious clientele, and its enthusiasts will exchange great wealth for it. In this case, the contraband dealer Veronica will gladly part with her assortment of exotic trinkets for a sizeable amount of {colour_start|BR_heirloom}Refined Amber Dust{colour_end}.]]></entry>
