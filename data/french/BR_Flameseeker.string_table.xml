@@ -295,26 +295,26 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.numrecruits"><![CDATA[Accroît le nombre de recrues disponibles Ce changement prendra effet après la prochaine quête]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.rostersize"><![CDATA[Augmente la capacité de votre liste de recrues]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Octroie une chance au ferry de de proposer des recrues plus expérimentées]]></entry>
-<entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[TODO:Improves the bar facilities.
-{colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
-Gain Buff - 7.5% 
-Gain Debuff - 7.5% 
-Lose Gold - 10% ]]></entry>
-<entry id="upgrade_tree_tooltip_description_tavern.brothel"><![CDATA[TODO:Improves the fighting pit facilities.
-{colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
-Gain Gold - 10% 
-Gain Trinket - 5% 
-Gain Buff - 10%  
-Gain Debuff - 15% 
-Lose Gold - 10% 
-Stay in Activity - 10% 
-Spend 1-2 Weeks Recovering from Fight - 15% ]]></entry>
-<entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[TODO:Improves the gambling facilities.
-{colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
+<entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[Améliore le bar.
+{colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
+Gain de bonus - 7.5% 
+Gain de malus - 7.5% 
+Perte d'or - 10% ]]></entry>
+<entry id="upgrade_tree_tooltip_description_tavern.brothel"><![CDATA[Améliore l'arène.
+{colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
+Gain d'or - 10% 
+Gain de breloque - 5% 
+Gain de bonus - 10%  
+Gain de malus - 15% 
+Perte d'or - 10% 
+Refus de partir - 10% 
+Accident grave - 15% ]]></entry>
+<entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[Améliore la salle de jeux.
+{colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
 Gain Gold - 10% 
 Gain Trinket - 5% 
 Chance to Lose Gold - 20% 
-Chance Stay in Activity - 15% ]]></entry>
+Refus de partir - 15% ]]></entry>
 <entry id="str_empty_hero_slot_action"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_empty_hero_slot_bar"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_empty_hero_slot_brothel"><![CDATA[Placez un héros ici.]]></entry>
