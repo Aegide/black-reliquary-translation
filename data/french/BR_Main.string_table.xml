@@ -821,18 +821,25 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[TODO:Most curios can be approached in multiple ways to ensure different positive results.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
 <entry id="str_crypts_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Catacombs have been unlocked.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:The Wildlanders are unrelenting in combat. Do not expect opportunities to present themselves.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:The oppressive heat of the sun will bear down on your heroes during the {colour_start|sun_torch}Day{colour_end}.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:The shroud of {colour_start|moon_torch}Night{colour_end} can grant particular advantages to your foes.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Some enemies will behave differently upon the time of day.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Certain enemies will appear more often during certain times of the day.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Lifetimes of violence have thickened the Wildlanders' skin and made them resilient to bleeding.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Relying on a single healer can get messy. A second pair of helping hands can make all the difference.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:The Exposed Interior holds the most Valor Marks of any region.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Most curios can be approached in multiple ways to ensure different positive results.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
-<entry id="str_cove_tip"><![CDATA[TODO:During the {colour_start|moon_torch}Night{colour_end}, torches can provide temporary {colour_start|stealth}Stealth{colour_end} bypass.]]></entry>
-<entry id="str_cove_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Exposed Interior has been unlocked.]]></entry>
+<entry id="str_cove_tip"><![CDATA[En combat les sauvages seront sans-pitié,
+n'espérez pas pouvoir vous reposer.]]></entry>
+<entry id="str_cove_tip"><![CDATA[La chaleur oppressante du soleil s'abattra sur vos héros pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder des avantages particuliers à vos ennemis.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Certains ennemis se comporteront différemment,
+selon le moment de la journée.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Certains ennemis seront plus présents selon le moment de la journée.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Des années de violence ont endurci la peau des sauvages,
+et les ont rendus résistants aux saignements.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Se reposer sur un seul soigneur pourrait se révéler fatal.
+Une deuxième paire de mains peut faire toute la différence.]]></entry>
+<entry id="str_cove_tip"><![CDATA[L'intérieur exposé est la région ayant le plus de {colour_start|BR_heirloom}trophées{colour_end}.]]></entry>
+<entry id="str_cove_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
+afin d'obtenir des résultats positifs différents.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, des alliés et des ennemis,
+vous permettra de maîtriser la situation.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end},
+les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
+<entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} L'intérieur exposé est désormais accessible.]]></entry>
 <entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
 <entry id="str_inventory_title_heirloombust"><![CDATA[{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
@@ -2882,7 +2889,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_bsrc_notspecified"><![CDATA[Divers]]></entry>
 <entry id="buff_bsrc_item"><![CDATA[Objet]]></entry>
 <entry id="buff_bsrc_companion"><![CDATA[TODO:Misc. Trinket Buff]]></entry>
-<entry id="buff_bsrc_crit"><![CDATA[TODO:Prep Round]]></entry>
+<entry id="buff_bsrc_crit"><![CDATA[Préparation]]></entry>
 <entry id="str_death_additionaleffect_hero"><![CDATA[TODO:Fallen to the wayward force of The Light.]]></entry>
 <entry id="buff_rule_tooltip_torch_setting"><![CDATA[%s %s]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_received_percent_damage_heal"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received from {colour_start|expiated}Expiated{colour_end}]]></entry>
@@ -2940,7 +2947,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_stress_dmg_received_percent"><![CDATA[{colour_start|stress}Stress{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_camping_eat"><![CDATA[{colour_start|stress}Stress{colour_end} lors des repas de campement %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_hunger"><![CDATA[{colour_start|stress}Stress{colour_end} dû à la faim %+d%%]]></entry>
-<entry id="effect_tooltip_shuffle_dot_format"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} %d tns]]></entry>
+<entry id="effect_tooltip_shuffle_dot_format"><![CDATA[{colour_start|move}Chute{colour_end} %d trs]]></entry>
 <entry id="effect_tooltip_cure_debuff"><![CDATA[Soigne {colour_start|debuff}malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cove"><![CDATA[Intérieur exposé]]></entry>
 <entry id="buff_rule_data_tooltip_crypts"><![CDATA[Catacombes]]></entry>
@@ -2963,10 +2970,10 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_laudanum"><![CDATA[Laudanum]]></entry>
 <entry id="buff_rule_data_tooltip_medicinal_herbs"><![CDATA[Sel purifiant]]></entry>
 <entry id="buff_rule_data_tooltip_provision"><![CDATA[Nourriture]]></entry>
-<entry id="buff_rule_data_tooltip_shard"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_deed"><![CDATA[TODO:{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_portrait"><![CDATA[TODO:{colour_start|BR_heirloom}Salvaged Jewelry{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_crest"><![CDATA[TODO:{colour_start|BR_heirloom}Valor Mark{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_shard"><![CDATA[{colour_start|BR_heirloom}Poudre d'ambre raffinée{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_deed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_portrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_crest"><![CDATA[{colour_start|BR_heirloom}Trophée{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_bust"><![CDATA[{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_actorStatus_false"><![CDATA[%s vs pas %s]]></entry>
 <entry id="buff_rule_tooltip_is_actor_status_false"><![CDATA[%s durant %s]]></entry>
