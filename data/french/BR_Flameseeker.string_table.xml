@@ -82,20 +82,20 @@
 <entry id="str_help_town_tavern_4"><![CDATA[TODO:The Bar {colour_start|stress}Stress{colour_end} Heals for a low amount (40/50/60) and has a low chance to trigger side-effects ( 25% ).]]></entry>
 <entry id="str_help_town_tavern_5"><![CDATA[TODO:The Gambling Hall {colour_start|stress}Stress{colour_end} Heals for a medium amount (50/63/75) and has a medium chance to trigger side-effects ( 50% ).]]></entry>
 <entry id="str_help_town_tavern_6"><![CDATA[TODO:The Fighting Pit {colour_start|stress}Stress{colour_end} Heals for a high amount (60/75/90) and has a high chance to trigger side-effects ( 75% ).]]></entry>
-<entry id="town_activity_description_bar"><![CDATA[TODO:Drink your cares away.
-{colour_start|stress}Stress{colour_end} Heals 40/50/60]]></entry>
-<entry id="town_activity_description_brothel"><![CDATA[TODO:Exhilaration of contest.
-{colour_start|stress}Stress{colour_end} Heals 60/75/90]]></entry>
-<entry id="town_activity_description_gambling"><![CDATA[TODO:The thrill of winning.
-{colour_start|stress}Stress{colour_end} Heals 50/63/75]]></entry>
-<entry id="town_activity_description_disease_treatment"><![CDATA[TODO:Treat Diseases, humours, and other physical maladies.]]></entry>
-<entry id="town_activity_description_meditation"><![CDATA[TODO:Convert raw Amber into Refined Amber.
-{colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
-<entry id="town_activity_description_prayer"><![CDATA[TODO:Trade Refined Amber for Lost Tek.
-{colour_start|stress}Stress{colour_end} Heals 10/15/20]]></entry>
-<entry id="town_activity_description_treatment"><![CDATA[TODO:Treat Quirks and other problematic behaviors.]]></entry>
-<entry id="town_activity_description_flagellation"><![CDATA[TODO:Indulge in the delights of cleansed Amber.
-{colour_start|stress}Stress{colour_end} Heals 100]]></entry>
+<entry id="town_activity_description_bar"><![CDATA[Le réconfort de l'alcool.
+{colour_start|stress}Stress{colour_end} -40/50/60]]></entry>
+<entry id="town_activity_description_brothel"><![CDATA[L'ivresse du combat.
+{colour_start|stress}Stress{colour_end} -60/75/90]]></entry>
+<entry id="town_activity_description_gambling"><![CDATA[Le frisson du gain.
+{colour_start|stress}Stress{colour_end} -50/63/75]]></entry>
+<entry id="town_activity_description_disease_treatment"><![CDATA[Traitement de maladies, humeurs et autres afflictions physiques.]]></entry>
+<entry id="town_activity_description_meditation"><![CDATA[Transforme l'ambre brut en ambre raffiné.
+{colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
+<entry id="town_activity_description_prayer"><![CDATA[Échange l'ambre raffiné contre de la tek antique.
+{colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
+<entry id="town_activity_description_treatment"><![CDATA[Traitement d'attributs et autres comportements problématiques.]]></entry>
+<entry id="town_activity_description_flagellation"><![CDATA[Les plaisirs de l'ambre.
+{colour_start|stress}Stress{colour_end} -100]]></entry>
 <entry id="town_activity_name_bar"><![CDATA[Bar]]></entry>
 <entry id="town_activity_name_gambling"><![CDATA[Salle de jeux]]></entry>
 <entry id="town_activity_name_brothel"><![CDATA[Arène]]></entry>
@@ -517,7 +517,7 @@ Chance Stay in Activity - 15% ]]></entry>
 <entry id="town_name_district"><![CDATA[Pont supérieur]]></entry>
 <entry id="town_secondary1"><![CDATA[Quartiers]]></entry>
 <entry id="buff_bsrc_district"><![CDATA[Pont supérieur]]></entry>
-<entry id="str_district_build_building_confirm"><![CDATA[TODO:Construct this deck?]]></entry>
+<entry id="str_district_build_building_confirm"><![CDATA[Construire ce bâtiment ?]]></entry>
 <entry id="str_district_build_building_confirm_no"><![CDATA[Non]]></entry>
 <entry id="str_district_build_building_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[TODO:IF YOU'RE SEEING THIS, SOMETHING IS WRONG]]></entry>
