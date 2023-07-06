@@ -823,7 +823,8 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_crypts_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Catacombs have been unlocked.]]></entry>
 <entry id="str_cove_tip"><![CDATA[En combat les sauvages seront sans-pitié,
 n'espérez pas pouvoir vous reposer.]]></entry>
-<entry id="str_cove_tip"><![CDATA[La chaleur oppressante du soleil s'abattra sur vos héros pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
+<entry id="str_cove_tip"><![CDATA[La chaleur oppressante du soleil s'abattra sur vos héros
+pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder des avantages
 particuliers à vos ennemis.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Certains ennemis se comporteront différemment,
@@ -912,7 +913,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_kvarotz_altar_nothing"><![CDATA[Il semble être inerte.]]></entry>
 <entry id="str_curio_kvarotz_altar_effect"><![CDATA[Une puissance sombre se dégage de l'autel !]]></entry>
 <entry id="str_curio_kvarotz_altar_disease"><![CDATA[Une horrible malédiction s'abat sur nous.]]></entry>
-<entry id="str_curio_kvarotz_altar_shovel_effect"><![CDATA[La destruction de cet autel diabolique procure une certaine sérénité.]]></entry>
+<entry id="str_curio_kvarotz_altar_shovel_effect"><![CDATA[Sa destruction vous apaise.]]></entry>
 <entry id="str_curio_kvarotz_altar_medicinal_herbs_effect"><![CDATA[L'autel purifié apporte un sentiment de bien-être.]]></entry>
 <entry id="str_curio_kvarotz_altar_arch_kit_effect"><![CDATA[ De terribles découvertes sont faites ...]]></entry>
 <entry id="str_curio_kvarotz_altar_holy_water_effect"><![CDATA[Les forces maléfiques sont apaisées ...]]></entry> 
@@ -1036,7 +1037,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_corpse_cactonid_shovel_effect"><![CDATA[TODO:The carcass ruptures and sprays noxious ooze.]]></entry>
 <entry id="str_curio_corpse_cactonid_antivenom_loot"><![CDATA[TODO:The antivenom protects against the surface toxins.]]></entry>
 <entry id="str_curio_corpse_cactonid_disease_kit_loot"><![CDATA[TODO:The hero's body is fortified against the necrotic sludge.]]></entry>
-<entry id="str_curio_title_corpse_legion"><![CDATA[TODO:Legion Decapitations]]></entry>
+<entry id="str_curio_title_corpse_legion"><![CDATA[Têtes de la Légion]]></entry>
 <entry id="str_curio_content_corpse_legion"><![CDATA[TODO:The severed heads of the Legion are put on a chilling display.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_legion"><![CDATA[TODO:What could be amongst the gore?]]></entry>
 <entry id="str_curio_corpse_legion_nothing"><![CDATA[TODO:Nothing more than skulls.]]></entry>
@@ -2554,11 +2555,11 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_boneman_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
-<entry id="str_monster_skill_wildlander_breakthru"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Wreck]]></entry>
+<entry id="str_monster_skill_wildlander_breakthru"><![CDATA[{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Massacre]]></entry>
 <entry id="str_monster_skill_wildlander_yawp"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
 <entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
 <entry id="str_monster_skill_wildlander_coward"><![CDATA[TODO:Coward's Resolve]]></entry>
-<entry id="str_monster_skill_wildlander_iron_swan"><![CDATA[TODO:{colour_start|white}ɡɘɘɘɥɣɘɘɘɩɨ{colour_end}Steel Falcon]]></entry>
+<entry id="str_monster_skill_wildlander_iron_swan"><![CDATA[{colour_start|white}ɡɘɘɘɥɣɘɘɘɩɨ{colour_end}Faucon de fer]]></entry>
 <entry id="str_monster_skill_dogsteel_slash"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Hachoir dorsal]]></entry>
 <entry id="str_monster_skill_dog_slash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɧʖ{colour_end}Voracity]]></entry>
 <entry id="str_monster_skill_packhound_slash"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Hachoir dorsal]]></entry>
@@ -2572,7 +2573,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_packhound_cackle"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɯ{colour_end}Ricanement sinistre]]></entry>
 <entry id="str_monster_skill_packhound_backspin"><![CDATA[TODO:Cackling Flight]]></entry>
 <entry id="str_monster_skill_bombard_dash"><![CDATA[{colour_start|white}ɘɡɡɡʥɘɘɣɣɩɧʓ{colour_end}Choc frontal]]></entry>
-<entry id="str_monster_skill_bombard_blast"><![CDATA[TODO:{colour_start|white}ɘɘɠɟʩɣɣɘɘɩɨ{colour_end}Ballistic Thunder]]></entry>
+<entry id="str_monster_skill_bombard_blast"><![CDATA[{colour_start|white}ɘɘɠɟʩɣɣɘɘɩɨ{colour_end}Tonnerre de feu]]></entry>
 <entry id="str_monster_skill_bombard_flare"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʑ{colour_end}Exposer les faibles]]></entry>
 <entry id="str_monster_skill_bombard_blast_weak"><![CDATA[TODO:Ballistic Blunder]]></entry>
 <entry id="str_monster_skill_bombard_crash_a"><![CDATA[TODO:Out of the Way!]]></entry>
@@ -2580,7 +2581,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_harrier_shoot"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɧɷ{colour_end}Tir perçant]]></entry>
 <entry id="str_monster_skill_harrier_aoe"><![CDATA[{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧʑ{colour_end}Nuée de flèches]]></entry>
 <entry id="str_monster_skill_harrier_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Proie repérée]]></entry>
-<entry id="str_monster_skill_harrier_backpedal"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Deft Retreat]]></entry>
+<entry id="str_monster_skill_harrier_backpedal"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Repli stratégique]]></entry>
 <entry id="str_monster_skill_harrier_stealth"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʚʐ{colour_end}Cover Shot]]></entry>
 <entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[TODO:Frantic Retreat]]></entry>
 <entry id="str_monster_skill_harrier_fumble"><![CDATA[TODO:Fumbling Quiver]]></entry>
@@ -2602,7 +2603,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_ground_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɘɣɣɣɩʻʟʐ{colour_end}Reckless Cannon-Fire]]></entry>
 <entry id="str_monster_skill_warhawk_monkey"><![CDATA[TODO:Monkey Business]]></entry>
 <entry id="str_monster_skill_scav_scavenge"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Pillage]]></entry>
-<entry id="str_monster_skill_scav_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Outreach]]></entry>
+<entry id="str_monster_skill_scav_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Bras long]]></entry>
 <entry id="str_monster_skill_scav_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal Flurry]]></entry>
 <entry id="str_monster_skill_scav_clawstrike"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʑ{colour_end}Unkind Talon]]></entry>
 <entry id="str_monster_skill_scav_hide"><![CDATA[TODO:Hide!]]></entry>
@@ -3723,7 +3724,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketwarhawk_helmet"><![CDATA[✐✐✐Aspect du faucon]]></entry>
 <entry id="str_inventory_title_trinketwarhawk_gauntlet"><![CDATA[✐✐✐Arsenal d'electrum]]></entry>
 <entry id="str_inventory_title_trinketsteelpath_sword"><![CDATA[✐✐Festin de sang]]></entry>
-<entry id="str_inventory_title_trinketsteelpath_helmet"><![CDATA[✐✐Écorcheur d'acier]]></entry>
+<entry id="str_inventory_title_trinketsteelpath_helmet"><![CDATA[✐✐Écorcheur de fer]]></entry>
 <entry id="str_inventory_title_trinketghoul_mother_coin"><![CDATA[^^^^Darique porte-malheur]]></entry>
 <entry id="str_inventory_title_trinketghoul_mother_hand"><![CDATA[^^^^Désir de liberté]]></entry>
 <entry id="str_inventory_title_trinketgastro_egg"><![CDATA[^^^Progéniture isolée]]></entry>
@@ -4580,7 +4581,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_superstitious"><![CDATA[Superstition]]></entry>
 <entry id="str_quirk_name_skeptic"><![CDATA[Sceptique]]></entry>
 <entry id="str_quirk_name_feeble"><![CDATA[Fragile]]></entry>
-<entry id="str_quirk_name_adherent"><![CDATA[TODO:Adherent]]></entry>
+<entry id="str_quirk_name_adherent"><![CDATA[Adepte]]></entry>
 <entry id="str_quirk_name_dissenter"><![CDATA[Déconcentration]]></entry>
 <entry id="str_quirk_name_penetrating"><![CDATA[Infiltration]]></entry>
 <entry id="str_quirk_name_imperturbable"><![CDATA[Impassible]]></entry>
