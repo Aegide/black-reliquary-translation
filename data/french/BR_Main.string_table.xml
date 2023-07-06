@@ -2585,7 +2585,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_harrier_fumble"><![CDATA[TODO:Fumbling Quiver]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Splitting Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
-<entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Flying Guillotine]]></entry>
+<entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fureur des Anciens]]></entry>
 <entry id="str_monster_skill_warhawk_load_lev"><![CDATA[TODO:Load the Scraps]]></entry>
 <entry id="str_monster_skill_warhawk_lev_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʹ{colour_end}Fortress Buster]]></entry>
