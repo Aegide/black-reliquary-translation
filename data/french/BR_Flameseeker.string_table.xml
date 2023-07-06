@@ -104,12 +104,12 @@
 <entry id="town_activity_name_meditation"><![CDATA[Raffinerie]]></entry>
 <entry id="town_activity_name_prayer"><![CDATA[Marché]]></entry>
 <entry id="town_activity_name_flagellation"><![CDATA[Repaire]]></entry>
-<entry id="building_verbose_abbey"><![CDATA[TODO:Upgrading the Amber Workshop increases types of production and stress healing while bolstering their effectiveness.]]></entry>
+<entry id="building_verbose_abbey"><![CDATA[Améliorer l'atelier d'ambre augmente le nombre d'emplacement et la réduction du stress.]]></entry>
 <entry id="building_verbose_blacksmith"><![CDATA[Améliorer la forge permet d'acheter de meilleures armes et armures à un coût réduit.]]></entry>
 <entry id="building_verbose_camping_trainer"><![CDATA[Améliorer Gaspard réduit le coût des compétences de campement.]]></entry>
 <entry id="building_verbose_graveyard"><![CDATA[Le site funéraire ne peut pas être amélioré.]]></entry>
-<entry id="building_verbose_guild"><![CDATA[TODO:Upgrading the Training Hall allows for training of advanced ranks in hero skills.]]></entry>
-<entry id="building_verbose_nomad_wagon"><![CDATA[TODO:Upgrading the Oddities Dealer improves the trinket purchase selection and reduces their cost.]]></entry>
+<entry id="building_verbose_guild"><![CDATA[Améliorer la salle d'entraînement réduit le coût des compétences de combat, et augmente leur rang maximal.]]></entry>
+<entry id="building_verbose_nomad_wagon"><![CDATA[Améliorer le marché noir augmente le nombre de breloque disponible et réduit les prix.]]></entry>
 <entry id="building_verbose_sanitarium"><![CDATA[Améliorer la clinique accroît le nombre de places disponibles et réduit les prix.]]></entry>
 <entry id="building_verbose_stage_coach"><![CDATA[Améliorer le ferry accroît le nombre de héros disponibles chaque semaine ou la taille de la liste de recrues.]]></entry>
 <entry id="building_verbose_tavern"><![CDATA[Améliorer la taverne accroît le nombre de méthodes de traitement du stress et leur efficacité.]]></entry>
@@ -245,13 +245,13 @@ Revenez après votre prochaine quête.]]></entry>
 <entry id="upgrade_tree_name_tavern.bar"><![CDATA[Bar]]></entry>
 <entry id="upgrade_tree_name_tavern.brothel"><![CDATA[Arène]]></entry>
 <entry id="upgrade_tree_name_tavern.gambling"><![CDATA[Salle de jeux]]></entry>
-<entry id="upgrade_tree_tooltip_description_abbey.flagellation"><![CDATA[TODO:Improves the den facilities.
-{colour_start|town_activity_log_positive_result}Side Effect Chances:{colour_end}
-Gain Stress Buff - 50% ]]></entry>
-<entry id="upgrade_tree_tooltip_description_abbey.meditation"><![CDATA[TODO:Improves the amber refinement process.
-Base Yield: 5-7 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-<entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[TODO:Improve our bargaining power with the Rot Hering Co.
-Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
+<entry id="upgrade_tree_tooltip_description_abbey.flagellation"><![CDATA[Améliore le repaire.
+{colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
+Gain de bonus (stress) - 50% ]]></entry>
+<entry id="upgrade_tree_tooltip_description_abbey.meditation"><![CDATA[Améliore la raffinerie.
+Rendement : 5-7 {colour_start|BR_heirloom}poudre d'ambre raffinée{colour_end}]]></entry>
+<entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[Améliore nos relations avec Ostvengr.
+Rendement : 5-7 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_armour_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armures jusqu'au rang %d]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_combat_skill_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les compétences jusqu'au rang %d]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_weapon_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armes jusqu'au rang %d]]></entry>
@@ -262,11 +262,11 @@ Base Yield: 5-7 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_disease_cure_all_chance_format"><![CDATA[Fixe à %d%% les chances de soigner toutes les maladies]]></entry>
 <entry id="upgrade_tree_tooltip_description_guild.cost"><![CDATA[Réduit le coût d'amélioration des compétences]]></entry>
 <entry id="upgrade_tree_tooltip_description_guild.skill_levels"><![CDATA[Permet d'améliorer les compétences de combat aux rangs supérieurs]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_chance_of_affliction_cure"><![CDATA[TODO:Chance to yield up to 2 additional resources.]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_chance_of_affliction_cure"><![CDATA[Augmente les chances de gagner 2 ressources supplémentaires.]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_extra_disease_cure_format"><![CDATA[Augmente les chances de soigner des maladies supplémentaires]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_disease_slots_format"><![CDATA[Fixe à %d le nombre de places dans l'aile médicale]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_heroes_generated_format"><![CDATA[Fixe à %d le nombre de héros disponibles]]></entry>
-<entry id="upgrade_tree_tooltip_description_increases_number_of_items_generated_format"><![CDATA[TODO:Increases number of trinkets available to %d]]></entry>
+<entry id="upgrade_tree_tooltip_description_increases_number_of_items_generated_format"><![CDATA[Fixe à %d le nombre de breloques disponibles]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_quirk_slots_format"><![CDATA[Fixe à %d le nombre de places dans l'aile psychiatrique]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_number_of_slots_format"><![CDATA[Fixe à %d le nombre d'emplacements]]></entry>
 <entry id="upgrade_tree_tooltip_description_increases_size_of_roster_format"><![CDATA[Fixe à %d la capacité de la liste de recrues]]></entry>
