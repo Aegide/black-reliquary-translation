@@ -2552,8 +2552,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_totakh_prep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Dusk Omen]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 <entry id="str_monster_skill_boneman_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
-<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
-<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
+<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
+<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
 <entry id="str_monster_skill_wildlander_breakthru"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Wreck]]></entry>
 <entry id="str_monster_skill_wildlander_yawp"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
 <entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
@@ -2584,7 +2584,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_harrier_stealth"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʚʐ{colour_end}Cover Shot]]></entry>
 <entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[TODO:Frantic Retreat]]></entry>
 <entry id="str_monster_skill_harrier_fumble"><![CDATA[TODO:Fumbling Quiver]]></entry>
-<entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Splitting Swing]]></entry>
+<entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Décapitation]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fureur des Anciens]]></entry>
