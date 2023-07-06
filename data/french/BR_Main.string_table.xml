@@ -824,7 +824,8 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_cove_tip"><![CDATA[En combat les sauvages seront sans-pitié,
 n'espérez pas pouvoir vous reposer.]]></entry>
 <entry id="str_cove_tip"><![CDATA[La chaleur oppressante du soleil s'abattra sur vos héros pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
-<entry id="str_cove_tip"><![CDATA[Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder des avantages particuliers à vos ennemis.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder des avantages
+particuliers à vos ennemis.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Certains ennemis se comporteront différemment,
 selon le moment de la journée.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Certains ennemis seront plus présents selon le moment de la journée.]]></entry>
@@ -835,8 +836,8 @@ Une deuxième paire de mains peut faire toute la différence.]]></entry>
 <entry id="str_cove_tip"><![CDATA[L'intérieur exposé est la région ayant le plus de {colour_start|BR_heirloom}trophées{colour_end}.]]></entry>
 <entry id="str_cove_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
 afin d'obtenir des résultats positifs différents.]]></entry>
-<entry id="str_cove_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, des alliés et des ennemis,
-vous permettra de maîtriser la situation.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
+et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end},
 les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} L'intérieur exposé est désormais accessible.]]></entry>
