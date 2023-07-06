@@ -1038,7 +1038,7 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_curio_corpse_legion_shovel_effect"><![CDATA[TODO:Even these heads deserve a proper burial.]]></entry>
 <entry id="str_curio_corpse_legion_medicinal_herbs_effect"><![CDATA[TODO:The remains are sanctified and give a sense of goodness.]]></entry>
 <entry id="str_curio_corpse_legion_laudanum_purge"><![CDATA[TODO:A fortified mind boldly confronts mortality.]]></entry>
-<entry id="str_curio_title_corpse_levantine"><![CDATA[TODO:Defiled Levantine Corpse]]></entry>
+<entry id="str_curio_title_corpse_levantine"><![CDATA[Cadavre levantin]]></entry>
 <entry id="str_curio_content_corpse_levantine"><![CDATA[TODO:Horrific cruelties were inflicted upon this soldier.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_levantine"><![CDATA[TODO:Might there be something still here?]]></entry>
 <entry id="str_curio_corpse_levantine_nothing"><![CDATA[TODO:Merely a sun-dried corpse.]]></entry>
@@ -1432,7 +1432,7 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_description"><![CDATA[TODO:A clutter of crumbled stone and debris block the Path.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_title"><![CDATA[TODO:Collapsed Pillar]]></entry>
 <entry id="str_obstacle_corpse_pile_description"><![CDATA[TODO:A heap of corpses, presumably from trespassers...]]></entry>
-<entry id="str_obstacle_corpse_pile_title"><![CDATA[TODO:Mountain of Corpses]]></entry>
+<entry id="str_obstacle_corpse_pile_title"><![CDATA[Montagne de cadavres]]></entry>
 <entry id="str_obstacle_caverns_blockage_description"><![CDATA[TODO:These rocks looks like they could be forced aside to create a path...]]></entry>
 <entry id="str_obstacle_caverns_blockage_title"><![CDATA[TODO:Loose Stalagmites]]></entry>
 <entry id="str_obstacle_caverns_torch_description"><![CDATA[TODO:This nest and mass of webs seems highly flammable.]]></entry>
