@@ -1039,7 +1039,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_kvarotz_tech_honing_oil_effect"><![CDATA[Ce blindage est incroyable !]]></entry>
 <entry id="str_curio_kvarotz_tech_archaeologist_compendium_loot"><![CDATA[TODO:Some of the scraps are encrusted with Daric!]]></entry>
 <entry id="str_curio_title_stone_reliquary"><![CDATA[Reliquaire de pierre]]></entry>
-<entry id="str_curio_content_stone_reliquary"><![CDATA[Un ancien coffre en pierre. Il est verrouillé.]></entry>
+<entry id="str_curio_content_stone_reliquary"><![CDATA[Un ancien coffre en pierre. Il est verrouillé.]]></entry>
 <entry id="str_curio_tooltip_investigate_stone_reliquary"><![CDATA[Qu'y a-t-il à l'intérieur ?]]></entry>
 <entry id="str_curio_stone_reliquary_loot"><![CDATA[Le coffret est forcé, il contient des richesses !]]></entry>
 <entry id="str_curio_stone_reliquary_skeleton_key_loot"><![CDATA[Le coffret est déverrouillée et révèle de grandes richesses.]]></entry>
