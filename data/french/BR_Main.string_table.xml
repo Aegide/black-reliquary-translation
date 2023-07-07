@@ -20,7 +20,7 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="town_event_title_out_of_date"><![CDATA[TODO:UP TO DATE]]></entry>
 <entry id="town_event_description_out_of_date"><![CDATA[TODO:Your version of Black Reliquary is now up to date]]></entry>
 <entry id="estate_title_format"><![CDATA[Le %s]]></entry>
-<entry id="curio_tooltip_quest_item_slot"><![CDATA[TODO:Drag QUEST ITEM from inventory here.]]></entry>
+<entry id="curio_tooltip_quest_item_slot"><![CDATA[Faites glisser ici un OBJET DE QUÊTE depuis l'inventaire.]]></entry>
 <entry id="str_torch_overlay_hero_buffs_header"><![CDATA[TODO:Hero Party Effects]]></entry>
 <entry id="str_torch_overlay_monster_buffs_header"><![CDATA[TODO:Monster Effects]]></entry>
 <entry id="str_wave_farm_torch_tooltip_title"><![CDATA[TODO:{colour_start|miasma}[The Farmstead's Miasma]{colour_end}]]></entry>
@@ -798,17 +798,23 @@ afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
 et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_warrens_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} Les cavernes sont désormais accessibles.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Deception is all around you. Choose your interactions carefully.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Curios in the Treasury can have unusual effects with certain items.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Many Cactonids are ready to counter-attack. Be sure to plan your actions.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:The Treasury has few normal encounters.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Cactonids can have high resistances; choose your party accordingly.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Most fights in the Treasury are triggered manually.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:The Cactonids contain great amounts of plunder, but you will need to fight your way to it.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Greed comes naturally to most. Try to keep it in check.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Use your campfires! Do not take the benefits of camping skills for granted.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les illusions sont légion. Agissez avec précaution.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les curios de la trésorerie peuvent avoir des effets inattendus,
+avec certains objets.]]></entry>
+<entry id="str_weald_tip"><![CDATA[De nombreux cactonides seront prêts à contre-attaquer.
+Soyez prévoyant et planifiez vos actions.]]></entry>
+<entry id="str_weald_tip"><![CDATA[La trésorerie a peu de rencontres normales.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les cactonides peuvent avoir une protection élevée.
+Assemblez votre groupe de manière appropriée.]]></entry>
+<entry id="str_weald_tip"><![CDATA[La plupart des combats dans la trésorerie sont déclenchés manuellement.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les cactonides contiennent de nombreux trésors, mais vous devrez
+vous battre pour les obtenir.]]></entry>
+<entry id="str_weald_tip"><![CDATA[La cupidité est naturelle pour beaucoup. Essayez de la maîtriser.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si
+elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Cactonids sometimes ingest rare and unique loot. Alum rituals can awaken these treasures, maligning the host.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des trésors ... exotiques.
+Utiliser des vapeurs d'alun pourrait réveiller ces trésors.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes manières,
 afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
@@ -1376,7 +1382,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_cact_opul_arch_kit_loot"><![CDATA[TODO:Riches are carefully pilfered!]]></entry>
 <entry id="str_curio_title_quest_cache"><![CDATA[Cachette envahie]]></entry>
 <entry id="str_curio_content_quest_cache"><![CDATA[Un trésor inaccessible, recouvert d'une végétation dense. [QUÊTE]]]></entry>
-<entry id="str_curio_tooltip_investigate_quest_cache_with_quest_item"><![CDATA[Nécessite un objet de QUÊTE de votre inventaire.]]></entry>
+<entry id="str_curio_tooltip_investigate_quest_cache_with_quest_item"><![CDATA[Requiert l'utilisation d'un OBJET DE QUÊTE depuis l'inventaire]]></entry>
 <entry id="str_curio_quest_cache_overgrown_flames_loot"><![CDATA[La végétation est brûlée, révélant des richesses !]]></entry>
 <entry id="str_inventory_title_quest_itemovergrown_flames"><![CDATA[Feuerfaust [QUÊTE]]]></entry>
 <entry id="str_inventory_description_quest_itemovergrown_flames"><![CDATA[Une machine Ostvengr, capable de réduire en cendres la chair et le feuillage.]]></entry>
@@ -1457,7 +1463,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_obstacle_caverns_blockage_title"><![CDATA[TODO:Loose Stalagmites]]></entry>
 <entry id="str_obstacle_caverns_torch_description"><![CDATA[TODO:This nest and mass of webs seems highly flammable.]]></entry>
 <entry id="str_obstacle_caverns_torch_title"><![CDATA[TODO:Egg Clutch]]></entry>
-<entry id="str_obstacle_treasury_blockage_description"><![CDATA[TODO:The fleshy plant life has become interwoven with the dense stone.]]></entry>
+<entry id="str_obstacle_treasury_blockage_description"><![CDATA[Une flore épaisse s'est entremêlée à une pierre dense.]]></entry>
 <entry id="str_obstacle_treasury_blockage_title"><![CDATA[Rempart vivant]]></entry>
 <entry id="str_obstacle_treasury_sap_description"><![CDATA[TODO:This hardened sap requires a solution...]]></entry>
 <entry id="str_obstacle_treasury_sap_title"><![CDATA[TODO:Hardened Sap]]></entry>
@@ -1544,13 +1550,13 @@ Buff does not Stack{colour_end}]]></entry>
 +33% Chance of being Ambushed
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem0"><![CDATA[TODO:{colour_start|cursed_gem}Totem of Wails{colour_end}]]></entry>
-<entry id="str_inventory_title_gemcursed_gem1"><![CDATA[TODO:{colour_start|cursed_gem}Profane Tablet{colour_end}]]></entry>
+<entry id="str_inventory_title_gemcursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem1"><![CDATA[TODO:These disturbing inscriptions carry an aura of dread.
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 -4 ACC,
 -5% Scouting Chance
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem1"><![CDATA[TODO:{colour_start|cursed_gem}Profane Tablet{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_cursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
 <entry id="str_inventory_title_gemcursed_gem2"><![CDATA[TODO:{colour_start|cursed_gem}Gemini Sacrificer{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem2"><![CDATA[TODO:Every part of this ritualistic dagger is razor-sharp!
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
@@ -2560,8 +2566,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_totakh_rush2"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Vanguard Stride]]></entry>
 <entry id="str_monster_skill_totakh_darkness"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩʀɮɶ{colour_end}Dusk Dispersion]]></entry>
 <entry id="str_monster_skill_totakh_laser"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɘɘɩʹʻɮ{colour_end}End Of Days]]></entry>
-<entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Morbid Munition]]></entry>
-<entry id="str_monster_skill_totakh_prep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Dusk Omen]]></entry>
+<entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Munition morbide]]></entry>
+<entry id="str_monster_skill_totakh_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Présage funeste]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 <entry id="str_monster_skill_boneman_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
