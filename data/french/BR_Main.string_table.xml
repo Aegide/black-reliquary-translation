@@ -2808,12 +2808,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʏ{colour_end}Venom Shower]]></entry>
 <entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɦʐɬ{colour_end}The Hunger]]></entry>
 <entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
-<entry id="str_monster_skill_cact_vetev_shuffle"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮɴ{colour_end}Psychotropic Spray]]></entry>
+<entry id="str_monster_skill_cact_vetev_shuffle"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮɴ{colour_end}Liquide psychotrope]]></entry>
 <entry id="str_monster_skill_cact_vertev_lick"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʖ{colour_end}Léchouille]]></entry>
-<entry id="str_monster_skill_cact_vetev_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Firm Grasp]]></entry>
-<entry id="str_monster_skill_cact_hermit_guard"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɦʐʗ{colour_end}Stonewall]]></entry>
-<entry id="str_monster_skill_cact_hermit_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʰɩɦɱʓ{colour_end}Slab Hammer]]></entry>
-<entry id="str_monster_skill_cact_hermit_spikes"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʫɩɧʏ{colour_end}Impaling Thorn]]></entry>
+<entry id="str_monster_skill_cact_vetev_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Prise ferme]]></entry>
+<entry id="str_monster_skill_cact_hermit_guard"><![CDATA[{colour_start|white}ɚɛɛɜɥʫɩɦʐʗ{colour_end}Mur de pierre]]></entry>
+<entry id="str_monster_skill_cact_hermit_pound"><![CDATA[{colour_start|white}ɘɘɠɟɥʰɩɦɱʓ{colour_end}Marteau monolithique]]></entry>
+<entry id="str_monster_skill_cact_hermit_spikes"><![CDATA[{colour_start|white}ɡɡɡɡʫɩɧʏ{colour_end}Épine perforante]]></entry>
 <entry id="str_monster_skill_cact_opul_stress"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɮɯʑ{colour_end}Chilling Stare]]></entry>
 <entry id="str_monster_skill_cact_opul_spit"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʵʏ{colour_end}Seed Spit]]></entry>
 <entry id="str_monster_skill_cact_opul_head"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Head On]]></entry>
