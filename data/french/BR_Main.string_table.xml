@@ -236,7 +236,7 @@ ils savent profiter des opportunités tactiques.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les Levantins profiteront de chaque occasion pour se préparer au combat,
 vous devriez aussi.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les vendeurs demandent des reliques spécifiques ou des objets spéciaux à échanger.]]></entry>
-<entry id="str_caretaker_goal_plot_kill_janissary_3"><![CDATA[Vaincre le Janissaire]]></entry>
+<entry id="str_caretaker_goal_plot_kill_janissary_3"><![CDATA[ Vaincre le Janissaire]]></entry>
 <entry id="town_quest_name_plot_kill_janissary_3"><![CDATA[La lame du Vizir]]></entry>
 <entry id="town_quest_description_plot_kill_janissary_3"><![CDATA[L'un des généraux les plus talentueux du Vizir se dresse fièrement dans son camp, nous indiquant ouvertement où il se trouve et se vantant de nous offrir une mort honorable.]]></entry>
 <entry id="str_returned_from_plot_kill_janissary_3_failure"><![CDATA[{?hero_names}%s ont échoués. La proposition du Janissaire tiens toujours.]]></entry>
@@ -247,7 +247,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_janissary_3_tip"><![CDATA[Le Janissaire peut faire appel à ses troupes, pour combattre les héros qu'il n'affronte pas en duel.]]></entry>
 <entry id="str_plot_kill_janissary_3_tip"><![CDATA[Agile et versatile, le Janissaire ne sera pas une cible facile.]]></entry>
 <entry id="str_plot_kill_janissary_3_audio_line"><![CDATA[La lame du Vizir]]></entry>
-<entry id="str_caretaker_goal_plot_kill_enchantress_5"><![CDATA[Vaincre l'Enchanteresse]]></entry>
+<entry id="str_caretaker_goal_plot_kill_enchantress_5"><![CDATA[ Vaincre l'Enchanteresse]]></entry>
 <entry id="town_quest_name_plot_kill_enchantress_5"><![CDATA[Le croc de l'Armada]]></entry>
 <entry id="town_quest_description_plot_kill_enchantress_5"><![CDATA[Un général du Vizir nous a révélé sa position, elle souhaite nous éradiquer. Il ne faudrait pas laisser son défi sans réponse.]]></entry>
 <entry id="str_returned_from_plot_kill_enchantress_5_failure"><![CDATA[{?hero_names}%s ont échoués. La défi de l'Enchanteresse tiens toujours.]]></entry>
@@ -259,7 +259,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_enchantress_5_tip"><![CDATA[De nombreux serpents se dresseront pour défendre l'Enchanteresse.]]></entry>
 <entry id="str_plot_kill_enchantress_5_tip"><![CDATA[D'énormes serpents peuvent frapper depuis des endroits inattendus.]]></entry>
 <entry id="str_plot_kill_enchantress_5_audio_line"><![CDATA[Le croc de l'Armada]]></entry>
-<entry id="str_caretaker_goal_plot_kill_warhawk_3"><![CDATA[Vaincre la Matrone de guerre]]></entry>
+<entry id="str_caretaker_goal_plot_kill_warhawk_3"><![CDATA[ Vaincre la Matrone de guerre]]></entry>
 <entry id="town_quest_name_plot_kill_warhawk_3"><![CDATA[Tonnerre du désert [{colour_start|sun_torch}Jour{colour_end}]]]></entry>
 <entry id="town_quest_description_plot_kill_warhawk_3"><![CDATA[L'une des matriarches nous a fait connaître son camp, nous mettant directement au défi. Mettez fin à son règne.]]></entry>
 <entry id="str_returned_from_plot_kill_warhawk_3_failure"><![CDATA[{?hero_names}%s étaient trop faibles pour la Matrone de guerre. Les rires de son clan résonnent dans les dunes.]]></entry>
@@ -271,7 +271,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[Les attaques de la Matrone sont variées et peuvent facilement toucher votre équipe.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[La Matrone a besoin de temps pour charger ses munitions.]]></entry>
 <entry id="str_plot_kill_warhawk_3_audio_line"><![CDATA[Tonnerre du désert]]></entry>
-<entry id="str_caretaker_goal_plot_kill_steelpath_5"><![CDATA[Vaincre la Matrone de fer]]></entry>
+<entry id="str_caretaker_goal_plot_kill_steelpath_5"><![CDATA[ Vaincre la Matrone de fer]]></entry>
 <entry id="town_quest_name_plot_kill_steelpath_5"><![CDATA[Pluie de sang [{colour_start|moon_torch}Nuit{colour_end}]]]></entry>
 <entry id="town_quest_description_plot_kill_steelpath_5"><![CDATA[Une autre matriarche exige un combat, se manifestant à nous depuis les ruines englouties par le sable. Calmez ses ardeurs.]]></entry>
 <entry id="str_returned_from_plot_kill_steelpath_5_failure"><![CDATA[{?hero_names}%s étaient trop faibles pour la Matrone de fer. La soif de sang de son clan est de plus en plus forte.]]></entry>
@@ -283,7 +283,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_steelpath_5_tip"><![CDATA[Attendez-vous à ce que vos héros saignent généreusement.]]></entry>
 <entry id="str_plot_kill_steelpath_5_tip"><![CDATA[La violence de la matrone n'est que temporaire, elle devra se reposer.]]></entry>
 <entry id="str_plot_kill_steelpath_5_audio_line"><![CDATA[Pluie de sang]]></entry>
-<entry id="str_caretaker_goal_plot_kill_ygastrosaur_3"><![CDATA[Vaincre le Gastrosaure]]></entry>
+<entry id="str_caretaker_goal_plot_kill_ygastrosaur_3"><![CDATA[ Vaincre le Gastrosaure]]></entry>
 <entry id="town_quest_name_plot_kill_ygastrosaur_3"><![CDATA[Bête de guerre]]></entry>
 <entry id="town_quest_description_plot_kill_ygastrosaur_3"><![CDATA[Les troglodytes sont parvenus à créer une monstruosité. Chaque jour qui passe, elle se rassasie et grandit. Détruisez cette monstruosité]]></entry>
 <entry id="str_returned_from_plot_kill_ygastrosaur_3_failure"><![CDATA[{?hero_names}%s n'ont pas pu calmer la violence du Gastrosaure.]]></entry>
@@ -294,7 +294,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[La carapace du Gastrosaure est robuste. L'huile d'affûtage pourrait être utile.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[Se préparer contre le saignement et l'infection sera essentiel.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_audio_line"><![CDATA[Bête de guerre]]></entry>
-<entry id="str_caretaker_goal_plot_kill_ygreater_wurm_5"><![CDATA[Vaincre le Dévoreur des sables]]></entry>
+<entry id="str_caretaker_goal_plot_kill_ygreater_wurm_5"><![CDATA[ Vaincre le Dévoreur des sables]]></entry>
 <entry id="town_quest_name_plot_kill_ygreater_wurm_5"><![CDATA[Léviathan du désert]]></entry>
 <entry id="town_quest_description_plot_kill_ygreater_wurm_5"><![CDATA[Une menace de taille nous bloque le passage dans le territoire des troglodytes. Il faudra employer de méthodes peu conventionnelles ...]]></entry>
 <entry id="str_returned_from_plot_kill_ygreater_wurm_5_failure"><![CDATA[{?hero_names}%s ont échoué contre le Dévoreur des sables.]]></entry>
@@ -306,7 +306,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[Chaque bête, quelle que soit sa taille, a un point faible. Il faut juste le {colour_start|mark}révéler{colour_end}.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[Vos héros ne seront pas en mesure d'achever le Dévoreur, ils auront besoin d'aide.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_audio_line"><![CDATA[Léviathan du désert]]></entry>
-<entry id="str_caretaker_goal_plot_kill_zalraune_3"><![CDATA[Vaincre l'Alrune]]></entry>
+<entry id="str_caretaker_goal_plot_kill_zalraune_3"><![CDATA[ Vaincre l'Alrune]]></entry>
 <entry id="town_quest_name_plot_kill_zalraune_3"><![CDATA[Fleurs séduisantes]]></entry>
 <entry id="town_quest_description_plot_kill_zalraune_3"><![CDATA[Un passage important est gardé par une masse cactonide d'un attrait dérangeant ...]]></entry>
 <entry id="str_returned_from_plot_kill_zalraune_3_failure"><![CDATA[{?hero_names}%s n'ont pas résisté à l'Alrune.]]></entry>
@@ -317,7 +317,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_zalraune_3_tip"><![CDATA[La clé est de gérer la personne la plus apte à se battre.]]></entry>
 <entry id="str_plot_kill_zalraune_3_tip"><![CDATA[Les équipes équilibrées pourront se remettre de l'emprise des prétendants.]]></entry>
 <entry id="str_plot_kill_zalraune_3_audio_line"><![CDATA[Fleurs séduisantes]]></entry>
-<entry id="str_caretaker_goal_plot_kill_zcact_wall_5"><![CDATA[Vaincre le Cœur nucléique]]></entry>
+<entry id="str_caretaker_goal_plot_kill_zcact_wall_5"><![CDATA[ Vaincre le Cœur nucléique]]></entry>
 <entry id="town_quest_name_plot_kill_zcact_wall_5"><![CDATA[Fracasser le Mur]]></entry>
 <entry id="town_quest_description_plot_kill_zcact_wall_5"><![CDATA[Un autre cactonide est prêt à être cueilli. La destruction de cet ensemble de lianes et de racines est indispensable pour atteindre le Reliquaire.]]></entry>
 <entry id="str_returned_from_plot_kill_zcact_wall_5_failure"><![CDATA[{?hero_names}%s n'ont pas traversé les défenses du Cœur nucléique.]]></entry>
