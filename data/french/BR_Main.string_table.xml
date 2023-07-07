@@ -846,7 +846,8 @@ pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
 particuliers à vos ennemis.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Certains ennemis se comporteront différemment,
 selon le moment de la journée.]]></entry>
-<entry id="str_cove_tip"><![CDATA[Certains ennemis seront plus présents selon le moment de la journée.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Certains ennemis seront plus présents,
+selon le moment de la journée.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Des années de violence ont endurci la peau des sauvages,
 la rendant plus résistante aux saignements.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Se reposer sur un seul soigneur pourrait se révéler fatal.
