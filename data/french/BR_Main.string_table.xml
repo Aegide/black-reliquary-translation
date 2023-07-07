@@ -91,7 +91,7 @@ Current Torch Level:]]></entry>
 {colour_start|notable}+25% {colour_start|healhp}HP{colour_end}
 -5 {colour_start|stress}Stress{colour_end}{colour_end}]]></entry>
 <entry id="dungeon_name_cove"><![CDATA[Intérieur exposé]]></entry>
-<entry id="dungeon_name_crypts"><![CDATA[Catacombes]]></entry>
+<entry id="dungeon_name_crypts"><![CDATA[Nécropole]]></entry>
 <entry id="dungeon_name_darkestdungeon"><![CDATA[]]></entry>
 <entry id="dungeon_name_town"><![CDATA[]]></entry>
 <entry id="dungeon_name_tutorial"><![CDATA[]]></entry>
@@ -226,11 +226,11 @@ Current Torch Level:]]></entry>
 <entry id="str_returned_from_plot_catacombs_tutorial_success"><![CDATA[TODO:{?hero_names}%s have become familiar with the valley. This is only the beginning.]]></entry>
 <entry id="str_embarked_on_plot_catacombs_tutorial"><![CDATA[TODO:{?hero_names}%s were the first to Enter the Catacombs]]></entry>
 <entry id="town_quest_progress_plot_catacombs_tutorial"><![CDATA[Terminez votre première expédition !]]></entry>
-<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les anciens mécanismes Kvarotz se dissimulent toujours dans l'ombre.]]></entry>
+<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les Levantins sont venus piller la vaste nécropole Kvarotz.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
 ils savent profiter des opportunités tactiques.]]></entry>
-<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Le trésor ne se trouve pas dans l'obscurité, mais plutôt grâce à elle.]]></entry>
+<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les trésors ne se trouvent pas dans l'obscurité, mais plutôt grâce à elle.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[L'électrum rouillé Kvarotz peut être revitalisé avec de l'huile.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[La technologie macabre et les connaissances des Kvarotz renferment de dangereux pouvoirs.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les Levantins profiteront de chaque occasion pour se préparer au combat,
@@ -792,10 +792,12 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Allowing to safely collect amber, bandages will find a lot of use in those caves.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Camping buffs are a powerful tool! Don't save your campfires for when it's already too late.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:The Caverns hold the most Amber of any region.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Most curios can be approached in multiple ways to ensure different positive results.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
-<entry id="str_warrens_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Caverns have been unlocked.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
+afin d'obtenir des résultats différents.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
+et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+<entry id="str_warrens_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} Les cavernes sont désormais accessibles.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Deception is all around you. Choose your interactions carefully.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Curios in the Treasury can have unusual effects with certain items.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Many Cactonids are ready to counter-attack. Be sure to plan your actions.]]></entry>
@@ -805,24 +807,31 @@ des symptômes et des maladies.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:The Cactonids contain great amounts of plunder, but you will need to fight your way to it.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Greed comes naturally to most. Try to keep it in check.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Use your campfires! Do not take the benefits of camping skills for granted.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:The Treasury holds the most Salvaged Jewelry of any region.]]></entry>
+<entry id="str_weald_tip"><![CDATA[La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
 <entry id="str_weald_tip"><![CDATA[TODO:Cactonids sometimes ingest rare and unique loot. Alum rituals can awaken these treasures, maligning the host.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Most curios can be approached in multiple ways to ensure different positive results.]]></entry>
-<entry id="str_weald_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
-<entry id="str_weald_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Treasury have been unlocked.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:The ancient Kvarotz mechanisms still skulk in the shadows.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:The Levantine have come to pilfer the vast necropolis of the Kvarotz.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Levantine soldiers are organized and disciplined, taking advantage of tactical opportunities.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Treasure is not found in darkness, but rather because of it.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Rusted Kvarotz electrum can be revitalized when oiled.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:The sinister technology and knowledge of the Kvarotz contain dangerous powers.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:The Levantine take advantage of the chance to brace for combat, as should you.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Vendors ask for specific relics or special items to exchange.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Most curios have multiple ways to approach them. Experimentation is the key!]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:The Catacombs hold the most Matakh of any region.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Most curios can be approached in multiple ways to ensure different positive results.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[TODO:Frequently checking buffs and debuffs on allies and enemies can keep control over the battlefield.]]></entry>
-<entry id="str_crypts_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_positive_result}{?dungeon_name}%s:{colour_end} The Catacombs have been unlocked.]]></entry>
+<entry id="str_weald_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
+afin d'obtenir des résultats différents.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
+et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+<entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[Les Levantins sont venus piller les vastes catacombes Kvarotz.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
+ils sauront profiter des opportunités tactiques.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[Les trésors ne se trouvent pas dans l'obscurité, mais plutôt grâce à elle.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[L'électrum rouillé Kvarotz peut être revitalisé avec de l'huile.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[La technologie macabre et les connaissances des Kvarotz renferment de dangereux pouvoirs.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[[Les Levantins profiteront de chaque occasion pour se préparer au combat,
+vous devriez faire de même.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[Les vendeurs demandent des reliques spécifiques ou des objets spéciaux à échanger.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
+n'hésitez pas à expérimenter.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[La nécropole est la région ayant le plus de {colour_start|BR_heirloom}Matakh{colour_end}.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
+afin d'obtenir des résultats différents.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
+et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+<entry id="str_crypts_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La nécropole est désormais accessible.]]></entry>
 <entry id="str_cove_tip"><![CDATA[En combat les sauvages seront sans-pitié,
 n'espérez pas pouvoir vous reposer.]]></entry>
 <entry id="str_cove_tip"><![CDATA[La chaleur oppressante du soleil s'abattra sur vos héros
@@ -838,7 +847,7 @@ la rendant plus résistante aux saignements.]]></entry>
 Une deuxième paire de mains peut faire toute la différence.]]></entry>
 <entry id="str_cove_tip"><![CDATA[L'intérieur exposé est la région ayant le plus de {colour_start|BR_heirloom}trophées{colour_end}.]]></entry>
 <entry id="str_cove_tip"><![CDATA[La plupart des curiosités peuvent être abordées de différentes manières,
-afin d'obtenir des résultats positifs différents.]]></entry>
+afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
 et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end},
@@ -2954,7 +2963,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="effect_tooltip_shuffle_dot_format"><![CDATA[{colour_start|move}Chute{colour_end} %d trs]]></entry>
 <entry id="effect_tooltip_cure_debuff"><![CDATA[Soigne {colour_start|debuff}malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cove"><![CDATA[Intérieur exposé]]></entry>
-<entry id="buff_rule_data_tooltip_crypts"><![CDATA[Catacombes]]></entry>
+<entry id="buff_rule_data_tooltip_crypts"><![CDATA[Nécropole]]></entry>
 <entry id="buff_rule_data_tooltip_warrens"><![CDATA[Cavernes]]></entry>
 <entry id="buff_rule_data_tooltip_weald"><![CDATA[Trésorerie]]></entry>
 <entry id="buff_rule_data_tooltip_levantine"><![CDATA[Levantin]]></entry>
@@ -4678,15 +4687,15 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_necrophobe"><![CDATA[Necrophobe]]></entry>
 <entry id="str_quirk_name_giant_slayer"><![CDATA[Tueur de géants]]></entry>
 <entry id="str_quirk_name_easily_intimidated"><![CDATA[Facile à intimider]]></entry>
-<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[Calme (Catacombes)]]></entry>
+<entry id="str_quirk_name_catacombs_adventurer"><![CDATA[Calme (Nécropole)]]></entry>
 <entry id="str_quirk_name_exposed_interior_adventurer"><![CDATA[Calme (Intérieur)]]></entry>
 <entry id="str_quirk_name_caverns_adventurer"><![CDATA[Calme (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_adventurer"><![CDATA[Calme (Trésorerie)]]></entry>
-<entry id="str_quirk_name_catacombs_phobe"><![CDATA[Phobie des Catacombes]]></entry>
+<entry id="str_quirk_name_catacombs_phobe"><![CDATA[Phobie de la Nécropole]]></entry>
 <entry id="str_quirk_name_exposed_interior_phobe"><![CDATA[Phobie de l'Intérieur]]></entry>
 <entry id="str_quirk_name_caverns_phobe"><![CDATA[Phobie des Cavernes]]></entry>
 <entry id="str_quirk_name_treasury_phobe"><![CDATA[Phobie de la Trésorerie]]></entry>
-<entry id="str_quirk_name_catacombs_explorer"><![CDATA[Expérience (Catacombes)]]></entry>
+<entry id="str_quirk_name_catacombs_explorer"><![CDATA[Expérience (Nécropole)]]></entry>
 <entry id="str_quirk_name_exposed_interior_explorer"><![CDATA[Expérience (Intérieur)]]></entry>
 <entry id="str_quirk_name_caverns_explorer"><![CDATA[Expérience (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_explorer"><![CDATA[Expérience (Trésorerie)]]></entry>
@@ -4694,11 +4703,11 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_exposed_interior_meanderer"><![CDATA[TODO:Interior Meanderer]]></entry>
 <entry id="str_quirk_name_caverns_meanderer"><![CDATA[TODO:Caverns Meanderer]]></entry>
 <entry id="str_quirk_name_treasury_meanderer"><![CDATA[TODO:Treasury Meanderer]]></entry>
-<entry id="str_quirk_name_catacombs_scrounger"><![CDATA[Carthographe (Catacombes)]]></entry>
+<entry id="str_quirk_name_catacombs_scrounger"><![CDATA[Carthographe (Nécropole)]]></entry>
 <entry id="str_quirk_name_exposed_interior_scrounger"><![CDATA[Carthographe (Intérieur)]]></entry>
 <entry id="str_quirk_name_caverns_scrounger"><![CDATA[Carthographe (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_scrounger"><![CDATA[Carthographe (Trésorerie)]]></entry>
-<entry id="str_quirk_name_catacombs_tactician"><![CDATA[Expertise (Catacombes)]]></entry>
+<entry id="str_quirk_name_catacombs_tactician"><![CDATA[Expertise (Nécropole)]]></entry>
 <entry id="str_quirk_name_exposed_interior_tactician"><![CDATA[Expertise (Intérieur)]]></entry>
 <entry id="str_quirk_name_caverns_tactician"><![CDATA[Expertise (Cavernes)]]></entry>
 <entry id="str_quirk_name_treasury_tactician"><![CDATA[Expertise (Trésorerie)]]></entry>
