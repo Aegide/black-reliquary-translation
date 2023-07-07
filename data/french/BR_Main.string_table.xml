@@ -856,8 +856,8 @@ Une deuxième paire de mains peut faire toute la différence.]]></entry>
  manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
 et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
-<entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end},
-les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
+<entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent
+temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} L'intérieur exposé est désormais accessible.]]></entry>
 <entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
@@ -1087,14 +1087,14 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_corpse_sandwurm_bandage_loot"><![CDATA[TODO:Protected hands find amber in the wurm's mouth!]]></entry>
 <entry id="str_curio_corpse_sandwurm_disease_kit_loot"><![CDATA[TODO:The hero is fortified against the putrid gore.]]></entry>
 <entry id="str_curio_corpse_sandwurm_amber_extraction_kit_loot"><![CDATA[TODO:Amber is carefully removed from the gullet.]]></entry>
-<entry id="str_curio_title_elephant_skull"><![CDATA[TODO:Sun-Bleached Skull]]></entry>
-<entry id="str_curio_content_elephant_skull"><![CDATA[TODO:There is a strange aura around this skull.]]></entry>
-<entry id="str_curio_tooltip_investigate_elephant_skull"><![CDATA[TODO:Investigate the bones...]]></entry>
-<entry id="str_curio_elephant_skull_nothing"><![CDATA[TODO:Nothing more than dry bones.]]></entry>
-<entry id="str_curio_elephant_skull_effect"><![CDATA[TODO:The mysterious skull grants an insightful vision.]]></entry>
-<entry id="str_curio_elephant_skull_holy_water_effect"><![CDATA[TODO:The pagan ritual awakens something within the hero.]]></entry>
-<entry id="str_curio_elephant_skull_shovel_loot"><![CDATA[TODO:The skull contained a hiding stash!]]></entry>
-<entry id="str_curio_elephant_skull_arch_kit_effect"><![CDATA[TODO:Horrific truths are exposed about this skull's origin.]]></entry>
+<entry id="str_curio_title_elephant_skull"><![CDATA[Crâne blanchi par le soleil]]></entry>
+<entry id="str_curio_content_elephant_skull"><![CDATA[Une étrange aura se dégage de ce crâne.]]></entry>
+<entry id="str_curio_tooltip_investigate_elephant_skull"><![CDATA[Examiner les os ...]]></entry>
+<entry id="str_curio_elephant_skull_nothing"><![CDATA[Rien de plus que des ossements.]]></entry>
+<entry id="str_curio_elephant_skull_effect"><![CDATA[Le crâne vous offre une vision.]]></entry>
+<entry id="str_curio_elephant_skull_holy_water_effect"><![CDATA[Le rituel païen réveille quelque chose chez le héros.]]></entry>
+<entry id="str_curio_elephant_skull_shovel_loot"><![CDATA[Le crâne dissimule des trésors !]]></entry>
+<entry id="str_curio_elephant_skull_arch_kit_effect"><![CDATA[D'horribles vérités sont révélées sur l'origine de ce crâne.]]></entry>
 <entry id="str_curio_title_steelpath_cache"><![CDATA[Cache d'armes]]></entry>
 <entry id="str_curio_content_steelpath_cache"><![CDATA[Un assortiment d'armes et d'outils. ]]></entry>
 <entry id="str_curio_tooltip_investigate_steelpath_cache"><![CDATA[Fouiller parmi les lames ...]]></entry>
@@ -1365,8 +1365,8 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_cact_hemo_antivenom_summon_cact_hemo_lowres"><![CDATA[TODO:The cactonid's membrane is dissolved!]]></entry> 
 <entry id="str_curio_cact_hemo_shovel_effect"><![CDATA[TODO:A burst of acidic juices sprays the hero!]]></entry>  
 <entry id="str_curio_cact_hemo_holy_water_summon_cact_hemo_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry> 
-<entry id="str_curio_title_cact_necro"><![CDATA[TODO:Decrepit Skeleton]]></entry>
-<entry id="str_curio_content_cact_necro"><![CDATA[TODO:Tiny crimson flowers are budding from parts of this skeleton.]]></entry>
+<entry id="str_curio_title_cact_necro"><![CDATA[Squelette décrépit]]></entry>
+<entry id="str_curio_content_cact_necro"><![CDATA[De minuscules fleurs pourpres bourgeonnent sur certaines parties du squelette.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_necro"><![CDATA[TODO:Check the pockets.]]></entry>
 <entry id="str_curio_cact_necro_summon"><![CDATA[TODO:The skeleton contains a cactonid!]]></entry>
 <entry id="str_curio_cact_necro_shovel_summon_cact_necro_dmg"><![CDATA[TODO:Bones snap and thrash around!]]></entry> 
@@ -1557,14 +1557,14 @@ Debuff does not stack{colour_end}]]></entry>
 -5% Scouting Chance
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
-<entry id="str_inventory_title_gemcursed_gem2"><![CDATA[TODO:{colour_start|cursed_gem}Gemini Sacrificer{colour_end}]]></entry>
+<entry id="str_inventory_title_gemcursed_gem2"><![CDATA[{colour_start|cursed_gem}Dague sacrificielle{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem2"><![CDATA[TODO:Every part of this ritualistic dagger is razor-sharp!
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 On Attack Hit: Bleed Self: 
 3 pts/tn for 1 tn
 (70% Base, +20% per Diff)
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem2"><![CDATA[TODO:{colour_start|cursed_gem}Gemini Sacrificer{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_cursed_gem2"><![CDATA[{colour_start|cursed_gem}Dague sacrificielle{colour_end}]]></entry>
 <entry id="str_inventory_title_gemcursed_gem3"><![CDATA[TODO:{colour_start|cursed_gem}Umbral Rosary{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem3"><![CDATA[TODO:Despair permeates the air around the electrum beads.
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
@@ -2618,7 +2618,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʧɣɘɘɘɩɧʻ{colour_end}Talon of the Warhawk]]></entry>
 <entry id="str_monster_skill_warhawk_summon"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Rally the Clan]]></entry>
 <entry id="str_monster_skill_warhawk_ground_pound"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɘɣɣɣɩʻʟʐ{colour_end}Reckless Cannon-Fire]]></entry>
-<entry id="str_monster_skill_warhawk_monkey"><![CDATA[TODO:Monkey Business]]></entry>
+<entry id="str_monster_skill_warhawk_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_scav_scavenge"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Pillage]]></entry>
 <entry id="str_monster_skill_scav_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Bras long]]></entry>
 <entry id="str_monster_skill_scav_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal de métal]]></entry>
@@ -2645,8 +2645,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_druid_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Collecte de sang]]></entry>
 <entry id="str_monster_skill_druid_rush"><![CDATA[TODO:Rush Remedy]]></entry>
 <entry id="str_monster_skill_druid_melee_stealth"><![CDATA[Collecte de sang]]></entry>
-<entry id="str_monster_skill_druid_monkey"><![CDATA[TODO:Monkey Business]]></entry>
-<entry id="str_monster_skill_monkey"><![CDATA[TODO:Monkey Business]]></entry>
+<entry id="str_monster_skill_druid_monkey"><![CDATA[Singeries]]></entry>
+<entry id="str_monster_skill_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_wildlander_harpoon_shot"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɣɣɘɩɦɷɲ{colour_end}Iron Grasp]]></entry>
 <entry id="str_monster_skill_wildlander_backpedal"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʨɣɘɘɘɩɧʐ{colour_end}Headwind]]></entry>
 <entry id="str_monster_skill_wildlander_forward_lunge"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥɘɘɘɣɩɨ{colour_end}Sudden Squall]]></entry>
@@ -3784,7 +3784,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketpoacher_mask"><![CDATA[TODO:Poacher's Garb]]></entry>
 <entry id="str_inventory_title_trinketarchaeologist_compendium"><![CDATA[TODO:Archaeologist's Compendium]]></entry>
 <entry id="str_inventory_title_trinkettome_of_the_depths"><![CDATA[TODO:Tome of the Depths]]></entry>
-<entry id="str_inventory_title_trinketcursed_golem_scraps"><![CDATA[Fragments maudits de golem]]></entry>
+<entry id="str_inventory_title_trinketcursed_golem_scraps"><![CDATA[Fragments maudits de Golem]]></entry>
 <entry id="str_inventory_title_trinketamber_encased_specimens"><![CDATA[TODO:Amber Encased Specimens]]></entry>
 <entry id="str_inventory_title_trinketmusk_live_ammo"><![CDATA[Munitions vivantes]]></entry>
 <entry id="str_inventory_title_trinketanti_amber_grinder"><![CDATA[Broyeur d'ambre]]></entry>
