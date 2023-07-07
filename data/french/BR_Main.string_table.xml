@@ -1000,7 +1000,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_levantine_defector_antivenom_loot"><![CDATA["Il n'y a pas de mal à être prudent."]]></entry>
 <entry id="str_curio_levantine_defector_holy_water_loot"><![CDATA["Ça m'aidera à rester en vie."]]></entry>
 <entry id="str_curio_levantine_defector_medicinal_herbs_loot"><![CDATA["Je suis sûr que ça sera utile."]]></entry>
-<entry id="str_curio_levantine_defector_skeleton_key_loot"><![CDATA["Hmmmm..."]]></entry>
+<entry id="str_curio_levantine_defector_skeleton_key_loot"><![CDATA["Hmmmm ..."]]></entry>
 <entry id="str_curio_levantine_defector_honing_oil_loot"><![CDATA["Ma lame vous remercie."]]></entry>
 <entry id="str_curio_levantine_defector_shovel_loot"><![CDATA["Merci, j'en avais besoin."]]></entry>
 <entry id="str_curio_levantine_defector_arch_kit_loot"><![CDATA["Ça aidera pour les pièges."]]></entry>
@@ -1054,7 +1054,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_corpse_cactonid_torch_effect"><![CDATA[L'immonde carcasse est incinérée.]]></entry>
 <entry id="str_curio_corpse_cactonid_shovel_effect"><![CDATA[La carcasse se déchire et émet des gaz toxiques.]]></entry>
 <entry id="str_curio_corpse_cactonid_antivenom_loot"><![CDATA[L'antivenin protège contre sa toxicité.]]></entry>
-<entry id="str_curio_corpse_cactonid_disease_kit_loot"><![CDATA[Le corps du héros est fortifié contre cette boue immonde.]]></entry>
+<entry id="str_curio_corpse_cactonid_disease_kit_loot"><![CDATA[Le héros est protégé contre cette boue immonde.]]></entry>
 <entry id="str_curio_title_corpse_legion"><![CDATA[Têtes de la Légion]]></entry>
 <entry id="str_curio_content_corpse_legion"><![CDATA[Les têtes coupées de la Légion sont exposées de manière terrifiante.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_legion"><![CDATA[Qu'est-ce qui pourrait se cacher derrière ?]]></entry>
@@ -1066,36 +1066,36 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_corpse_legion_medicinal_herbs_effect"><![CDATA[Les restes sanctifiés procurent un sentiment de bien-être.]]></entry>
 <entry id="str_curio_corpse_legion_laudanum_purge"><![CDATA[Un héros affronte la mortalité avec confiance.]]></entry>
 <entry id="str_curio_title_corpse_levantine"><![CDATA[Cadavre levantin]]></entry>
-<entry id="str_curio_content_corpse_levantine"><![CDATA[TODO:Horrific cruelties were inflicted upon this soldier.]]></entry>
-<entry id="str_curio_tooltip_investigate_corpse_levantine"><![CDATA[TODO:Might there be something still here?]]></entry>
-<entry id="str_curio_corpse_levantine_nothing"><![CDATA[TODO:Merely a sun-dried corpse.]]></entry>
-<entry id="str_curio_corpse_levantine_effect"><![CDATA[TODO:Atrocities were inflicted upon this man!]]></entry>
-<entry id="str_curio_corpse_levantine_disease"><![CDATA[TODO:Flesh-eating insects swarm from the cadaver.]]></entry>
-<entry id="str_curio_corpse_levantine_loot"><![CDATA[TODO:The soldier's coin purse was left behind.]]></entry>
-<entry id="str_curio_corpse_levantine_torch_effect"><![CDATA[TODO:A cremation is in order.]]></entry>
-<entry id="str_curio_corpse_levantine_shovel_effect"><![CDATA[TODO:No body should be left this way.]]></entry>
-<entry id="str_curio_corpse_levantine_bandage_loot"><![CDATA[TODO:Coins remain among the discarded armor scraps!]]></entry>
-<entry id="str_curio_corpse_levantine_disease_kit_loot"><![CDATA[TODO:The hero is fortified against the noxious remains.]]></entry>
-<entry id="str_curio_title_corpse_sandwurm"><![CDATA[TODO:Defeated Sandwurm]]></entry>
-<entry id="str_curio_content_corpse_sandwurm"><![CDATA[TODO:This wurm is a wildlander trophy now.]]></entry>
-<entry id="str_curio_tooltip_investigate_corpse_sandwurm"><![CDATA[TODO:Perhaps something is inside of it...]]></entry>
-<entry id="str_curio_corpse_sandwurm_nothing"><![CDATA[TODO:The wurm was gutted and bled dry.]]></entry>
-<entry id="str_curio_corpse_sandwurm_effect"><![CDATA[TODO:The hero is cut by one of its teeth.]]></entry>
-<entry id="str_curio_corpse_sandwurm_disease"><![CDATA[TODO:Nauseating remains pour out onto the hero.]]></entry>
-<entry id="str_curio_corpse_sandwurm_loot"><![CDATA[TODO:Amber remains in the wurm's carcass!]]></entry>
-<entry id="str_curio_corpse_sandwurm_torch_effect"><![CDATA[TODO:The enemy trophy is defiantly burned.]]></entry>
-<entry id="str_curio_corpse_sandwurm_shovel_effect"><![CDATA[TODO:Human remains pour out of the wurm's guts.]]></entry>
+<entry id="str_curio_content_corpse_levantine"><![CDATA[Ce soldat a été victime d'une cruauté sans-nom.]]></entry>
+<entry id="str_curio_tooltip_investigate_corpse_levantine"><![CDATA[Peut-être reste-t-il quelque chose ?]]></entry>
+<entry id="str_curio_corpse_levantine_nothing"><![CDATA[Un simple cadavre séché au soleil.]]></entry>
+<entry id="str_curio_corpse_levantine_effect"><![CDATA[Des atrocités sans-nom ont été infligées ...]]></entry>
+<entry id="str_curio_corpse_levantine_disease"><![CDATA[Des insectes nécrophages émergent du cadavre !]]></entry>
+<entry id="str_curio_corpse_levantine_loot"><![CDATA[La bourse du soldat est intacte.]]></entry>
+<entry id="str_curio_corpse_levantine_torch_effect"><![CDATA[Une crémation s'impose.]]></entry>
+<entry id="str_curio_corpse_levantine_shovel_effect"><![CDATA[Un enterrement s'impose.]]></entry>
+<entry id="str_curio_corpse_levantine_bandage_loot"><![CDATA[Du métal brille parmi la chair !]]></entry>
+<entry id="str_curio_corpse_levantine_disease_kit_loot"><![CDATA[Le héros est protégé contre cette chair desséchée.]]></entry>
+<entry id="str_curio_title_corpse_sandwurm"><![CDATA[Cadavre de ver]]></entry>
+<entry id="str_curio_content_corpse_sandwurm"><![CDATA[Ce ver est désormais un trophée des sauvages.]]></entry>
+<entry id="str_curio_tooltip_investigate_corpse_sandwurm"><![CDATA[Quelque chose se trouve à l'intérieur ?]]></entry>
+<entry id="str_curio_corpse_sandwurm_nothing"><![CDATA[Le ver est éviscéré et saigné à blanc.]]></entry>
+<entry id="str_curio_corpse_sandwurm_effect"><![CDATA[Le héros se blesse sur l'une de ces dents.]]></entry>
+<entry id="str_curio_corpse_sandwurm_disease"><![CDATA[Des restes nauséabonds se déversent.]]></entry>
+<entry id="str_curio_corpse_sandwurm_loot"><![CDATA[Des fragments d'ambre étaient dans sa carcasse !]]></entry>
+<entry id="str_curio_corpse_sandwurm_torch_effect"><![CDATA[Leur trophée est détruit par le feu.]]></entry>
+<entry id="str_curio_corpse_sandwurm_shovel_effect"><![CDATA[Des restes humains s'écoulent par ses entrailles.]]></entry>
 <entry id="str_curio_corpse_sandwurm_bandage_loot"><![CDATA[TODO:Protected hands find amber in the wurm's mouth!]]></entry>
-<entry id="str_curio_corpse_sandwurm_disease_kit_loot"><![CDATA[TODO:The hero is fortified against the putrid gore.]]></entry>
-<entry id="str_curio_corpse_sandwurm_amber_extraction_kit_loot"><![CDATA[TODO:Amber is carefully removed from the gullet.]]></entry>
-<entry id="str_curio_title_elephant_skull"><![CDATA[Crâne blanchi par le soleil]]></entry>
+<entry id="str_curio_corpse_sandwurm_disease_kit_loot"><![CDATA[Le héros est protégé contre ces entrailles infectes.]]></entry>
+<entry id="str_curio_corpse_sandwurm_amber_extraction_kit_loot"><![CDATA[L'ambre est retiré avec précaution de son gosier.]]></entry>
+<entry id="str_curio_title_elephant_skull"><![CDATA[Crâne colossal]]></entry>
 <entry id="str_curio_content_elephant_skull"><![CDATA[Une étrange aura se dégage de ce crâne.]]></entry>
 <entry id="str_curio_tooltip_investigate_elephant_skull"><![CDATA[Examiner les os ...]]></entry>
 <entry id="str_curio_elephant_skull_nothing"><![CDATA[Rien de plus que des ossements.]]></entry>
 <entry id="str_curio_elephant_skull_effect"><![CDATA[Le crâne vous offre une vision.]]></entry>
-<entry id="str_curio_elephant_skull_holy_water_effect"><![CDATA[Le rituel païen réveille quelque chose chez le héros.]]></entry>
+<entry id="str_curio_elephant_skull_holy_water_effect"><![CDATA[Le rituel éveille quelque chose chez le héros.]]></entry>
 <entry id="str_curio_elephant_skull_shovel_loot"><![CDATA[Le crâne dissimule des trésors !]]></entry>
-<entry id="str_curio_elephant_skull_arch_kit_effect"><![CDATA[D'horribles vérités sont révélées sur l'origine de ce crâne.]]></entry>
+<entry id="str_curio_elephant_skull_arch_kit_effect"><![CDATA[D'horribles vérités sont révélées sur son origine.]]></entry>
 <entry id="str_curio_title_steelpath_cache"><![CDATA[Cache d'armes]]></entry>
 <entry id="str_curio_content_steelpath_cache"><![CDATA[Un assortiment d'armes et d'outils. ]]></entry>
 <entry id="str_curio_tooltip_investigate_steelpath_cache"><![CDATA[Fouiller parmi les lames ...]]></entry>
@@ -1587,21 +1587,21 @@ Debuff does not stack{colour_end}]]></entry>
 +20% Stress Received
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem5"><![CDATA[TODO:{colour_start|cursed_gem}Marbled Sun{colour_end}]]></entry>
-<entry id="str_inventory_title_gemglass_hand"><![CDATA[TODO:Glassblown Fang]]></entry>
-<entry id="str_inventory_description_gemglass_hand"><![CDATA[TODO:A clump of glass has been reshaped into a malicious spearhead.
+<entry id="str_inventory_title_gemglass_hand"><![CDATA[Croc de verre]]></entry>
+<entry id="str_inventory_description_gemglass_hand"><![CDATA[Un amas de verre transformé en une pointe de lance malveillante.
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Melee Hit: Buff Self: +10% DMG (2 tns){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_glass_hand"><![CDATA[TODO:Glassblown Fang]]></entry>
-<entry id="str_inventory_title_gemglass_dagger"><![CDATA[TODO:Vitrified Skull]]></entry>
-<entry id="str_inventory_description_gemglass_dagger"><![CDATA[TODO:This fragmented human skull has been reconstructed using glass.
+<entry id="buff_rule_data_tooltip_glass_hand"><![CDATA[Croc de verre]]></entry>
+<entry id="str_inventory_title_gemglass_dagger"><![CDATA[Crâne vitrifié]]></entry>
+<entry id="str_inventory_description_gemglass_dagger"><![CDATA[Ce crâne humain a été reconstitué à l'aide de verre.
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Mystical Hit: Buff Self: +8 ACC (2 tns){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_glass_dagger"><![CDATA[TODO:Vitrified Skull]]></entry>
-<entry id="str_inventory_title_gemglass_hook"><![CDATA[TODO:Shredding Stars]]></entry>
-<entry id="str_inventory_description_gemglass_hook"><![CDATA[TODO:These shards of glass are fused together into splintering hazards.
+<entry id="buff_rule_data_tooltip_glass_dagger"><![CDATA[Crâne vitrifié]]></entry>
+<entry id="str_inventory_title_gemglass_hook"><![CDATA[Étoiles effilées]]></entry>
+<entry id="str_inventory_description_gemglass_hook"><![CDATA[Ces éclats de verre ont fusionné pour former une arme dangereuse.
 {colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_glass_hook"><![CDATA[TODO:Shredding Stars]]></entry>
+<entry id="buff_rule_data_tooltip_glass_hook"><![CDATA[Étoiles effilées]]></entry>
 <entry id="enemy_type_name_levantine"><![CDATA[Levantin]]></entry>
 <entry id="enemy_type_name_lost"><![CDATA[Légion perdue]]></entry>
 <entry id="enemy_type_name_kvarotz"><![CDATA[Kvarotz]]></entry>
