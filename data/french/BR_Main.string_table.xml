@@ -2615,7 +2615,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_monkey"><![CDATA[TODO:Monkey Business]]></entry>
 <entry id="str_monster_skill_scav_scavenge"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Pillage]]></entry>
 <entry id="str_monster_skill_scav_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Bras long]]></entry>
-<entry id="str_monster_skill_scav_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal Flurry]]></entry>
+<entry id="str_monster_skill_scav_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal de métal]]></entry>
 <entry id="str_monster_skill_scav_clawstrike"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʑ{colour_end}Unkind Talon]]></entry>
 <entry id="str_monster_skill_scav_hide"><![CDATA[TODO:Hide!]]></entry>
 <entry id="str_monster_skill_scav_sidewind"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʐ{colour_end}Sidewind]]></entry>
