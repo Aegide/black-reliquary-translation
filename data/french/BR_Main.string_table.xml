@@ -4175,8 +4175,8 @@ Offensive buffs are halved ]]></entry>
 <entry id="upgrade_tree_name_occultist.amber_curse"><![CDATA[TODO:Amber Curse]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCCULTIST_HEAL_VS_PAGAN_TT"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Done if Target is {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PD_BLINDING_GAS_COOLDOWN"><![CDATA[TODO:Blinding Gas on Cooldown]]></entry>
-<entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[TODO:Amber Blast]]></entry>
-<entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[TODO:Amber Blast]]></entry>
+<entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[Explosion d'ambre]]></entry>
+<entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[Explosion d'ambre]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PLAGUE_DOCTOR_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}
 {colour_start|debuff}Debuff Target:{colour_end} -6 ACC / -7 DODGE {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PLAGUE_DOCTOR_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}
