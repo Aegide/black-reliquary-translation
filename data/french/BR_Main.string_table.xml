@@ -1449,8 +1449,8 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_content_mountain_god_blade"><![CDATA[TODO:The spirit of a great king wells around this blade.]]></entry>
 <entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[TODO:Receive the mighty warrior's gift]]></entry>
 <entry id="str_curio_mountain_god_blade_loot"><![CDATA[TODO:The apparition gives his approval before vanishing.]]></entry>
-<entry id="str_obstacle_catacombs_pillar_description"><![CDATA[TODO:A clutter of crumbled stone and debris block the Path.]]></entry>
-<entry id="str_obstacle_catacombs_pillar_title"><![CDATA[TODO:Collapsed Pillar]]></entry>
+<entry id="str_obstacle_catacombs_pillar_description"><![CDATA[Un amas de roches brisées bloque le chemin.]]></entry>
+<entry id="str_obstacle_catacombs_pillar_title"><![CDATA[Colonne effondrée]]></entry>
 <entry id="str_obstacle_corpse_pile_description"><![CDATA[TODO:A heap of corpses, presumably from trespassers...]]></entry>
 <entry id="str_obstacle_corpse_pile_title"><![CDATA[Montagne de cadavres]]></entry>
 <entry id="str_obstacle_caverns_blockage_description"><![CDATA[TODO:These rocks looks like they could be forced aside to create a path...]]></entry>
@@ -2534,10 +2534,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_eternal_vigil"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Sentinelle éternelle]]></entry>
 <entry id="str_monster_skill_naroz_necrotic_hack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Frappe nécrosée]]></entry>
 <entry id="str_monster_skill_naroz_clumsy_hack"><![CDATA[{colour_start|white}ɘɘɡɡʩɘɘɘɣɩɨ{colour_end}Frappe maladroite]]></entry>
-<entry id="str_monster_skill_gagahl_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Necrotic Palm]]></entry>
+<entry id="str_monster_skill_gagahl_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Grappin propulsé]]></entry>
 <entry id="str_monster_skill_gagahl_escape"><![CDATA[{colour_start|white}ɘɘɠɟʨɣɣɣɣɩɧɱ{colour_end}Répulsion]]></entry>
 <entry id="str_monster_skill_gagahl_craft"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʠʀ{colour_end}Reconstitution]]></entry>
-<entry id="str_monster_skill_gagahl_prep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʁ{colour_end}Crafter's Awakening]]></entry>
+<entry id="str_monster_skill_gagahl_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʁ{colour_end}Éveil]]></entry>
 <entry id="str_monster_skill_golem_godsplitter_full"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Godsplitter]]></entry>
 <entry id="str_monster_skill_golem_godsplitter_empty"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Godsplitter]]></entry>
 <entry id="str_monster_skill_golem_godsplitter_stealth1"><![CDATA[TODO:Godsplitter]]></entry>
@@ -2548,8 +2548,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
 <entry id="str_monster_skill_golem_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Corpse Collection]]></entry>
-<entry id="str_monster_skill_tathuth_launch"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cranial Crash]]></entry>
-<entry id="str_monster_skill_tathuth_explode"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Mindblower]]></entry>
+<entry id="str_monster_skill_tathuth_launch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Fracass'Tête]]></entry>
+<entry id="str_monster_skill_tathuth_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Destruction]]></entry>
 <entry id="str_monster_skill_apihr_melee"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦɘɘɣɣɩɨ{colour_end}Extended Strike]]></entry>
 <entry id="str_monster_skill_apihr_smoke"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cadaverine Smog]]></entry>
 <entry id="str_monster_skill_apihr_stealth"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cadaverine Smog]]></entry>
@@ -4623,7 +4623,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_fairweather_fighter"><![CDATA[TODO:Fairweather Fighter]]></entry>
 <entry id="str_quirk_name_daredevil"><![CDATA[Casse-cou]]></entry>
 <entry id="str_quirk_name_hippocratic"><![CDATA[Hippocratique]]></entry>
-<entry id="str_quirk_name_gifted"><![CDATA[Surdoué]]></entry>
+<entry id="str_quirk_name_gifted"><![CDATA[Coopération]]></entry>
 <entry id="str_quirk_name_perfectionist"><![CDATA[Perfectionniste]]></entry>
 <entry id="str_quirk_name_antsy"><![CDATA[Hyperactivité]]></entry>
 <entry id="str_quirk_name_imposter_syndrome"><![CDATA[Syndrôme de l'imposteur]]></entry>
