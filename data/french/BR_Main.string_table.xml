@@ -267,7 +267,8 @@ vous devriez aussi.]]></entry>
 <entry id="str_embarked_on_plot_kill_warhawk_3"><![CDATA[{?hero_names}%s sont partis combattre la Matrone de guerre.]]></entry>
 <entry id="town_quest_progress_plot_kill_warhawk_3"><![CDATA[Éliminez la Matrone de guerre !]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[Les différentes munitions de la Matrone ont des propriétés particulières.]]></entry>
-<entry id="str_plot_kill_warhawk_3_tip"><![CDATA[La Matrone peut faire appel à ses compagnes pour animer le combat.]]></entry>
+<entry id="str_plot_kill_warhawk_3_tip"><![CDATA[La Matrone peut faire appel à ses soldats
+pour animer le combat.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[Les attaques de la Matrone sont variées et peuvent facilement toucher votre équipe.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[La Matrone a besoin de temps pour charger ses munitions.]]></entry>
 <entry id="str_plot_kill_warhawk_3_audio_line"><![CDATA[Tonnerre du désert]]></entry>
@@ -1122,7 +1123,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_silent_pantheon_laudanum_effect"><![CDATA[Une hallucination violente vous révèle les dieux.]]></entry> 
 <entry id="str_curio_silent_pantheon_firewood_effect"><![CDATA[Les grands esprits veilleront sur vous.]]></entry>
 <entry id="str_curio_title_virile_brew"><![CDATA[Chaudron géant]]></entry>
-<entry id="str_curio_content_virile_brew"><![CDATA[Le récipient contient un breuvage étrange.]]></entry>
+<entry id="str_curio_content_virile_brew"><![CDATA[Le récipient contient un breuvage.]]></entry>
 <entry id="str_curio_tooltip_investigate_virile_brew"><![CDATA[Mettre la main dedans ?]]></entry>
 <entry id="str_curio_virile_brew_nothing"><![CDATA[Le chaudron contient un bouillon insipide.]]></entry>
 <entry id="str_curio_virile_brew_effect"><![CDATA[Un peu gluant, et pas appétissant ...]]></entry>
