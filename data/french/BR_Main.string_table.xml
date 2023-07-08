@@ -2601,8 +2601,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_harrier_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Proie repérée]]></entry>
 <entry id="str_monster_skill_harrier_backpedal"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Retraite hâtive]]></entry>
 <entry id="str_monster_skill_harrier_stealth"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʚʐ{colour_end}Tir de couverture]]></entry>
-<entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[TODO:Frantic Retreat]]></entry>
-<entry id="str_monster_skill_harrier_fumble"><![CDATA[TODO:Fumbling Quiver]]></entry>
+<entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[Retraite hâtive]]></entry>
+<entry id="str_monster_skill_harrier_fumble"><![CDATA[Proie repérée]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Décapitation]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
@@ -2649,7 +2649,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_druid_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_wildlander_harpoon_shot"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɣɣɘɩɦɷɲ{colour_end}Iron Grasp]]></entry>
-<entry id="str_monster_skill_wildlander_backpedal"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʨɣɘɘɘɩɧʐ{colour_end}Headwind]]></entry>
+<entry id="str_monster_skill_wildlander_backpedal"><![CDATA[{colour_start|white}ɘɘɡɡʨɣɘɘɘɩɧʐ{colour_end}Coup bas]]></entry>
 <entry id="str_monster_skill_wildlander_forward_lunge"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥɘɘɘɣɩɨ{colour_end}Sudden Squall]]></entry>
 <entry id="str_monster_skill_wildlander_harpoon_pierce"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɘɣɣɘɩɧʎ{colour_end}Hemorrhaging Strike]]></entry>
 <entry id="str_monster_skill_wildlander_skewer"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɣɣɘɩɧʔ{colour_end}Pierce the Ranks]]></entry>
@@ -2660,7 +2660,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_skull_toss"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥʫɩɦɮʓ{colour_end}Skull Toss]]></entry>
 <entry id="str_monster_skill_painweaver_wheel"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Wheeling Advance]]></entry>
 <entry id="str_monster_skill_painweaver_scream"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʧɣɘɘɘɩɿɶʖ{colour_end}Baying]]></entry>
-<entry id="str_monster_skill_painweaver_run"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Scamper Off]]></entry>
+<entry id="str_monster_skill_painweaver_run"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
 <entry id="str_monster_skill_painweaver_flat"><![CDATA[TODO:Flat Tire]]></entry>
 <entry id="str_monster_skill_painweaver_weaving"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Weaving Wheel]]></entry>
 <entry id="str_monster_skill_spellblighter_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɧʑ{colour_end}Touch of the Unspeakable]]></entry>
@@ -2677,7 +2677,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_mother_eat"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Greed and Gluttony]]></entry>
 <entry id="str_monster_skill_mother_dash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦʲɩɧʑ{colour_end}Onslaught]]></entry>
 <entry id="str_monster_skill_mother_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʲɩɧʐ{colour_end}Weight of Wealth]]></entry>
-<entry id="str_monster_skill_mother_run"><![CDATA[TODO:{colour_start|white}ɪɥʲɩɧʟ{colour_end}Getaway]]></entry>
+<entry id="str_monster_skill_mother_run"><![CDATA[{colour_start|white}ɪɥʲɩɧʟ{colour_end}Fuite]]></entry>
 <entry id="str_monster_skill_horned_toad_croak"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɧʑ{colour_end}Croassement]]></entry>
 <entry id="str_monster_skill_horned_toad_glare"><![CDATA[TODO:Curious Glare]]></entry>
 <entry id="str_monster_skill_hornedtoad_lick"><![CDATA[{colour_start|white}ɡɡɘɘɥʫɩɦɲʖ{colour_end}Fléau septique]]></entry>
