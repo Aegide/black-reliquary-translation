@@ -1538,68 +1538,68 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[Richesses extravagantes utilisées par la haute bourgeoisie Kvarotz.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_title_gemdune_lily"><![CDATA[Lys des dunes]]></entry>
-<entry id="str_inventory_description_gemdune_lily"><![CDATA[TODO:The amber-infused nectar in these lilies fills the air with an invigorating scent!
-{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
+<entry id="str_inventory_description_gemdune_lily"><![CDATA[Le nectar ambré de cette fleur remplit l'air d'un parfum rafraîchissant !
+TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 +4 ACC, +2% CRT, 
 +10% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist
 Buff does not Stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_dune_lily"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_inventory_title_gemcursed_gem0"><![CDATA[{colour_start|cursed_gem}Idole des lamentations{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem0"><![CDATA[Ce trésor antique produit un bruit incessant !
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 +10% Chance Party Surprised,
 +33% Chance of being Ambushed
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem0"><![CDATA[{colour_start|cursed_gem}Idole des lamentations{colour_end}]]></entry>
 <entry id="str_inventory_title_gemcursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem1"><![CDATA[TODO:These disturbing inscriptions carry an aura of dread.
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+<entry id="str_inventory_description_gemcursed_gem1"><![CDATA[Ces inscriptions inquiétantes sont teintées de terreur.
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 -4 ACC,
 -5% Scouting Chance
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
 <entry id="str_inventory_title_gemcursed_gem2"><![CDATA[{colour_start|cursed_gem}Dague sacrificielle{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem2"><![CDATA[TODO:Every part of this ritualistic dagger is razor-sharp!
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+<entry id="str_inventory_description_gemcursed_gem2"><![CDATA[Chaque partie de ce poignard est coupante comme un rasoir !
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 On Attack Hit: Bleed Self: 
 3 pts/tn for 1 tn
 (70% Base, +20% per Diff)
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem2"><![CDATA[{colour_start|cursed_gem}Dague sacrificielle{colour_end}]]></entry>
-<entry id="str_inventory_title_gemcursed_gem3"><![CDATA[TODO:{colour_start|cursed_gem}Umbral Rosary{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem3"><![CDATA[TODO:Despair permeates the air around the electrum beads.
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+<entry id="str_inventory_title_gemcursed_gem3"><![CDATA[{colour_start|cursed_gem}Rosaire occulte{colour_end}]]></entry>
+<entry id="str_inventory_description_gemcursed_gem3"><![CDATA[Le désespoir envahit l'air autour de ces perles d'électrum.
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 -35% Virtue Chance,
 -15% Stress Healing Received
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem3"><![CDATA[TODO:{colour_start|cursed_gem}Umbral Rosary{colour_end}]]></entry>
-<entry id="str_inventory_title_gemcursed_gem4"><![CDATA[TODO:{colour_start|cursed_gem}Corona of Torment{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem4"><![CDATA[TODO:Death follows bearers of the black crown!
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+<entry id="buff_rule_data_tooltip_cursed_gem3"><![CDATA[{colour_start|cursed_gem}Rosaire occulte{colour_end}]]></entry>
+<entry id="str_inventory_title_gemcursed_gem4"><![CDATA[{colour_start|cursed_gem}Couronne des tourments{colour_end}]]></entry>
+<entry id="str_inventory_description_gemcursed_gem4"><![CDATA[La mort poursuit les porteurs de cette couronne noire !
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 -10% Max HP,
 -14% Deathblow Resist
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem4"><![CDATA[TODO:{colour_start|cursed_gem}Corona of Torment{colour_end}]]></entry>
-<entry id="str_inventory_title_gemcursed_gem5"><![CDATA[TODO:{colour_start|cursed_gem}Marbled Sun{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem5"><![CDATA[TODO:This perfectly spherical stone hides a horrible power...
-{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
+<entry id="buff_rule_data_tooltip_cursed_gem4"><![CDATA[{colour_start|cursed_gem}Couronne des tourments{colour_end}]]></entry>
+<entry id="str_inventory_title_gemcursed_gem5"><![CDATA[{colour_start|cursed_gem}Soleil de marbre{colour_end}]]></entry>
+<entry id="str_inventory_description_gemcursed_gem5"><![CDATA[Cette pierre parfaitement sphérique cache un terrible pouvoir ...
+TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 -4 SPD,
 +20% Stress Received
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem5"><![CDATA[TODO:{colour_start|cursed_gem}Marbled Sun{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_cursed_gem5"><![CDATA[{colour_start|cursed_gem}Soleil de marbre{colour_end}]]></entry>
 <entry id="str_inventory_title_gemglass_hand"><![CDATA[Croc de verre]]></entry>
 <entry id="str_inventory_description_gemglass_hand"><![CDATA[Un amas de verre transformé en une pointe de lance malveillante.
-{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
+TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Melee Hit: Buff Self: +10% DMG (2 tns){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_hand"><![CDATA[Croc de verre]]></entry>
 <entry id="str_inventory_title_gemglass_dagger"><![CDATA[Crâne vitrifié]]></entry>
 <entry id="str_inventory_description_gemglass_dagger"><![CDATA[Ce crâne humain a été reconstitué à l'aide de verre.
-{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
+TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Mystical Hit: Buff Self: +8 ACC (2 tns){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_dagger"><![CDATA[Crâne vitrifié]]></entry>
 <entry id="str_inventory_title_gemglass_hook"><![CDATA[Étoiles effilées]]></entry>
 <entry id="str_inventory_description_gemglass_hook"><![CDATA[Ces éclats de verre ont fusionné pour former une arme dangereuse.
-{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
+TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_hook"><![CDATA[Étoiles effilées]]></entry>
 <entry id="enemy_type_name_levantine"><![CDATA[Levantin]]></entry>
@@ -2526,15 +2526,15 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_friar_cure_the_cursed"><![CDATA[TODO:Cleanse the Cursed]]></entry>
 <entry id="str_monster_skill_friar_no_salvation"><![CDATA[TODO:No Salvation!]]></entry>
 <entry id="str_monster_skill_friar_flee_to_masses"><![CDATA[TODO:{colour_start|white}ɪʧɣɣɘɘɩɨ{colour_end}Flee to the Masses]]></entry>
-<entry id="str_monster_skill_deadbolt_shield_charge"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧɱ{colour_end}Sweeping Blockade]]></entry>
+<entry id="str_monster_skill_deadbolt_shield_charge"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧɱ{colour_end}Levée de bouclier]]></entry>
 <entry id="str_monster_skill_deadbolt_normal_arrow"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Excise the Menace]]></entry>
 <entry id="str_monster_skill_deadbolt_gatling_arrow"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Spiritual Salvo]]></entry>
 <entry id="str_monster_skill_deadbolt_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Condamnation]]></entry>
-<entry id="str_monster_skill_deadbolt_equip"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʁʐ{colour_end}Smiting Bolts]]></entry>
+<entry id="str_monster_skill_deadbolt_equip"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʁʐ{colour_end}Consécration]]></entry>
 <entry id="str_monster_skill_deadbolt_phalanx"><![CDATA[TODO:Pious Phalanx]]></entry>
-<entry id="str_monster_skill_judicator_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Damning Blow]]></entry>
+<entry id="str_monster_skill_judicator_melee"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Masse de justice]]></entry>
 <entry id="str_monster_skill_judicator_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Rebounding Maneuver]]></entry>
-<entry id="str_monster_skill_judicator_expiate"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɾʔ{colour_end}Mark the Heretic]]></entry>
+<entry id="str_monster_skill_judicator_expiate"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɾʔ{colour_end}Accusation]]></entry>
 <entry id="str_monster_skill_judicator_faith"><![CDATA[TODO:Prove your Faith!]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_necrotic_hack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Frappe nécrosée]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_clumsy_hack"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Frappe maladroite]]></entry>
