@@ -1544,13 +1544,13 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 +10% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist
 Buff does not Stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_dune_lily"><![CDATA[Lys des dunes]]></entry>
-<entry id="str_inventory_title_gemcursed_gem0"><![CDATA[TODO:{colour_start|cursed_gem}Totem of Wails{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem0"><![CDATA[TODO:This ancient treasure won't stop making noise!
+<entry id="str_inventory_title_gemcursed_gem0"><![CDATA[{colour_start|cursed_gem}Idole des lamentations{colour_end}]]></entry>
+<entry id="str_inventory_description_gemcursed_gem0"><![CDATA[Ce trésor antique produit un bruit incessant !
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 +10% Chance Party Surprised,
 +33% Chance of being Ambushed
 Debuff does not stack{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_cursed_gem0"><![CDATA[TODO:{colour_start|cursed_gem}Totem of Wails{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_cursed_gem0"><![CDATA[{colour_start|cursed_gem}Idole des lamentations{colour_end}]]></entry>
 <entry id="str_inventory_title_gemcursed_gem1"><![CDATA[{colour_start|cursed_gem}Tablette profane{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem1"><![CDATA[TODO:These disturbing inscriptions carry an aura of dread.
 {colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
@@ -2552,19 +2552,19 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_golem_evil_full"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Spreading Dark]]></entry>
 <entry id="str_monster_skill_golem_evil_full_afterprep"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Spreading Dark]]></entry>
 <entry id="str_monster_skill_golem_evil_empty"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Spreading Dark]]></entry>
-<entry id="str_monster_skill_golem_corpse_eject"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
-<entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Marrow Cannon]]></entry>
+<entry id="str_monster_skill_golem_corpse_eject"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
+<entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
 <entry id="str_monster_skill_golem_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Corpse Collection]]></entry>
 <entry id="str_monster_skill_tathuth_launch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Fracass'Tête]]></entry>
 <entry id="str_monster_skill_tathuth_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Destruction]]></entry>
 <entry id="str_monster_skill_apihr_melee"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦɘɘɣɣɩɨ{colour_end}Extended Strike]]></entry>
-<entry id="str_monster_skill_apihr_smoke"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cadaverine Smog]]></entry>
-<entry id="str_monster_skill_apihr_stealth"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Cadaverine Smog]]></entry>
-<entry id="str_monster_skill_apihr_clean"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩʋɬʐ{colour_end}Polish]]></entry>
+<entry id="str_monster_skill_apihr_smoke"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Brouillard cadavérique]]></entry>
+<entry id="str_monster_skill_apihr_stealth"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Brouillard cadavérique]]></entry>
+<entry id="str_monster_skill_apihr_clean"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩʋɬʐ{colour_end}Polissage]]></entry>
 <entry id="str_monster_skill_apihr_smoke_prep"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɮʑ{colour_end}Creeping Wisp]]></entry>
-<entry id="str_monster_skill_apihr_smoke_buff"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɧʐ{colour_end}Malignant Incense]]></entry>
-<entry id="str_monster_skill_totakh_rush1"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Vanguard Stride]]></entry>
-<entry id="str_monster_skill_totakh_rush2"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Vanguard Stride]]></entry>
+<entry id="str_monster_skill_apihr_smoke_buff"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɧʐ{colour_end}Encens de force]]></entry>
+<entry id="str_monster_skill_totakh_rush1"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Charge nécrosée]]></entry>
+<entry id="str_monster_skill_totakh_rush2"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Charge nécrosée]]></entry>
 <entry id="str_monster_skill_totakh_darkness"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩʀɮɶ{colour_end}Dusk Dispersion]]></entry>
 <entry id="str_monster_skill_totakh_laser"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɘɘɩʹʻɮ{colour_end}End Of Days]]></entry>
 <entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Munition morbide]]></entry>
@@ -2690,12 +2690,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit6"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Régurgiter]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit7"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Régurgiter]]></entry>
 <entry id="str_monster_skill_carrion_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
-<entry id="str_monster_skill_carrion_buzz"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐʑɮ{colour_end}Buzz Blast]]></entry>
-<entry id="str_monster_skill_carrion_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Toxin Skewer]]></entry>
+<entry id="str_monster_skill_carrion_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐʑɮ{colour_end}Bourdonnement]]></entry>
+<entry id="str_monster_skill_carrion_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Dard venimeux]]></entry>
 <entry id="str_monster_skill_sentry_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Mandibules]]></entry>
 <entry id="str_monster_skill_sentry_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
 <entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
-<entry id="str_monster_skill_sentry_sting"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Toxin Skewer]]></entry>
+<entry id="str_monster_skill_sentry_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Dard venimeux]]></entry>
 <entry id="str_monster_skill_vulture_eat"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɭʐ{colour_end}CORPSE PICK]]></entry>
 <entry id="str_monster_skill_vulture_pursue"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʎ{colour_end}PURSUE]]></entry>
 <entry id="str_monster_skill_vulture_stress"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}SCRAW]]></entry>
@@ -2810,7 +2810,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Croissance de combat]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Grenade de spores]]></entry>
-<entry id="str_monster_skill_cact_homonid_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Back Lash]]></entry>
+<entry id="str_monster_skill_cact_homonid_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Fouet liane]]></entry>
 <entry id="str_monster_skill_cact_sav_eject"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɘɘɩɦʐʕ{colour_end}Injector Frenzy]]></entry>
 <entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʏ{colour_end}Venom Shower]]></entry>
 <entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɦʐɬ{colour_end}The Hunger]]></entry>
@@ -2837,8 +2837,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_mimic_puke3"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
 <entry id="str_monster_skill_cact_mimic_bite"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_cact_bloom"><![CDATA[{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Phéromones]]></entry>
-<entry id="str_monster_skill_carrion_summon"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʀ{colour_end}Swarming Sortie]]></entry>
-<entry id="str_monster_skill_carrion_hive_sting"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Lethal Injection]]></entry>
+<entry id="str_monster_skill_carrion_summon"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Progéniture]]></entry>
+<entry id="str_monster_skill_carrion_hive_sting"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Injection létale]]></entry>
 <entry id="str_monster_skill_carrion_hive_phero"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɦʃʐ{colour_end}Vivifying Pheromones]]></entry>
 <entry id="str_monster_skill_scorpion_cannibal"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʟɭ{colour_end}CANNIBALIZE]]></entry>
 <entry id="str_monster_skill_scoprion_swarm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧʏ{colour_end}SCORPION STAMPEDE]]></entry>
