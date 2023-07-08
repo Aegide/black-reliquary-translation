@@ -1545,7 +1545,7 @@ TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{
 Buff does not Stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_dune_lily"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_inventory_title_gemcursed_gem0"><![CDATA[{colour_start|cursed_gem}Idole des lamentations{colour_end}]]></entry>
-<entry id="str_inventory_description_gemcursed_gem0"><![CDATA[Cette statue produit un bruit incessant !
+<entry id="str_inventory_description_gemcursed_gem0"><![CDATA[Cette statue émet un bruit incessant !
 TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 +10% Chance Party Surprised,
 +33% Chance of being Ambushed
