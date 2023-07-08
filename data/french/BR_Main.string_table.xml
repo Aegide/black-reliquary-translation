@@ -1538,7 +1538,7 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[Richesses extravagantes utilisées par la haute bourgeoisie Kvarotz.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_title_gemdune_lily"><![CDATA[Lys des dunes]]></entry>
-<entry id="str_inventory_description_gemdune_lily"><![CDATA[Le nectar ambré de cette fleur remplit l'air d'un parfum rafraîchissant !
+<entry id="str_inventory_description_gemdune_lily"><![CDATA[Le nectar de cette fleur remplit l'air d'un parfum rafraîchissant !
 TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
 +4 ACC, +2% CRT, 
 +10% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist
@@ -2797,7 +2797,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_spider_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_webber_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Morsure]]></entry>
 <entry id="str_monster_skill_spider_spit"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɷʏʑ{colour_end}Crachat]]></entry>
-<entry id="str_monster_skill_spider_skitter"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Skitter]]></entry>
+<entry id="str_monster_skill_spider_skitter"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Agitation]]></entry>
 <entry id="str_monster_skill_spider_web"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʔ{colour_end}Toile]]></entry>
 <entry id="str_monster_skill_grave_nibble"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʓ{colour_end}Mordillement affreux]]></entry>
 <entry id="str_monster_skill_maggot_squirm"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʑ{colour_end}Gémissements]]></entry>
@@ -3708,7 +3708,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketworrystone"><![CDATA[Pierre apaisante]]></entry>
 <entry id="str_inventory_title_trinketwounding_helmet"><![CDATA[Heaume du bailli]]></entry>
 <entry id="str_inventory_title_trinketwrathful_bandana"><![CDATA[Foulard de rage]]></entry>
-<entry id="str_inventory_title_trinketwrathful_hat"><![CDATA[TODO:Skirmisher's Hat]]></entry>
+<entry id="str_inventory_title_trinketwrathful_hat"><![CDATA[Chapeau de duelliste]]></entry>
 <entry id="str_inventory_title_trinketyouth_chalice"><![CDATA[Calice de précaution]]></entry>
 <entry id="str_inventory_title_trinketstress_stone"><![CDATA[Talisman de stress]]></entry>
 <entry id="str_inventory_title_trinkettravelers_boots"><![CDATA[Bottes de voyageur]]></entry>
@@ -4651,7 +4651,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_tactless"><![CDATA[Désagréable]]></entry>
 <entry id="str_quirk_name_laudanum_penchant"><![CDATA[Addicte au laudanum]]></entry>
 <entry id="str_quirk_name_hunter"><![CDATA[Chasseur]]></entry>
-<entry id="str_quirk_name_uncoordinated"><![CDATA[TODO:Uncoordinated]]></entry>
+<entry id="str_quirk_name_uncoordinated"><![CDATA[Mauvaise coordination]]></entry>
 <entry id="str_quirk_name_opportunist"><![CDATA[Opportuniste]]></entry>
 <entry id="str_quirk_name_fair_player"><![CDATA[Beau joueur]]></entry>
 <entry id="str_quirk_name_technical"><![CDATA[Technique]]></entry>
@@ -4742,7 +4742,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_BR_guilty_conscience"><![CDATA[Mauvaise conscience]]></entry> 
 <entry id="str_quirk_name_rampager"><![CDATA[TODO:Rampager]]></entry> 
 <entry id="str_quirk_name_convalescent"><![CDATA[Convalescence]]></entry>
-<entry id="str_quirk_name_intercessor"><![CDATA[TODO:Intercessor]]></entry>
+<entry id="str_quirk_name_intercessor"><![CDATA[Fanatique]]></entry>
 <entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
 <entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
 <entry id="str_quirk_name_overzealous"><![CDATA[Zèle]]></entry>
