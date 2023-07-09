@@ -3287,31 +3287,31 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEALBUFF_1"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Self:{colour_end} +15%% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEALBUFF_2"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Self:{colour_end} +25%% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_STRESS"><![CDATA[TODO:On Attack Crit: Self: {colour_start|stress}Stress{colour_end} +3]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +2%% CRT{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}On Crit: Target: Take +2 Additional Dmg 
 Additional -33%% Stress Healing Received from Crits{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE1_1"><![CDATA[TODO:{colour_start|skill_unselectable}On Crit: Target: Take +2 Additional Dmg
 Additional -34%% Stress Healing Received from Crits{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Friendly Skill: Self: Additional +2%% CRT{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}Friendly Skill: Self: Additional +1%% Crits Received{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +10%% Bleed/Blight Resist, -3 ACC{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}On Friendly Skill: Additional +1%% PROT, -1 DODGE{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Bleed/Blight Resist, -1 ACC{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_SECRET_BUFF"><![CDATA[]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +5%% Move Resist{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}On Kill: Self: Additional +2 Restoration Amount
 Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE_2_1"><![CDATA[TODO:{colour_start|skill_unselectable}On Kill: Buff Self: Additional +10%% Healing Received
 Additional -5%% MAX HP{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADE1_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +10%% Move Resist{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_LIVE_AMMO_HEAL_REC_LIVE_TT"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Received if {colour_start|musk_ammo4}Live Ammo{colour_end} is Equipped]]></entry>
@@ -3431,13 +3431,13 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|move}Shuffle{colour_end} Party]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_TORCH_TT"><![CDATA[TODO:{colour_start|skill_unselectable}(Bonuses above doubled if Torch is below 1){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_SCOUT_TT"><![CDATA[TODO:+12.5%% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional -5%% Chance Party Surprised{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_2"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_2"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +2.5%% Scouting Chance{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_3"><![CDATA[TODO:{colour_start|notable}Next Level:{colour_end}
+<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADE_3"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional Prevents Nighttime Ambush{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau max{colour_end}]]></entry>
 <entry id="trinket_attack_skill_additional_effects_hit_miss"><![CDATA[TODO:On Attack:]]></entry>
 <entry id="trinket_attack_skill_additional_effects_hit"><![CDATA[Quand l'attaque touche :]]></entry>
 <entry id="trinket_attack_skill_additional_effects_miss"><![CDATA[Quand l'attaque rate :]]></entry>
