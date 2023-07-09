@@ -1444,7 +1444,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_cursed_gem_buyer_cursed_gem2_loot"><![CDATA[TODO:The dagger is placed in a box and your reward is produced.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem1_loot"><![CDATA[TODO:The tablet is wrapped in cloth, and your prize is handed over.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem0_loot"><![CDATA[TODO:The totem is stuffed into their bag, and you receive a palmful of gems.]]></entry>
-<entry id="str_curio_title_yngolian_altar"><![CDATA[ Balise de l'Yngolien]]></entry>
+<entry id="str_curio_title_yngolian_altar"><![CDATA[Balise de l'Yhngolia]]></entry>
 <entry id="str_curio_content_yngolian_altar"><![CDATA[TODO:An otherworldly force flows from this object, demanding ignition.]]></entry>
 <entry id="str_curio_tooltip_investigate_yngolian_altar"><![CDATA[TODO:It thirsts for flame...]]></entry>
 <entry id="str_curio_yngolian_altar_nothing"><![CDATA[TODO:The beacon ignites, but nothing happens...]]></entry>
@@ -2407,9 +2407,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_sand_occ_A"><![CDATA[Occultiste envoûté]]></entry>
 <entry id="str_monstername_sand_occ_B"><![CDATA[Occultiste envoûté]]></entry>
 <entry id="str_monstername_sand_occ_C"><![CDATA[Occultiste envoûté]]></entry>
-<entry id="str_monstername_yngolian_A"><![CDATA[Yngolien]]></entry>
-<entry id="str_monstername_yngolian_B"><![CDATA[Yngolien]]></entry>
-<entry id="str_monstername_yngolian_C"><![CDATA[Yngolien]]></entry>
+<entry id="str_monstername_yngolian_A"><![CDATA[Yhngolia]]></entry>
+<entry id="str_monstername_yngolian_B"><![CDATA[Yhngolia]]></entry>
+<entry id="str_monstername_yngolian_C"><![CDATA[Yhngolia]]></entry>
 <entry id="str_monstername_yngolian_small_A"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_yngolian_small_B"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_yngolian_small_C"><![CDATA[Cellule Y]]></entry>
