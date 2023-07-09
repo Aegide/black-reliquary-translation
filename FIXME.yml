@@ -1,0 +1,15 @@
+BR_Main :
+  - Commiting : Committing (tutorial_popup_stress_relief_description)
+  - darknesss : darkness (str_glossary_term_definition_52)
+  - fromt : from (str_curio_amber_corrupted_relic_amber_extraction_kit_loot)
+  - extatically : ecstatically (str_curio_purveyor_sapphire_loot)
+  - Decret : Decree (str_inventory_title_trinketdecret_of_the_holy_land)
+
+BR_Narration :
+  - foresaken : forsaken (str_vo_bad_BR_afflicted_fearful3_0)
+  - acheive : achieve (str_vo_good_BR_caverns_success_boss_02_0)
+  - balast : ballast (str_vo_good_BR_treasury_success_activate_02_0)
+  - acheiving : achieving (str_vo_neutral_BR_caverns_cleanse_03_0)
+  - bloodthristy : bloodthirsty (str_vo_neutral_BR_treasury_boss_01_0)
+  - harships : hardships (str_vo_town_BR_backstory_fail_01_0)
+  - Regretably : Regrettably (str_vo_town_BR_backstory_fail_08_0)
