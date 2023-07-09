@@ -2608,13 +2608,13 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fureur des Anciens]]></entry>
-<entry id="str_monster_skill_warhawk_load_lev"><![CDATA[TODO:Load the Scraps]]></entry>
+<entry id="str_monster_skill_warhawk_load_lev"><![CDATA[Arsenal de métal]]></entry>
 <entry id="str_monster_skill_warhawk_lev_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʹ{colour_end}Fortress Buster]]></entry>
 <entry id="str_monster_skill_warhawk_lev_multi"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʩɘɣɣɣɩɦʻʎ{colour_end}Salvo of Steel]]></entry>
-<entry id="str_monster_skill_warhawk_load_trog"><![CDATA[TODO:Larval Munitions]]></entry>
+<entry id="str_monster_skill_warhawk_load_trog"><![CDATA[Arsenal larval]]></entry>
 <entry id="str_monster_skill_warhawk_amber_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩʻɺʑ{colour_end}Ravenous Ballistics]]></entry>
 <entry id="str_monster_skill_warhawk_amber_multi"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩʻʡɽ{colour_end}Amber Flak]]></entry>
-<entry id="str_monster_skill_warhawk_load_cactus"><![CDATA[TODO:Floral Armaments]]></entry>
+<entry id="str_monster_skill_warhawk_load_cactus"><![CDATA[Arsenal floral]]></entry>
 <entry id="str_monster_skill_warhawk_cactus_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɘɣɣɣɩɦʻʵ{colour_end}Prickly Projectile]]></entry>
 <entry id="str_monster_skill_warhawk_cactus_multi"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɘɣɣɣɩɦʻʏ{colour_end}Leeching Spew]]></entry>
 <entry id="str_monster_skill_warhawk_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʧɣɘɘɘɩɧʻ{colour_end}Talon of the Warhawk]]></entry>
@@ -2623,7 +2623,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_warhawk_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_scav_scavenge"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʚʐ{colour_end}Pillage]]></entry>
 <entry id="str_monster_skill_scav_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Bras long]]></entry>
-<entry id="str_monster_skill_scav_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Arsenal de métal]]></entry>
+<entry id="str_monster_skill_scav_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʣʎ{colour_end}Débris métalliques]]></entry>
 <entry id="str_monster_skill_scav_clawstrike"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʑ{colour_end}Feinte]]></entry>
 <entry id="str_monster_skill_scav_hide"><![CDATA[TODO:Hide!]]></entry>
 <entry id="str_monster_skill_scav_sidewind"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʐ{colour_end}Coup bas]]></entry>
@@ -3784,8 +3784,8 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketamber_compass"><![CDATA[Compas d'ambre]]></entry>
 <entry id="str_inventory_title_trinketamber_incense"><![CDATA[Encensoir d'ambre]]></entry>
 <entry id="str_inventory_title_trinketpoacher_mask"><![CDATA[Masque du Récolteur]]></entry>
-<entry id="str_inventory_title_trinketarchaeologist_compendium"><![CDATA[TODO:Archaeologist's Compendium]]></entry>
-<entry id="str_inventory_title_trinkettome_of_the_depths"><![CDATA[TODO:Tome of the Depths]]></entry>
+<entry id="str_inventory_title_trinketarchaeologist_compendium"><![CDATA[Encyclopédie Kvarotz]]></entry>
+<entry id="str_inventory_title_trinkettome_of_the_depths"><![CDATA[Grimoire abyssal]]></entry>
 <entry id="str_inventory_title_trinketcursed_golem_scraps"><![CDATA[Fragments maudits de Golem]]></entry>
 <entry id="str_inventory_title_trinketamber_encased_specimens"><![CDATA[Ambre fossilisé]]></entry>
 <entry id="str_inventory_title_trinketmusk_live_ammo"><![CDATA[Munitions vivantes]]></entry>
@@ -3805,7 +3805,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketabom_bloodtaint_strain"><![CDATA[Médaillon de pestilence]]></entry>
 <entry id="str_inventory_title_trinketarb_jolly_bandana"><![CDATA[Bandana pirate]]></entry>
 <entry id="str_inventory_title_trinketgr_private_reserve"><![CDATA[La réserve privée]]></entry>
-<entry id="str_inventory_title_trinketocc_smoldering_soapstone"><![CDATA[TODO:Smoldering Soapstone]]></entry>
+<entry id="str_inventory_title_trinketocc_smoldering_soapstone"><![CDATA[Brouillard de sable]]></entry>
 <entry id="str_inventory_title_trinketvestal_bloodlust_periapt"><![CDATA[Médaillon de violence]]></entry>
 <entry id="str_inventory_title_trinketcru_ostvengr_banner"><![CDATA[Vestige de l'Empire]]></entry>
 <entry id="str_inventory_title_trinketamber_consuming_monkey"><![CDATA[Capucin dévoreur d'ambre]]></entry>
@@ -3824,7 +3824,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketthe_watchful_monkey"><![CDATA[Singe attentif]]></entry>
 <entry id="str_inventory_title_trinketcoat_of_the_great_strategist"><![CDATA[Cape de stratège]]></entry>
 <entry id="str_inventory_title_trinketcrusader_curse"><![CDATA[Malédiction du croisé]]></entry>
-<entry id="str_inventory_title_trinketiris_of_the_plagued"><![CDATA[TODO:Iris of the Plagued]]></entry>
+<entry id="str_inventory_title_trinketiris_of_the_plagued"><![CDATA[Iris des pestiférés]]></entry>
 <entry id="str_inventory_title_trinketdecret_of_the_holy_land"><![CDATA[Décret de la Terre sainte]]></entry>
 <entry id="str_inventory_title_trinketshaws_pocketwatch"><![CDATA[Montre de Shaw]]></entry>
 <entry id="str_inventory_title_trinketthe_loch_shield"><![CDATA[Bouclier du Loch]]></entry>
@@ -3855,7 +3855,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketleb_rock"><![CDATA[Leb Rock]]></entry>
 <entry id="str_inventory_title_trinketdead_mans_pipe"><![CDATA[Saxophone squelettique]]></entry>
 <entry id="str_inventory_title_trinketoccult_key"><![CDATA[Clé occulte]]></entry>
-<entry id="str_inventory_title_trinketreading"><![CDATA[TODO:Reading Comprehension]]></entry>
+<entry id="str_inventory_title_trinketreading"><![CDATA["Lu et approuvé"]]></entry>
 <entry id="str_inventory_title_trinketravenous_manual"><![CDATA[Livre affamé]]></entry>
 <entry id="str_inventory_title_trinketcactonid_snuff_pendant"><![CDATA[TODO:Cactonid Snuff Pendant]]></entry>
 <entry id="str_inventory_title_trinketcrew_prophet_eye"><![CDATA[Œil du Prophète]]></entry>
