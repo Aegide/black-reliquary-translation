@@ -2478,7 +2478,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_rak_human_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Griffes spirituelles]]></entry>
 <entry id="str_monster_skill_rak_human_shout"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
 <entry id="str_monster_skill_rak_human_shout_weak"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
-<entry id="str_monster_skill_rak_human_transform"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʐ{colour_end}Transformation]]></entry>
+<entry id="str_monster_skill_rak_human_transform"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʐ{colour_end}Transcendance]]></entry>
 <entry id="str_monster_skill_rak_human_arrogance"><![CDATA[TODO:Air of Arrogance]]></entry>
 <entry id="str_monster_skill_rak_beast_attack"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɨ{colour_end}Griffure]]></entry>
 <entry id="str_monster_skill_rak_beast_shout"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦɮʑ{colour_end}Rugissement spirituel]]></entry>
