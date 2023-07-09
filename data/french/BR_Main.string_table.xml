@@ -3067,8 +3067,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_1_pagan"><![CDATA[{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_faster"><![CDATA[Jeûne]]></entry>
 <entry id="buff_rule_data_tooltip_golem_curse"><![CDATA[Marque du Golem]]></entry>
-<entry id="buff_rule_data_tooltip_ghoul_fever"><![CDATA[TODO:{colour_start|symptom}Ghoul Fever{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_ghoul_plague"><![CDATA[TODO:{colour_start|disease}Ghoul Plague{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_ghoul_fever"><![CDATA[{colour_start|symptom}Fièvre goule{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_ghoul_plague"><![CDATA[{colour_start|disease}Peste goule{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_catacombs_explorer"><![CDATA[TODO:Catacombs Explorer]]></entry>
 <entry id="buff_rule_data_tooltip_exposed_interior_explorer"><![CDATA[TODO:Interior Explorer]]></entry>
 <entry id="buff_rule_data_tooltip_caverns_explorer"><![CDATA[TODO:Caverns Explorer]]></entry>
@@ -6359,7 +6359,7 @@ the Treasury successfully gives buffs
 <entry id="str_roster_quirk_transition_ghoul_fever"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Ghoul Plague{colour_end}.]]></entry>
 <entry id="str_roster_quirk_transition_ghoul_fever_tended"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end}'s tended symptoms have worsened, resulting in {colour_start|disease}Ghoul Plague (Stabilized){colour_end}.]]></entry>
 <entry id="str_roster_quirk_transition_ghoul_plague_tended"><![CDATA[TODO:{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
-<entry id="str_quirk_name_ghoul_plague"><![CDATA[TODO:Ghoul Plague]]></entry>
+<entry id="str_quirk_name_ghoul_plague"><![CDATA[Peste goule]]></entry>
 <entry id="str_quirk_name_ghoul_plague_tended"><![CDATA[TODO:Ghoul Plague (Stabilized)]]></entry>
 <entry id="quirk_transition_ghoul_fever_to_ghoul_plague"><![CDATA[TODO:Why does my skin smell like rot...?]]></entry>
 <entry id="quirk_transition_ghoul_fever_tended_to_ghoul_plague_tended"><![CDATA[TODO:I think my skin is changing color...]]></entry>
