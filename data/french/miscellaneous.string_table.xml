@@ -1678,8 +1678,8 @@
 <entry id="sort_trinket_label_rarity"><![CDATA[Rareté]]></entry>
 <entry id="sort_trinket_popup_question"><![CDATA[Trier par...]]></entry>
 <entry id="variable_sort_trinkets_alphabetically_enabled"><![CDATA[1]]></entry>
-<entry id="str_sort_trinkets_alphabetically"><![CDATA[Trier par nom de breloque]]></entry>
-<entry id="str_sort_trinkets_by_class"><![CDATA[Trier par restriction de classe]]></entry>
+<entry id="str_sort_trinkets_alphabetically"><![CDATA[Trier par nom]]></entry>
+<entry id="str_sort_trinkets_by_class"><![CDATA[Trier par classe]]></entry>
 <entry id="str_sort_trinkets_by_rarity"><![CDATA[Trier par rareté]]></entry>
 <entry id="str_stagecoach_prisoner_rescued"><![CDATA[Sauvetage !]]></entry>
 <entry id="str_start_screen_button"><![CDATA[Campagne]]></entry>
