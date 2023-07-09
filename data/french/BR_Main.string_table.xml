@@ -3787,7 +3787,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketarchaeologist_compendium"><![CDATA[Encyclopédie Kvarotz]]></entry>
 <entry id="str_inventory_title_trinkettome_of_the_depths"><![CDATA[Grimoire abyssal]]></entry>
 <entry id="str_inventory_title_trinketcursed_golem_scraps"><![CDATA[Fragments maudits de Golem]]></entry>
-<entry id="str_inventory_title_trinketamber_encased_specimens"><![CDATA[Ambre fossilisé]]></entry>
+<entry id="str_inventory_title_trinketamber_encased_specimens"><![CDATA[Spécimen fossilisé]]></entry>
 <entry id="str_inventory_title_trinketmusk_live_ammo"><![CDATA[Munitions vivantes]]></entry>
 <entry id="str_inventory_title_trinketanti_amber_grinder"><![CDATA[Broyeur d'ambre]]></entry>
 <entry id="str_inventory_title_trinketflag_flesh_eating_helm"><![CDATA[Masque dévoreur de chair]]></entry>
@@ -3842,9 +3842,9 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketblack_knights_blade"><![CDATA[Lame du chevalier noir]]></entry>
 <entry id="str_inventory_title_trinketwallflowers_brand"><![CDATA[Marque de Wallflower]]></entry>
 <entry id="str_inventory_title_trinketinhuman_belt"><![CDATA[Ceinture inhumaine]]></entry>
-<entry id="str_inventory_title_trinketbloodied_bandana"><![CDATA[Bandana ensanglanté]]></entry>
+<entry id="str_inventory_title_trinketbloodied_bandana"><![CDATA[Foulard de charisme]]></entry>
 <entry id="str_inventory_title_trinketdoctors_notes"><![CDATA[Notes du docteur]]></entry>
-<entry id="str_inventory_title_trinketamulet_of_fear"><![CDATA[Amulette de terreur]]></entry>
+<entry id="str_inventory_title_trinketamulet_of_fear"><![CDATA[Pacte avec la Bête]]></entry>
 <entry id="str_inventory_title_trinketpandoras_tongue"><![CDATA[Langue de Pandora]]></entry>
 <entry id="str_inventory_title_trinketspring_herbs"><![CDATA[Herbe fleurie]]></entry>
 <entry id="str_inventory_title_trinketbloodlust_talisman"><![CDATA[Talisman sanguinaire]]></entry>
