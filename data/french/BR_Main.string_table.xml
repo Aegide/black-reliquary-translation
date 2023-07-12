@@ -3770,11 +3770,11 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl1"><![CDATA[TODO:Unusual Houseplant (LVL 2)]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl2"><![CDATA[TODO:Concerning Succulent (LVL 3)]]></entry>
 <entry id="str_inventory_title_trinkettrea_cact_lvl3"><![CDATA[Charybdis (NIV. MAX)]]></entry>
-<entry id="str_inventory_title_trinketyngolian_torch_1"><![CDATA[TODO:Dormant Shadow]]></entry>
-<entry id="str_inventory_title_trinketyngolian_torch_2"><![CDATA[TODO:Stirring Crescent]]></entry>
-<entry id="str_inventory_title_trinketyngolian_torch_3"><![CDATA[TODO:Waking Gibbous]]></entry>
-<entry id="str_inventory_title_trinketyngolian_torch_4"><![CDATA[TODO:Screaming Brilliance]]></entry>
-<entry id="str_inventory_title_trinketyngolian_torch_5"><![CDATA["Éclipse"]]></entry>
+<entry id="str_inventory_title_trinketyngolian_torch_1"><![CDATA[Ombre dormante]]></entry>
+<entry id="str_inventory_title_trinketyngolian_torch_2"><![CDATA[Étincelle lunaire]]></entry>
+<entry id="str_inventory_title_trinketyngolian_torch_3"><![CDATA[Lumière naissante]]></entry>
+<entry id="str_inventory_title_trinketyngolian_torch_4"><![CDATA[Brillance hurlante]]></entry>
+<entry id="str_inventory_title_trinketyngolian_torch_5"><![CDATA[Éclipse]]></entry>
 <entry id="str_inventory_title_trinketcharmer_flute"><![CDATA[Façonneur de dunes]]></entry>
 <entry id="str_inventory_title_trinketsmall_frog"><![CDATA[Grenouillette juvénile]]></entry>
 <entry id="str_inventory_title_trinketsmall_snake"><![CDATA[Serpent fraîchement éclos]]></entry>
