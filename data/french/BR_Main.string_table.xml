@@ -229,7 +229,7 @@ Current Torch Level:]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les Levantins sont venus piller la vaste nécropole Kvarotz.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
-ils savent profiter des opportunités tactiques.]]></entry>
+ils sauront profiter des opportunités.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les trésors ne se trouvent pas dans l'obscurité, mais plutôt grâce à elle.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[L'électrum rouillé Kvarotz peut être revitalisé avec de l'huile.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[La technologie macabre et les connaissances des Kvarotz renferment de dangereux pouvoirs.]]></entry>
@@ -824,7 +824,7 @@ et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[Les Levantins sont venus piller les vastes catacombes Kvarotz.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
-ils sauront profiter des opportunités tactiques.]]></entry>
+ils sauront profiter des opportunités.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[Les trésors ne se trouvent pas dans l'obscurité, mais plutôt grâce à elle.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[L'électrum rouillé Kvarotz peut être revitalisé avec de l'huile.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[La technologie macabre et les connaissances des Kvarotz renferment de dangereux pouvoirs.]]></entry>
@@ -947,10 +947,10 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_kvarotz_armory_arch_kit_loot"><![CDATA[TODO:One of these dusty objects is a trinket!]]></entry>
 <entry id="str_curio_kvarotz_armory__disease"><![CDATA[TODO:Kvarotz weapons don't make for good cutlery.]]></entry>
 <entry id="str_curio_kvarotz_armory_archaeologist_compendium_loot"><![CDATA[TODO:A hidden chamber inside is revealed!]]></entry>
-<entry id="str_curio_title_kvarotz_cannon"><![CDATA[TODO:Ancient Cannon]]></entry>
-<entry id="str_curio_content_kvarotz_cannon"><![CDATA[TODO:A dust-coated Kvarotz weapon of war.]]></entry>
-<entry id="str_curio_tooltip_investigate_kvarotz_cannon"><![CDATA[TODO:Investigate the cannon...]]></entry>
-<entry id="str_curio_kvarotz_cannon_nothing"><![CDATA[TODO:The cannon is barren and of no importance.]]></entry>
+<entry id="str_curio_title_kvarotz_cannon"><![CDATA[Canon antique]]></entry>
+<entry id="str_curio_content_kvarotz_cannon"><![CDATA[Une arme de guerre Kvarotz, recouverte de poussière.]]></entry>
+<entry id="str_curio_tooltip_investigate_kvarotz_cannon"><![CDATA[Examiner le canon ...]]></entry>
+<entry id="str_curio_kvarotz_cannon_nothing"><![CDATA[Le canon est abîmé et inutilisable.]]></entry>
 <entry id="str_curio_kvarotz_cannon_effect"><![CDATA[TODO:You collect some of the Kvarotz gunpowder for your own use.]]></entry>
 <entry id="str_curio_kvarotz_cannon_disease"><![CDATA[TODO:The hero cuts their hand on the rusted electrum.]]></entry>
 <entry id="str_curio_kvarotz_cannon_honing_oil_effect"><![CDATA[TODO:The electrum metal in the cannon reacts strangely...]]></entry>
