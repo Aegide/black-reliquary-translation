@@ -4233,7 +4233,7 @@ Self:
 <entry id="buff_rule_data_tooltip_suffer"><![CDATA[TODO:Suffer]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_APPLY_PLAGUED_50_TT"><![CDATA[TODO:{colour_start|plagued}Plague{colour_end} Target (50%% Chance)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_NO_RIPOSTE"><![CDATA[TODO:Can't {colour_start|riposte}Riposte{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABOM_STRESS_TT"><![CDATA[TODO:+50%%/100%% {colour_start|stress}Stress{colour_end} from Transformation if {colour_start|affiliation_faithless}Faithless{colour_end}/{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ABOM_STRESS_TT"><![CDATA[{colour_start|stress}Stress{colour_end} +50%%/100%% de Transformation si {colour_start|affiliation_faithless}Athée{colour_end}/{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_VOMIT_BLIGHT_AMOUNT_25_TT"><![CDATA[TODO:-50%% {colour_start|blight}Blight{colour_end} Amount Applied on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="combat_skill_name_musketeer_aimed_shot"><![CDATA[Tir de précision]]></entry>
 <entry id="upgrade_tree_name_musketeer.aimed_shot"><![CDATA[Tir de précision]]></entry>
