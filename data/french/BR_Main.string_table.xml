@@ -785,15 +785,18 @@ il faudra dépenser de l'argent pour les retirer.]]></entry>
 des symptômes et des maladies.]]></entry>
 <entry id="str_town_title"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="str_return_to_hamlet_tooltip"><![CDATA[Retourner au navire]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:The filthy Troglodytes are resistant to toxins and cuts, but their carapaced bodies are easily stunned.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Put down the swarming Troglodytes quickly. There is strength in numbers.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les troglodytes sont résistants aux toxines et aux blessures,
+mais leur corps carapacé est facilement étourdi.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Abattez rapidement les hordes troglodytes.
+L'union fait leur force.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:The mollusk-like Trogs are covered in vile secretions that can cause disease. Prepare accordingly.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Alum will be useful to ward against the dark powers channeled by the Troglodytes.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Shovels have a wide variety of uses in these carved-out and rubble-filled caverns.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Disease kits will be helpful against the sludge and decay-riddled objects within the caverns.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Allowing to safely collect amber, bandages will find a lot of use in those caves.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Camping buffs are a powerful tool! Don't save your campfires for when it's already too late.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si
+elles sont utilisées.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes
  manières, afin d'obtenir des résultats différents.]]></entry>
@@ -2184,12 +2187,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_otekh_B"><![CDATA[Otekh Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_otekh_C"><![CDATA[Otekh Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_otekh_D"><![CDATA[Otekh Kvarotz]]></entry>
-<entry id="str_monstername_lost_missionary_A"><![CDATA[TODO:Legion Missionary]]></entry>
-<entry id="str_monstername_lost_missionary_B"><![CDATA[TODO:Legion Missionary]]></entry>
-<entry id="str_monstername_lost_missionary_C"><![CDATA[TODO:Legion Missionary]]></entry>
-<entry id="str_monstername_lost_missionary_X"><![CDATA[TODO:Legion Missionary]]></entry>
-<entry id="str_monstername_lost_missionary_Y"><![CDATA[TODO:Legion Missionary]]></entry>
-<entry id="str_monstername_lost_missionary_Z"><![CDATA[TODO:Legion Missionary]]></entry>
+<entry id="str_monstername_lost_missionary_A"><![CDATA[Missionnaire (Légion)]]></entry>
+<entry id="str_monstername_lost_missionary_B"><![CDATA[Missionnaire (Légion)]]></entry>
+<entry id="str_monstername_lost_missionary_C"><![CDATA[Missionnaire (Légion)]]></entry>
+<entry id="str_monstername_lost_missionary_X"><![CDATA[Missionnaire (Légion)]]></entry>
+<entry id="str_monstername_lost_missionary_Y"><![CDATA[Missionnaire (Légion)]]></entry>
+<entry id="str_monstername_lost_missionary_Z"><![CDATA[Missionnaire (Légion)]]></entry>
 <entry id="str_monstername_cact_hemophyll_A"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_B"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_C"><![CDATA[Globule cactonide]]></entry>
@@ -2513,7 +2516,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_snake_head_prep"><![CDATA[Coup de tête]]></entry>
 <entry id="str_monster_skill_cobra_lurk"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɳʐ{colour_end}Rôder]]></entry>
 <entry id="str_monster_skill_hammer_of_faith"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Marteau de foi]]></entry>
-<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Blinding Glare]]></entry>
+<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Regard aveuglant]]></entry>
 <entry id="str_monster_skill_cleric_knights_vow"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Vœu du chevalier]]></entry>
 <entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Gleaning Glare]]></entry>
 <entry id="str_monster_skill_cleric_stand_behind"><![CDATA[TODO:Stand Behind Me!]]></entry>
@@ -2791,10 +2794,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_greater_wurm_scream"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɧɮ{colour_end}Colossus Scream]]></entry>
 <entry id="str_monster_skill_greater_tongue_lash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɘɘɘɩɧʏ{colour_end}Lingual Whip]]></entry>
 <entry id="str_monster_skill_greater_tongue_latch"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɘɘɘɩɧɲ{colour_end}It Hungers]]></entry>
-<entry id="str_monster_skill_missionary_martyr"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Invocation]]></entry>
+<entry id="str_monster_skill_missionary_martyr"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Invocation]]></entry>
 <entry id="str_monster_skill_missionary_move"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Blockade Charge]]></entry>
-<entry id="str_monster_skill_missionary_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Guardian Assault]]></entry>
-<entry id="str_monster_skill_missionary_lightning"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Rapture]]></entry>
+<entry id="str_monster_skill_missionary_attack"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Assaut du gardien]]></entry>
+<entry id="str_monster_skill_missionary_lightning"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Ravissement]]></entry>
 <entry id="str_monster_skill_munch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦɷʏ{colour_end}Mastication]]></entry>
 <entry id="str_monster_skill_carrion_curl_up"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʙ{colour_end}Recroqueviller]]></entry>
 <entry id="str_monster_skill_spider_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʏ{colour_end}Morsure]]></entry>
