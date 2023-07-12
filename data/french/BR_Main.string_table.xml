@@ -1534,9 +1534,9 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomblueprint"><![CDATA[{colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloomblueprint"><![CDATA[Vieille technologie d'Ostvengr, d'avant l'effondrement ...]]></entry>
 <entry id="buff_rule_data_tooltip_blueprint"><![CDATA[TODO:{colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
-<entry id="str_inventory_title_gemotekh_head"><![CDATA[Visage sans-forme]]></entry>
-<entry id="str_inventory_description_gemotekh_head"><![CDATA[Le matériau le plus fascinant jamais conçu par l'empire Kvarotz avant sa chute. Il se vend à prix d'or.]]></entry>
-<entry id="buff_rule_data_tooltip_otekh_head"><![CDATA[Visage sans-forme]]></entry>
+<entry id="str_inventory_title_gemotekh_head"><![CDATA[Visage impossible]]></entry>
+<entry id="str_inventory_description_gemotekh_head"><![CDATA[Le matériau le plus fascinant jamais conçu par l'empire Kvarotz, avant sa chute. Il se vend à prix d'or.]]></entry>
+<entry id="buff_rule_data_tooltip_otekh_head"><![CDATA[Visage impossible]]></entry>
 <entry id="str_inventory_title_gemdaric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[Richesses extravagantes utilisées par la haute bourgeoisie Kvarotz.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
