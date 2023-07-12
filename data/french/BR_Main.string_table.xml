@@ -157,7 +157,7 @@ Current Torch Level:]]></entry>
 <entry id="town_quest_name_cleanse_cave+2+warrens+battle_cave"><![CDATA[Purification]]></entry>
 <entry id="town_quest_name_cleanse_cave+3+warrens+battle_cave"><![CDATA[Extermination]]></entry>
 <entry id="town_quest_name_activate_trea+1+weald+activate_trea"><![CDATA[Saisie]]></entry>
-<entry id="town_quest_name_activate_trea+2+weald+activate_trea"><![CDATA[Perquisition]]></entry>
+<entry id="town_quest_name_activate_trea+2+weald+activate_trea"><![CDATA[Incinération]]></entry>
 <entry id="town_quest_name_activate_trea+3+weald+activate_trea"><![CDATA[Pillage]]></entry>
 <entry id="town_quest_description_explore_sun+1+cove+explore_sun"><![CDATA[TODO:The Kvarotz upper ruins are sunken into the sands. Determine what can be navigated.]]></entry>
 <entry id="town_quest_description_explore_sun+2+cove+explore_sun"><![CDATA[TODO:Scour the ruins in the sands for anything which can be of use to us.]]></entry>
@@ -187,7 +187,7 @@ Current Torch Level:]]></entry>
 <entry id="town_quest_description_cleanse_cave+2+warrens+battle_cave"><![CDATA[TODO:The Troglodytes spawn in overwhelming numbers. We must once again prune their horde.]]></entry>
 <entry id="town_quest_description_cleanse_cave+3+warrens+battle_cave"><![CDATA[TODO:A terrible evil is forming deep within the cavernous maze. We shall hinder it in the most direct way possible.]]></entry>
 <entry id="town_quest_description_activate_trea+1+weald+activate_trea"><![CDATA[TODO:It is time to reap the rewards of our scouting efforts.]]></entry>
-<entry id="town_quest_description_activate_trea+2+weald+activate_trea"><![CDATA[TODO:We return to the halls of wealth, now to collect what we have earned.]]></entry>
+<entry id="town_quest_description_activate_trea+2+weald+activate_trea"><![CDATA[Nous retournons dans les couloirs de la richesse, afin de collecter ce que nous avons mérité..]]></entry>
 <entry id="town_quest_description_activate_trea+3+weald+activate_trea"><![CDATA[TODO:Small hoards of riches have been located and charted. We need only to seize them.]]></entry>
 <entry id="str_returned_from_explore_cata_crypts_failure"><![CDATA[TODO:{?hero_names}%s could not navigate the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_explore_cata_crypts_success"><![CDATA[TODO:{?hero_names}%s have charted the Kvarotz Catacombs. ({?difficulty}%s {?length}%s)]]></entry>	
@@ -3796,7 +3796,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketmaa_amber_halo"><![CDATA[Auréole d'ambre]]></entry>
 <entry id="str_inventory_title_trinkethwm_damascene_pistol"><![CDATA[Pistolet damasquiné]]></entry>
 <entry id="str_inventory_title_trinkethell_raiding_horn"><![CDATA[Corne de ferveur]]></entry>
-<entry id="str_inventory_title_trinketpilebunker"><![CDATA[TODO:Pilebunker]]></entry>
+<entry id="str_inventory_title_trinketpilebunker"><![CDATA[Gant de velours]]></entry>
 <entry id="str_inventory_title_trinketleper_clockwork_heart"><![CDATA[Cœur mécanique]]></entry>
 <entry id="str_inventory_title_trinkethm_captains_cutlass"><![CDATA[Sabre du Capitaine]]></entry>
 <entry id="str_inventory_title_trinketjes_overgrown_setar"><![CDATA[Sêtar luxuriant]]></entry>
