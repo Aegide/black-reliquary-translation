@@ -62,7 +62,7 @@ Ignore le malus de {colour_start|prep_round}préparation{colour_end}, {colour_st
 Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% DMG {colour_start|skill_unselectable}(2 trs){colour_end}, {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produit 3 huiles d'affûtage]]></entry>
 <entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Vision d'horreur]]></entry>
-<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Lance-grapin]]></entry>
+<entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Lance-grappin]]></entry>
 <entry id="str_inventory_title_trinketdredge_pilebunker_blueprint"><![CDATA[Amélioration de forage lourd]]></entry>
 <entry id="str_inventory_title_trinketdredge_eldritchfire_scope"><![CDATA[Réservoir de carburant interdit]]></entry>
 <entry id="str_inventory_title_trinketdredge_ostvengr_knapsack"><![CDATA[Rations d'Ostvengr]]></entry>
@@ -87,9 +87,9 @@ Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% DMG {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_FRIENDLY_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur soi :{colour_end}
 ESQUIVE +20 en Mecha
 VIT +10 en Mecha]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Bonus en mode Mecha{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Bonus uniquement en mode Mecha{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_REDUCE_ELDRITCH_CORE_COOLDOWN_TT"><![CDATA[{colour_start|notable}Cœur horrible : Récupération : 3 trs{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_NO_KILLING_ON_FOOT_TT"><![CDATA[Dégàts/critiques/{colour_start|blight}infections{colour_end} impossibles en Pilote]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_NO_KILLING_ON_FOOT_TT"><![CDATA[Dégâts/critiques/{colour_start|blight}infections{colour_end} impossibles en Pilote]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_CHANGE_TO_AMBER_TT"><![CDATA[Monstre tué : Active {colour_start|amberblighted}Cœur d'ambre pur{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Actif uniquement en Mecha{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_RESET_HEAT_TT"><![CDATA[Monstre tué : Retire {colour_start|debuff}chaleur{colour_end}]]></entry>
