@@ -2516,7 +2516,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_snake_head_prep"><![CDATA[Coup de tête]]></entry>
 <entry id="str_monster_skill_cobra_lurk"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɳʐ{colour_end}Rôder]]></entry>
 <entry id="str_monster_skill_hammer_of_faith"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Marteau de foi]]></entry>
-<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Regard aveuglant]]></entry>
+<entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Lumière aveuglante]]></entry>
 <entry id="str_monster_skill_cleric_knights_vow"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Vœu du chevalier]]></entry>
 <entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Gleaning Glare]]></entry>
 <entry id="str_monster_skill_cleric_stand_behind"><![CDATA[TODO:Stand Behind Me!]]></entry>
