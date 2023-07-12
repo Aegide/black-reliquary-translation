@@ -2427,7 +2427,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_champ_crushing_2"><![CDATA[TODO:Crushing Advance]]></entry>
 <entry id="str_monster_skill_levantine_grunt_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Frappe maîtrisée]]></entry>
 <entry id="str_monster_skill_levantine_grunt_slash_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Frappe maîtrisée]]></entry>
-<entry id="str_monster_skill_levantine_grunt_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Repositionnement]]></entry>
+<entry id="str_monster_skill_levantine_grunt_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_levantine_grunt_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɘɘɩɦʐʗ{colour_end}Derrière-moi !]]></entry>
 <entry id="str_monster_skill_levantine_grunt_solid_advance"><![CDATA[{colour_start|white}ɪʥɘɘɣɣɩɧʐ{colour_end}Avancée stratégique]]></entry>
 <entry id="str_monster_skill_levantine_grunt_regroup"><![CDATA[Regroupez-vous !]]></entry>
@@ -2477,7 +2477,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_terp_misstep"><![CDATA[Faux-pas]]></entry>
 <entry id="str_monster_skill_rak_human_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Griffes spirituelles]]></entry>
 <entry id="str_monster_skill_rak_human_shout"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
-<entry id="str_monster_skill_rak_human_shout_weak"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
+<entry id="str_monster_skill_rak_human_shout_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_rak_human_transform"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʐ{colour_end}Transcendance]]></entry>
 <entry id="str_monster_skill_rak_human_arrogance"><![CDATA[TODO:Air of Arrogance]]></entry>
 <entry id="str_monster_skill_rak_beast_attack"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɨ{colour_end}Griffure]]></entry>
@@ -2534,7 +2534,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_deadbolt_equip"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʁʐ{colour_end}Consécration]]></entry>
 <entry id="str_monster_skill_deadbolt_phalanx"><![CDATA[TODO:Pious Phalanx]]></entry>
 <entry id="str_monster_skill_judicator_melee"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Masse de justice]]></entry>
-<entry id="str_monster_skill_judicator_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Rebounding Maneuver]]></entry>
+<entry id="str_monster_skill_judicator_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_judicator_expiate"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɾʔ{colour_end}Accusation]]></entry>
 <entry id="str_monster_skill_judicator_faith"><![CDATA[TODO:Prove your Faith!]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_necrotic_hack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Frappe nécrosée]]></entry>
@@ -2594,7 +2594,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_bombard_dash"><![CDATA[{colour_start|white}ɘɡɡɡʥɘɘɣɣɩɧʓ{colour_end}Choc frontal]]></entry>
 <entry id="str_monster_skill_bombard_blast"><![CDATA[{colour_start|white}ɘɘɠɟʩɣɣɘɘɩɨ{colour_end}Tonnerre de feu]]></entry>
 <entry id="str_monster_skill_bombard_flare"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʑ{colour_end}Exposer les faibles]]></entry>
-<entry id="str_monster_skill_bombard_blast_weak"><![CDATA[TODO:Ballistic Blunder]]></entry>
+<entry id="str_monster_skill_bombard_blast_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_bombard_crash_a"><![CDATA[TODO:Out of the Way!]]></entry>
 <entry id="str_monster_skill_bombard_crash_b"><![CDATA[TODO:Out of the Way!]]></entry>
 <entry id="str_monster_skill_harrier_shoot"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɧɷ{colour_end}Tir perçant]]></entry>
@@ -2602,10 +2602,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_harrier_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Proie repérée]]></entry>
 <entry id="str_monster_skill_harrier_backpedal"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Retraite hâtive]]></entry>
 <entry id="str_monster_skill_harrier_stealth"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʚʐ{colour_end}Tir de couverture]]></entry>
-<entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[Retraite hâtive]]></entry>
+<entry id="str_monster_skill_harrier_backpedal_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_harrier_fumble"><![CDATA[Proie repérée]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_slash"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Décapitation]]></entry>
-<entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[TODO:Scrambling Swing]]></entry>
+<entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Fureur des Anciens]]></entry>
 <entry id="str_monster_skill_warhawk_load_lev"><![CDATA[Arsenal de métal]]></entry>
@@ -2725,12 +2725,12 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_egg_killerbite_combo"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Swarm!]]></entry>
 <entry id="str_monster_skill_trog_combo_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Stick 'em]]></entry>
 <entry id="str_monster_skill_trog_combo_club"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Bash 'em]]></entry>
-<entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Whack]]></entry>
+<entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_trog_egg_check"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Egg-valuation]]></entry>
 <entry id="str_monster_skill_trog_egg_bad"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɮɽ{colour_end}Rotten to the Core]]></entry>
 <entry id="str_monster_skill_trog_egg_good"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʏ{colour_end}Eggshell Blast]]></entry>
 <entry id="str_monster_skill_trog_tracking_club"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Bash 'em]]></entry>
-<entry id="str_monster_skill_trog_tracking_club_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Whack]]></entry>
+<entry id="str_monster_skill_trog_tracking_club_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_prep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Call of the Caverns]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_combo"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Swarm!]]></entry>
 <entry id="str_monster_skill_trog_club_saddleback_combo"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Swarm!]]></entry>
@@ -2807,7 +2807,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_hemo_spike"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Wall of Spines]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
-<entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
+<entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Croissance de combat]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Grenade de spores]]></entry>
@@ -2825,7 +2825,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_opul_stress"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɮɯʑ{colour_end}Chilling Stare]]></entry>
 <entry id="str_monster_skill_cact_opul_spit"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʵʏ{colour_end}Seed Spit]]></entry>
 <entry id="str_monster_skill_cact_opul_head"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Head On]]></entry>
-<entry id="str_monster_skill_cact_opul_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Head Ache]]></entry>
+<entry id="str_monster_skill_cact_opul_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_cact_necro_seed"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
 <entry id="str_monster_skill_cact_necro_seed2"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
 <entry id="str_monster_skill_cact_necro_seed3"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥɘɘɣɣɩɦʵʑ{colour_end}Tendril Sprouts]]></entry>
@@ -2869,7 +2869,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[TODO:I can't get out! Murder the hosts!]]></entry>
 <entry id="str_monster_skill_fanatic_expiate"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʡɾ{colour_end}Blind Condemnation]]></entry>
 <entry id="str_monster_skill_fanatic_bleed"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɻʎʑ{colour_end}Penance]]></entry>
-<entry id="str_monster_skill_fanatic_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Thrash]]></entry>
+<entry id="str_monster_skill_fanatic_weak"><![CDATA[LEGACY]]></entry>
 <entry id="str_monster_skill_fanatic_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦɬʄ{colour_end}Sanctification]]></entry>
 <entry id="str_monster_skill_spooky_song"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɮʑʔ{colour_end}Deathly Rattle]]></entry>
 <entry id="str_monster_skill_sandstorm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɣɣɣɣɩɦɳʑ{colour_end}Sand Blasting]]></entry>
