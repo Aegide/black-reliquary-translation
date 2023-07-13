@@ -873,7 +873,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
 <entry id="str_inventory_title_shard"><![CDATA[:{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
-<entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de la nation Kvarotz, composée d'électrum.]]></entry>
+<entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de l'empire Kvarotz, composée d'électrum.]]></entry>
 <entry id="str_inventory_description_heirloomcrest"><![CDATA[Un symbole de force et de respect parmi les sauvages.]]></entry>
 <entry id="str_inventory_description_heirloomdeed"><![CDATA[Une substance mystique qui proviens du Reliquaire.]]></entry>
 <entry id="str_inventory_description_heirloomportrait"><![CDATA[Ce magnifique bijou a quelque chose d'étrange ...]]></entry>
@@ -1025,7 +1025,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_tooltip_investigate_monolith_piece"><![CDATA[TODO:The calcified shard is yours for the taking...]]></entry>
 <entry id="str_curio_monolith_piece_loot"><![CDATA[TODO:A calcified soul piece is extracted!]]></entry>
 <entry id="str_curio_title_amber_corrupted_relic"><![CDATA[Relique d'ambre]]></entry>
-<entry id="str_curio_content_amber_corrupted_relic"><![CDATA[Cette pierre est recouverte de formations d'ambre.]]></entry>
+<entry id="str_curio_content_amber_corrupted_relic"><![CDATA[Cette pierre est partiellement recouverte d'ambre.]]></entry>
 <entry id="str_curio_tooltip_investigate_amber_corrupted_relic"><![CDATA[Tenter d'en récolter ...]]></entry>
 <entry id="str_curio_amber_corrupted_relic_quirk"><![CDATA[L'ambre explose dans les mains du héros.]]></entry>
 <entry id="str_curio_amber_corrupted_relic_nothing"><![CDATA[L'ambre se désagrège sous vos yeux.]]></entry>
@@ -1229,7 +1229,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_perfumer_treasury_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_treasury_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_title_stronger_amber_relic"><![CDATA[Relique d'ambre]]></entry>
-<entry id="str_curio_content_stronger_amber_relic"><![CDATA[Cette pierre semble particulièrement chargée en formations d'ambre.]]></entry>
+<entry id="str_curio_content_stronger_amber_relic"><![CDATA[Cette pierre est presque intégralement recouverte d'ambre.]]></entry>
 <entry id="str_curio_tooltip_investigate_stronger_amber_relic"><![CDATA[Tenter d'en récolter ...]]></entry>
 <entry id="str_curio_stronger_amber_relic_nothing"><![CDATA[L'ambre se désagrège sous vos yeux.]]></entry>
 <entry id="str_curio_stronger_amber_relic_effect"><![CDATA[Des éclats d'ambre pénètrent dans la peau du héros.]]></entry>
@@ -1238,7 +1238,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_stronger_amber_relic_bandage_loot"><![CDATA[Une récolte aisée pour des mains protégées.]]></entry>
 <entry id="str_curio_stronger_amber_relic_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_title_primitive_cave_painting"><![CDATA[Sculpture rupestre]]></entry>
-<entry id="str_curio_content_primitive_cave_painting"><![CDATA[Ces gravures rudimentaires représentent une sombre prophétie ?]]></entry>
+<entry id="str_curio_content_primitive_cave_painting"><![CDATA[Ces gravures primitives représentent une sombre prophétie.]]></entry>
 <entry id="str_curio_tooltip_investigate_primitive_cave_painting"><![CDATA[Inspecter l'art troglodyte.]]></entry>
 <entry id="str_curio_primitive_cave_painting_effect"><![CDATA[Une essence mystique persiste dans cette sculpture ...]]></entry>
 <entry id="str_curio_primitive_cave_painting_holy_water_effect"><![CDATA[Le rituel invoque une puissance violente !]]></entry>
@@ -4633,7 +4633,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_germophobe"><![CDATA[Germaphobe]]></entry>
 <entry id="str_quirk_name_bold_bleeder"><![CDATA[Amour du sang]]></entry>
 <entry id="str_quirk_name_nervous_bleeder"><![CDATA[Peur du sang]]></entry>
-<entry id="str_quirk_name_fairweather_fighter"><![CDATA[TODO:Fairweather Fighter]]></entry>
+<entry id="str_quirk_name_fairweather_fighter"><![CDATA[Grande gueule]]></entry>
 <entry id="str_quirk_name_daredevil"><![CDATA[Casse-cou]]></entry>
 <entry id="str_quirk_name_hippocratic"><![CDATA[Hippocratique]]></entry>
 <entry id="str_quirk_name_gifted"><![CDATA[Coopération]]></entry>
