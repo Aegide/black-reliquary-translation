@@ -40,7 +40,6 @@ Ichor Incantation]]></entry>
 <entry id="camping_skill_name_hexer_serum_5150"><![CDATA[TODO:SERUM 5150]]></entry>
 <entry id="camping_skill_name_hexer_enthroned"><![CDATA[TODO:ENTHRONED]]></entry>
 <entry id="camping_skill_name_hexer_sanguis_metallica"><![CDATA[TODO:SANGUIS METALLICA]]></entry>
-<!-- Custom tooltips -->
 <entry id="0str_skill_mode_info_hexer_base"><![CDATA[TODO:{colour_start|hexer_vial}If has no Corruption Vials{colour_end}]]></entry>
 <entry id="0str_skill_mode_info_hexer_r1"><![CDATA[TODO:{colour_start|hexer_vial}If has 1 Corruption Vial{colour_end}]]></entry>
 <entry id="0tr_skill_mode_info_hexer_r2"><![CDATA[TODO:{colour_start|hexer_vial}If has 2 Corruption Vials{colour_end}]]></entry>
@@ -96,7 +95,6 @@ Ichor Incantation]]></entry>
 <entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[TODO:Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[TODO:Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[TODO:Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
-<!-- Addinfo -->
 <entry id="camping_skill_name_addinfo_hexer"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -40% ]]></entry>
@@ -206,14 +204,11 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE3"><![CDATA[TODO:Cure Party {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_1_SKILL_LINE2"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} Party %d%% Max HP]]></entry>
 <entry id="buff_rule_data_tooltip_HEXER_ICHOR_1_SKILL_LINE4"><![CDATA[TODO:^^Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<!-- Events -->
 <entry id="town_event_title_first_hexer"><![CDATA[TODO:A Hungry Tyrant]]></entry>
 <entry id="town_event_description_first_hexer"><![CDATA[TODO:I'm STARVING, yes? I'm here to HELP you out. Let me accompany your SLAUGHTER in these foul lands.]]></entry>
-<!-- Verbose descriptions -->
 <entry id="action_verbose_body_guild_hexer"><![CDATA[TODO:With the power of his Evil Blood, the Hexer can melt down his enemies’ flesh, mind, and resistances. He has the power to cripple entire groups at once in various ways, both to enfeeble their assault and corrode their defenses. If necessary, he can also defend his allies against enemy hexes.]]></entry>
 <entry id="action_verbose_body_blacksmith_hexer"><![CDATA[TODO:Fueled by his Evil Blood, the Hexer turns his own vital fluids into a lethal weapon. The greater his hatred and hunger, the more powerful it evolves. Though he has never gotten rid of his Straitjacket, it seems as if it’s protecting him not from himself, but from others instead. And none dare surmise that his leathery cloak breathes as if alive.]]></entry>
 <entry id="action_verbose_body_camping_trainer_hexer"><![CDATA[TODO:The Hexer is insane, malevolent, and solitary. Gorging himself on the fresh kills of past battles keeps him going for more. With his fiendish resilience and control over his blood, disease has no hold on him either, and he can hone it to amplify his curses. And should he come close to falling, the accursed serum he hates so much may prove beneficial.]]></entry>
-<!--Crits -->
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:Suffering, suffering, SUFFERING...]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:I will DEVOUR their flesh and souls!]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:Gyihi... Hihihi... Ahaha!]]></entry>
@@ -229,7 +224,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:Your screams are a HYMN for the dead!]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:You will DROWN in your own boiling blood!]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[TODO:I shall STRANGLE you with your own intestines!]]></entry>
-<!--  Misc Barks -->
 <entry id="hexer+str_combat_knockback"><![CDATA[TODO:-uck!]]></entry>
 <entry id="hexer+str_combat_knockback"><![CDATA[TODO:I will get my RETRIBUTION!]]></entry>
 <entry id="hexer+str_combat_knockback"><![CDATA[TODO:I will LIQUIFY your innards.]]></entry>
@@ -269,7 +263,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:Oh, so you are a SURVIVOR after all.]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:A damn SHAME I won't be tasting you.]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:And here I am, wondering just how SALTY your flesh is.]]></entry>
-<!-- Camping Barks -->
 <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[TODO:Finally, MEALTIME.]]></entry>
 <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[TODO:I've waited so LONG for this moment...]]></entry>
 <entry id="hexer+str_bark_hexer_cannibalize_corpses"><![CDATA[TODO:At last, what I came here for. Fresh and old KILL.]]></entry>
@@ -285,7 +278,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:My body, a TEMPLE...]]></entry>
 <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:EXPUNGE this filth!]]></entry>
 <entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:I am far STRONGER than any mere disease...]]></entry>
-<!-- Quirks -->
 <entry id="str_quirk_name_rictus"><![CDATA[TODO:{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
 <entry id="str_quirk_name_rictus_tended"><![CDATA[TODO:{colour_start|symptom}Rictus Imperfectus (Tended){colour_end}]]></entry>
 <entry id="str_quirk_name_rictus_mortis"><![CDATA[TODO:Rictus Mortis]]></entry>
@@ -346,7 +338,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
 <entry id="buff_rule_data_tooltip_rictus"><![CDATA[TODO:{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[TODO:{colour_start|disease}Rictus Mortis{colour_end}]]></entry>
-<!--town barks-->
 <entry id="str_incompatible_party_member_hexer_limit"><![CDATA[TODO:You can not FOOL me.]]></entry>
 <entry id="hexer+str_incompatible_party_member_hexer_limit"><![CDATA[TODO:I am UNIQUE.]]></entry>
 <entry id="hexer+str_override_invalid_rejection"><![CDATA[TODO:You EXPECT me to do what?]]></entry>
@@ -418,7 +409,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_monster_attack_bite_call"><![CDATA[TODO:...Gyi? Is that a SERPENT I hear approaching?]]></entry>
 <entry id="hexer+str_monster_attack_bite_call"><![CDATA[TODO:Guard your king! I refuse to become a meal to these scaled PESTS.]]></entry>
 <entry id="hexer+str_monster_attack_bite_call"><![CDATA[TODO:Something large stirs UNDERNEATH me? I hope it's palatable.]]></entry>
-<!-- Dungeon Barks -->
 <entry id="hexer+str_bark_backingup"><![CDATA[TODO:Mind the CLOAK, simpletons!]]></entry>
 <entry id="hexer+str_bark_backingup"><![CDATA[TODO:Grrrr...]]></entry>
 <entry id="hexer+str_bark_backingup"><![CDATA[TODO:You're making your RULER walk like a fool. I will have your heads for this.]]></entry>
@@ -451,7 +441,6 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:How blood-stiflingly DULL.]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:What a WASTE of time.]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:I am falling ASLEEP here, yes?]]></entry>
-<!-- Cannibalistic -->
 <entry id="str_affliction_name_cannibalistic"><![CDATA[TODO:Cannibalistic]]></entry>
 <entry id="str_roster_list_cannibalistic_bark"><![CDATA[TODO:Let go of me! This ship is FULL of victims!]]></entry>
 <entry id="str_roster_list_cannibalistic_bark"><![CDATA[TODO:So much MEALS just passing by... Gyihihi!]]></entry>
