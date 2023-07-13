@@ -509,35 +509,35 @@ Stamping out these pests as quickly as possible can keep the fight under control
 {colour_start|skill_unselectable}[These changes can be observed via the torchlight icon at the top of the screen.]{colour_end}]]></entry>
 <entry id="str_glossary_ancestor_quote"><![CDATA[Écoutez attentivement. Ça pourrait vous sauver.]]></entry>
 <entry id="str_glossary_term_1"><![CDATA[TODO:{colour_start|invisible}​​{colour_end}Effect Icon Key]]></entry>
-<entry id="str_glossary_term_definition_1"><![CDATA[TODO:{colour_start|white}ɬ{colour_end} - {colour_start|healhp}Heal{colour_end} Target
-{colour_start|white}ɭ{colour_end} - {colour_start|healhp}Restoration{colour_end} Target
-{colour_start|white}ɮ{colour_end} - {colour_start|stress}Stress{colour_end} Target
-{colour_start|white}ɯ{colour_end} - {colour_start|stress}Horror{colour_end} Target
-{colour_start|white}ɰ{colour_end} - {colour_start|stress}Stress Heal{colour_end} Target
-{colour_start|white}ʎ{colour_end} - {colour_start|bleed}Bleed{colour_end} Target
-{colour_start|white}ʏ{colour_end} - {colour_start|blight}Blight{colour_end} Target
-{colour_start|white}ʐ{colour_end} - {colour_start|buff}Buff{colour_end} Target
-{colour_start|white}ʑ{colour_end} - {colour_start|debuff}Debuff{colour_end} Target
-{colour_start|white}ʓ{colour_end} - {colour_start|stun}Stun{colour_end} Target
-{colour_start|white}ʷ{colour_end} - {colour_start|stun}Stun{colour_end} Target for 2 Turns
-{colour_start|white}ʔ{colour_end} - {colour_start|mark}Mark{colour_end} Target
-{colour_start|white}ʕ{colour_end} - Activate {colour_start|riposte}Riposte{colour_end}
-{colour_start|white}ʖ{colour_end} - {colour_start|disease}Disease{colour_end} Target
-{colour_start|white}ʗ{colour_end} - {colour_start|guard}Guard{colour_end} Target
-{colour_start|white}ʘ{colour_end} - Break Guard on Target
-{colour_start|white}ɱ{colour_end} - {colour_start|move}Push{colour_end} Target
-{colour_start|white}ɲ{colour_end} - {colour_start|move}Pull{colour_end} Target
-{colour_start|white}ɳ{colour_end} - {colour_start|move}Shuffle{colour_end} Target
-{colour_start|white}ɴ{colour_end} - {colour_start|move}Stumble{colour_end} Target
-{colour_start|white}ʙ{colour_end} - Apply Aegis
-{colour_start|white}ʚ{colour_end} - {colour_start|stealth}Stealth{colour_end} Target
-{colour_start|white}ʹ{colour_end} - Attack Ignores PROT
-{colour_start|white}ʻ{colour_end} - Attack Ignores {colour_start|riposte}Riposte{colour_end}
-{colour_start|white}ɾ{colour_end} - {colour_start|expiated}Expiate{colour_end} Target
-{colour_start|white}ɽ{colour_end} - {colour_start|amberblighted}Amberblight{colour_end} Target
-{colour_start|white}ʵ{colour_end} - Apply {colour_start|leeching}Leeching{colour_end}
-{colour_start|white}ʢ{colour_end} - Target Becomes {colour_start|enraged}Berserk{colour_end}
-{colour_start|white}ɿ{colour_end} - Target Becomes {colour_start|frantic}Frantic{colour_end}
+<entry id="str_glossary_term_definition_1"><![CDATA[TODO:{colour_start|white}ɬ{colour_end} - Compétence de {colour_start|healhp}soin{colour_end}
+{colour_start|white}ɭ{colour_end} - {colour_start|healhp}Restauration{colour_end}
+{colour_start|white}ɮ{colour_end} - {colour_start|stress}Stress{colour_end}
+{colour_start|white}ɯ{colour_end} - {colour_start|stress}Horreur{colour_end}
+{colour_start|white}ɰ{colour_end} - Compétence de {colour_start|stress}stress{colour_end}
+{colour_start|white}ʎ{colour_end} - {colour_start|bleed}Saignement{colour_end}
+{colour_start|white}ʏ{colour_end} - {colour_start|blight}Infection{colour_end}
+{colour_start|white}ʐ{colour_end} - {colour_start|buff}Bonus{colour_end}
+{colour_start|white}ʑ{colour_end} - {colour_start|debuff}Malus{colour_end}
+{colour_start|white}ʓ{colour_end} - {colour_start|stun}Étourdissement{colour_end}
+{colour_start|white}ʷ{colour_end} - {colour_start|stun}Étourdissement{colour_end} (2 tours)
+{colour_start|white}ʔ{colour_end} - {colour_start|mark}Marque{colour_end}
+{colour_start|white}ʕ{colour_end} - {colour_start|riposte}Riposte{colour_end}
+{colour_start|white}ʖ{colour_end} - {colour_start|disease}Maladie{colour_end}
+{colour_start|white}ʗ{colour_end} - {colour_start|guard}Garde{colour_end}
+{colour_start|white}ʘ{colour_end} - Garde brisée
+{colour_start|white}ɱ{colour_end} - {colour_start|move}Poussée{colour_end}
+{colour_start|white}ɲ{colour_end} - {colour_start|move}Traction{colour_end}
+{colour_start|white}ɳ{colour_end} - {colour_start|move}Mélange{colour_end}
+{colour_start|white}ɴ{colour_end} - {colour_start|move}Chute{colour_end}
+{colour_start|white}ʙ{colour_end} - Aegis
+{colour_start|white}ʚ{colour_end} - {colour_start|stealth}Furtivité{colour_end}
+{colour_start|white}ʹ{colour_end} - PROT ignorée
+{colour_start|white}ʻ{colour_end} - {colour_start|riposte}Riposte{colour_end} ignorée
+{colour_start|white}ɾ{colour_end} - {colour_start|expiated}Expiate{colour_end}
+{colour_start|white}ɽ{colour_end} - {colour_start|amberblighted}Amberblight{colour_end}
+{colour_start|white}ʵ{colour_end} - {colour_start|leeching}Vampigraine{colour_end}
+{colour_start|white}ʢ{colour_end} - {colour_start|enraged}Berserk{colour_end} sur cible
+{colour_start|white}ɿ{colour_end} - {colour_start|frantic}Terreur{colour_end} sur cible
 {colour_start|white}ʃ{colour_end} - Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}/{colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end}
 {colour_start|white}ʄ{colour_end} - Cure {colour_start|bleed}Bleed{colour_end}
 {colour_start|white}ʅ{colour_end} - Cure {colour_start|blight}Blight{colour_end}
@@ -563,7 +563,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 {colour_start|white}ʀ{colour_end} - Summons Ally Monster
 {colour_start|white}ɵ{colour_end} - Increase Torch
 {colour_start|white}ɶ{colour_end} - Decrease Torch
-{colour_start|white}ʋ{colour_end} - Used as a Free Action
+{colour_start|white}ʋ{colour_end} - Action libre
 {colour_start|white}ʟ{colour_end} - Cause {colour_start|harmful}Harm{colour_end} to Self or Ally
 {colour_start|white}ʠ{colour_end} - Skill Interacts with Enemy Corpse]]></entry>
 <entry id="str_glossary_term_2"><![CDATA[PRÉ]]></entry>
