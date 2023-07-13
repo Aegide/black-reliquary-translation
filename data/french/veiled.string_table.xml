@@ -46,9 +46,8 @@ Death Wish]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self1_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Self:{colour_end} +30ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self2_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Party:{colour_end} +3 SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_others_TT"><![CDATA[TODO:On Kill: Self: {colour_start|deathdoor}Suffer{colour_end} 4 HP]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Berserk{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
-<!-- Addinfo lines-->
 <entry id="camping_skill_name_addinfo_veil"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_HP_TT"><![CDATA[TODO:The Veiled grows stronger the lower his HP is 
 Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
@@ -67,7 +66,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +10% {colour_start|deathdoor}Death Blow{colour_end} Resist]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT3"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
-<!--trinkets-->
 <entry id="str_inventory_title_trinketveiled_common"><![CDATA[TODO:Wreath of Bones]]></entry>
 <entry id="str_inventory_title_trinketveiled_uncommon"><![CDATA[TODO:Necrotic Crown]]></entry>
 <entry id="str_inventory_title_trinketveiled_rare"><![CDATA[TODO:Amber Vessel]]></entry>
@@ -78,7 +76,7 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_inventory_set_title_cc_veiled"><![CDATA[TODO:"At last, I share her dreadful fate."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_1"><![CDATA[TODO:"It would give its all to feel again."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_2"><![CDATA[TODO:"Fragile, yet indestructable creation."]]></entry>
-<!--tooltips-->
+
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_70hp_fx"><![CDATA[TODO: ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_40hp_fx"><![CDATA[TODO: ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_10hp_fx"><![CDATA[TODO: ]]></entry>
@@ -124,7 +122,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_5"><![CDATA[TODO:-8 SPD / -10 DODGE / -30%% PROT]]></entry>
 <entry id="enemy_type_name_DEBUFF_TARGET"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
 <entry id="enemy_type_name_BYPASS_REMOVE_STEALTH"><![CDATA[TODO:Bypass/Remove {colour_start|stealth}Stealth{colour_end}]]></entry>
-<!--Mode Tooltips-->	
 <entry id="str_skill_mode_info_veil_unnamed_1"><![CDATA[TODO:{colour_start|debuff}ɤDebuff Target:{colour_end}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_veil_unnamed_2"><![CDATA[TODO:{colour_start|notable}ɤIf HP below 40ʪ:{colour_end}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_veil_hex_1"><![CDATA[TODO:Ignores {colour_start|prep_round}Prep Round's{colour_end} ACC Reduction]]></entry>
@@ -264,7 +261,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE34"><![CDATA[TODO:{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -6% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE35"><![CDATA[TODO:{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -6% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(140% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_.xVEIL_UNNAMED_2_SKILL_LINE2"><![CDATA[TODO:{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde]]></entry>
-<!--basic barks-->
 <entry id="veiled+str_critbyhero"><![CDATA[TODO:You must be grateful that you can feel this pain!]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[TODO:Fascinating...]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[TODO:Torn to pieces!]]></entry>
@@ -315,7 +311,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_heart_attack"><![CDATA[TODO:MY MIND IS WEAK!]]></entry>
 <entry id="veiled+str_heart_attack"><![CDATA[TODO:I CAN NOT BEAR IT!]]></entry>
 <entry id="veiled+str_heart_attack"><![CDATA[TODO:THE DARKNESS IS OVERWHELMING!]]></entry>
-<!--town barks-->
 <entry id="veiled+str_roster_list_low_stress_bark"><![CDATA[TODO:Take me with you, I seek my downfall.]]></entry>
 <entry id="veiled+str_roster_list_low_stress_bark"><![CDATA[TODO:It's a beautiful day to die.]]></entry>
 <entry id="veiled+str_roster_list_low_stress_bark"><![CDATA[TODO:My end is somewhere out there. Please, take me along.]]></entry>
@@ -400,7 +395,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_monster_attack_bite_call"><![CDATA[TODO:Will I be devoured by the serpent, or will I live to tell another tale?]]></entry>
 <entry id="veiled+str_monster_attack_bite_call"><![CDATA[TODO:The hiss of my approaching doom!]]></entry>
 <entry id="veiled+doot"><![CDATA[TODO:Could you cease that horrific tune?!]]></entry>
-<!-- Ringmaster Barks -->
 <entry id="veiled+React_To_Kill_By_Fan_Favourite"><![CDATA[TODO:You are doing great. Sure.]]></entry>
 <entry id="veiled+React_To_Kill_By_Fan_Favourite"><![CDATA[TODO:Into the dark with them!]]></entry>
 <entry id="veiled+React_To_Kill_By_Fan_Favourite"><![CDATA[TODO:Quit your unreasonable glee.]]></entry>
@@ -413,7 +407,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+Apo_Apoc_Texts"><![CDATA[TODO:There is merit in your words.]]></entry>
 <entry id="veiled+Apo_Apoc_Texts"><![CDATA[TODO:One must have power to do as they wish. To shape their own fate.]]></entry>
 <entry id="veiled+Apo_Apoc_Texts"><![CDATA[TODO:You and I, we are rather alike.]]></entry>
-<!--expedition barks-->
 <entry id="veiled+str_bark_curiogood"><![CDATA[TODO:Fascinating.]]></entry>
 <entry id="veiled+str_bark_curiogood"><![CDATA[TODO:Amendable.]]></entry>
 <entry id="veiled+str_bark_curiogood"><![CDATA[TODO:Yes, yes. Very good.]]></entry>
@@ -451,7 +444,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_bark_increasingstress"><![CDATA[TODO:Condemn me all you wish!]]></entry>
 <entry id="veiled+str_bark_increasingstress"><![CDATA[TODO:This suffering is meaningless!]]></entry>
 <entry id="veiled+str_bark_increasingstress"><![CDATA[TODO:Cease the torment and end me!]]></entry>
-<!--death door barks-->
 <entry id="veiled+str_bark_deathsdoor"><![CDATA[TODO:What is dead may never die!]]></entry>
 <entry id="veiled+str_bark_deathsdoor"><![CDATA[TODO:So close, yet I feel nothing.]]></entry>
 <entry id="veiled+str_bark_deathsdoor"><![CDATA[TODO:I feel nothing!]]></entry>
@@ -472,7 +464,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:Excellent work. You did not die.]]></entry>
 <entry id="veiled+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:Oh. How anticlimactic.]]></entry>
 <entry id="veiled+str_bark_deathsdoorsurvive_ally"><![CDATA[TODO:Commendable display. Now cease torturing me.]]></entry>
-<!--camping barks-->
 <entry id="str_bark_past_life_regression"><![CDATA[TODO:Past memories... Times in which everything was well...]]></entry>
 <entry id="str_bark_past_life_regression"><![CDATA[TODO:I shall depart my body. Do not interrupt me.]]></entry>
 <entry id="str_bark_past_life_regression"><![CDATA[TODO:The person who dares touch me while meditating, dies.]]></entry>
@@ -545,7 +536,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_bark_companionship"><![CDATA[TODO:This reminds me of that time in the Warrens--just without all the swine.]]></entry>
 <entry id="veiled+str_bark_companionship"><![CDATA[TODO:I am glad I got to experience this together with you all.]]></entry>
 <entry id="veiled+str_bark_companionship"><![CDATA[TODO:When I finally die, it shall be smiling by your sides.]]></entry>
-<!--quirk barks-->
 <entry id="veiled+trigger_curio_quirk_compulsive"><![CDATA[TODO:Must... Touch... !]]></entry>
 <entry id="veiled+trigger_curio_quirk_compulsive"><![CDATA[TODO:What have we got here?]]></entry>
 <entry id="veiled+trigger_curio_quirk_compulsive"><![CDATA[TODO:Something to lay my hands on!]]></entry>
@@ -605,8 +595,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:The distant howls dim.]]></entry>
 <entry id="veiled+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:At last, my hands stay still.]]></entry>
 <entry id="veiled+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:I would've hated to be even more undead.]]></entry>
-<!--affliction barks-->
-<!--fearful-->
 <entry id="veiled+str_afflicted_fearful"><![CDATA[TODO:The body is imperishable, but horrors still impact me!]]></entry>
 <entry id="veiled+str_afflicted_fearful"><![CDATA[TODO:My mind can not take much more!]]></entry>
 <entry id="veiled+str_afflicted_fearful"><![CDATA[TODO:Please, I don't deserve another eternity of torture!]]></entry>
@@ -655,7 +643,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_fearful_bark"><![CDATA[TODO:I'm in no hurry to meet my end!]]></entry>
 <entry id="str_roster_list_fearful_bark"><![CDATA[TODO:I-It can wait, trust me!]]></entry>
 <entry id="str_roster_list_fearful_bark"><![CDATA[TODO:I've , uh... forgotten something! Don't send me down!]]></entry>
-<!--paranoid-->
 <entry id="veiled+str_afflicted_paranoid"><![CDATA[TODO:I know you're trying to look under the veil!]]></entry>
 <entry id="veiled+str_afflicted_paranoid"><![CDATA[TODO:Stop tugging at my clothes!]]></entry>
 <entry id="veiled+str_afflicted_paranoid"><![CDATA[TODO:Touch me one more time and I'll cut your hands off!]]></entry>
@@ -722,7 +709,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_paranoid_bark"><![CDATA[TODO:I will not partake in your scheme!]]></entry>
 <entry id="str_roster_list_paranoid_bark"><![CDATA[TODO:Send another fool in my stead!]]></entry>
 <entry id="str_roster_list_paranoid_bark"><![CDATA[TODO:I will not slaver away for your wicked games!]]></entry>
-<!--masochistic-->
 <entry id="veiled+str_afflicted_masochistic"><![CDATA[TODO:AHAHAHAHA!]]></entry>
 <entry id="veiled+str_afflicted_masochistic"><![CDATA[TODO:Try and tear me apart!]]></entry>
 <entry id="veiled+str_afflicted_masochistic"><![CDATA[TODO:My immortal husk shall take all your beatings!]]></entry>
@@ -792,7 +778,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_masochistic_bark"><![CDATA[TODO:Return me down there at once!]]></entry>
 <entry id="str_roster_list_masochistic_bark"><![CDATA[TODO:I've returned, just to suffer again?]]></entry>
 <entry id="str_roster_list_masochistic_bark"><![CDATA[TODO:Why did I survive? Please, I must meet my end!]]></entry>
-<!--abusive-->
 <entry id="veiled+str_afflicted_abusive"><![CDATA[TODO:I sit amidst ignorant fleshlings.]]></entry>
 <entry id="veiled+str_afflicted_abusive"><![CDATA[TODO:The flesh on your bones marks you.]]></entry>
 <entry id="veiled+str_afflicted_abusive"><![CDATA[TODO:You don't know how good you have it, ignorant fools.]]></entry>
@@ -835,7 +820,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_abusive_bark"><![CDATA[TODO:I can't bear to walk among these simpletons.]]></entry>
 <entry id="str_roster_list_abusive_bark"><![CDATA[TODO:This Hamlet is full of the unwashed, uneducated masses.]]></entry>
 <entry id="str_roster_list_abusive_bark"><![CDATA[TODO:This place is awful. I'd rather die in a ditch.]]></entry>
-<!--selfish-->
 <entry id="veiled+str_afflicted_selfish"><![CDATA[TODO:Alone, our hero stands against the storm!]]></entry>
 <entry id="veiled+str_afflicted_selfish"><![CDATA[TODO:This bleak tale needs a protagonist!]]></entry>
 <entry id="veiled+str_afflicted_selfish"><![CDATA[TODO:I shall lead this tale! Hahaha!]]></entry>
@@ -881,7 +865,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_selfish_bark"><![CDATA[TODO:I shall lavish in these accolades and riches.]]></entry>
 <entry id="str_roster_list_selfish_bark"><![CDATA[TODO:I demand my very own stage! A troupe and entourage!]]></entry>
 <entry id="str_roster_list_selfish_bark"><![CDATA[TODO:You should pay me for the honor of meeting me.]]></entry>
-<!--depressed (hopeless)-->
 <entry id="veiled+str_afflicted_depressed"><![CDATA[TODO:How can I even speak? I have no lungs!]]></entry>
 <entry id="veiled+str_afflicted_depressed"><![CDATA[TODO:My unliving corpse shall know no rest.]]></entry>
 <entry id="veiled+str_afflicted_depressed"><![CDATA[TODO:I still live merely to suffer over and over.]]></entry>
@@ -942,7 +925,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_depressed_bark"><![CDATA[TODO:I should have gone elsewhere.]]></entry>
 <entry id="str_roster_list_depressed_bark"><![CDATA[TODO:I seek my end, but I am woefully unprepared.]]></entry>
 <entry id="str_roster_list_depressed_bark"><![CDATA[TODO:Am I merely escaping from my wrongdoings without facing reality?]]></entry>
-<!--irrational-->
 <entry id="veiled+str_afflicted_irrational"><![CDATA[TODO:What's this meaty stuff coating me?]]></entry>
 <entry id="veiled+str_afflicted_irrational"><![CDATA[TODO:Do I sense blood and organs within me ?]]></entry>
 <entry id="veiled+str_afflicted_irrational"><![CDATA[TODO:I live! I breathe!]]></entry>
@@ -1024,7 +1006,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:Ennui and listlessness has taken me!]]></entry>
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:I shall be at the gardens, chasing butterflies.]]></entry>
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:The moon dances! The sun splits!]]></entry>
-<!--refracted-->
 <entry id="veiled+str_afflicted_color_madness"><![CDATA[TODO:I feel my hands! I feel once more!]]></entry>
 <entry id="veiled+str_afflicted_color_madness"><![CDATA[TODO:Our souls shine with a violet hue!]]></entry>
 <entry id="veiled+str_afflicted_color_madness"><![CDATA[TODO:Oh, shards as sharp like glass! Cut my veins open!]]></entry>
@@ -1091,8 +1072,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_consume_item_color_madness"><![CDATA[TODO:Certainly this will help me.]]></entry>
 <entry id="veiled+str_roster_list_color_madness_bark"><![CDATA[TODO:Colour calls me for another century of slumber!]]></entry>
 <entry id="veiled+str_roster_list_color_madness_bark"><![CDATA[TODO:Let me go! I have a date with the stars!]]></entry>
-<!--virtue barks-->
-<!--stalwart-->
 <entry id="veiled+str_virtued_stalwart"><![CDATA[TODO:I have survived this long. I hold mastery over death!]]></entry>
 <entry id="veiled+str_virtued_stalwart"><![CDATA[TODO:There is nothing to fear here. If I go, my journey is complete at last.]]></entry>
 <entry id="veiled+str_virtued_stalwart"><![CDATA[TODO:Sound of mind. Much less sound of body!]]></entry>
@@ -1100,7 +1079,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_stress_heal_self_stalwart"><![CDATA[TODO:I feel nothing!]]></entry>
 <entry id="veiled+str_stress_heal_self_stalwart"><![CDATA[TODO:I am truly invincible, both in body and mind!]]></entry>
 <entry id="veiled+str_block_effect_stalwart"><![CDATA[TODO:I've been dead much longer than you are! We are nothing alike!]]></entry>
-<!--courageous-->
 <entry id="veiled+str_virtued_courageous"><![CDATA[TODO:The normality of our foes is appaling.]]></entry>
 <entry id="veiled+str_virtued_courageous"><![CDATA[TODO:Death walks amongst you. You have no need to be afraid of such simple foes.]]></entry>
 <entry id="veiled+str_virtued_courageous"><![CDATA[TODO:Let us show them how death truly looks like!]]></entry>
@@ -1108,7 +1086,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_stress_heal_party_courageous"><![CDATA[TODO:Woe is them! They have met their infallible end!]]></entry>
 <entry id="veiled+str_stress_heal_party_courageous"><![CDATA[TODO:Feel no mercy for them. They have it coming.]]></entry>
 <entry id="veiled+str_block_effect_courageous"><![CDATA[TODO:I've been dead much longer than you are! We are nothing alike!]]></entry>
-<!--focused-->
 <entry id="veiled+str_virtued_focused"><![CDATA[TODO:As certain as the moon will rise.]]></entry>
 <entry id="veiled+str_virtued_focused"><![CDATA[TODO:Like dusk falls, so will they.]]></entry>
 <entry id="veiled+str_virtued_focused"><![CDATA[TODO:Sharpen your spirit and make them accept their fate.]]></entry>
@@ -1116,7 +1093,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_buff_random_party_member_focused"><![CDATA[TODO:The cold chill will help you focus.]]></entry>
 <entry id="veiled+str_buff_random_party_member_focused"><![CDATA[TODO:Grant them the end I so desire.]]></entry>
 <entry id="veiled+str_block_effect_focused"><![CDATA[TODO:I've been dead much longer than you are! We are nothing alike!]]></entry>
-<!--powerful-->
 <entry id="veiled+str_virtued_powerful"><![CDATA[TODO:This dark force of me overwhelms all!]]></entry>
 <entry id="veiled+str_virtued_powerful"><![CDATA[TODO:Even the strongest of foes crumble before my power!]]></entry>
 <entry id="veiled+str_virtued_powerful"><![CDATA[TODO:Accept this painful death!]]></entry>
@@ -1124,7 +1100,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_buff_party_powerful"><![CDATA[TODO:My mists will guide the way!]]></entry>
 <entry id="veiled+str_buff_party_powerful"><![CDATA[TODO:To the grave with them!]]></entry>
 <entry id="veiled+str_block_effect_powerful"><![CDATA[TODO:I've been dead much longer than you are! We are nothing alike!]]></entry>
-<!--vigorous-->
 <entry id="veiled+str_virtued_vigorous"><![CDATA[TODO:That which is dead may never die!]]></entry>
 <entry id="veiled+str_virtued_vigorous"><![CDATA[TODO:What? No, I don't want to be healed!]]></entry>
 <entry id="veiled+str_virtued_vigorous"><![CDATA[TODO:Endless. Eternal. Deathless!]]></entry>
