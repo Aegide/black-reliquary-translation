@@ -47,7 +47,7 @@ Death Wish]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self2_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Party:{colour_end} +3 SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_others_TT"><![CDATA[TODO:On Kill: Self: {colour_start|deathdoor}Suffer{colour_end} 4 HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Berserk{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Terreur{colour_end}]]></entry>
 <entry id="camping_skill_name_addinfo_veil"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_HP_TT"><![CDATA[TODO:The Veiled grows stronger the lower his HP is 
 Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
