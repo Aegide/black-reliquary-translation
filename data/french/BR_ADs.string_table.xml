@@ -25,11 +25,11 @@ Completes On Being Triggered 3 Times]]></entry>
 <entry id="buff_rule_data_tooltip_PLAGUED_TT4_5"><![CDATA[TODO:On Completion: {colour_start|blight}Blight Party:{colour_end} 7 pts/ 3tns {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_PLAGUED_TT4_6"><![CDATA[TODO:On Completion: {colour_start|blight}Blight Party:{colour_end} 7 pts/ 3tns {colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_APPLY_PLAGUED_TT"><![CDATA[TODO:{colour_start|plagued}Plague{colour_end} Target]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ENRAGED_TT"><![CDATA[TODO:{colour_start|white}ʢ{colour_end}{colour_start|enraged}Enraged:{colour_end}
-{colour_start|notable}On Kill (Except DoT/Riposte):{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ENRAGED_TT"><![CDATA[{colour_start|white}ʢ{colour_end}{colour_start|enraged}Berserk :{colour_end}
+{colour_start|notable}Ennemi tué (Sauf DoT/Riposte) :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENRAGED_TT2"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} {colour_start|notable}+30%% Dmg, +8%% Crit{colour_end} {colour_start|skill_unselectable}(1tn){colour_end}
 {colour_start|healhp}Heal Self:{colour_end}{colour_start|notable} 10%% Max HP{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_APPLY_ENRAGED_TT"><![CDATA[TODO:Become {colour_start|enraged}Enraged{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_APPLY_ENRAGED_TT"><![CDATA[{colour_start|enraged}Berserk{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_EXPIATED_TT"><![CDATA[TODO:{colour_start|white}ɾ{colour_end}{colour_start|expiated}Expiated:{colour_end} 
 Triggers on Non-Killing Attack
 Completes Upon Triggering 3 Times{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>

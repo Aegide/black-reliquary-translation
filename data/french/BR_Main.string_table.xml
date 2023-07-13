@@ -356,7 +356,7 @@ pour animer le combat.]]></entry>
 Disease kit provision items can be used to further treat these symptoms and diseases to lessen their effects, but they, barring few exceptions, can only be removed in the {colour_start|notable}Clinic{colour_end}.]]></entry>
 <entry id="tutorial_popup_antivenom_title"><![CDATA[Symptômes/Maladies]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_description"><![CDATA[TODO:Your hero is {colour_start|expiated}Expiated{colour_end}!
-New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, and {colour_start|enraged}Enraged{colour_end}. 
+New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, and {colour_start|enraged}Berserk{colour_end}. 
 {colour_start|amberblighted}Amberblight{colour_end} applies an ongoing debuff to the target, {colour_start|expiated}Expiation{colour_end} damages the target whenever they attack and will end after triggering three times, dealing damage to target on its next three attacks and healing the opposite team after its next attack, and {colour_start|enraged}Enrage{colour_end} buffs the target, also providing them with health upon killing their enemies. 
 Hover over the status icon an affected target for more information.]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[TODO:New Statuses]]></entry>
@@ -536,7 +536,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 {colour_start|white}ɾ{colour_end} - {colour_start|expiated}Expiate{colour_end} Target
 {colour_start|white}ɽ{colour_end} - {colour_start|amberblighted}Amberblight{colour_end} Target
 {colour_start|white}ʵ{colour_end} - Apply {colour_start|leeching}Leeching{colour_end}
-{colour_start|white}ʢ{colour_end} - Target Becomes {colour_start|enraged}Enraged{colour_end}
+{colour_start|white}ʢ{colour_end} - Target Becomes {colour_start|enraged}Berserk{colour_end}
 {colour_start|white}ɿ{colour_end} - Target Becomes {colour_start|frantic}Frantic{colour_end}
 {colour_start|white}ʃ{colour_end} - Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}/{colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end}
 {colour_start|white}ʄ{colour_end} - Cure {colour_start|bleed}Bleed{colour_end}
@@ -718,7 +718,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_1012"><![CDATA[TODO:A buff hero or enemy get after recovering from stun, which will grant them more resilience against further Stuns, consisting of both short-duration buffs and a smaller, combat-long one.]]></entry>
 <entry id="str_glossary_term_1013"><![CDATA[TODO:Expiated]]></entry>
 <entry id="str_glossary_term_definition_1013"><![CDATA[TODO:An effect that heals the opposing team of the expiated unit upon its next attack. The affected unit also takes damage after their next three attacks. Unholy enemies take 50% more damage, Pagan heroes take 50% damage, Religious heroes receive 100% healing upon activation. Each activation of Expiation's healing reduces its effectiveness for the battle. This effect cannot stack.]]></entry>
-<entry id="str_glossary_term_1014"><![CDATA[TODO:Enraged]]></entry>
+<entry id="str_glossary_term_1014"><![CDATA[Berserk]]></entry>
 <entry id="str_glossary_term_definition_1014"><![CDATA[TODO:An effect that heals and temporarily boosts target's DMG and CRIT on kill. Lasts till the end of the Battle. This effect cannot stack.]]></entry>
 <entry id="str_glossary_term_1015"><![CDATA[TODO:Amberblighted]]></entry>
 <entry id="str_glossary_term_definition_1015"><![CDATA[TODO:An effect that debuffs target's DMG when they attack or Damage Received each time they use a friendly skill. Lasts until the end of the Battle. This effect cannot stack.]]></entry>
@@ -3127,11 +3127,11 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_STEADFAST_PENDANT_REDUCE_YAWP_COOLDOWN"><![CDATA[TODO:Reduces Cooldown on Barbaric Yawp by 1 tn]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED"><![CDATA[TODO:{colour_start|notable}On Kill (Except Last Enemy/Riposte):
 Self: Heal 6{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[TODO:When {colour_start|enraged}Enraged{colour_end} by Reckless Rage: On Kill: Self: -6 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[Quand {colour_start|enraged}berserk{colour_end} par {colour_start|notable}Rage infernale{colour_end} : Ennemi tué : Sur soi : {colour_start|stress}Stress{colour_end} -6]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_BONUS_ENRAGED"><![CDATA[TODO:{colour_start|notable}On Attack:
 Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_RECKLESS_RAGE_TRIGGER"><![CDATA[TODO:On Reckless Rage: {colour_start|buff}Buff Self:{colour_end} +25%% DMG]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[TODO:When {colour_start|enraged}Enraged{colour_end} by Reckless Rage: On Attack: Self: +4 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_RECKLESS_RAGE_TRIGGER"><![CDATA[{colour_start|notable}Rage infernale{colour_end} : {colour_start|buff}Bonus sur soi{colour_end} : DGT +25%%]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[Quand {colour_start|enraged}berserk{colour_end} par {colour_start|notable}Rage infernale{colour_end} : Lors d'une attaque : Sur soi : {colour_start|stress}Stress{colour_end} +4]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LIONESS_WARPAINT_DMG_PER_LOST_HP"><![CDATA[TODO:+15%% DMG per 25%% HP Missing]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_IGNORE_DD_DEBUFFS"><![CDATA[TODO:Negates {colour_start|deathdoor}Death's Door{colour_end} Debuffs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_CURE_DD"><![CDATA[TODO:On Being Hit On {colour_start|deathdoor}Death's Door{colour_end}: Self: Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}]]></entry>
@@ -3145,7 +3145,7 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OBSIDIAN_DAGGER"><![CDATA[TODO:All {colour_start|blight}Blight{colour_end} Damage from Skills is Converted to {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CUIRBOILLI"><![CDATA[TODO:On Attack Hit: Self: Gain 1 Block {colour_start|skill_unselectable}(50%% chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DANCERS_FOOTWRAPS"><![CDATA[TODO:On Skill Use: {colour_start|move}Shuffle{colour_end} Self]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BERSERK_MASK"><![CDATA[TODO:On Friendly Skill: Self: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BERSERK_MASK"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur soi : {colour_start|enraged}Berserk{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SNIPERS_HAT"><![CDATA[TODO:On Attack Hit: {colour_start|buff}Buff Self:{colour_end} +8%% DMG if in Pos 4 {colour_start|skill_unselectable}(Removed if not in Pos 4){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SNIPERS_HAT1"><![CDATA[TODO:On Attack Hit: {colour_start|debuff}Debuff Self:{colour_end} -8%% DMG if not in Pos 4]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SKIRMISHERS_HAT1"><![CDATA[TODO:On Stock Strike Hit: {colour_start|move}Back{colour_end} 3]]></entry>
@@ -4123,8 +4123,8 @@ Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_SPD_TT_4"><![CDATA[+7 VIT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_SPD_TT_5"><![CDATA[+8 VIT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GUARDBLOCK_TT"><![CDATA[{colour_start|guard}Garde{colour_end} inefficace]]></entry>
-<entry id="combat_skill_name_hellion_reckless_rage"><![CDATA[TODO:Reckless Rage]]></entry>
-<entry id="upgrade_tree_name_hellion.reckless_rage"><![CDATA[TODO:Reckless Rage]]></entry>
+<entry id="combat_skill_name_hellion_reckless_rage"><![CDATA[Rage infernale]]></entry>
+<entry id="upgrade_tree_name_hellion.reckless_rage"><![CDATA[Rage infernale]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_1"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} 
 +10%% DMG, +6%% CRT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_2"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} 
