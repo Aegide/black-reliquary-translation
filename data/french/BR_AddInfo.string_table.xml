@@ -36,9 +36,9 @@
 <entry id="camping_skill_name_addinfo_maa"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_occ"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_name_addinfo_judi"><![CDATA[Informations supplémentaires]]></entry>
-<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Mêlée{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Distance{colour_end}]]></entry>
-<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte :{colour_end} {colour_start|attacktype}Mystique{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111a"><![CDATA[{colour_start|riposte}Riposte{colour_end} : {colour_start|attacktype}Mêlée{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte{colour_end} : {colour_start|attacktype}Distance{colour_end}]]></entry>
+<entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte{colour_end} : {colour_start|attacktype}Mystique{colour_end}]]></entry>
 <entry id="camping_skill_selection_br141a"><![CDATA[
 {colour_start|notable}Mouvement :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br211a"><![CDATA[
