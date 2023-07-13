@@ -1472,9 +1472,9 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_obstacle_caverns_torch_title"><![CDATA[TODO:Egg Clutch]]></entry>
 <entry id="str_obstacle_treasury_blockage_description"><![CDATA[Une flore épaisse s'est entremêlée à une pierre dense.]]></entry>
 <entry id="str_obstacle_treasury_blockage_title"><![CDATA[Rempart vivant]]></entry>
-<entry id="str_obstacle_treasury_sap_description"><![CDATA[TODO:This hardened sap requires a solution...]]></entry>
-<entry id="str_obstacle_treasury_sap_title"><![CDATA[TODO:Hardened Sap]]></entry>
-<entry id="item_cant_sell_confirm"><![CDATA[TODO:This item cannot be sold. (It might be a free item that came from using a specific class, like shovel from the Grave Robber.)]]></entry>
+<entry id="str_obstacle_treasury_sap_description"><![CDATA[Une solution s'impose pour remédier à cette sève durcie ...]]></entry>
+<entry id="str_obstacle_treasury_sap_title"><![CDATA[Sève durcie]]></entry>
+<entry id="item_cant_sell_confirm"><![CDATA[Cet objet ne peut pas être vendu. (Il peut s'agir d'un objet gratuit octroyé par une certaine classe, comme la pelle gratuite offerte par la Pilleuse de tombes.)]]></entry>
 <entry id="str_inventory_title_supplyginseng"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_inventory_description_supplyginseng"><![CDATA[TODO:A blend of Ginseng and lesser botanicals can cleanse a number of ailments.
 {colour_start|skill_unselectable}Target: Clear Mark, Bleed, Blight, Horror, and Debuffs{colour_end}]]></entry>
@@ -2386,8 +2386,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_cact_wall_heart_C"><![CDATA[Cœur nucléique]]></entry>
 <entry id="str_monstername_cact_alraune_B"><![CDATA[Alrune cactonide]]></entry>
 <entry id="str_monstername_cact_alraune_alt_B"><![CDATA[Alrune cactonide]]></entry>
-<entry id="str_monstername_cact_cut_B"><![CDATA[TODO:Suitor]]></entry>
-<entry id="str_monstername_cact_boquet_B"><![CDATA[TODO:Courter]]></entry>
+<entry id="str_monstername_cact_cut_B"><![CDATA[Prétendant]]></entry>
+<entry id="str_monstername_cact_boquet_B"><![CDATA[Courtisane]]></entry>
 <entry id="str_monstername_cact_cut_full_B"><![CDATA[Couple heureux]]></entry>
 <entry id="str_monstername_cact_boquet_full_B"><![CDATA[Couple heureux]]></entry>
 <entry id="str_monstername_lost_fanatic_A"><![CDATA[TODO:Legion Punisher]]></entry>
@@ -2845,7 +2845,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_bloom"><![CDATA[{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Phéromones]]></entry>
 <entry id="str_monster_skill_carrion_summon"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Progéniture]]></entry>
 <entry id="str_monster_skill_carrion_hive_sting"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Injection létale]]></entry>
-<entry id="str_monster_skill_carrion_hive_phero"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥʫɩɦʃʐ{colour_end}Vivifying Pheromones]]></entry>
+<entry id="str_monster_skill_carrion_hive_phero"><![CDATA[{colour_start|white}ɚɛɛɜɥʫɩɦʃʐ{colour_end}Phéromones vitales]]></entry>
 <entry id="str_monster_skill_scorpion_cannibal"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʟɭ{colour_end}CANNIBALIZE]]></entry>
 <entry id="str_monster_skill_scoprion_swarm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧʏ{colour_end}SCORPION STAMPEDE]]></entry>
 <entry id="str_monster_skill_cact_guard_heart"><![CDATA[TODO:{colour_start|white}ɘɘɘəɥɣɣɘɘɩɦʐʗ{colour_end}Chloroshell]]></entry>
@@ -2864,8 +2864,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_alraune_pull"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥʫɩɦɲʑ{colour_end}Welcoming Embrace]]></entry>
 <entry id="str_monster_skill_alraune_petals"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɦʡʵ{colour_end}Flirt with Death]]></entry>
 <entry id="str_monster_skill_boquet_pollen"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Sickly Scent]]></entry>
-<entry id="str_monster_skill_cut_big"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩʹʻʑ{colour_end}Prune]]></entry>
-<entry id="str_monster_skill_cut_small"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɣɣɩʹʻʎ{colour_end}Shear]]></entry>
+<entry id="str_monster_skill_cut_big"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩʹʻʑ{colour_end}Élagage]]></entry>
+<entry id="str_monster_skill_cut_small"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɣɣɩʹʻʎ{colour_end}Découpage]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:The source! Kill the source!]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:It won't let go, take out the heart!]]></entry>
 <entry id="str_prisoner_damage_cact_boquet_full"><![CDATA[TODO:Forget about me, kill the tyrants!]]></entry>
