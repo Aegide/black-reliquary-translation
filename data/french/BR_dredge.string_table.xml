@@ -12,7 +12,7 @@
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT3"><![CDATA[{colour_start|debuff}Malus sur cible{colour_end} : VIT -12 {colour_start|skill_unselectable}(base : 120%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT4"><![CDATA[{colour_start|debuff}Malus sur cible{colour_end} : VIT -13 {colour_start|skill_unselectable}(base : 130%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TASER_PREP_SPD_DEBUFF_TT5"><![CDATA[{colour_start|debuff}Malus sur cible{colour_end} : VIT -14 {colour_start|skill_unselectable}(base : 140%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_DMG_PREP_TT"><![CDATA[DGT -67%% pendant {colour_start|prep_round}Préparation{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_DMG_PREP_TT"><![CDATA[DGT -67%% pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_PREP_TT"><![CDATA[{colour_start|move}Poussée{colour_end} 1 {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_MELEE_PUSH_AFTER_PREP_TT"><![CDATA[Sinon :
 {colour_start|move}Poussée{colour_end} 1 {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
