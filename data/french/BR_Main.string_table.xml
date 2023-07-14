@@ -3163,7 +3163,8 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRITICAL_DICE_TT"><![CDATA[TODO:On Attack Crit: {colour_start|buff}Buff Self:{colour_end} +2%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CUDGEL_WEIGHT_TT"><![CDATA[{colour_start|notable}Blackjack{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : VIT -7 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PARALYZERS_CREST_TT"><![CDATA[Compétences {colour_start|attacktype}de mêlée{colour_end} :
-{colour_start|debuff}Malus sur cible{colour_end} : ESQUIVE -10 et VIT -6 pendant {colour_start|stun}étourdissement{colour_end} {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+{colour_start|debuff}Malus sur cible{colour_end} :
+ESQUIVE -10 et VIT -6 pendant {colour_start|stun}étourdissement{colour_end} {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BULLS_EYE_BANDANA_TT"><![CDATA[TODO:On Attack Hit: Target: Clear {colour_start|mark}Mark{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_COMMANDERS_ORDERS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : PRÉ +5 et DGT +10%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT1"><![CDATA[TODO:On Monster Kill: {colour_start|debuff}Debuff Self:{colour_end} +15%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(2 Battles){colour_end}]]></entry>
@@ -3934,7 +3935,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRUSADER_BATTLEHEAL_HEAL_PER_STRESS_TT"><![CDATA[TODO:+25%% {colour_start|healhp}Healing{colour_end} Done per 25
 {colour_start|stress}Stress{colour_end} on Target {colour_start|skill_unselectable}(Up to 100){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_GUARD_PREP_ROUND_TT"><![CDATA[TODO:+50%% {colour_start|guard}Guard{colour_end} Duration during {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CRU_ZEALOUS_COOLDOWN_TT"><![CDATA[TODO:Zealous Accusation on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CRU_ZEALOUS_COOLDOWN_TT"><![CDATA[Fervente accusation en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_1"><![CDATA[Groupe :
 {colour_start|stress}Stress{colour_end} -3]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOUNDMASTER_HOWL_STRESS_HEAL_TT_2"><![CDATA[Groupe :
@@ -4034,9 +4035,9 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_WHI_2_SKILL_LINE43"><![CDATA[TODO:-15% PROT {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_WHI_2_SKILL_LINE44"><![CDATA[TODO:-18% PROT {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_WHI_2_SKILL_LINE45"><![CDATA[TODO:-20% PROT {colour_start|skill_unselectable}(140% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_SINGLE_HEAL_COOLDOWN"><![CDATA[TODO:Divine Grace on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_PARTY_HEAL_COOLDOWN"><![CDATA[TODO:Divine Comfort on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_JUDGEMENT_COOLDOWN_TT"><![CDATA[TODO:Judgement on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_SINGLE_HEAL_COOLDOWN"><![CDATA[Grâce divine en récupération]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_PARTY_HEAL_COOLDOWN"><![CDATA[Réconfort divin en récupération]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_JUDGEMENT_COOLDOWN_TT"><![CDATA[Jugement en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_ILLUMINATE_TORCHLIGHT_DMG"><![CDATA[TODO:+15%% DMG per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_1"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
 +10%% DMG, +4 ACC]]></entry>
@@ -4082,10 +4083,10 @@ Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT1"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +2 ACC per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +3 ACC per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_FLARE_TORCH_ACC_BUFF_TT3"><![CDATA[TODO:{colour_start|buff}Buff Self{colour_end}: +4 ACC per 25 Torch]]></entry>
-<entry id="buff_rule_data_tooltip_target_tag"><![CDATA[TODO:Mark for Death]]></entry>
+<entry id="buff_rule_data_tooltip_target_tag"><![CDATA[Marque de mort]]></entry>
 <entry id="buff_rule_data_tooltip_bombard"><![CDATA[Bombardement]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ANTI_GUARD_COOLDOWN"><![CDATA[TODO:Protect Me on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ANTI_NOT_DURING_PREP_TT"><![CDATA[TODO:Can't Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ANTI_GUARD_COOLDOWN"><![CDATA[Protection forcée en récupération]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ANTI_NOT_DURING_PREP_TT"><![CDATA[Impossible pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_ONLY_CORPSES_TT"><![CDATA[TODO:{colour_start|notable}Requires Corpse Present To Use{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_SCAVENGE_LOOT_TT_1"><![CDATA[TODO:Gives An Additional 1-2 Minor Antiques After Combat]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_SCAVENGE_LOOT_TT_3"><![CDATA[TODO:Gives An Additional 2-2 Minor Antiques After Combat]]></entry>
@@ -4098,14 +4099,14 @@ Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ANTIQ_BLIGHT_TT_5"><![CDATA[TODO:-36ʪ {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(140ʪ Base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="town_event_title_bonus_recruit_everyone"><![CDATA[TODO:The Gang's All Here]]></entry>
 <entry id="town_event_description_bonus_recruit_everyone"><![CDATA[TODO:Testing town event for all the heroes.]]></entry>
-<entry id="combat_skill_name_antiquarian_scavenge"><![CDATA[TODO:Scavenge]]></entry>
-<entry id="upgrade_tree_name_antiquarian.scavenge"><![CDATA[TODO:Scavenge]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_JESTER_SOLO_COOLDOWN"><![CDATA[TODO:Solo on Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_JESTER_BALLAD_COOLDOWN"><![CDATA[TODO:Battle Ballad on Cooldown]]></entry>
-<entry id="combat_skill_name_jester_prelude"><![CDATA[TODO:Prelude]]></entry>
-<entry id="upgrade_tree_name_jester.prelude"><![CDATA[TODO:Prelude]]></entry>
-<entry id="buff_rule_data_tooltip_battle_ballad"><![CDATA[TODO:Battle Ballad]]></entry>
-<entry id="buff_rule_data_tooltip_inspiring_tune"><![CDATA[TODO:Inspiring Tune]]></entry>
+<entry id="combat_skill_name_antiquarian_scavenge"><![CDATA[Récolte macabre]]></entry>
+<entry id="upgrade_tree_name_antiquarian.scavenge"><![CDATA[Récolte macabre]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JESTER_SOLO_COOLDOWN"><![CDATA[Solo en récupération]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JESTER_BALLAD_COOLDOWN"><![CDATA[Ballade guerrière en récupération]]></entry>
+<entry id="combat_skill_name_jester_prelude"><![CDATA[Prélude]]></entry>
+<entry id="upgrade_tree_name_jester.prelude"><![CDATA[Prélude]]></entry>
+<entry id="buff_rule_data_tooltip_battle_ballad"><![CDATA[Ballade guerrière]]></entry>
+<entry id="buff_rule_data_tooltip_inspiring_tune"><![CDATA[Mélodie exaltante]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JESTER_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}
 -15%% {colour_start|bleed}Bleed{colour_end} Resist {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JESTER_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}
@@ -4116,7 +4117,7 @@ Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
 -23%% {colour_start|bleed}Bleed{colour_end} Resist {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JESTER_PREP_ROUND_DEBUFF_TT5"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}
 -25%% {colour_start|bleed}Bleed{colour_end} Resist {colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_COOLDOWN_TT"><![CDATA[TODO:Serpent Sway on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_COOLDOWN_TT"><![CDATA[Balancement du serpent en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_SPD_TT"><![CDATA[TODO:If Used After {colour_start|prep_round}Prep Round{colour_end}: %+d%% SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_SPD_TT_1"><![CDATA[+4 VIT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SB_SERPENT_SWAY_SPD_TT_2"><![CDATA[+5 VIT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
@@ -4136,7 +4137,7 @@ Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
 +25%% DMG, +9%% CRT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_5"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} 
 +30%% DMG, +10%% CRT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_YAWP_COOLDOWN_TT"><![CDATA[TODO:Barbaric Yawp on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_YAWP_COOLDOWN_TT"><![CDATA[Cri barbare en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_PREP"><![CDATA[Pendant la {colour_start|prep_round}préparation :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10 DODGE / -10%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -13 DODGE / -10%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
@@ -4235,8 +4236,8 @@ Self:
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_ENDURE_STRESS_TT_5"><![CDATA[TODO:Heal 16 {colour_start|stress}Stress{colour_end}
 Self:
 +8 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_DD_HEAL_TT"><![CDATA[TODO:Death's Door Heal on Cooldown]]></entry>
-<entry id="buff_rule_data_tooltip_suffer"><![CDATA[TODO:Suffer]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_DD_HEAL_TT"><![CDATA[Soin d'agonie en récupération]]></entry>
+<entry id="buff_rule_data_tooltip_suffer"><![CDATA[Souffrance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_APPLY_PLAGUED_50_TT"><![CDATA[TODO:{colour_start|plagued}Plague{colour_end} Target (50%% Chance)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_NO_RIPOSTE"><![CDATA[TODO:Can't {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_STRESS_TT"><![CDATA[{colour_start|stress}Stress{colour_end} +50%%/100%% si {colour_start|affiliation_faithless}Athée{colour_end}/{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
@@ -4263,7 +4264,7 @@ Self:
 <entry id="buff_stat_tooltip_upgrade_discount_MUSKETEER_AMMO_NORMAL_T_TT"><![CDATA[TODO:Ammo Type: {colour_start|musk_ammo1}Standard{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MUSKETEER_AMMO_SHRAPNEL_T_TT"><![CDATA[TODO:Ammo Type: {colour_start|musk_ammo2}Shrapnel{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MUSKETEER_AMMO_CONCUSS_T_TT"><![CDATA[TODO:Ammo Type: {colour_start|musk_ammo3}Concussive{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MUSK_BUCKSHOT_COOLDOWN"><![CDATA[TODO:Buckshot on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MUSK_BUCKSHOT_COOLDOWN"><![CDATA[Grenaille en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MUSK_AMMO_TT_FREE"><![CDATA[TODO:{colour_start|notable}Free Action{colour_end}]]></entry>
 <entry id="combat_skill_name_musketeer_bombard"><![CDATA[Bombardement]]></entry>
 <entry id="upgrade_tree_name_musketeer.bombard"><![CDATA[Bombardement]]></entry>
