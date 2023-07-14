@@ -4178,17 +4178,17 @@ Les bonus offsensifs sont réduits de moitié ]]></entry>
 +13 DODGE ]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_C_5"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end}
 +15 DODGE ]]></entry>
-<entry id="combat_skill_name_grave_robber_bash"><![CDATA[TODO:Shovel Bash]]></entry>
-<entry id="upgrade_tree_name_grave_robber.bash"><![CDATA[TODO:Shovel Bash]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_COOLDOWN"><![CDATA[TODO:Shadow Fade on Cooldown]]></entry>
+<entry id="combat_skill_name_grave_robber_bash"><![CDATA[Coup de pelle]]></entry>
+<entry id="upgrade_tree_name_grave_robber.bash"><![CDATA[Coup de pelle]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_COOLDOWN"><![CDATA[Disparition en récupération]]></entry>
 <entry id="camping_skill_effect_loot_SHOVELONLY"><![CDATA[Produit une pelle]]></entry> 
 <entry id="camping_skill_effect_loot_DISEASEKITONLY"><![CDATA[Produit une trousse médicinale]]></entry>
 <entry id="camping_skill_effect_loot_DISEASEKIT2"><![CDATA[Produit 2 trousses médicinales]]></entry>
 <entry id="camping_skill_effect_loot_HMDOGTREATS"><![CDATA[Produit 2 biscuits pour chien]]></entry>
-<entry id="combat_skill_name_occultist_amber_curse"><![CDATA[TODO:Amber Curse]]></entry>
-<entry id="upgrade_tree_name_occultist.amber_curse"><![CDATA[TODO:Amber Curse]]></entry>
+<entry id="combat_skill_name_occultist_amber_curse"><![CDATA[Malédiction d'ambre]]></entry>
+<entry id="upgrade_tree_name_occultist.amber_curse"><![CDATA[Malédiction d'ambre]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCCULTIST_HEAL_VS_PAGAN_TT"><![CDATA[TODO:%+d%% {colour_start|healhp}Healing{colour_end} Done if Target is {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PD_BLINDING_GAS_COOLDOWN"><![CDATA[TODO:Blinding Gas on Cooldown]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PD_BLINDING_GAS_COOLDOWN"><![CDATA[Gaz aveuglant en récupération]]></entry>
 <entry id="combat_skill_name_plague_doctor_disorienting_blast"><![CDATA[Explosion d'ambre]]></entry>
 <entry id="upgrade_tree_name_plague_doctor.disorienting_blast"><![CDATA[Explosion d'ambre]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PLAGUE_DOCTOR_PREP_ROUND_DEBUFF_TT1"><![CDATA[Pendant la {colour_start|prep_round}préparation{colour_end} :
