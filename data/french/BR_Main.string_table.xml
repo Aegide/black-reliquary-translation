@@ -78,18 +78,18 @@ Current Torch Level:]]></entry>
 <entry id="str_meal_heal_format"><![CDATA[]]></entry>
 <entry id="str_meal_not_enough_provisions"><![CDATA[(Pas assez de nourriture)]]></entry>
 <entry id="str_meal_stress_format"><![CDATA[]]></entry>
-<entry id="str_meal_title_0"><![CDATA[TODO:None
-{colour_start|harmful}-20% {colour_start|healhp}HP{colour_end}
-+15 {colour_start|stress}Stress{colour_end}{colour_end}]]></entry>
-<entry id="str_meal_title_1"><![CDATA[TODO:Half
-+0% {colour_start|healhp}HP{colour_end}
-+0 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="str_meal_title_2"><![CDATA[TODO:Full
-{colour_start|notable}+10% {colour_end}{colour_start|healhp}HP{colour_end}
-+0 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="str_meal_title_3"><![CDATA[TODO:Feast
-{colour_start|notable}+25% {colour_start|healhp}HP{colour_end}
--5 {colour_start|stress}Stress{colour_end}{colour_end}]]></entry>
+<entry id="str_meal_title_0"><![CDATA[Jeûne
+{colour_start|notable}{colour_start|healhp}PV{colour_end} -20% 
+{colour_start|stress}Stress{colour_end} +15{colour_end}]]></entry>
+<entry id="str_meal_title_1"><![CDATA[Léger
+{colour_start|notable}{colour_start|healhp}PV{colour_end} +0% 
+{colour_start|stress}Stress{colour_end} +0{colour_end}]]></entry>
+<entry id="str_meal_title_2"><![CDATA[Copieux
+{colour_start|notable}{colour_start|healhp}PV{colour_end} +10% 
+{colour_start|stress}Stress{colour_end} +0{colour_end}]]></entry>
+<entry id="str_meal_title_3"><![CDATA[Festin
+{colour_start|notable}{colour_start|healhp}PV{colour_end} +25% 
+{colour_start|stress}Stress{colour_end} -5{colour_end}]]></entry>
 <entry id="dungeon_name_cove"><![CDATA[Intérieur exposé]]></entry>
 <entry id="dungeon_name_crypts"><![CDATA[Nécropole]]></entry>
 <entry id="dungeon_name_darkestdungeon"><![CDATA[]]></entry>
