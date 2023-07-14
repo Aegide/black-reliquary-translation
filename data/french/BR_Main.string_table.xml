@@ -3162,9 +3162,8 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MEDICS_BOOTS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur cible : Soigne {colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRITICAL_DICE_TT"><![CDATA[TODO:On Attack Crit: {colour_start|buff}Buff Self:{colour_end} +2%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CUDGEL_WEIGHT_TT"><![CDATA[{colour_start|notable}Blackjack{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : VIT -7 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PARALYZERS_CREST_TT"><![CDATA[Compétences {colour_start|attacktype}de mêlée{colour_end} :
-{colour_start|debuff}Malus sur cible{colour_end} :
-ESQUIVE -10 et VIT -6 pendant {colour_start|stun}étourdissement{colour_end} {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PARALYZERS_CREST_TT"><![CDATA[Compétences de mêlée : {colour_start|debuff}Malus sur cible{colour_end} :
+ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BULLS_EYE_BANDANA_TT"><![CDATA[TODO:On Attack Hit: Target: Clear {colour_start|mark}Mark{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_COMMANDERS_ORDERS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : PRÉ +5 et DGT +10%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT1"><![CDATA[TODO:On Monster Kill: {colour_start|debuff}Debuff Self:{colour_end} +15%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(2 Battles){colour_end}]]></entry>
