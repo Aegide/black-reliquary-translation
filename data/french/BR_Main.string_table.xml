@@ -16,34 +16,34 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="str_ugc_show_panel_tooltip"><![CDATA[Activer / Voir les mods]]></entry>
 <entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité. Le haut de la liste a la plus haute priorité.]]></entry>
 <entry id="str_ugc_title"><![CDATA[Choisir les mods à activer]]></entry>
-<entry id="menu_base_element_view_glossary"><![CDATA[TODO:Info Comms]]></entry>
-<entry id="town_event_title_out_of_date"><![CDATA[TODO:UP TO DATE]]></entry>
-<entry id="town_event_description_out_of_date"><![CDATA[TODO:Your version of Black Reliquary is now up to date]]></entry>
+<entry id="menu_base_element_view_glossary"><![CDATA[Communications]]></entry>
+<entry id="town_event_title_out_of_date"><![CDATA[MIS À JOUR]]></entry>
+<entry id="town_event_description_out_of_date"><![CDATA[Votre version de Black Reliquary est maintenant à jour]]></entry>
 <entry id="estate_title_format"><![CDATA[Le %s]]></entry>
 <entry id="curio_tooltip_quest_item_slot"><![CDATA[Faites glisser ici un OBJET DE QUÊTE depuis l'inventaire.]]></entry>
-<entry id="str_torch_overlay_hero_buffs_header"><![CDATA[TODO:Hero Party Effects]]></entry>
-<entry id="str_torch_overlay_monster_buffs_header"><![CDATA[TODO:Monster Effects]]></entry>
+<entry id="str_torch_overlay_hero_buffs_header"><![CDATA[Effets sur les héros]]></entry>
+<entry id="str_torch_overlay_monster_buffs_header"><![CDATA[Effets sur les monstres]]></entry>
 <entry id="str_wave_farm_torch_tooltip_title"><![CDATA[TODO:{colour_start|miasma}[The Farmstead's Miasma]{colour_end}]]></entry>
-<entry id="str_wave_transition_a_torch_tooltip_title"><![CDATA[TODO:{colour_start|sun_torch}Debilitating Daylight{colour_end}
-+Lost Legion Spawn Chance
-Torch Level: ( 100 )]]></entry>
-<entry id="str_wave_transition_a3_torch_tooltip_title"><![CDATA[TODO:{colour_start|sun_torch}Debilitating Daylight{colour_end}
-+Lost Legion Spawn Chance
-Torch Level: ( 100 )]]></entry>
-<entry id="str_wave_transition_a5_torch_tooltip_title"><![CDATA[TODO:{colour_start|sun_torch}Debilitating Daylight{colour_end}
-+Lost Legion Spawn Chance
-Torch Level: ( 100 )]]></entry>
-<entry id="str_wave_transition_b_torch_tooltip_title"><![CDATA[TODO:{colour_start|moon_torch}Mantling Moonlight{colour_end}
-+Kvarotz Spawn Chance
-Torch Level: ( 0 )]]></entry>
-<entry id="str_wave_transition_b3_torch_tooltip_title"><![CDATA[TODO:{colour_start|moon_torch}Mantling Moonlight{colour_end}
-+Kvarotz Spawn Chance
-Torch Level: ( 0 )]]></entry>
-<entry id="str_wave_transition_b5_torch_tooltip_title"><![CDATA[TODO:{colour_start|moon_torch}Mantling Moonlight{colour_end}
-+Kvarotz Spawn Chance
-Torch Level: ( 0 )]]></entry>
-<entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[TODO:{colour_start|eclipse_torch}Excruciating Moonlight{colour_end}
-Torch Level: ( 50 )]]></entry>
+<entry id="str_wave_transition_a_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
++ Légion perdue
+Torche : ( 100 )]]></entry>
+<entry id="str_wave_transition_a3_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
++ Légion perdue
+Torche : ( 100 )]]></entry>
+<entry id="str_wave_transition_a5_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
++ Légion perdue
+Torche : ( 100 )]]></entry>
+<entry id="str_wave_transition_b_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
++ Kvarotz
+Torche : ( 0 )]]></entry>
+<entry id="str_wave_transition_b3_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
++ Kvarotz
+Torche : ( 0 )]]></entry>
+<entry id="str_wave_transition_b5_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
++ Kvarotz
+Torche : ( 0 )]]></entry>
+<entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[{colour_start|eclipse_torch}Éclipse oppressante{colour_end}
+Torche : ( 50 )]]></entry>
 <entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[{colour_start|yellow}[Splendeur]{colour_end}]]></entry>	
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
@@ -272,7 +272,7 @@ vous devriez aussi.]]></entry>
 pour animer le combat.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[Les attaques de la Matrone sont variées et peuvent facilement toucher votre équipe.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[La Matrone a besoin de temps pour charger ses munitions.]]></entry>
-<entry id="str_plot_kill_warhawk_3_audio_line"><![CDATA[Tonnerre du désert]]></entry>
+<entry id="str_plot_kill_warhawk_3_audio_line"><![CDATA[ Tonnerre du désert]]></entry>
 <entry id="str_caretaker_goal_plot_kill_steelpath_5"><![CDATA[ Vaincre la Matrone de fer]]></entry>
 <entry id="town_quest_name_plot_kill_steelpath_5"><![CDATA[Pluie de sang [{colour_start|moon_torch}Nuit{colour_end}]]]></entry>
 <entry id="town_quest_description_plot_kill_steelpath_5"><![CDATA[Une autre matriarche exige un combat, se manifestant à nous depuis les ruines englouties par le sable. Calmez ses ardeurs.]]></entry>
@@ -1136,7 +1136,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_virile_brew_honing_oil_effect"><![CDATA[Pourquoi boire de l'huile d'affûtage ...]]></entry>
 <entry id="str_curio_virile_brew_torch_effect"><![CDATA[Le contenu est brûlé et dégage une odeur nauséabonde..]]></entry>
 <entry id="str_curio_virile_brew_antivenom_loot"><![CDATA[La soupe est débarrassée de ses toxines.]]></entry>
-<entry id="str_curio_virile_brew_disease_kit_effect"><![CDATA[Avec quelques épices, cette soupe est un véritable délice.]]></entry>
+<entry id="str_curio_virile_brew_disease_kit_effect"><![CDATA[Avec quelques épices, c'est un véritable délice.]]></entry>
 <entry id="str_curio_title_warhawk_tribute"><![CDATA[Sacrifice sauvage]]></entry>
 <entry id="str_curio_content_warhawk_tribute"><![CDATA[Un sacrifice d'une grande brutalité, fait en l'honneur de la matrone.]]></entry>
 <entry id="str_curio_tooltip_investigate_warhawk_tribute"><![CDATA[Inspecter le corps de cet homme ...]]></entry>
@@ -1157,7 +1157,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_pillory_shovel_summon_pillory_watch"><![CDATA[TODO:The sound of shattering shackles draws attention!]]></entry>
 <entry id="str_curio_title_arch_vendor"><![CDATA[Archéologue étranger]]></entry>
 <entry id="str_curio_content_arch_vendor"><![CDATA[VENDEUR : L'archéologue souhaiterait inspecter l'une de vos reliques.]]></entry>
-<entry id="str_curio_arch_vendor_bust_loot"><![CDATA["Haha, imaginez devoir rendre la monnaie avec ça ..."]]></entry>
+<entry id="str_curio_arch_vendor_bust_loot"><![CDATA["Imaginez rendre la monnaie avec ça ..."]]></entry>
 <entry id="str_curio_arch_vendor_portrait_loot"><![CDATA["Un matériau aussi fascinant qu'exotique."]]></entry>
 <entry id="str_curio_arch_vendor_deed_loot"><![CDATA["Attention avec ça. Ces choses sont bien plus complexes qu'il n'y paraît."]]></entry>
 <entry id="str_curio_arch_vendor_crest_loot"><![CDATA["Un aperçu plus détaillé de leurs coutumes !"]]></entry>
