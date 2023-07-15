@@ -25,22 +25,22 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="str_torch_overlay_monster_buffs_header"><![CDATA[Effets sur les monstres]]></entry>
 <entry id="str_wave_farm_torch_tooltip_title"><![CDATA[TODO:{colour_start|miasma}[The Farmstead's Miasma]{colour_end}]]></entry>
 <entry id="str_wave_transition_a_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
-+ Légion perdue
++Légion perdue
 Torche : ( 100 )]]></entry>
 <entry id="str_wave_transition_a3_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
-+ Légion perdue
++Légion perdue
 Torche : ( 100 )]]></entry>
 <entry id="str_wave_transition_a5_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
-+ Légion perdue
++Légion perdue
 Torche : ( 100 )]]></entry>
 <entry id="str_wave_transition_b_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
-+ Kvarotz
++Kvarotz
 Torche : ( 0 )]]></entry>
 <entry id="str_wave_transition_b3_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
-+ Kvarotz
++Kvarotz
 Torche : ( 0 )]]></entry>
 <entry id="str_wave_transition_b5_torch_tooltip_title"><![CDATA[{colour_start|moon_torch}Clair de lune{colour_end}
-+ Kvarotz
++Kvarotz
 Torche : ( 0 )]]></entry>
 <entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[{colour_start|eclipse_torch}Éclipse oppressante{colour_end}
 Torche : ( 50 )]]></entry>
@@ -52,19 +52,19 @@ Torche : ( 50 )]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end}{colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable} et {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
 <entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE
-++ Légion perdue
+++Légion perdue
 Torche :]]></entry>
 <entry id="str_darkness_title_1"><![CDATA[LUMIÈRE FAIBLE
-+ Légion perdue
++Légion perdue
 Torche :]]></entry>
 <entry id="str_darkness_title_2"><![CDATA[PÉNOMBRE
-+ Kvarotz
++Kvarotz
 Torche :]]></entry>
 <entry id="str_darkness_title_3"><![CDATA[TÉNÈBRES
-++ Kvarotz
+++Kvarotz
 Torche :]]></entry>
 <entry id="str_darkness_title_4"><![CDATA[NOIR COMPLET
-+++ Kvarotz
++++Kvarotz
 Torche :]]></entry>
 <entry id="buff_rule_data_tooltip_default"><![CDATA[]]></entry>
 <entry id="buff_rule_data_tooltip_default3"><![CDATA[]]></entry>
@@ -872,7 +872,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_inventory_title_heirloomcrest"><![CDATA[{colour_start|BR_heirloom}Trophée{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
-<entry id="str_inventory_title_shard"><![CDATA[:{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
+<entry id="str_inventory_title_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de l'empire Kvarotz, composée d'électrum.]]></entry>
 <entry id="str_inventory_description_heirloomcrest"><![CDATA[Un symbole de force et de respect parmi les sauvages.]]></entry>
 <entry id="str_inventory_description_heirloomdeed"><![CDATA[Une substance mystique qui proviens du Reliquaire.]]></entry>
@@ -1238,7 +1238,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_stronger_amber_relic_bandage_loot"><![CDATA[Une récolte aisée pour des mains protégées.]]></entry>
 <entry id="str_curio_stronger_amber_relic_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_title_primitive_cave_painting"><![CDATA[Sculpture rupestre]]></entry>
-<entry id="str_curio_content_primitive_cave_painting"><![CDATA[Ces gravures primitives représentent une sombre prophétie.]]></entry>
+<entry id="str_curio_content_primitive_cave_painting"><![CDATA[Cette gravure primitive représente une sombre prophétie.]]></entry>
 <entry id="str_curio_tooltip_investigate_primitive_cave_painting"><![CDATA[Inspecter l'art troglodyte.]]></entry>
 <entry id="str_curio_primitive_cave_painting_effect"><![CDATA[Une essence mystique persiste dans cette sculpture ...]]></entry>
 <entry id="str_curio_primitive_cave_painting_holy_water_effect"><![CDATA[Le rituel invoque une puissance violente !]]></entry>
@@ -1268,9 +1268,9 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_crude_altar_deed_effect"><![CDATA[L'offrande semble apaiser l'effigie.]]></entry>
 <entry id="str_curio_crude_altar_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_crude_altar_laudanum_effect"><![CDATA[La peur est affrontée et surmontée.]]></entry>
-<entry id="str_curio_title_wall_burrow"><![CDATA[TODO:Squalid Burrow]]></entry>
-<entry id="str_curio_content_wall_burrow"><![CDATA[TODO:A Troglodyte's personal dwelling, covered with the skulls of trespassers.]]></entry>
-<entry id="str_curio_tooltip_investigate_wall_burrow"><![CDATA[TODO:Peer inside...]]></entry>
+<entry id="str_curio_title_wall_burrow"><![CDATA[Terrier sordide]]></entry>
+<entry id="str_curio_content_wall_burrow"><![CDATA[La résidence personnelle d'un troglodyte, recouverte des crânes des intrus.]]></entry>
+<entry id="str_curio_tooltip_investigate_wall_burrow"><![CDATA[Regarder à l'intérieur ...]]></entry>
 <entry id="str_curio_wall_burrow_loot"><![CDATA[TODO:Spoils had been tucked away in the den!]]></entry>
 <entry id="str_curio_wall_burrow_summon"><![CDATA[TODO:The Troglodytes were home!]]></entry>
 <entry id="str_curio_wall_burrow_shovel_loot"><![CDATA[TODO:The burrow is investigated from a safe distance.]]></entry>
@@ -1341,7 +1341,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_purveyor_glass_dagger_loot"><![CDATA[TODO:He adores how smooth it is!]]></entry>
 <entry id="str_curio_purveyor_glass_hook_loot"><![CDATA[TODO:He loves how they jingle together!]]></entry>
 <entry id="str_curio_title_poacher"><![CDATA[Le Récolteur]]></entry>
-<entry id="str_curio_content_poacher"><![CDATA[TODO:VENDOR: The man seems to be intentionally covered in slime and asks if you have anything pertaining to amber.]]></entry>
+<entry id="str_curio_content_poacher"><![CDATA[VENDEUR: L'homme semble s'être volontairement recouvert de bave et demande si vous possédez de l'ambre.]]></entry>
 <entry id="str_curio_poacher_deed_loot"><![CDATA[TODO:The poacher happily accepts your raw amber.]]></entry>
 <entry id="str_curio_poacher_amber_residue_loot"><![CDATA[TODO:He's not excited by the residue, but he still thanks you.]]></entry>
 <entry id="str_curio_poacher_adrenaline_loot"><![CDATA[TODO:His curiosity is piqued by the substance!]]></entry>
@@ -1467,7 +1467,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_obstacle_corpse_pile_description"><![CDATA[Un tas de cadavres, probablement des intrus ...]]></entry>
 <entry id="str_obstacle_corpse_pile_title"><![CDATA[Montagne de cadavres]]></entry>
 <entry id="str_obstacle_caverns_blockage_description"><![CDATA[Ces rochers semblent pouvoir être déplacés pour créer un chemin.]]></entry>
-<entry id="str_obstacle_caverns_blockage_title"><![CDATA[Stalagtites détachées]]></entry>
+<entry id="str_obstacle_caverns_blockage_title"><![CDATA[Stalagmite massive]]></entry>
 <entry id="str_obstacle_caverns_torch_description"><![CDATA[Cette masse de toile semble être hautement inflammable.]]></entry>
 <entry id="str_obstacle_caverns_torch_title"><![CDATA[Nid d'araignées]]></entry>
 <entry id="str_obstacle_treasury_blockage_description"><![CDATA[Une flore épaisse s'est entremêlée à une pierre dense.]]></entry>
