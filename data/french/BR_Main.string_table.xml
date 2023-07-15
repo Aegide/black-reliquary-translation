@@ -44,28 +44,28 @@ Torch Level: ( 0 )]]></entry>
 Torch Level: ( 0 )]]></entry>
 <entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[TODO:{colour_start|eclipse_torch}Excruciating Moonlight{colour_end}
 Torch Level: ( 50 )]]></entry>
-<entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[TODO:{colour_start|yellow}[Splendorous]{colour_end}]]></entry>	
-<entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[TODO:Certain enemies start combat with {colour_start|stealth}Stealth{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[TODO:Cannot be Ambushed after Camp]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|neutral}Torch Item Effects{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|buff}Buff Party:{colour_end} {colour_start|notable}+5 ACC{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+<entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[{colour_start|yellow}[Splendeur]{colour_end}]]></entry>	
+<entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end}{colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[TODO:{colour_start|notable}Target: Cure {colour_end}{colour_start|bleed}Bleed{colour_end}{colour_start|notable},{colour_end} {colour_start|harmful}+4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="str_darkness_title_0"><![CDATA[TODO:RADIANT LIGHT
-++Lost Legion Spawn Chance
-Current Torch Level:]]></entry>
-<entry id="str_darkness_title_1"><![CDATA[TODO:DIM LIGHT
-+Lost Legion Spawn Chance
-Current Torch Level:]]></entry>
-<entry id="str_darkness_title_2"><![CDATA[TODO:SHADOWY
-+Kvarotz Spawn Chance
-Current Torch Level:]]></entry>
-<entry id="str_darkness_title_3"><![CDATA[TODO:DARK
-++Kvarotz Spawn Chance
-Current Torch Level:]]></entry>
-<entry id="str_darkness_title_4"><![CDATA[TODO:BLACK AS PITCH
-+++Kvarotz Spawn Chance
-Current Torch Level:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable} et {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
+<entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE
+++ Légion perdue
+Torche :]]></entry>
+<entry id="str_darkness_title_1"><![CDATA[LUMIÈRE FAIBLE
++ Légion perdue
+Torche :]]></entry>
+<entry id="str_darkness_title_2"><![CDATA[PÉNOMBRE
++ Kvarotz
+Torche :]]></entry>
+<entry id="str_darkness_title_3"><![CDATA[TÉNÈBRES
+++ Kvarotz
+Torche :]]></entry>
+<entry id="str_darkness_title_4"><![CDATA[NOIR COMPLET
++++ Kvarotz
+Torche :]]></entry>
 <entry id="buff_rule_data_tooltip_default"><![CDATA[]]></entry>
 <entry id="buff_rule_data_tooltip_default3"><![CDATA[]]></entry>
 <entry id="buff_rule_data_tooltip_default5"><![CDATA[]]></entry>
