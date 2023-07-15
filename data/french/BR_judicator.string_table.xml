@@ -2,10 +2,10 @@
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_MARK_1"><![CDATA[TODO:{colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(80%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_MARK_2"><![CDATA[TODO:{colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(90%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_EXPIATED_BLEED"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end} if {colour_start|expiated}Expiated{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_EXPIATED_BLEED_AMT"><![CDATA[TODO:%d pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_EXPIATED_BLEED_AMT"><![CDATA[%d pts/tr pour 3 trs]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERBLIGHTED_STUN"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} for 2 tns if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERBLIGHTED_PULL"><![CDATA[TODO:{colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_JUDI_MELEE_AMBER_DMG_TT"><![CDATA[TODO:%+d%% DMG vs {colour_start|amberblighted}Amberblighted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JUDI_MELEE_AMBER_DMG_TT"><![CDATA[DGT %+d%% vs {colour_start|amberblighted}Amberblight{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_NAIL_CANT_PUSHPREP"><![CDATA[TODO:After {colour_start|prep_round}Prep Round:{colour_end}
 {colour_start|move}Knockback{colour_end} 2 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_judi_melee"><![CDATA[Convocation]]></entry>
