@@ -247,7 +247,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_janissary_3_tip"><![CDATA[Le Janissaire insiste sur l'importance des duels, à un contre un.]]></entry>
 <entry id="str_plot_kill_janissary_3_tip"><![CDATA[Le Janissaire peut faire appel à ses troupes, pour combattre les héros qu'il n'affronte pas en duel.]]></entry>
 <entry id="str_plot_kill_janissary_3_tip"><![CDATA[Agile et versatile, le Janissaire ne sera pas une cible facile.]]></entry>
-<entry id="str_plot_kill_janissary_3_audio_line"><![CDATA[La lame du Vizir]]></entry>
+<entry id="str_plot_kill_janissary_3_audio_line"><![CDATA[ La lame du Vizir]]></entry>
 <entry id="str_caretaker_goal_plot_kill_enchantress_5"><![CDATA[ Vaincre l'Enchanteresse]]></entry>
 <entry id="town_quest_name_plot_kill_enchantress_5"><![CDATA[Le croc de l'Armada]]></entry>
 <entry id="town_quest_description_plot_kill_enchantress_5"><![CDATA[Un général du Vizir nous a révélé sa position, elle souhaite nous éradiquer. Il ne faudrait pas laisser son défi sans réponse.]]></entry>
@@ -259,7 +259,7 @@ vous devriez aussi.]]></entry>
 <entry id="str_plot_kill_enchantress_5_tip"><![CDATA[Vos héros les plus vulnérables au poison seront en grand danger.]]></entry>
 <entry id="str_plot_kill_enchantress_5_tip"><![CDATA[De nombreux serpents se dresseront pour défendre l'Enchanteresse.]]></entry>
 <entry id="str_plot_kill_enchantress_5_tip"><![CDATA[D'énormes serpents peuvent frapper depuis des endroits inattendus.]]></entry>
-<entry id="str_plot_kill_enchantress_5_audio_line"><![CDATA[Le croc de l'Armada]]></entry>
+<entry id="str_plot_kill_enchantress_5_audio_line"><![CDATA[ Le croc de l'Armada]]></entry>
 <entry id="str_caretaker_goal_plot_kill_warhawk_3"><![CDATA[ Vaincre la Matrone de guerre]]></entry>
 <entry id="town_quest_name_plot_kill_warhawk_3"><![CDATA[Tonnerre du désert [{colour_start|sun_torch}Jour{colour_end}]]]></entry>
 <entry id="town_quest_description_plot_kill_warhawk_3"><![CDATA[L'une des matriarches nous a fait connaître son camp, nous mettant directement au défi. Mettez fin à son règne.]]></entry>
@@ -284,7 +284,7 @@ pour animer le combat.]]></entry>
 <entry id="str_plot_kill_steelpath_5_tip"><![CDATA[Les hyènes sont aussi assoiffées de sang que leur maîtresse.]]></entry>
 <entry id="str_plot_kill_steelpath_5_tip"><![CDATA[Attendez-vous à ce que vos héros saignent généreusement.]]></entry>
 <entry id="str_plot_kill_steelpath_5_tip"><![CDATA[La violence de la matrone n'est que temporaire, elle devra se reposer.]]></entry>
-<entry id="str_plot_kill_steelpath_5_audio_line"><![CDATA[Pluie de sang]]></entry>
+<entry id="str_plot_kill_steelpath_5_audio_line"><![CDATA[ Pluie de sang]]></entry>
 <entry id="str_caretaker_goal_plot_kill_ygastrosaur_3"><![CDATA[ Vaincre le Gastrosaure]]></entry>
 <entry id="town_quest_name_plot_kill_ygastrosaur_3"><![CDATA[Bête de guerre]]></entry>
 <entry id="town_quest_description_plot_kill_ygastrosaur_3"><![CDATA[Les troglodytes sont parvenus à créer une monstruosité. Chaque jour qui passe, elle se rassasie et grandit. Détruisez cette monstruosité]]></entry>
@@ -295,7 +295,7 @@ pour animer le combat.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[Plus sa santé diminue, plus le Gastrosaure devient violent.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[La carapace du Gastrosaure est robuste. L'huile d'affûtage pourrait être utile.]]></entry>
 <entry id="str_plot_kill_ygastrosaur_3_tip"><![CDATA[Se préparer contre le saignement et l'infection sera essentiel.]]></entry>
-<entry id="str_plot_kill_ygastrosaur_3_audio_line"><![CDATA[Bête de guerre]]></entry>
+<entry id="str_plot_kill_ygastrosaur_3_audio_line"><![CDATA[ Bête de guerre]]></entry>
 <entry id="str_caretaker_goal_plot_kill_ygreater_wurm_5"><![CDATA[ Vaincre le Dévoreur des sables]]></entry>
 <entry id="town_quest_name_plot_kill_ygreater_wurm_5"><![CDATA[Léviathan du désert]]></entry>
 <entry id="town_quest_description_plot_kill_ygreater_wurm_5"><![CDATA[Une menace de taille nous bloque le passage dans le territoire des troglodytes. Il faudra employer de méthodes peu conventionnelles ...]]></entry>
@@ -307,7 +307,7 @@ pour animer le combat.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[La peau du Dévoreur est bien trop résistante pour être attaquée directement.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[Chaque bête, quelle que soit sa taille, a un point faible. Il faut juste le {colour_start|mark}révéler{colour_end}.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[Vos héros ne seront pas en mesure d'achever le Dévoreur, ils auront besoin d'aide.]]></entry>
-<entry id="str_plot_kill_ygreater_wurm_5_audio_line"><![CDATA[Léviathan du désert]]></entry>
+<entry id="str_plot_kill_ygreater_wurm_5_audio_line"><![CDATA[ Léviathan du désert]]></entry>
 <entry id="str_caretaker_goal_plot_kill_zalraune_3"><![CDATA[ Vaincre l'Alrune]]></entry>
 <entry id="town_quest_name_plot_kill_zalraune_3"><![CDATA[Fleurs séduisantes]]></entry>
 <entry id="town_quest_description_plot_kill_zalraune_3"><![CDATA[Un passage important est gardé par une masse cactonide d'un attrait dérangeant ...]]></entry>
@@ -318,7 +318,7 @@ pour animer le combat.]]></entry>
 <entry id="str_plot_kill_zalraune_3_tip"><![CDATA[Les prétendants de l'Alrune se calmeront seulement lorsqu'un héros sera à leur portée.]]></entry>
 <entry id="str_plot_kill_zalraune_3_tip"><![CDATA[La clé est de gérer la personne la plus apte à se battre.]]></entry>
 <entry id="str_plot_kill_zalraune_3_tip"><![CDATA[Les équipes équilibrées pourront se remettre de l'emprise des prétendants.]]></entry>
-<entry id="str_plot_kill_zalraune_3_audio_line"><![CDATA[Fleurs séduisantes]]></entry>
+<entry id="str_plot_kill_zalraune_3_audio_line"><![CDATA[ Fleurs séduisantes]]></entry>
 <entry id="str_caretaker_goal_plot_kill_zcact_wall_5"><![CDATA[ Vaincre le Cœur nucléique]]></entry>
 <entry id="town_quest_name_plot_kill_zcact_wall_5"><![CDATA[Fracasser le Mur]]></entry>
 <entry id="town_quest_description_plot_kill_zcact_wall_5"><![CDATA[Un autre cactonide est prêt à être cueilli. La destruction de cet ensemble de lianes et de racines est indispensable pour atteindre le Reliquaire.]]></entry>
@@ -330,7 +330,7 @@ pour animer le combat.]]></entry>
 <entry id="str_plot_kill_zcact_wall_5_tip"><![CDATA[Les défenses ne peuvent pas survivre sans le Cœur.]]></entry>
 <entry id="str_plot_kill_zcact_wall_5_tip"><![CDATA[Des défenses différentes auront des effets différents.]]></entry>
 <entry id="str_plot_kill_zcact_wall_5_tip"><![CDATA[Une équipe polyvalente sera nécessaire pour s'adapter aux défenses changeantes.]]></entry>
-<entry id="str_plot_kill_zcact_wall_5_audio_line"><![CDATA[Briser les défenses]]></entry>
+<entry id="str_plot_kill_zcact_wall_5_audio_line"><![CDATA[ Briser les défenses]]></entry>
 <entry id="town_quest_name_plot_ghoul_retention_0"><![CDATA[L'antre de la bête [{colour_start|moon_torch}Nuit{colour_end}]]]></entry>
 <entry id="town_quest_description_plot_ghoul_retention_0"><![CDATA[Nous avons enfin trouvé la Mère des goules. Elle a pillé les biens de nos héros tombés au combat, et les a entassés dans son infâme repaire. Reprenons ce que nous avons perdu !]]></entry>
 <entry id="str_returned_from_plot_ghoul_retention_0_failure"><![CDATA[{?hero_names}%s ont échoué dans leur expédition contre la Mère des goules.]]></entry>
