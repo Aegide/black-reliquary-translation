@@ -2809,9 +2809,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_maggot_squirm"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʑ{colour_end}Gémissements]]></entry>
 <entry id="str_monster_skill_snail_slime"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʖ{colour_end}Saumure]]></entry>
 <entry id="str_monster_skill_snail_spike"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Shell Shield]]></entry>
-<entry id="str_monster_skill_cact_hemo_spike"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Wall of Spines]]></entry>
-<entry id="str_monster_skill_cact_hemo_bite"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
-<entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Filthy Fangs]]></entry>
+<entry id="str_monster_skill_cact_hemo_spike"><![CDATA[{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Mur d'épines]]></entry>
+<entry id="str_monster_skill_cact_hemo_bite"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Crocs infects]]></entry>
+<entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Crocs infects]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
 <entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Croissance de combat]]></entry>
@@ -2827,7 +2827,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_hermit_guard"><![CDATA[{colour_start|white}ɚɛɛɜɥʫɩɦʐʗ{colour_end}Mur de pierre]]></entry>
 <entry id="str_monster_skill_cact_hermit_pound"><![CDATA[{colour_start|white}ɘɘɠɟɥʰɩɦɱʓ{colour_end}Marteau monolithique]]></entry>
 <entry id="str_monster_skill_cact_hermit_spikes"><![CDATA[{colour_start|white}ɡɡɡɡʫɩɧʏ{colour_end}Épine perforante]]></entry>
-<entry id="str_monster_skill_cact_opul_stress"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɮɯʑ{colour_end}Chilling Stare]]></entry>
+<entry id="str_monster_skill_cact_opul_stress"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɮɯʑ{colour_end}Regard glaçant]]></entry>
 <entry id="str_monster_skill_cact_opul_spit"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʵʏ{colour_end}Seed Spit]]></entry>
 <entry id="str_monster_skill_cact_opul_head"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Head On]]></entry>
 <entry id="str_monster_skill_cact_opul_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Head Ache]]></entry>
@@ -2842,7 +2842,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_mimic_puke2"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
 <entry id="str_monster_skill_cact_mimic_puke3"><![CDATA[{colour_start|white}ʛʜʝʞɥɣɣɘɘɩʟʏʖ{colour_end}Crachat]]></entry>
 <entry id="str_monster_skill_cact_mimic_bite"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Morsure]]></entry>
-<entry id="str_monster_skill_cact_bloom"><![CDATA[{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Phéromones]]></entry>
+<entry id="str_monster_skill_cact_bloom"><![CDATA[{colour_start|white}ɪɥɣɘɘɘɩɦʋʀ{colour_end}Phéromones cactonides]]></entry>
 <entry id="str_monster_skill_carrion_summon"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Progéniture]]></entry>
 <entry id="str_monster_skill_carrion_hive_sting"><![CDATA[{colour_start|white}ɘɡɡɡɥʫɩɦʑʔ{colour_end}Injection létale]]></entry>
 <entry id="str_monster_skill_carrion_hive_phero"><![CDATA[{colour_start|white}ɚɛɛɜɥʫɩɦʃʐ{colour_end}Phéromones vitales]]></entry>
