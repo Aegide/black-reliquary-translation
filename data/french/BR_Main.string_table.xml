@@ -1263,7 +1263,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_crude_altar_nothing"><![CDATA[Rien que du sang séché.]]></entry>
 <entry id="str_curio_crude_altar_effect"><![CDATA[Le rituel a libéré un grand pouvoir !]]></entry>
 <entry id="str_curio_crude_altar_disease"><![CDATA[L'autel dégage une énergie nauséabonde !]]></entry>
-<entry id="str_curio_crude_altar_bandage_loot"><![CDATA[Au moins, l'ambre peut être retiré.]]></entry>
+<entry id="str_curio_crude_altar_bandage_loot"><![CDATA[L'ambre est retiré de l'effigie.]]></entry>
 <entry id="str_curio_crude_altar_holy_water_effect"><![CDATA[Le rituel d'alun nettoie l'autel !]]></entry>
 <entry id="str_curio_crude_altar_medicinal_herbs_purge"><![CDATA[Les énergies néfastes sont bannies !]]></entry>
 <entry id="str_curio_crude_altar_arch_kit_effect"><![CDATA[Certaines vérités devraient rester cachées ...]]></entry>
@@ -2573,8 +2573,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_apihr_smoke_buff"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɧʐ{colour_end}Encens de force]]></entry>
 <entry id="str_monster_skill_totakh_rush1"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Charge nécrosée]]></entry>
 <entry id="str_monster_skill_totakh_rush2"><![CDATA[{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɨ{colour_end}Charge nécrosée]]></entry>
-<entry id="str_monster_skill_totakh_darkness"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩʀɮɶ{colour_end}Dusk Dispersion]]></entry>
-<entry id="str_monster_skill_totakh_laser"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɘɘɩʹʻɮ{colour_end}End Of Days]]></entry>
+<entry id="str_monster_skill_totakh_darkness"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʀɮɶ{colour_end}Appel du crépuscule]]></entry>
+<entry id="str_monster_skill_totakh_laser"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɘɘɩʹʻɮ{colour_end}Crache-Mort]]></entry>
 <entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Munition morbide]]></entry>
 <entry id="str_monster_skill_totakh_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Présage funeste]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>

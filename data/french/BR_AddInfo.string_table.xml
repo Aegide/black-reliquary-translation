@@ -88,8 +88,8 @@
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT2"><![CDATA[Fin du combat :
 {colour_start|notable}Antiquité mineure{colour_end} - 87% 
 {colour_start|notable}Antiquité rare{colour_end} - 13%]]></entry>
-<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[Taille des piles d'or augmentées de 1000]]></entry>
-<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[Taille des piles de dariques Kvarotz augmentées de 10]]></entry>
+<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[Taille des piles d'or augmentée de 1000]]></entry>
+<entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[Taille des piles de dariques augmentée de 10]]></entry>
 <entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[TODO:Modes can be switched using Transform Skill
 ]]></entry>
 <entry id="camping_skill_effect_loot_ABO_BREL_MODE_HUMAN"><![CDATA[{colour_start|notable}Humain :{colour_end}
