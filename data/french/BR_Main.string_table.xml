@@ -789,12 +789,14 @@ des symptômes et des maladies.]]></entry>
 mais leur corps carapacé est facilement étourdi.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Abattez rapidement les hordes troglodytes.
 L'union fait leur force.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:The mollusk-like Trogs are covered in vile secretions that can cause disease. Prepare accordingly.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Alum will be useful to ward against the dark powers channeled by the Troglodytes.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les troglodytes sont couverts de substances qui peuvent provoquer des maladies. Préparez-vous en conséquence.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[L'encens d'alun sera utile pour se défendre contre les rituels occultes des troglodytes.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Les pelles ont des usages très variés dans ces galeries remplies de gravats.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Disease kits will be helpful against the sludge and decay-riddled objects within the caverns.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Allowing to safely collect amber, bandages will find a lot of use in those caves.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les trousses médicinales seront utiles contre la boue et la pestilence des cavernes.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les bandages, qui permettent de collecter l'ambre en toute sécurité,
+seront très utiles dans ces grottes.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Chaque région renferme ses propres défis.
+Rassemblez votre groupe et vos provisions de manière appropriée.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Utilisez vos feux de camp !
 Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
@@ -821,7 +823,7 @@ Les compétences de campement ne sont utiles que si elles sont utilisées.]]></e
 <entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des trésors "exotiques".
 Utiliser des vapeurs d'alun pourrait réveiller ces trésors.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes
- manières, afin d'obtenir des résultats différents.]]></entry>
+manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
 et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
@@ -2453,7 +2455,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_normal"><![CDATA[{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Prêt à tirer !]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_explode"><![CDATA[{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Prêt à tirer !]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_chain"><![CDATA[{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Prêt à tirer !]]></entry>
-<entry id="str_monster_skill_levantine_sniper_shoot_normal"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɧɷ{colour_end}Focused Impact]]></entry>
+<entry id="str_monster_skill_levantine_sniper_shoot_normal"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɧɷ{colour_end}Flèche perçante]]></entry>
 <entry id="str_monster_skill_levantine_sniper_shoot_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɨ{colour_end}Flèche explosive]]></entry>
 <entry id="str_monster_skill_levantine_sniper_shoot_chain"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Flèche enchaînée]]></entry>
 <entry id="str_monster_skill_levantine_sniper_panic"><![CDATA[Couvrez-moi !]]></entry>
