@@ -2521,10 +2521,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Lumière aveuglante]]></entry>
 <entry id="str_monster_skill_cleric_knights_vow"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Vœu du chevalier]]></entry>
 <entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Gleaning Glare]]></entry>
-<entry id="str_monster_skill_cleric_stand_behind"><![CDATA[TODO:Stand Behind Me!]]></entry>
-<entry id="str_monster_skill_pilgrim_stab"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʎ{colour_end}Bleed, Heretic!]]></entry>
+<entry id="str_monster_skill_cleric_stand_behind"><![CDATA[Derrière-moi !]]></entry>
+<entry id="str_monster_skill_pilgrim_stab"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʎ{colour_end}Saigne, Hérétique !]]></entry>
 <entry id="str_monster_skill_pilgrim_weak_stab"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Stumbling Thrust]]></entry>
-<entry id="str_monster_skill_pilgrim_shout"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʇʐ{colour_end}Indignant Rally]]></entry>
+<entry id="str_monster_skill_pilgrim_shout"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʇʐ{colour_end}Cri de ralliement]]></entry>
 <entry id="str_monster_skill_pilgrim_rabble"><![CDATA[TODO:Rabble Rout]]></entry>
 <entry id="str_monster_skill_rebuke_the_rotten"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
 <entry id="str_monster_skill_rebuke_the_rotten_tutorial"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɦɾɮ{colour_end}Repentez-vous !]]></entry>
@@ -2796,7 +2796,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_greater_wurm_scream"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɧɮ{colour_end}Colossus Scream]]></entry>
 <entry id="str_monster_skill_greater_tongue_lash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɘɘɘɩɧʏ{colour_end}Lingual Whip]]></entry>
 <entry id="str_monster_skill_greater_tongue_latch"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɘɘɘɩɧɲ{colour_end}It Hungers]]></entry>
-<entry id="str_monster_skill_missionary_martyr"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Invocation]]></entry>
+<entry id="str_monster_skill_missionary_martyr"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Purification]]></entry>
 <entry id="str_monster_skill_missionary_move"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Blockade Charge]]></entry>
 <entry id="str_monster_skill_missionary_attack"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʓ{colour_end}Assaut du gardien]]></entry>
 <entry id="str_monster_skill_missionary_lightning"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Ravissement]]></entry>
