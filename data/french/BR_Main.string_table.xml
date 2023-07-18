@@ -791,7 +791,7 @@ mais leur corps carapacé est facilement étourdi.]]></entry>
 L'union fait leur force.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:The mollusk-like Trogs are covered in vile secretions that can cause disease. Prepare accordingly.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Alum will be useful to ward against the dark powers channeled by the Troglodytes.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[TODO:Shovels have a wide variety of uses in these carved-out and rubble-filled caverns.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Les pelles ont des usages très variés dans ces galeries remplies de gravats.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Disease kits will be helpful against the sludge and decay-riddled objects within the caverns.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Allowing to safely collect amber, bandages will find a lot of use in those caves.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
@@ -2650,7 +2650,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_druid_day"><![CDATA[{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɧʐ{colour_end}Rituel solaire]]></entry>
 <entry id="str_monster_skill_druid_night"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦʚʐ{colour_end}Rituel lunaire]]></entry>
 <entry id="str_monster_skill_druid_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Collecte de sang]]></entry>
-<entry id="str_monster_skill_druid_rush"><![CDATA[TODO:Rush Remedy]]></entry>
+<entry id="str_monster_skill_druid_rush"><![CDATA[Remède désespéré]]></entry>
 <entry id="str_monster_skill_druid_melee_stealth"><![CDATA[Collecte de sang]]></entry>
 <entry id="str_monster_skill_druid_monkey"><![CDATA[Singeries]]></entry>
 <entry id="str_monster_skill_monkey"><![CDATA[Singeries]]></entry>
@@ -2705,17 +2705,17 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_vulture_eat"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɭʐ{colour_end}CORPSE PICK]]></entry>
 <entry id="str_monster_skill_vulture_pursue"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʎ{colour_end}PURSUE]]></entry>
 <entry id="str_monster_skill_vulture_stress"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}SCRAW]]></entry>
-<entry id="str_monster_skill_trog_hunter_vomit"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoide]]></entry>
-<entry id="str_monster_skill_trog_hunter_vomit_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoide]]></entry>
+<entry id="str_monster_skill_trog_hunter_vomit"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoïde]]></entry>
+<entry id="str_monster_skill_trog_hunter_vomit_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_hunter_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Poignard d'ambre]]></entry>
 <entry id="str_monster_skill_trog_hunter_weak_slash"><![CDATA[{colour_start|white}ɘɘɡɡʥɘɘɣɣɩɧɱ{colour_end}Roulade]]></entry>
-<entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Sickening Spew]]></entry>
+<entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_slinger_bola"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɦɱɽ{colour_end}Bolas d'ambre]]></entry>
 <entry id="str_monster_skill_trog_slinger_flashbomb"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦɮʓ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_dig"><![CDATA[{colour_start|white}ɪʤɘɘɣɣɩɧʐ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_bonk"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɽʑ{colour_end}Crush 'em]]></entry>
 <entry id="str_monster_skill_trog_lurker_bleed"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Carve 'em]]></entry>
-<entry id="str_monster_skill_trog_cultivator_regen"><![CDATA[{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɦɭʐ{colour_end}Force de la carapace]]></entry>
+<entry id="str_monster_skill_trog_cultivator_regen"><![CDATA[{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɦɭʐ{colour_end}Carapace primordiale]]></entry>
 <entry id="str_monster_skill_trog_cultivator_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦɮɯ{colour_end}Perce-oreille]]></entry>
 <entry id="str_monster_skill_trog_cultivator_tail"><![CDATA[{colour_start|white}ɘɡɡɡʩɣɣɘɘɩɧɱ{colour_end}Queue tranchante]]></entry>
 <entry id="str_monster_skill_trog_cultivator_cultivate"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʋʀ{colour_end}Renaissance]]></entry>
@@ -2746,10 +2746,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_saddleback_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_saddleback_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_saddleback_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
-<entry id="str_monster_skill_killerbite_scuttle"><![CDATA[TODO:{colour_start|white}ɪʦɘɘɘɣɩɧʚ{colour_end}Scuttle]]></entry>
+<entry id="str_monster_skill_killerbite_scuttle"><![CDATA[{colour_start|white}ɪʦɘɘɘɣɩɧʚ{colour_end}Écailles sombres]]></entry>
 <entry id="str_monster_skill_killerbite_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɣɣɘɩɧʎ{colour_end}Gouge 'em]]></entry>
 <entry id="str_monster_skill_killerbite_butcher"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʧɣɣɘɘɩɦɺʎ{colour_end}Butcher 'em]]></entry>
-<entry id="str_monster_skill_killerbite_prep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Track Scent]]></entry>
+<entry id="str_monster_skill_killerbite_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Pistage]]></entry>
 <entry id="str_monster_skill_killerbite_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_killerbite_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_killerbite_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
@@ -2760,7 +2760,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_gastrosaur_munch_3"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Full Dinner]]></entry>
 <entry id="str_monster_skill_gastrosaur_gore"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦʲɩɦɬʎ{colour_end}Predator's Feast]]></entry>
 <entry id="str_monster_skill_gastrosaur_tail"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦʲɩɦɱʓ{colour_end}Whiplash Strike]]></entry>
-<entry id="str_monster_skill_gastrosaur_spikes"><![CDATA[TODO:{colour_start|white}ɪɥʲɩɧʕ{colour_end}Impalement]]></entry>
+<entry id="str_monster_skill_gastrosaur_spikes"><![CDATA[{colour_start|white}ɪɥʲɩɧʕ{colour_end}Empalement]]></entry>
 <entry id="str_monster_skill_gastrosaur_rollout"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʦʲɩɧɳ{colour_end}Colossus Crash]]></entry>
 <entry id="str_monster_skill_giblett_lick"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Just a Taste...]]></entry>
 <entry id="str_monster_skill_giblett_eat"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɬʆʁ{colour_end}The Main Course]]></entry>
@@ -2776,7 +2776,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_wurm_consume"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɧʎ{colour_end}It Feasts]]></entry>
 <entry id="str_monster_skill_wurm_shuffle"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩɧɳ{colour_end}Terrasonic Slam]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_tongue"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɧʑ{colour_end}Dégustation]]></entry>
-<entry id="str_monster_skill_trog_pterotillus_spit"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʏʖ{colour_end}Septic Spew]]></entry>
+<entry id="str_monster_skill_trog_pterotillus_spit"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɮɯʖ{colour_end}Écholocalisation]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_wing"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʨɣɣɘɘɩɨ{colour_end}Skybound Swipe]]></entry>
 <entry id="str_monster_skill_otekh_bleed"><![CDATA[{colour_start|white}ɘɘɘɡɥɣɘɘɘɩɦʹʎ{colour_end}Empalement sinistre]]></entry>
