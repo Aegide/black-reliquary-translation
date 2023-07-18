@@ -756,7 +756,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 <entry id="str_glossary_term_definition_1028"><![CDATA[TODO:A consumable item which applies buffs and debuffs of varying strengths based upon affiliation.]]></entry>
 <entry id="str_glossary_term_1029"><![CDATA[Écaille d'égide]]></entry>
 <entry id="str_glossary_term_definition_1029"><![CDATA[TODO:An item which grants 1 Block to its user. Can be purchased from the provision screen with Refined Amber Dust.]]></entry>
-<entry id="str_glossary_term_1034"><![CDATA[TODO:Reflex Serum]]></entry>
+<entry id="str_glossary_term_1034"><![CDATA[Adrénaline]]></entry>
 <entry id="str_glossary_term_definition_1034"><![CDATA[TODO:An item which grants temporary buffs and riposte to its user. Produced by the Adrenaline Manufactorum, and obtained from the provision screen.]]></entry>
 <entry id="str_glossary_term_1035"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_glossary_term_definition_1035"><![CDATA[TODO:An item which cures almost all statuses on its user. Can be purchased from the provision screen with Refined Amber Dust.]]></entry>
@@ -795,8 +795,8 @@ L'union fait leur force.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Disease kits will be helpful against the sludge and decay-riddled objects within the caverns.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Allowing to safely collect amber, bandages will find a lot of use in those caves.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[TODO:Each region has its own challenges. Assemble your party and supplies accordingly.]]></entry>
-<entry id="str_warrens_tip"><![CDATA[Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si
-elles sont utilisées.]]></entry>
+<entry id="str_warrens_tip"><![CDATA[Utilisez vos feux de camp !
+Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes
  manières, afin d'obtenir des résultats différents.]]></entry>
@@ -815,8 +815,8 @@ Assemblez votre groupe de manière appropriée.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Les cactonides contiennent de nombreux trésors, mais vous devrez
 vous battre pour les obtenir.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La cupidité est naturelle pour beaucoup. Essayez de la maîtriser.]]></entry>
-<entry id="str_weald_tip"><![CDATA[Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si
-elles sont utilisées.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Utilisez vos feux de camp !
+Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des trésors "exotiques".
 Utiliser des vapeurs d'alun pourrait réveiller ces trésors.]]></entry>
@@ -1519,10 +1519,10 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_supplyextract_treasury"><![CDATA[TODO:The corrupted essence of twisted vegetation.
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end} -30% {colour_start|healhp}Healing{colour_end} Received, -30% {colour_start|blight}Blight{colour_end} Resist{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_extract_treasury"><![CDATA[TODO:Living Extract]]></entry>
-<entry id="str_inventory_title_estateadrenaline"><![CDATA[TODO:Reflex Serum]]></entry>
+<entry id="str_inventory_title_estateadrenaline"><![CDATA[Adrénaline]]></entry>
 <entry id="str_inventory_description_estateadrenaline"><![CDATA[TODO:A potent injection that dramatically increases aggression and reaction speed. 
 {colour_start|skill_unselectable}Target: Gain {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(3 tns){colour_end}{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_adrenaline"><![CDATA[TODO:Reflex Serum]]></entry>
+<entry id="buff_rule_data_tooltip_adrenaline"><![CDATA[Adrénaline]]></entry>
 <entry id="str_inventory_title_supplysnake_scale"><![CDATA[Écaille d'égide]]></entry>
 <entry id="str_inventory_description_supplysnake_scale"><![CDATA[TODO:A Mysterious scale from the wastes below. Fierce protection.
 {colour_start|skill_unselectable}Target: Gain 1 Block{colour_end}]]></entry>
@@ -2808,7 +2808,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_grave_nibble"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʓ{colour_end}Mordillement affreux]]></entry>
 <entry id="str_monster_skill_maggot_squirm"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʑ{colour_end}Gémissements]]></entry>
 <entry id="str_monster_skill_snail_slime"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑʖ{colour_end}Saumure]]></entry>
-<entry id="str_monster_skill_snail_spike"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Shell Shield]]></entry>
+<entry id="str_monster_skill_snail_spike"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Coque armure]]></entry>
 <entry id="str_monster_skill_cact_hemo_spike"><![CDATA[{colour_start|white}əəəəɥɣɣɘɘɩɦʗʐ{colour_end}Mur d'épines]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Crocs infects]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Crocs infects]]></entry>
@@ -3158,7 +3158,7 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : DGT +15%% et CRT +5%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : {colour_start|stress}Stress{colour_end} +20%% si {colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_BOOTS_TT"><![CDATA[TODO:On Miss: {colour_start|buff}Buff Self:{colour_end} Bombard: +100%% DMG {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EVASION_INCENSE_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : VIT +2 SPD et ESQUIVE +6]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EVASION_INCENSE_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : VIT +2 et ESQUIVE +6]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MEDICS_BOOTS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur cible : Soigne {colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRITICAL_DICE_TT"><![CDATA[TODO:On Attack Crit: {colour_start|buff}Buff Self:{colour_end} +2%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CUDGEL_WEIGHT_TT"><![CDATA[{colour_start|notable}Blackjack{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : VIT -7 {colour_start|skill_unselectable}(base : 100%%){colour_end}]]></entry>
