@@ -16,7 +16,7 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="str_ugc_show_panel_tooltip"><![CDATA[Activer / Voir les mods]]></entry>
 <entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité. Le haut de la liste a la plus haute priorité.]]></entry>
 <entry id="str_ugc_title"><![CDATA[Choisir les mods à activer]]></entry>
-<entry id="menu_base_element_view_glossary"><![CDATA[Communications]]></entry>
+<entry id="menu_base_element_view_glossary"><![CDATA[Informations]]></entry>
 <entry id="town_event_title_out_of_date"><![CDATA[MIS À JOUR]]></entry>
 <entry id="town_event_description_out_of_date"><![CDATA[Votre version de Black Reliquary est maintenant à jour]]></entry>
 <entry id="estate_title_format"><![CDATA[Le %s]]></entry>
@@ -48,7 +48,7 @@ Torche : ( 50 )]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 Combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end}{colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable} et {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
 <entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE
@@ -1462,7 +1462,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_yngolian_altar_yngolian_torch_2_summon_mash_yngolian3"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
 <entry id="str_curio_yngolian_altar_yngolian_torch_3_summon_mash_yngolian4"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
 <entry id="str_curio_yngolian_altar_yngolian_torch_4_summon_mash_yngolian5"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
-<entry id="str_curio_title_mountain_god_blade"><![CDATA[TODO:Mountain God's Blade]]></entry>
+<entry id="str_curio_title_mountain_god_blade"><![CDATA[Lame du Dieu de la Montagne]]></entry>
 <entry id="str_curio_content_mountain_god_blade"><![CDATA[TODO:The spirit of a great king wells around this blade.]]></entry>
 <entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[TODO:Receive the mighty warrior's gift]]></entry>
 <entry id="str_curio_mountain_god_blade_loot"><![CDATA[TODO:The apparition gives his approval before vanishing.]]></entry>
@@ -2665,9 +2665,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_wildlander_skewer"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɣɣɘɩɧʔ{colour_end}Pierce the Ranks]]></entry>
 <entry id="str_monster_skill_wildlander_raptor_misstep"><![CDATA[TODO:Misstep]]></entry>
 <entry id="str_monster_skill_wildlander_quarry"><![CDATA[TODO:Quarry in Sight]]></entry>
-<entry id="str_monster_skill_rend"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʬɩɦʎʑ{colour_end}Rend]]></entry>
-<entry id="str_monster_skill_howl"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɿɶʖ{colour_end}Howl]]></entry>
-<entry id="str_monster_skill_skull_toss"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥʫɩɦɮʓ{colour_end}Skull Toss]]></entry>
+<entry id="str_monster_skill_rend"><![CDATA[{colour_start|white}ɘɘɡɡɥʬɩɦʎʑ{colour_end}Déchiquetage]]></entry>
+<entry id="str_monster_skill_howl"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɿɶʖ{colour_end}Hurlement]]></entry>
+<entry id="str_monster_skill_skull_toss"><![CDATA[{colour_start|white}ɡɡɘɘɥʫɩɦɮʓ{colour_end}Jet de crâne]]></entry>
 <entry id="str_monster_skill_painweaver_wheel"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Wheeling Advance]]></entry>
 <entry id="str_monster_skill_painweaver_scream"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʧɣɘɘɘɩɿɶʖ{colour_end}Baying]]></entry>
 <entry id="str_monster_skill_painweaver_run"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
@@ -4479,7 +4479,7 @@ Self:
 <entry id="town_name_blacksmith"><![CDATA[Forge]]></entry>
 <entry id="town_name_camping_trainer"><![CDATA[Gaspard]]></entry>
 <entry id="town_name_feflow"><![CDATA[Zeppelin]]></entry>
-<entry id="town_name_glossary"><![CDATA[Communications]]></entry>
+<entry id="town_name_glossary"><![CDATA[Informations]]></entry>
 <entry id="town_name_graveyard"><![CDATA[Site funéraire]]></entry>
 <entry id="town_name_guild"><![CDATA[Salle d'entraînement]]></entry>
 <entry id="town_name_nomad_wagon"><![CDATA[Marché noir]]></entry>
