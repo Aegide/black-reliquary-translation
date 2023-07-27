@@ -1462,9 +1462,9 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_yngolian_altar_yngolian_torch_2_summon_mash_yngolian3"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
 <entry id="str_curio_yngolian_altar_yngolian_torch_3_summon_mash_yngolian4"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
 <entry id="str_curio_yngolian_altar_yngolian_torch_4_summon_mash_yngolian5"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
-<entry id="str_curio_title_mountain_god_blade"><![CDATA[Lame du Dieu de la Montagne]]></entry>
-<entry id="str_curio_content_mountain_god_blade"><![CDATA[TODO:The spirit of a great king wells around this blade.]]></entry>
-<entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[TODO:Receive the mighty warrior's gift]]></entry>
+<entry id="str_curio_title_mountain_god_blade"><![CDATA[Dieu de la Montagne]]></entry>
+<entry id="str_curio_content_mountain_god_blade"><![CDATA[L'esprit d'un grand roi enveloppe cette lame.]]></entry>
+<entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[Accepter le cadeau du puissant guerrier]]></entry>
 <entry id="str_curio_mountain_god_blade_loot"><![CDATA[TODO:The apparition gives his approval before vanishing.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_description"><![CDATA[Un amas de roches brisées bloque le chemin.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_title"><![CDATA[Colonne effondrée]]></entry>
