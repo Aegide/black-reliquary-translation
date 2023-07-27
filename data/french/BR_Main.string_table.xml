@@ -798,7 +798,8 @@ seront très utiles dans ces grottes.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Chaque région renferme ses propres défis.
 Rassemblez votre groupe et vos provisions de manière appropriée.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Utilisez vos feux de camp !
-Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
+Les compétences de campement ne sont utiles
+que si elles sont utilisées.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes
  manières, afin d'obtenir des résultats différents.]]></entry>
@@ -818,7 +819,8 @@ Assemblez votre groupe de manière appropriée.]]></entry>
 vous battre pour les obtenir.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La cupidité est naturelle pour beaucoup. Essayez de la maîtriser.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Utilisez vos feux de camp !
-Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
+Les compétences de campement ne sont utiles
+que si elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des trésors "exotiques".
 Utiliser des vapeurs d'alun pourrait réveiller ces trésors.]]></entry>
@@ -3529,7 +3531,7 @@ Reflex Serum {colour_start|skill_unselectable}(40%%){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketancestors_signet_ring"><![CDATA[Chevalière de l'Ancêtre]]></entry>
 <entry id="str_inventory_title_trinketancestors_tentacle_idol"><![CDATA[Idole tentaculaire de l'Ancêtre]]></entry>
 <entry id="str_inventory_title_trinketantiq_1"><![CDATA[Sac de billes]]></entry>
-<entry id="str_inventory_title_trinketantiq_2"><![CDATA[Médaillon sanguinolent]]></entry>
+<entry id="str_inventory_title_trinketantiq_2"><![CDATA[Médaillon de jade]]></entry>
 <entry id="str_inventory_title_trinketantiq_3"><![CDATA[Idole de la carapace]]></entry>
 <entry id="str_inventory_title_trinketantiq_4"><![CDATA[Doublon de la flotte]]></entry>
 <entry id="str_inventory_title_trinketantiq_5"><![CDATA[Bougie brûlée]]></entry>
