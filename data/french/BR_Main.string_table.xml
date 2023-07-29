@@ -823,8 +823,8 @@ Essayez de la maîtriser.]]></entry>
 Les compétences de campement ne sont utiles
 que si elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
-<entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des trésors "exotiques".
-Utiliser des vapeurs d'alun pourrait réveiller ces trésors.]]></entry>
+<entry id="str_weald_tip"><![CDATA[Les cactonides peuvent parfois ingérer des "trésors".
+Utiliser des vapeurs d'alun pourrait réveiller ces objets.]]></entry>
 <entry id="str_weald_tip"><![CDATA[La plupart des curios peuvent être abordées de différentes
 manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
@@ -961,12 +961,12 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_content_kvarotz_cannon"><![CDATA[Une arme de guerre Kvarotz, recouverte de poussière.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_cannon"><![CDATA[Examiner le canon ...]]></entry>
 <entry id="str_curio_kvarotz_cannon_nothing"><![CDATA[Le canon est abîmé et inutilisable.]]></entry>
-<entry id="str_curio_kvarotz_cannon_effect"><![CDATA[TODO:You collect some of the Kvarotz gunpowder for your own use.]]></entry>
-<entry id="str_curio_kvarotz_cannon_disease"><![CDATA[TODO:The hero cuts their hand on the rusted electrum.]]></entry>
-<entry id="str_curio_kvarotz_cannon_honing_oil_effect"><![CDATA[TODO:The electrum metal in the cannon reacts strangely...]]></entry>
-<entry id="str_curio_kvarotz_cannon_arch_kit_loot"><![CDATA[TODO:The opulent cannon is covered in gold and jewels!]]></entry>
-<entry id="str_curio_kvarotz_cannon_torch_summon"><![CDATA[TODO:The cannon fire draws the Levantine to your position!]]></entry>
-<entry id="str_curio_kvarotz_cannon_archaeologist_compendium_loot"><![CDATA[TODO:A secret compartment inside the barrel is revealed!]]></entry>
+<entry id="str_curio_kvarotz_cannon_effect"><![CDATA[La poudre à canon Kvarotz est récupérée.]]></entry>
+<entry id="str_curio_kvarotz_cannon_disease"><![CDATA[Le héros se blesse la main sur l'électrum rouillé.]]></entry>
+<entry id="str_curio_kvarotz_cannon_honing_oil_effect"><![CDATA[L'électrum du canon réagit étrangement ...]]></entry>
+<entry id="str_curio_kvarotz_cannon_arch_kit_loot"><![CDATA[Le canon est recouvert de pierres précieuses !]]></entry>
+<entry id="str_curio_kvarotz_cannon_torch_summon"><![CDATA[Le coup de canon attire l'attention !]]></entry>
+<entry id="str_curio_kvarotz_cannon_archaeologist_compendium_loot"><![CDATA[Un compartiment secret est révélé !]]></entry>
 <entry id="str_curio_title_kvarotz_sarcophagus"><![CDATA[TODO:Encrusted Sarcophagus]]></entry>
 <entry id="str_curio_content_kvarotz_sarcophagus"><![CDATA[TODO:A sarcophagus untouched for centuries.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_sarcophagus"><![CDATA[TODO:A peek inside couldn't hurt...]]></entry>
@@ -1040,16 +1040,16 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_amber_corrupted_relic_bandage_loot"><![CDATA[Une récolte aisée pour des mains protégées.]]></entry>
 <entry id="str_curio_amber_corrupted_relic_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_title_kvarotz_tech"><![CDATA[Débris d'electrum]]></entry>
-<entry id="str_curio_content_kvarotz_tech"><![CDATA[TODO:A heap of wrecked Kvarotz technology.]]></entry>
+<entry id="str_curio_content_kvarotz_tech"><![CDATA[Les restes d'une carcasse métallique.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_tech"><![CDATA[Il doit bien y avoir quelque chose parmi les débris ...]]></entry>
-<entry id="str_curio_kvarotz_tech_quirk"><![CDATA[TODO:There is a dark energy within this metal.]]></entry>
-<entry id="str_curio_kvarotz_tech_nothing"><![CDATA[TODO:Nothing but unusable scraps.]]></entry>
-<entry id="str_curio_kvarotz_tech_effect"><![CDATA[TODO:These scraps are razor-sharp!]]></entry>
-<entry id="str_curio_kvarotz_tech_loot"><![CDATA[TODO:Some of these pieces were adorned with Matakh!]]></entry>
-<entry id="str_curio_kvarotz_tech_bandage_loot"><![CDATA[TODO:The wrapping guards against the jagged metal!]]></entry>
-<entry id="str_curio_kvarotz_tech_arch_kit_loot"><![CDATA[TODO:Valuables are delicately extracted!]]></entry>
+<entry id="str_curio_kvarotz_tech_quirk"><![CDATA[Ce métal renferme une énergie sombre.]]></entry>
+<entry id="str_curio_kvarotz_tech_nothing"><![CDATA[Rien que des débris.]]></entry>
+<entry id="str_curio_kvarotz_tech_effect"><![CDATA[Ces fragments sont extrêmement tranchants !]]></entry>
+<entry id="str_curio_kvarotz_tech_loot"><![CDATA[Des morceaux étaient ornées de Matakh !]]></entry>
+<entry id="str_curio_kvarotz_tech_bandage_loot"><![CDATA[Les bandages protègent des coupures !]]></entry>
+<entry id="str_curio_kvarotz_tech_arch_kit_loot"><![CDATA[Les trésors sont délicatement extraits !]]></entry>
 <entry id="str_curio_kvarotz_tech_honing_oil_effect"><![CDATA[Ce blindage est incroyable !]]></entry>
-<entry id="str_curio_kvarotz_tech_archaeologist_compendium_loot"><![CDATA[TODO:Some of the scraps are encrusted with Daric!]]></entry>
+<entry id="str_curio_kvarotz_tech_archaeologist_compendium_loot"><![CDATA[Des morceaux étaient ornées de dariques !]]></entry>
 <entry id="str_curio_title_stone_reliquary"><![CDATA[Reliquaire de pierre]]></entry>
 <entry id="str_curio_content_stone_reliquary"><![CDATA[Un ancien coffre en pierre.
 Il est verrouillé.]]></entry>
