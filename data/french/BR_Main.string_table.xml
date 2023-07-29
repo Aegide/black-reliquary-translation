@@ -1051,7 +1051,8 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_kvarotz_tech_honing_oil_effect"><![CDATA[Ce blindage est incroyable !]]></entry>
 <entry id="str_curio_kvarotz_tech_archaeologist_compendium_loot"><![CDATA[TODO:Some of the scraps are encrusted with Daric!]]></entry>
 <entry id="str_curio_title_stone_reliquary"><![CDATA[Reliquaire de pierre]]></entry>
-<entry id="str_curio_content_stone_reliquary"><![CDATA[Un ancien coffre en pierre. Il est verrouillé.]]></entry>
+<entry id="str_curio_content_stone_reliquary"><![CDATA[Un ancien coffre en pierre.
+Il est verrouillé.]]></entry>
 <entry id="str_curio_tooltip_investigate_stone_reliquary"><![CDATA[Qu'y a-t-il à l'intérieur ?]]></entry>
 <entry id="str_curio_stone_reliquary_loot"><![CDATA[Le coffret est forcé, il contient des richesses !]]></entry>
 <entry id="str_curio_stone_reliquary_skeleton_key_loot"><![CDATA[Le coffret est déverrouillée et révèle de grandes richesses.]]></entry>
@@ -1419,7 +1420,8 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_cact_homi_holy_water_summon_cact_homi_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_homi_antivenom_summon_cact_homi_healingrec"><![CDATA[TODO:The human husk emits an herbicidal fog!]]></entry>
 <entry id="str_curio_title_cact_imit"><![CDATA[Reliquaire de pierre]]></entry>
-<entry id="str_curio_content_cact_imit"><![CDATA[Un ancien coffre en pierre. Il est verrouillé.]]></entry>
+<entry id="str_curio_content_cact_imit"><![CDATA[Un ancien coffre en pierre.
+Il est verrouillé.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_imit"><![CDATA[Qu'y a-t-il à l'intérieur ?]]></entry>
 <entry id="str_curio_cact_imit_summon"><![CDATA[Le coffre attaque !]]></entry>
 <entry id="str_curio_cact_imit_skeleton_key_summon_cact_imitator_key"><![CDATA[La clé est recrachée telle une balle !]]></entry> 
