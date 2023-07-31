@@ -21,8 +21,8 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="town_event_description_out_of_date"><![CDATA[Votre version de Black Reliquary est maintenant à jour]]></entry>
 <entry id="estate_title_format"><![CDATA[Le %s]]></entry>
 <entry id="curio_tooltip_quest_item_slot"><![CDATA[Faites glisser ici un OBJET DE QUÊTE depuis l'inventaire.]]></entry>
-<entry id="str_torch_overlay_hero_buffs_header"><![CDATA[Effets sur les héros]]></entry>
-<entry id="str_torch_overlay_monster_buffs_header"><![CDATA[Effets sur les monstres]]></entry>
+<entry id="str_torch_overlay_hero_buffs_header"><![CDATA[Effets sur les héros :]]></entry>
+<entry id="str_torch_overlay_monster_buffs_header"><![CDATA[Effets sur les monstres :]]></entry>
 <entry id="str_wave_farm_torch_tooltip_title"><![CDATA[TODO:{colour_start|miasma}[The Farmstead's Miasma]{colour_end}]]></entry>
 <entry id="str_wave_transition_a_torch_tooltip_title"><![CDATA[{colour_start|sun_torch}Soleil écrasant{colour_end}
 +Légion perdue
@@ -47,9 +47,9 @@ Torche : ( 50 )]]></entry>
 <entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[{colour_start|yellow}[Splendeur]{colour_end}]]></entry>	
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end} :]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 Combat){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end}{colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end} {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable} et {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
 <entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE
 ++Légion perdue
@@ -956,7 +956,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_kvarotz_armory_honing_oil_effect"><![CDATA[Une fois aiguisée, cette arme est plutôt belle !]]></entry>
 <entry id="str_curio_kvarotz_armory_arch_kit_loot"><![CDATA[TODO:One of these dusty objects is a trinket!]]></entry>
 <entry id="str_curio_kvarotz_armory__disease"><![CDATA[TODO:Kvarotz weapons don't make for good cutlery.]]></entry>
-<entry id="str_curio_kvarotz_armory_archaeologist_compendium_loot"><![CDATA[TODO:A hidden chamber inside is revealed!]]></entry>
+<entry id="str_curio_kvarotz_armory_archaeologist_compendium_loot"><![CDATA[Un compartiment secret est révélé !]]></entry>
 <entry id="str_curio_title_kvarotz_cannon"><![CDATA[Canon antique]]></entry>
 <entry id="str_curio_content_kvarotz_cannon"><![CDATA[Une arme de guerre Kvarotz, recouverte de poussière.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_cannon"><![CDATA[Examiner le canon ...]]></entry>
@@ -1018,12 +1018,12 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_levantine_defector_disease_kit_loot"><![CDATA["Avec ça, je serai en pleine forme."]]></entry>
 <entry id="str_curio_levantine_defector_firewood_loot"><![CDATA["Ça ne fait pas d'mal d'avoir plus de bois."]]></entry>
 <entry id="str_curio_levantine_defector_dog_treats_effect"><![CDATA["Hahaha, pas mal."]]></entry>
-<entry id="str_curio_title_kvarotz_vending"><![CDATA[TODO:Kvarotz Vending Golem]]></entry>
-<entry id="str_curio_content_kvarotz_vending"><![CDATA[TODO:VENDOR: It seems to only take currency from the Kvarotz era...]]></entry>
+<entry id="str_curio_title_kvarotz_vending"><![CDATA[Distributeur Kvarotz]]></entry>
+<entry id="str_curio_content_kvarotz_vending"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
-<entry id="str_curio_kvarotz_vending_archaeologist_compendium_loot"><![CDATA[TODO:A hidden compartment on the device is revealed!]]></entry>
-<entry id="str_curio_title_kvarotz_vending_tutorial"><![CDATA[TODO:Kvarotz Vending Golem]]></entry>
-<entry id="str_curio_content_kvarotz_vending_tutorial"><![CDATA[TODO:VENDOR: It seems to only take currency from the Kvarotz era...]]></entry>
+<entry id="str_curio_kvarotz_vending_archaeologist_compendium_loot"><![CDATA[Un compartiment derrière la machine est révélé !]></entry>
+<entry id="str_curio_title_kvarotz_vending_tutorial"><![CDATA[Distributeur Kvarotz]]></entry>
+<entry id="str_curio_content_kvarotz_vending_tutorial"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_tutorial_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
 <entry id="str_curio_title_monolith_piece"><![CDATA[TODO:Shard of the Monolith]]></entry>
 <entry id="str_curio_content_monolith_piece"><![CDATA[TODO:A piece needed to complete the monolith.]]></entry>
@@ -1097,7 +1097,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_sandwurm_loot"><![CDATA[Des fragments d'ambre étaient dans sa carcasse !]]></entry>
 <entry id="str_curio_corpse_sandwurm_torch_effect"><![CDATA[Leur trophée est détruit par le feu.]]></entry>
 <entry id="str_curio_corpse_sandwurm_shovel_effect"><![CDATA[Des restes humains s'écoulent par ses entrailles.]]></entry>
-<entry id="str_curio_corpse_sandwurm_bandage_loot"><![CDATA[TODO:Protected hands find amber in the wurm's mouth!]]></entry>
+<entry id="str_curio_corpse_sandwurm_bandage_loot"><![CDATA[Les bandages protègent vos mains !]]></entry>
 <entry id="str_curio_corpse_sandwurm_disease_kit_loot"><![CDATA[Le héros est protégé contre ces entrailles infectes.]]></entry>
 <entry id="str_curio_corpse_sandwurm_amber_extraction_kit_loot"><![CDATA[L'ambre est retiré avec précaution de son gosier.]]></entry>
 <entry id="str_curio_title_elephant_skull"><![CDATA[Crâne colossal]]></entry>
@@ -2507,9 +2507,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_thaum_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʏʑʖ{colour_end}Explosion caustique]]></entry>
 <entry id="str_monster_skill_thaum_throw_tutorial"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʏʑʖ{colour_end}Explosion caustique]]></entry>
 <entry id="str_monster_skill_thaum_whip"><![CDATA[{colour_start|white}ɘɡɡɡʩɣɣɘɘɩɧʡ{colour_end}Lacération]]></entry>
-<entry id="str_monster_skill_thaum_buff"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʃʐ{colour_end}Sinister Inoculation]]></entry>
+<entry id="str_monster_skill_thaum_buff"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʃʐ{colour_end}Inoculation sinistre]]></entry>
 <entry id="str_monster_skill_thaum_heal"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦɬʐ{colour_end}Reconstruction]]></entry>
-<entry id="str_monster_skill_thaum_retreat"><![CDATA[TODO:{colour_start|white}ɪʨɣɣɘɘɩɧʐ{colour_end}Ritual Retreat]]></entry>
+<entry id="str_monster_skill_thaum_retreat"><![CDATA[{colour_start|white}ɪʨɣɣɘɘɩɧʐ{colour_end}Retraite spirituelle]]></entry>
 <entry id="str_monster_skill_thaum_lash"><![CDATA[TODO:Lashing Out]]></entry>
 <entry id="str_monster_skill_cobra_spit"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɧʏ{colour_end}Crachat venimeux]]></entry>
 <entry id="str_monster_skill_cobra_bite"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʏ{colour_end}Injecter]]></entry>
