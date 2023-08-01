@@ -1410,17 +1410,17 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_vertev_holy_water_summon_cact_vertev_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_title_cact_savage"><![CDATA[TODO:Unnerving Sac]]></entry>
 <entry id="str_curio_content_cact_savage"><![CDATA[TODO:Eerie protrusions and liquids cover the plant.]]></entry>
-<entry id="str_curio_tooltip_investigate_cact_savage"><![CDATA[TODO:Collect the nectar.]]></entry>
+<entry id="str_curio_tooltip_investigate_cact_savage"><![CDATA[Collecter le nectar.]]></entry>
 <entry id="str_curio_cact_savage_summon"><![CDATA[TODO:The cactonid takes flight!]]></entry>
 <entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[TODO:The swarm is enraged!]]></entry> 
 <entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[TODO:The eldritch nectar is frighteningly tasty!]]></entry>
 <entry id="str_curio_cact_savage_holy_water_summon_cact_savage_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_title_cact_homi"><![CDATA[Cadavre envahi]]></entry>
-<entry id="str_curio_content_cact_homi"><![CDATA[TODO:A cadaver has been subsumed by plantlife.]]></entry>
-<entry id="str_curio_tooltip_investigate_cact_homi"><![CDATA[TODO:Check the body for loot.]]></entry>
-<entry id="str_curio_cact_homi_summon"><![CDATA[TODO:The rotting husk is infested!]]></entry>
+<entry id="str_curio_content_cact_homi"><![CDATA[Un cadavre a été englouti par la végétation.]]></entry>
+<entry id="str_curio_tooltip_investigate_cact_homi"><![CDATA[Chercher des trésors.]]></entry>
+<entry id="str_curio_cact_homi_summon"><![CDATA[Le corps s'anime subitement !]]></entry>
 <entry id="str_curio_cact_homi_holy_water_summon_cact_homi_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_homi_antivenom_summon_cact_homi_healingrec"><![CDATA[TODO:The human husk emits an herbicidal fog!]]></entry>
+<entry id="str_curio_cact_homi_antivenom_summon_cact_homi_healingrec"><![CDATA[Le corps émet un brouillard herbicide !]]></entry>
 <entry id="str_curio_title_cact_imit"><![CDATA[Reliquaire de pierre]]></entry>
 <entry id="str_curio_content_cact_imit"><![CDATA[Un ancien coffre en pierre.
 Il est verrouillé.]]></entry>
@@ -2673,7 +2673,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_rend"><![CDATA[{colour_start|white}ɘɘɡɡɥʬɩɦʎʑ{colour_end}Déchiquetage]]></entry>
 <entry id="str_monster_skill_howl"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɿɶʖ{colour_end}Hurlement]]></entry>
 <entry id="str_monster_skill_skull_toss"><![CDATA[{colour_start|white}ɡɡɘɘɥʫɩɦɮʓ{colour_end}Jet de crâne]]></entry>
-<entry id="str_monster_skill_painweaver_wheel"><![CDATA[{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Roulade violente]]></entry>
+<entry id="str_monster_skill_painweaver_wheel"><![CDATA[{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Roulade]]></entry>
 <entry id="str_monster_skill_painweaver_scream"><![CDATA[{colour_start|white}ɡɡɡɡʧɣɘɘɘɩɿɶʖ{colour_end}Gémissement]]></entry>
 <entry id="str_monster_skill_painweaver_run"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
 <entry id="str_monster_skill_painweaver_flat"><![CDATA[TODO:Flat Tire]]></entry>
@@ -2777,9 +2777,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_prisoner_damage_ghoul_giblett_large"><![CDATA[TODO:HELP! Get me out of this freak!]]></entry>
 <entry id="str_prisoner_damage_ghoul_giblett_large"><![CDATA[TODO:Free me! FREE ME!]]></entry>
 <entry id="str_prisoner_damage_ghoul_giblett_large"><![CDATA[TODO:I'M TRAPPED! Kill this beast!]]></entry>
-<entry id="str_monster_skill_miser_swing"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɧɱ{colour_end}Chest Smash]]></entry>
-<entry id="str_monster_skill_miser_run_back"><![CDATA[TODO:{colour_start|white}ɪʩɣɣɣɣɩɦʋʐ{colour_end}Gold Rush]]></entry>
-<entry id="str_monster_skill_miser_run_away"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Getaway]]></entry>
+<entry id="str_monster_skill_miser_swing"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɧɱ{colour_end}Coffre-fort]]></entry>
+<entry id="str_monster_skill_miser_run_back"><![CDATA[{colour_start|white}ɪʩɣɣɣɣɩɦʋʐ{colour_end}Ruée vers l'or]]></entry>
+<entry id="str_monster_skill_miser_run_away"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
 <entry id="str_monster_skill_wurm_burrow"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʁ{colour_end}Subsurface Approach]]></entry>
 <entry id="str_monster_skill_wurm_stun"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩʓʻʁ{colour_end}Earthen Eruption]]></entry>
 <entry id="str_monster_skill_wurm_consume"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɧʎ{colour_end}It Feasts]]></entry>
