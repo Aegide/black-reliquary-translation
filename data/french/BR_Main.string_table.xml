@@ -226,7 +226,8 @@ Torche :]]></entry>
 <entry id="str_returned_from_plot_catacombs_tutorial_success"><![CDATA[TODO:{?hero_names}%s have become familiar with the valley. This is only the beginning.]]></entry>
 <entry id="str_embarked_on_plot_catacombs_tutorial"><![CDATA[TODO:{?hero_names}%s were the first to Enter the Catacombs]]></entry>
 <entry id="town_quest_progress_plot_catacombs_tutorial"><![CDATA[Terminez votre première expédition !]]></entry>
-<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
+<entry id="str_plot_catacombs_tutorial_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent
+encore dans l'ombre.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les Levantins sont venus piller la vaste nécropole Kvarotz.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
 ils sauront profiter des opportunités.]]></entry>
@@ -830,7 +831,8 @@ manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[Vérifier régulièrement les bonus et les malus, de vos alliés et
 et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
-<entry id="str_crypts_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
+<entry id="str_crypts_tip"><![CDATA[D'anciens mécanismes Kvarotz se dissimulent
+encore dans l'ombre.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[Les Levantins sont venus piller les vastes catacombes Kvarotz.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[Les soldats levantins sont organisés et disciplinés,
 ils sauront profiter des opportunités.]]></entry>
@@ -2487,7 +2489,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_terp_life"><![CDATA[{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɦɬʐ{colour_end}Samsara : Vie]]></entry>
 <entry id="str_monster_skill_terp_death"><![CDATA[{colour_start|white}ɡɡɡɡʧɣɣɘɘɩɧɮ{colour_end}Samsara : Mort]]></entry>
 <entry id="str_monster_skill_terp_misstep"><![CDATA[Faux-pas]]></entry>
-<entry id="str_monster_skill_rak_human_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Griffes spirituelles]]></entry>
+<entry id="str_monster_skill_rak_human_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Griffe spirituelle]]></entry>
 <entry id="str_monster_skill_rak_human_shout"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
 <entry id="str_monster_skill_rak_human_shout_weak"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʑ{colour_end}Cri spirituel]]></entry>
 <entry id="str_monster_skill_rak_human_transform"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʐ{colour_end}Transcendance]]></entry>
@@ -2540,7 +2542,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_friar_no_salvation"><![CDATA[TODO:No Salvation!]]></entry>
 <entry id="str_monster_skill_friar_flee_to_masses"><![CDATA[TODO:{colour_start|white}ɪʧɣɣɘɘɩɨ{colour_end}Flee to the Masses]]></entry>
 <entry id="str_monster_skill_deadbolt_shield_charge"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧɱ{colour_end}Levée de bouclier]]></entry>
-<entry id="str_monster_skill_deadbolt_normal_arrow"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Excise the Menace]]></entry>
+<entry id="str_monster_skill_deadbolt_normal_arrow"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Carreau d'argent]]></entry>
 <entry id="str_monster_skill_deadbolt_gatling_arrow"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Spiritual Salvo]]></entry>
 <entry id="str_monster_skill_deadbolt_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Condamnation]]></entry>
 <entry id="str_monster_skill_deadbolt_equip"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʁʐ{colour_end}Consécration]]></entry>
@@ -2671,17 +2673,17 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_rend"><![CDATA[{colour_start|white}ɘɘɡɡɥʬɩɦʎʑ{colour_end}Déchiquetage]]></entry>
 <entry id="str_monster_skill_howl"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɿɶʖ{colour_end}Hurlement]]></entry>
 <entry id="str_monster_skill_skull_toss"><![CDATA[{colour_start|white}ɡɡɘɘɥʫɩɦɮʓ{colour_end}Jet de crâne]]></entry>
-<entry id="str_monster_skill_painweaver_wheel"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Wheeling Advance]]></entry>
+<entry id="str_monster_skill_painweaver_wheel"><![CDATA[{colour_start|white}ɡɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Roulade violente]]></entry>
 <entry id="str_monster_skill_painweaver_scream"><![CDATA[{colour_start|white}ɡɡɡɡʧɣɘɘɘɩɿɶʖ{colour_end}Gémissement]]></entry>
 <entry id="str_monster_skill_painweaver_run"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
 <entry id="str_monster_skill_painweaver_flat"><![CDATA[TODO:Flat Tire]]></entry>
-<entry id="str_monster_skill_painweaver_weaving"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Weaving Wheel]]></entry>
+<entry id="str_monster_skill_painweaver_weaving"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Enchevêtrement]]></entry>
 <entry id="str_monster_skill_spellblighter_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɧʑ{colour_end}Touch of the Unspeakable]]></entry>
-<entry id="str_monster_skill_spellblighter_howl1"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Mortal Terror]]></entry>
-<entry id="str_monster_skill_spellblighter_howl2"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Mortal Terror]]></entry>
-<entry id="str_monster_skill_spellblighter_howl3"><![CDATA[TODO:{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Mortal Terror]]></entry>
-<entry id="str_monster_skill_spellblighter_heal_missfire"><![CDATA[TODO:{colour_start|white}əəəəɥʫɩɧʟ{colour_end}Catastrophic Reshaping]]></entry>
-<entry id="str_monster_skill_spellblighter_heal"><![CDATA[TODO:{colour_start|white}əəəəɥʫɩɧɬ{colour_end}Malignant Reshaping]]></entry>
+<entry id="str_monster_skill_spellblighter_howl1"><![CDATA[{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Terreur mortelle]]></entry>
+<entry id="str_monster_skill_spellblighter_howl2"><![CDATA[{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Terreur mortelle]]></entry>
+<entry id="str_monster_skill_spellblighter_howl3"><![CDATA[{colour_start|white}ʛʜʝʞɥʫɩɿɶʖ{colour_end}Terreur mortelle]]></entry>
+<entry id="str_monster_skill_spellblighter_heal_missfire"><![CDATA[{colour_start|white}əəəəɥʫɩɧʟ{colour_end}Reconstruction catastrophique]]></entry>
+<entry id="str_monster_skill_spellblighter_heal"><![CDATA[{colour_start|white}əəəəɥʫɩɧɬ{colour_end}Reconstruction maléfique]]></entry>
 <entry id="str_monster_skill_spellblighter_soulflicker"><![CDATA[TODO:Soulflicker]]></entry>
 <entry id="str_monster_skill_blindness"><![CDATA[TODO:Light Blindness]]></entry>
 <entry id="str_monster_skill_mother_howl"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɿʖʊ{colour_end}Undead Dissonance]]></entry>
