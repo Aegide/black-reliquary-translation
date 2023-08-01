@@ -1023,7 +1023,7 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="str_curio_title_kvarotz_vending"><![CDATA[Distributeur Kvarotz]]></entry>
 <entry id="str_curio_content_kvarotz_vending"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
-<entry id="str_curio_kvarotz_vending_archaeologist_compendium_loot"><![CDATA[Un compartiment derrière la machine est révélé !]></entry>
+<entry id="str_curio_kvarotz_vending_archaeologist_compendium_loot"><![CDATA[Un compartiment derrière la machine est révélé !]]></entry>
 <entry id="str_curio_title_kvarotz_vending_tutorial"><![CDATA[Distributeur Kvarotz]]></entry>
 <entry id="str_curio_content_kvarotz_vending_tutorial"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_tutorial_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
