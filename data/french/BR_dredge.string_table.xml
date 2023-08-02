@@ -51,8 +51,8 @@ PROT +15% si Mecha]]></entry>
 Les compétences en Mecha génèrent de la {colour_start|debuff}chaleur{colour_end}, et une {colour_start|debuff}surchauffe{colour_end} à 100.]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT2"><![CDATA[Utiliser une compétence en {colour_start|debuff}surchauffe{colour_end} infligera 6 {colour_start|skill_unselectable}(+1/niveau){colour_end} au Scaphe]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_PASSIVE_TT3"><![CDATA[et un malus de +20% aux dégâts subis, tant qu'elle restera en Mecha.]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[{colour_start|notable}Cœur horrible{colour_end} permet de changer de mode.]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_MODE_TT2"><![CDATA[Le mode est conservé à la fin d'un combat.]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[{colour_start|notable}Cœur horrible{colour_end} permet de changer de mode]]></entry>
+<entry id="camping_skill_effect_loot_DREDGE_MODE_TT2"><![CDATA[Le mode est conservé à la fin d'un combat]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[( {colour_start|amberblighted}Cœur d'ambre pur{colour_end} )
 {colour_start|notable}Foreuse{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 90 / DGT -35% / CRIT +4% 
 DMG +50% vs {colour_start|amberblighted}Amberblight{colour_end} , Perçage d'armure +100% , {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>

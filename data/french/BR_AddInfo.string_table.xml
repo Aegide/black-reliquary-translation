@@ -40,7 +40,7 @@
 <entry id="camping_skill_selection_br111b"><![CDATA[{colour_start|riposte}Riposte{colour_end} : {colour_start|attacktype}Distance{colour_end}]]></entry>
 <entry id="camping_skill_selection_br111c"><![CDATA[{colour_start|riposte}Riposte{colour_end} : {colour_start|attacktype}Mystique{colour_end}]]></entry>
 <entry id="camping_skill_selection_br141a"><![CDATA[
-{colour_start|notable}Mouvement :{colour_end}]]></entry>
+{colour_start|notable}Mouvements :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br211a"><![CDATA[
 {colour_start|notable}Effets critiques :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br241a"><![CDATA[
@@ -53,18 +53,18 @@
 {colour_start|notable}Logistique :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br411a"><![CDATA[
 {colour_start|notable}Trésors supplémentaires :{colour_end}]]></entry>
-<entry id="camping_skill_selection_br441a"><![CDATA[TODO:
-{colour_start|notable}Activity Restrictions:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br441a"><![CDATA[
+{colour_start|notable}Contraintes d'activité :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br471a"><![CDATA[
 {colour_start|notable}Contraintes religieuses :{colour_end}]]></entry>
-<entry id="camping_skill_selection_br511a"><![CDATA[TODO:
-{colour_start|notable}Health Reactions:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br611a"><![CDATA[TODO:
-{colour_start|notable}On Death's Door Reactions:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br711a"><![CDATA[TODO:
-{colour_start|notable}On Death Effects:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br511a"><![CDATA[
+{colour_start|notable}Réaction aux PV :{colour_end}]]></entry>
+<entry id="camping_skill_selection_br611a"><![CDATA[
+{colour_start|notable}Réaction à l'agonie :{colour_end}]]></entry>
+<entry id="camping_skill_selection_br711a"><![CDATA[
+{colour_start|notable}Réaction à la mort :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br741a"><![CDATA[
-{colour_start|notable}Contraintes de groupe :{colour_end}]]></entry>
+{colour_start|notable}Contrainte de groupe :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br811a"><![CDATA[
 {colour_start|notable}Chances de vertu :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br841a"><![CDATA[
@@ -75,12 +75,12 @@
 <entry id="camping_skill_selection_br841e"><![CDATA[]]></entry>
 <entry id="camping_skill_selection_br841f"><![CDATA[]]></entry>
 <entry id="camping_skill_selection_br841g"><![CDATA[]]></entry>
-<entry id="camping_skill_selection_br911a"><![CDATA[TODO:
-{colour_start|notable}Unique Virtues:{colour_end}]]></entry>
-<entry id="camping_skill_selection_br941a"><![CDATA[TODO:
-{colour_start|notable}Unique Afflictions:{colour_end}]]></entry>
+<entry id="camping_skill_selection_br911a"><![CDATA[
+{colour_start|notable}Vertu unique :{colour_end}]]></entry>
+<entry id="camping_skill_selection_br941a"><![CDATA[
+{colour_start|notable}Affliction unique :{colour_end}]]></entry>
 <entry id="camping_skill_selection_br971a"><![CDATA[
-{colour_start|notable}Souvenirs:{colour_end}]]></entry>
+{colour_start|notable}Souvenirs :{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT1"><![CDATA[Interaction avec curio :
 {colour_start|notable}Antiquité mineure{colour_end} - 87% 
 {colour_start|notable}Antiquité rare{colour_end} - 13% 
@@ -90,25 +90,25 @@
 {colour_start|notable}Antiquité rare{colour_end} - 13%]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT3"><![CDATA[Taille des piles d'or augmentée de 1000]]></entry>
 <entry id="camping_skill_effect_loot_ANTI_BREL_LOOT_TT4"><![CDATA[Taille des piles de dariques augmentée de 10]]></entry>
-<entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[TODO:Modes can be switched using Transform Skill
+<entry id="camping_skill_effect_loot_ABO_BREL_MODE_INFO"><![CDATA[{colour_start|notable}Transformation{colour_end} permet de changer de mode
 ]]></entry>
 <entry id="camping_skill_effect_loot_ABO_BREL_MODE_HUMAN"><![CDATA[{colour_start|notable}Humain :{colour_end}
 Par défaut]]></entry>
-<entry id="camping_skill_effect_loot_ABO_BREL_MODE_BEAST"><![CDATA[TODO:{colour_start|notable}
-Beast:{colour_end}
-Costs 6 Stress per turn to use
-On Combat End: Use Transform]]></entry>
+<entry id="camping_skill_effect_loot_ABO_BREL_MODE_BEAST"><![CDATA[{colour_start|notable}
+Bête :{colour_end}
+Stress +6 (par tour)
+Le mode n'est pas conservé à la fin d'un combat]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_HP_TT"><![CDATA[TODO:Below 40% HP: {colour_start|buff}Buff Self:{colour_end} +7% CRIT / +20% DMG]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_DD_TT"><![CDATA[TODO:Other Heroes: {colour_start|healhp}Heal{colour_end} 10% HP]]></entry>
 <entry id="camping_skill_effect_loot_FLA_BREL_DEATH_TT"><![CDATA[TODO:Other Heroes: {colour_start|healhp}Heal{colour_end} 10 HP]]></entry>	
-<entry id="camping_skill_effect_loot_FLA_BREL_VIRTUE_CHECK_TT"><![CDATA[TODO:Cannot {colour_start|virtue}Virtue{colour_end}]]></entry>	
-<entry id="camping_skill_effect_loot_FLA_BREL_AFFLICT_TT"><![CDATA[TODO:{colour_start|afflicted}Rapturous(100ʪ):{colour_end}
-+25% DMG/ -20 DODGE/ +3 SPD
-Harmful Act-outs and Reactions]]></entry>	
+<entry id="camping_skill_effect_loot_FLA_BREL_VIRTUE_CHECK_TT"><![CDATA[{colour_start|virtue}Vertu{colour_end} impossible]]></entry>	
+<entry id="camping_skill_effect_loot_FLA_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Euphorique (100ʪ){colour_end}
+DGT +25% / ESQUIVE -20 / VIT +3
+Comportements dangereux]]></entry>	
 <entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD"><![CDATA[TODO:Death's Door Debuffs replaced with:
 +5 ACC/+20% DMG/+2 SPD
 +20%  {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end}/{colour_start|stun}Stun{colour_end} Resist]]></entry>
-<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD_REC"><![CDATA[TODO:Doesn't suffer from Death's Door Recovery penalty]]></entry>
+<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD_REC"><![CDATA[Ne subis pas les malus après l'agonie]]></entry>
 <entry id="camping_skill_effect_loot_FLAG_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Can only use Fighting Pit or Amber Den for stress relief, which grants him complete stress heal]]></entry>
 <entry id="camping_skill_effect_loot_FLAG_BREL_PARTY_SELF"><![CDATA[Un par groupe]]></entry>
 <entry id="camping_skill_effect_loot_MUSK_BREL_MODE_AMMO"><![CDATA[TODO:ADAPTIVE AMMO
