@@ -48,7 +48,7 @@ Torche : ( 50 )]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end} :]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 Combat){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end} {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable} et {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
 <entry id="str_darkness_title_0"><![CDATA[LUMIÈRE RADIEUSE
@@ -873,13 +873,13 @@ et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_cove_tip"><![CDATA[Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent
 temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} L'intérieur exposé est désormais accessible.]]></entry>
-<entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
+<entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
 <entry id="str_inventory_title_heirloombust"><![CDATA[{colour_start|BR_heirloom}Matakh{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomcrest"><![CDATA[{colour_start|BR_heirloom}Trophée{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
-<entry id="str_inventory_title_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre raffinée{colour_end}]]></entry>
+<entry id="str_inventory_title_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de l'empire Kvarotz, composée d'électrum.]]></entry>
 <entry id="str_inventory_description_heirloomcrest"><![CDATA[Un symbole de force et de respect parmi les sauvages.]]></entry>
 <entry id="str_inventory_description_heirloomdeed"><![CDATA[Une substance mystique qui proviens du Reliquaire.]]></entry>
@@ -890,13 +890,13 @@ temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></en
 <entry id="town_estate_bar_tooltip_crest"><![CDATA[Trophées : %d (servent à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_deed"><![CDATA[Ambre : %d (sert à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_portrait"><![CDATA[Bijoux : %d (servent à améliorer le navire.)]]></entry>
-<entry id="town_estate_bar_tooltip_shard"><![CDATA[Poussière d'ambre raffinée : %d (sert à réduire le stress.)]]></entry>
+<entry id="town_estate_bar_tooltip_shard"><![CDATA[Poussière d'ambre : %d (sert à réduire le stress.)]]></entry>
 <entry id="town_estate_bar_tooltip_blueprint"><![CDATA[Tek antique : %d (sert à améliorer le pont supérieur.)]]></entry>
 <entry id="curio_tooltip_pass"><![CDATA[Ignorer]]></entry>
 <entry id="str_curio_item_had_no_effect"><![CDATA[L'objet n'a aucun effet.]]></entry>
 <entry id="curio_tooltip_item_slot"><![CDATA[[OPTIONNEL] Faites glisser un objet ici pour l'utiliser sur cet élément.]]></entry>
 <entry id="curio_tooltip_item_slot_gather_curio"><![CDATA[[Ceci est une curiosité de quête. Aucun objet requis pour l'ouvrir.]]]></entry>
-<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[Ouvrir...]]></entry>
+<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[Ouvrir ...]]></entry>
 <entry id="str_curio_title_kvarotz_vase_tutorial"><![CDATA[Vase primitif]]></entry>
 <entry id="str_curio_content_kvarotz_vase_tutorial"><![CDATA[Des restes de poterie datant de la dynastie Kvarotz.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_vase_tutorial"><![CDATA[Regarder à l'intérieur ...]]></entry>
@@ -1440,37 +1440,37 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_dune_lilies_bandage_loot"><![CDATA[Les bandages vous protègent des épines !]]></entry>
 <entry id="str_curio_dune_lilies_honing_oil_effect"><![CDATA[Les pétales se flétrissent et émettent des fumées nocives !]]></entry>
 <entry id="str_curio_dune_lilies_amber_extraction_kit_loot"><![CDATA[La fleur est délicatement retirée.]]></entry>
-<entry id="str_curio_title_poison_peddler"><![CDATA[TODO:Poison Peddler]]></entry>
-<entry id="str_curio_content_poison_peddler"><![CDATA[TODO:VENDOR: The drink maker offers to prepare some beverages in exchange for ingredients.]]></entry>
-<entry id="str_curio_poison_peddler_portrait_effect"><![CDATA[TODO:A tonic is made from the oils in the jewelry!]]></entry>
-<entry id="str_curio_poison_peddler_adrenaline_effect"><![CDATA[TODO:This drink tastes awful, but its effects are empowering!]]></entry>
-<entry id="str_curio_poison_peddler_ginseng_effect"><![CDATA[TODO:An exotic tea is prepared. Earthy, yet refreshing!]]></entry>
-<entry id="str_curio_poison_peddler_disease_kit_effect"><![CDATA[TODO:Liquid medicine is prepared and its effect is miraculous!]]></entry>
-<entry id="str_curio_poison_peddler_medicinal_herbs_effect"><![CDATA[TODO:An elixir is shaken and poured into salted glasses!]]></entry>
-<entry id="str_curio_poison_peddler_laudanum_effect"><![CDATA[TODO:The beverage makes you feel strange, but confident!]]></entry>
-<entry id="str_curio_poison_peddler_antivenom_effect"><![CDATA[TODO:The peddler makes the most incredible of antitoxins!]]></entry>
-<entry id="str_curio_poison_peddler_honing_oil_effect"><![CDATA[TODO:The peddler calls it "safer than being killed".]]></entry>
+<entry id="str_curio_title_poison_peddler"><![CDATA[L'Alchimiste]]></entry>
+<entry id="str_curio_content_poison_peddler"><![CDATA[VENDEUR : Elle vous propose de préparer des breuvages en échange d'ingrédients.]]></entry>
+<entry id="str_curio_poison_peddler_portrait_effect"><![CDATA[Un tonique vert, acide et pétillant !]]></entry>
+<entry id="str_curio_poison_peddler_adrenaline_effect"><![CDATA[Un alcool fort, épicé et stimulant !]]></entry>
+<entry id="str_curio_poison_peddler_ginseng_effect"><![CDATA[Un thé exotique, amer et rafraîchissant !]]></entry>
+<entry id="str_curio_poison_peddler_disease_kit_effect"><![CDATA[Un médicament prodigieux !]]></entry>
+<entry id="str_curio_poison_peddler_medicinal_herbs_effect"><![CDATA[Un cocktail, salé et réconfortant !]]></entry>
+<entry id="str_curio_poison_peddler_laudanum_effect"><![CDATA[Une liqueur, sucrée et relaxante !]]></entry>
+<entry id="str_curio_poison_peddler_antivenom_effect"><![CDATA[Un incroyable détoxifiant !]]></entry>
+<entry id="str_curio_poison_peddler_honing_oil_effect"><![CDATA["Parfait pour une salade ..."]]></entry>
 <entry id="str_curio_title_cursed_gem_buyer"><![CDATA[Guerrières légendaires]]></entry>
-<entry id="str_curio_content_cursed_gem_buyer"><![CDATA[TODO:VENDOR: She and her follower have come looking for dark treasures.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem5_loot"><![CDATA[TODO:The two gaze at the great orb and reward you appropriately.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem4_loot"><![CDATA[TODO:The ancient headgear is stuffed into a sack and your reward is presented.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem3_loot"><![CDATA[TODO:The rosary is inspected, and you are given suitable compensation.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem2_loot"><![CDATA[TODO:The dagger is placed in a box and your reward is produced.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem1_loot"><![CDATA[TODO:The tablet is wrapped in cloth, and your prize is handed over.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_cursed_gem0_loot"><![CDATA[TODO:The totem is stuffed into their bag, and you receive a palmful of gems.]]></entry>
+<entry id="str_curio_content_cursed_gem_buyer"><![CDATA[VENDEUR : Elle et sa disciple sont venues chercher des trésors obscurs.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem5_loot"><![CDATA[Elles contemplent l'orbe et vous récompensent généreusement.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem4_loot"><![CDATA[Elles examinent la couronne et vous récompensent généreusement.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem3_loot"><![CDATA[Elles examinent le rosaire et vous récompensent généreusement.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem2_loot"><![CDATA[Elles inspectent la dague et vous offrent des trésors.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem1_loot"><![CDATA[Elles inspectent la tablette et vous offrent des trésors.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_cursed_gem0_loot"><![CDATA[Elles inspectent l'idole et vous offrent des trésors.]]></entry>
 <entry id="str_curio_title_yngolian_altar"><![CDATA[Balise de l'Yhngolia]]></entry>
-<entry id="str_curio_content_yngolian_altar"><![CDATA[TODO:An otherworldly force flows from this object, demanding ignition.]]></entry>
-<entry id="str_curio_tooltip_investigate_yngolian_altar"><![CDATA[TODO:It thirsts for flame...]]></entry>
-<entry id="str_curio_yngolian_altar_nothing"><![CDATA[TODO:The beacon ignites, but nothing happens...]]></entry>
-<entry id="str_curio_yngolian_altar_torch_summon_mash_yngolian"><![CDATA[TODO:You are transported to a celestial body!]]></entry>
-<entry id="str_curio_yngolian_altar_yngolian_torch_1_summon_mash_yngolian2"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
-<entry id="str_curio_yngolian_altar_yngolian_torch_2_summon_mash_yngolian3"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
-<entry id="str_curio_yngolian_altar_yngolian_torch_3_summon_mash_yngolian4"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
-<entry id="str_curio_yngolian_altar_yngolian_torch_4_summon_mash_yngolian5"><![CDATA[TODO:The twisted beacon is lit!]]></entry>
+<entry id="str_curio_content_yngolian_altar"><![CDATA[Une force surnaturelle émane de cet objet, réclamant de la lumière.]]></entry>
+<entry id="str_curio_tooltip_investigate_yngolian_altar"><![CDATA[Il a soif de lumière ...]]></entry>
+<entry id="str_curio_yngolian_altar_nothing"><![CDATA[La balise s'illumine, mais rien ne se passe ...]]></entry>
+<entry id="str_curio_yngolian_altar_torch_summon_mash_yngolian"><![CDATA[Vous êtes projetés sur un corps céleste !]]></entry>
+<entry id="str_curio_yngolian_altar_yngolian_torch_1_summon_mash_yngolian2"><![CDATA[La balise est allumée !]]></entry>
+<entry id="str_curio_yngolian_altar_yngolian_torch_2_summon_mash_yngolian3"><![CDATA[La balise est allumée !]]></entry>
+<entry id="str_curio_yngolian_altar_yngolian_torch_3_summon_mash_yngolian4"><![CDATA[La balise est allumée !]]></entry>
+<entry id="str_curio_yngolian_altar_yngolian_torch_4_summon_mash_yngolian5"><![CDATA[La balise est allumée !]]></entry>
 <entry id="str_curio_title_mountain_god_blade"><![CDATA[Dieu de la Montagne]]></entry>
 <entry id="str_curio_content_mountain_god_blade"><![CDATA[L'esprit d'un grand roi enveloppe cette lame.]]></entry>
-<entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[Accepter le cadeau du puissant guerrier]]></entry>
-<entry id="str_curio_mountain_god_blade_loot"><![CDATA[TODO:The apparition gives his approval before vanishing.]]></entry>
+<entry id="str_curio_tooltip_investigate_mountain_god_blade"><![CDATA[Accepter le cadeau du puissant guerrier.]]></entry>
+<entry id="str_curio_mountain_god_blade_loot"><![CDATA[L'apparition vous regarde avec approbation.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_description"><![CDATA[Un amas de roches brisées bloque le chemin.]]></entry>
 <entry id="str_obstacle_catacombs_pillar_title"><![CDATA[Colonne effondrée]]></entry>
 <entry id="str_obstacle_corpse_pile_description"><![CDATA[Un tas de cadavres, probablement des intrus ...]]></entry>
@@ -1485,55 +1485,55 @@ Il est verrouillé.]]></entry>
 <entry id="str_obstacle_treasury_sap_title"><![CDATA[Sève durcie]]></entry>
 <entry id="item_cant_sell_confirm"><![CDATA[Cet objet ne peut pas être vendu. (Il peut s'agir d'un objet gratuit octroyé par une certaine classe, comme la pelle gratuite offerte par la Pilleuse de tombes.)]]></entry>
 <entry id="str_inventory_title_supplyginseng"><![CDATA[Poudre de ginseng]]></entry>
-<entry id="str_inventory_description_supplyginseng"><![CDATA[TODO:A blend of Ginseng and lesser botanicals can cleanse a number of ailments.
-{colour_start|skill_unselectable}Target: Clear Mark, Bleed, Blight, Horror, and Debuffs{colour_end}]]></entry>
+<entry id="str_inventory_description_supplyginseng"><![CDATA[Un mélange de ginseng et de plantes permettant de traiter de nombreux maux.
+{colour_start|skill_unselectable}Cible : Retire marque, saignement, infection, horreur, et malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ginseng"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_inventory_title_supplyholy_water"><![CDATA[Encens d'alun]]></entry>
-<entry id="str_inventory_description_supplyholy_water"><![CDATA[TODO:The smoke of burnt alum can guard against unwellness.]]></entry>
+<entry id="str_inventory_description_supplyholy_water"><![CDATA[Les fumées de l'alun augmentent les résistances d'un héros.]]></entry>
 <entry id="buff_rule_data_tooltip_holy_water"><![CDATA[Encens d'alun]]></entry>
 <entry id="str_inventory_title_supplymedicinal_herbs"><![CDATA[Sel purifiant]]></entry>
-<entry id="str_inventory_description_supplymedicinal_herbs"><![CDATA[TODO:Blessed by the Light, these salts can remedy certain ailments on the body.]]></entry>
+<entry id="str_inventory_description_supplymedicinal_herbs"><![CDATA[Bénis par la Lumière, ces sels peuvent soigner certains troubles.]]></entry>
 <entry id="buff_rule_data_tooltip_medicinal_herbs"><![CDATA[Sel purifiant]]></entry>
 <entry id="str_inventory_title_supplyhoning_oil"><![CDATA[Huile d'affûtage]]></entry>
-<entry id="str_inventory_description_supplyhoning_oil"><![CDATA[TODO:This oil brings edges to a razor-sharpness while applied.]]></entry>
+<entry id="str_inventory_description_supplyhoning_oil"><![CDATA[Cette huile procure aux lames un tranchant redoutable.]]></entry>
 <entry id="buff_rule_data_tooltip_honing_oil"><![CDATA[Huile d'affûtage]]></entry>
 <entry id="buff_rule_data_tooltip_bandage"><![CDATA[Bandage]]></entry>
 <entry id="buff_rule_data_tooltip_antivenom"><![CDATA[Antidote]]></entry>
 <entry id="str_inventory_title_supplyarch_kit"><![CDATA[Kit archéologique]]></entry>
-<entry id="str_inventory_description_supplyarch_kit"><![CDATA[TODO:A set of tools for the purposes of carefully unearthing and revealing lost artifacts.]]></entry>
+<entry id="str_inventory_description_supplyarch_kit"><![CDATA[Ensemble d'outils permettant de déterrer et de révéler des trésors perdus.]]></entry>
 <entry id="buff_rule_data_tooltip_arch_kit"><![CDATA[Kit archéologique]]></entry>
 <entry id="str_inventory_title_supplydisease_kit"><![CDATA[Trousse médicinale]]></entry>
-<entry id="str_inventory_description_supplydisease_kit"><![CDATA[TODO:A set of herbs, medicines, and tools used to tend symptoms and stabilize diseases.]]></entry>
+<entry id="str_inventory_description_supplydisease_kit"><![CDATA[Ensemble d'herbes permettant de traiter les symptômes et de stabiliser les maladies.]]></entry>
 <entry id="buff_rule_data_tooltip_disease_kit"><![CDATA[Trousse médicinale]]></entry>
-<entry id="str_inventory_title_supplyamber_residue"><![CDATA[TODO:Amber Residue]]></entry>
-<entry id="str_inventory_description_supplyamber_residue"><![CDATA[TODO:A congealed amber slurry.
-{colour_start|skill_unselectable}{colour_start|buff}Buff Target:{colour_end} +10% DMG, +5% CRT, +10% Damage Taken (1 Battle)
+<entry id="str_inventory_title_supplyamber_residue"><![CDATA[Résidus d'ambre]]></entry>
+<entry id="str_inventory_description_supplyamber_residue"><![CDATA[TODO:Une bouillie ambrée.
+{colour_start|skill_unselectable}{colour_start|buff}Buff Target:{colour_end} +10% DMG, +5% CRT, +10% Damage Taken (1 combat)
 Values are halved for {colour_start|affiliation_religious}Religious{colour_end} and doubled for {colour_start|affiliation_pagan}Pagan{colour_end}
 Repeated use give diminishing returns{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_amber_residue"><![CDATA[TODO:Amber Residue]]></entry>
-<entry id="str_inventory_title_supplyextract_catacombs"><![CDATA[TODO:Decrepit Extract]]></entry>
+<entry id="buff_rule_data_tooltip_amber_residue"><![CDATA[Résidus d'ambre]]></entry>
+<entry id="str_inventory_title_supplyextract_catacombs"><![CDATA[Essence de décadence]]></entry>
 <entry id="str_inventory_description_supplyextract_catacombs"><![CDATA[TODO:A liquid derived from the shadows of the Catacombs.
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end}  -20% PROT, +5% Crits Received{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_extract_catacombs"><![CDATA[TODO:Decrepit Extract]]></entry>
-<entry id="str_inventory_title_supplyextract_interior"><![CDATA[TODO:Rabid Extract]]></entry>
+<entry id="buff_rule_data_tooltip_extract_catacombs"><![CDATA[Essence de décadence]]></entry>
+<entry id="str_inventory_title_supplyextract_interior"><![CDATA[Essence de violence]]></entry>
 <entry id="str_inventory_description_supplyextract_interior"><![CDATA[TODO:The raw essence of rage condensed into a serum.
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end}  -5 ACC, -5% CRT{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_extract_interior"><![CDATA[TODO:Rabid Extract]]></entry>
-<entry id="str_inventory_title_supplyextract_caverns"><![CDATA[TODO:Ancient Extract]]></entry>
+<entry id="buff_rule_data_tooltip_extract_interior"><![CDATA[Essence de violence]]></entry>
+<entry id="str_inventory_title_supplyextract_caverns"><![CDATA[Essence de déviance]]></entry>
 <entry id="str_inventory_description_supplyextract_caverns"><![CDATA[TODO:The concentrated essence of a primordial being.
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end}
 -15% All Status Skill Chance{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_extract_caverns"><![CDATA[TODO:Ancient Extract]]></entry>
-<entry id="str_inventory_title_supplyextract_treasury"><![CDATA[TODO:Living Extract]]></entry>
+<entry id="buff_rule_data_tooltip_extract_caverns"><![CDATA[Essence de déviance]]></entry>
+<entry id="str_inventory_title_supplyextract_treasury"><![CDATA[Essence de croissance]]></entry>
 <entry id="str_inventory_description_supplyextract_treasury"><![CDATA[TODO:The corrupted essence of twisted vegetation.
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end} -30% {colour_start|healhp}Healing{colour_end} Received, -30% {colour_start|blight}Blight{colour_end} Resist{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_extract_treasury"><![CDATA[TODO:Living Extract]]></entry>
+<entry id="buff_rule_data_tooltip_extract_treasury"><![CDATA[Essence de croissance]]></entry>
 <entry id="str_inventory_title_estateadrenaline"><![CDATA[Adrénaline]]></entry>
 <entry id="str_inventory_description_estateadrenaline"><![CDATA[TODO:A potent injection that dramatically increases aggression and reaction speed. 
 {colour_start|skill_unselectable}Target: Gain {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(3 tns){colour_end}{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_adrenaline"><![CDATA[Adrénaline]]></entry>
 <entry id="str_inventory_title_supplysnake_scale"><![CDATA[Écaille d'égide]]></entry>
-<entry id="str_inventory_description_supplysnake_scale"><![CDATA[TODO:A Mysterious scale from the wastes below. Fierce protection.
+<entry id="str_inventory_description_supplysnake_scale"><![CDATA[Une mystérieuse écaille venue de ces déserts. Une excellente protection.
 {colour_start|skill_unselectable}Target: Gain 1 Block{colour_end}]]></entry>
 <entry id="str_inventory_title_estateorder_of_honor"><![CDATA[TODO:Order of Honor]]></entry>
 <entry id="str_inventory_description_estateorder_of_honor"><![CDATA[TODO:Proof of one's achievements {colour_start|skill_unselectable}(Self: +400% Resolve XP){colour_end}]]></entry>
@@ -1545,7 +1545,7 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_estateCurioStresshealPagans"><![CDATA[SI VOUS VOYEZ CECI, IL Y A UN PROBLÈME]]></entry>
 <entry id="str_inventory_title_heirloomblueprint"><![CDATA[{colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloomblueprint"><![CDATA[Vieille technologie d'Ostvengr, d'avant l'effondrement ...]]></entry>
-<entry id="buff_rule_data_tooltip_blueprint"><![CDATA[TODO:{colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_blueprint"><![CDATA[{colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="str_inventory_title_gemotekh_head"><![CDATA[Visage impossible]]></entry>
 <entry id="str_inventory_description_gemotekh_head"><![CDATA[Le matériau le plus fascinant jamais conçu par l'empire Kvarotz, avant sa chute. Il se vend à prix d'or.]]></entry>
 <entry id="buff_rule_data_tooltip_otekh_head"><![CDATA[Visage impossible]]></entry>
