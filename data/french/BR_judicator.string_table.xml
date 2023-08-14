@@ -8,6 +8,7 @@
 <entry id="buff_stat_tooltip_upgrade_discount_JUDI_MELEE_AMBER_DMG_TT"><![CDATA[DGT %+d%% vs {colour_start|amberblighted}Amberblight{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_NAIL_CANT_PUSHPREP"><![CDATA[TODO:After {colour_start|prep_round}Prep Round:{colour_end}
 {colour_start|move}Knockback{colour_end} 2 {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JUDI_HAMMER_TT"><![CDATA[TODO:On Melee Attack Hit: Target: Break {colour_start|guard}Guard{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_judi_melee"><![CDATA[Convocation]]></entry>
 <entry id="buff_rule_data_tooltip_judi_expiate"><![CDATA[Accusation]]></entry>
 <entry id="buff_rule_data_tooltip_judi_amber"><![CDATA[Pieu d'ambre]]></entry>
