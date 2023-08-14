@@ -86,11 +86,11 @@ Ichor Incantation]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_expend_tooltip"><![CDATA[Expends all {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_use1_tooltip"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	
-	
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_foot_moveskill_TT"><![CDATA[+10%% {colour_start|move}Move{colour_end} Chance per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
 	{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Received if has no {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Received if has less than 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt2"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|stun}Stun{colour_end} Chance]]></entry>
@@ -100,7 +100,7 @@ Ichor Incantation]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt2"><![CDATA[+2 ACC per 25 Stress]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_turning_point_tt3"><![CDATA[+1%% Crits Received per 25 Stress]]></entry>
 	
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_disease_tt"><![CDATA[On Friendly Skill: Other Heroes: Gain {colour_start|symptom}Rictus Imperfectus{colour_end} {colour_start|skill_unselectable}(45%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_disease_tt"><![CDATA[On Friendly Skill: Other Heroes: Gain {colour_start|symptom}Symptom:{colour_end} {colour_start|quirk_rictus}Rictus Imperfectus{colour_end} {colour_start|skill_unselectable}(45%% Chance){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_parasite_flavor_tt"><![CDATA[{colour_start|skill_unselectable}A grin cracks the face in two, warping thoughts towards sadism and hunger.{colour_end}]]></entry>
 	
 	
@@ -123,6 +123,9 @@ Ichor Incantation]]></entry>
 	<entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_HEART_DODGE_TT"><![CDATA[+6 DODGE per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_stress"><![CDATA[On Attack: Other Heroes +3 {colour_start|stress}Stress{colour_end} if not {colour_start|afflicted}Afflicted{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_buffs"><![CDATA[On Attack: {colour_start|buff}Buff Others:{colour_end} +5%% ACC, +3%% CRIT, -33%% {colour_start|stress}Stress{colour_end} Inflicted On Party if {colour_start|afflicted}Afflicted{colour_end}]]></entry>
 
 	<!-- Addinfo -->
 	<entry id="camping_skill_name_addinfo_hexer"><![CDATA[Additional Information]]></entry>
@@ -179,10 +182,10 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE24"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 9 HP]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE25"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 10 HP]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE31"><![CDATA[^^Heal 3 {colour_start|stress}Stress{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE32"><![CDATA[^^Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE33"><![CDATA[^^Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE34"><![CDATA[^^Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE35"><![CDATA[^^Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE32"><![CDATA[^^Heal 3 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE33"><![CDATA[^^Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE34"><![CDATA[^^Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE35"><![CDATA[^^Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE4"><![CDATA[^^^^^^^{colour_start|buff}Buff Self:{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE51"><![CDATA[^^+10%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_2_SKILL_LINE52"><![CDATA[^^+12%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Chance]]></entry>
@@ -351,16 +354,22 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="hexer+str_bark_hexer_enthroned"><![CDATA[Know your place, and GROVEL at my feet.]]></entry>
 	<entry id="hexer+str_bark_hexer_enthroned"><![CDATA[I shall RULE over all, and turn the weak into meals.]]></entry>
 	
-	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[My body, a TEMPLE...]]></entry>
-	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[EXPUNGE this filth!]]></entry>
-	<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[I am far STRONGER than any mere disease...]]></entry>
+	<entry id="hexer+str_bark_scout"><![CDATA[Time to STALK for prey... Hihihi.]]></entry>
+	<entry id="hexer+str_bark_scout"><![CDATA[I will blend in with these MONSTERS.]]></entry>
+	<entry id="hexer+str_bark_scout"><![CDATA[Time for a MIDNIGHT tour of my kingdom-to-be.]]></entry>
+	<entry id="hexer+str_bark_pep_talk"><![CDATA[You better get back into the fray, lest you DISAPPOINT your king...]]></entry>
+	<entry id="hexer+str_bark_pep_talk"><![CDATA[Would you rather face ME or them? Heehee.]]></entry>
+	<entry id="hexer+str_bark_pep_talk"><![CDATA[Think of how much your ALLIES need you. What would happen to them otherwise?]]></entry>
+	<entry id="hexer+str_bark_hobby"><![CDATA[Aah, some ripened CARRION! A perfect snack.]]></entry>
+	<entry id="hexer+str_bark_hobby"><![CDATA[Just partaking of this DESPAIRING odor of yours is revitalizing...]]></entry>
+	<entry id="hexer+str_bark_hobby"><![CDATA[Excellent, there's still MARROW to be had in these bones.]]></entry>
+
 	
 	<!-- Quirks -->
 	
-	<entry id="str_quirk_name_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
-	<entry id="str_quirk_name_rictus_tended"><![CDATA[{colour_start|symptom}Rictus Imperfectus (Tended){colour_end}]]></entry>
-	<entry id="str_quirk_name_rictus_mortis"><![CDATA[Rictus Mortis]]></entry>
-	<entry id="str_quirk_name_rictus_mortis_tended"><![CDATA[Rictus Mortis (Stabilized)]]></entry>
+	<entry id="str_quirk_name_rictus"><![CDATA[{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
+	<entry id="str_quirk_name_rictus_mortis"><![CDATA[{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
+	<entry id="str_quirk_name_rictus_mortis_tended"><![CDATA[{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Mortis (Stabilized){colour_end}]]></entry>
 	
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt1"><![CDATA[Unusual hungers and delight in misery...]]></entry>
@@ -373,7 +382,7 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (15%% Chance){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt5"><![CDATA[{colour_start|skill_unselectable}+4 SPD, +5%% CRT per Vial Consumed{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt5"><![CDATA[{colour_start|skill_unselectable}+3 SPD, +4%% CRT per Vial Consumed{colour_end}]]></entry>
 	
     <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[At last! Something to SATE this hunger...!]]></entry>
 	<entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[Such a delicious and ripe AROMA. Let me through!]]></entry>
@@ -384,12 +393,6 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="str_mark_self_rictus"><![CDATA[Oh, your suffering brings me such joy!]]></entry>
 	<entry id="str_mark_self_rictus"><![CDATA[I'm simply all smiles! Hehehe...]]></entry>
 	<entry id="str_mark_self_rictus"><![CDATA[(cackles while crying)]]></entry>
-	
-	<entry id="str_mark_self_rictus_tended"><![CDATA[Must not laugh... Must not laugh...!]]></entry>
-	<entry id="str_mark_self_rictus_tended"><![CDATA[It's hard to speak with this grin...]]></entry>
-	<entry id="str_mark_self_rictus_tended"><![CDATA[Get out of my head!]]></entry>
-	<entry id="str_mark_self_rictus_tended"><![CDATA[My blood feels like acid in my veins!]]></entry>
-	<entry id="str_mark_self_rictus_tended"><![CDATA[My face aches from the grinning...]]></entry>
 	
 	<entry id="str_mark_self_rictus_mortis"><![CDATA[Watching you wretches die is simply RAPTUROUS!]]></entry>
 	<entry id="str_mark_self_rictus_mortis"><![CDATA[The hunger the hunger the hunger the HUNGER...]]></entry>
@@ -402,33 +405,26 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[My blood boils! It hurts so much, make it stop!]]></entry>
 	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[I don't know how much longer until I give in to these dark thoughts!]]></entry>
 	<entry id="str_mark_self_rictus_mortis_tended"><![CDATA[Are my thoughts even my own anymore?! Ahahaha!]]></entry>
-	
-	<entry id="str_roster_quirk_transition_rictus"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis{colour_end}.]]></entry>
-	<entry id="str_roster_quirk_transition_rictus_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s tended symptoms have worsened, resulting in {colour_start|disease}Rictus Mortis (Stabilized){colour_end}.]]></entry>
-	<entry id="str_roster_quirk_transition_rictus_mortis_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
 
+	<entry id="str_roster_quirk_transition_rictus"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|quirk_rictus}Rictus Mortis{colour_end}.]]></entry>
+	<entry id="str_roster_quirk_transition_rictus_mortis_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
+	
+	<entry id="quirk_transition_rictus_to_nothing"><![CDATA[The relief! I thank you!]]></entry>
+	<entry id="quirk_transition_rictus_to_nothing"><![CDATA[I almost became lost to... That thing.]]></entry>
+	<entry id="quirk_transition_rictus_to_nothing"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
 	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[(cracks a grin from ear to ear)]]></entry>
 	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[I have to admit, I'm PECKISH. Heehee!]]></entry>
 	<entry id="quirk_transition_rictus_to_rictus_mortis"><![CDATA[My burning blood suddenly feels so EUPHORIC. Ahaha!]]></entry>
-	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[No! I don't want this!]]></entry>
-	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[I must not yield... To the macabre visions...!]]></entry>
-	<entry id="quirk_transition_rictus_tended_to_rictus_mortis_tended"><![CDATA[My inner demons are getting the better of me, I'm sorry...]]></entry>
 	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Aaah, finally I feel like MYSELF again!]]></entry>
 	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[This is MUCH better, gyihihi!]]></entry>
 	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_mortis"><![CDATA[Life had gotten dull without these GRUESOME visions.]]></entry>
-	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Relief, if only slightly...]]></entry>
-	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[I'm sorry for what I've done and said.]]></entry>
-	<entry id="quirk_transition_rictus_mortis_tended_to_rictus_tended"><![CDATA[Oof, I can finally stomach a proper meal again.]]></entry>
-	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[The relief! I thank you!]]></entry>
-	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
-	<entry id="quirk_transition_rictus_to_rictus_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
 	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[The relief! I thank you!]]></entry>
 	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[I almost became lost to... That thing.]]></entry>
 	<entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
 	
 	
-	<entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|symptom}Rictus Imperfectus{colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|disease}Rictus Mortis{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
 	
 	<!--town barks-->
 	
@@ -659,6 +655,42 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[Spoils of some sort for your king, at last. Heehee!]]></entry>
 	<entry id="trigger_curio_affliction_cannibalistic"><![CDATA[Something to feast on during this famine!]]></entry>
 	
+	<!-- New BR Stuff -->
+	<entry id="hexer+doot"><![CDATA[SILENCE at once, you failed court jester!]]></entry>
+	
+	<entry id="hexer+str_mark_self_regenerator"><![CDATA[My blood SURGES with vigor.]]></entry>
+	<entry id="hexer+str_mark_self_regenerator"><![CDATA[Aaah, my heart beats in the THRILL.]]></entry>
+	<entry id="hexer+str_mark_self_regenerator"><![CDATA[Dark thoughts EMPOWER me!]]></entry>
+	<entry id="hexer+str_attack_self_algophilic"><![CDATA[UNRULY blood! Ugh!]]></entry>
+	<entry id="hexer+str_attack_self_algophilic"><![CDATA[Ack! Stop RESISTING, body!]]></entry>
+	<entry id="hexer+str_attack_self_algophilic"><![CDATA[The mind is STRONG, but the flesh is weak?]]></entry>
+	<entry id="hexer+str_mark_self_self_assured"><![CDATA[Carnage, carnage, CARNAGE!]]></entry>
+	<entry id="hexer+str_mark_self_self_assured"><![CDATA[I will BATHE in the shower of gore!]]></entry>
+	<entry id="hexer+str_mark_self_self_assured"><![CDATA[This will be EASY. I can already taste them, gihihi...]]></entry>
+	<entry id="hexer+str_mark_self_diffident"><![CDATA[So, so, SO hungry.]]></entry>
+	<entry id="hexer+str_mark_self_diffident"><![CDATA[My stomach ACHES. I can't bear this!]]></entry>
+	<entry id="hexer+str_mark_self_diffident"><![CDATA[Your KING is... not so sure, actually! Geh!]]></entry>
+	<entry id="hexer+str_mark_self_cheerful"><![CDATA[What, you expect a MOTIVATIONAL quip?]]></entry>
+	<entry id="hexer+str_mark_self_cheerful"><![CDATA[Pfeh. Get in there and slay them before I slay YOU intead.]]></entry>
+	<entry id="hexer+str_mark_self_cheerful"><![CDATA[Yes, yes, a FINE job preparing my meal.]]></entry>
+	<entry id="hexer+str_mark_self_downer"><![CDATA[Why am I surrounded by an entourage of SIMPLETONS?]]></entry>
+	<entry id="hexer+str_mark_self_downer"><![CDATA[My next DECREE will be to whip you into shape.]]></entry>
+	<entry id="hexer+str_mark_self_downer"><![CDATA[You are too WEAK to protect your king!]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_considerate"><![CDATA[Oooh, you've seasoned them with FEAR.]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_considerate"><![CDATA[Playing with your food? I quite LIKE that.]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_considerate"><![CDATA[You extend their SUFFERING? How evil. Gyahaha!]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_tactless"><![CDATA[Your strikes lack a BITE.]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_tactless"><![CDATA[The strong will feast on the weak. And you're WEAK!]]></entry>
+	<entry id="hexer+str_comment_ally_attack_missed_tactless"><![CDATA[That's not how to PREPARE my future meal at all, you blockhead.]]></entry>
+	<entry id="hexer+str_ignore_command_imposter_syndrome_BR"><![CDATA[I've got this ITCH...]]></entry>
+	<entry id="hexer+str_ignore_command_imposter_syndrome_BR"><![CDATA[...HMPH.]]></entry>
+
+	<entry id="hexer+quirk_transition_ghoul_fever_to_ghoul_plague"><![CDATA[My OWN body is suddenly so appetizing?]]></entry>
+	<entry id="hexer+quirk_transition_ghoul_plague_tended_to_ghoul_plague"><![CDATA[Excellent, the HOWLING is back. Grrr.]]></entry>
+	<entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[Spare the SCIENCE. My blood is stronger!]]></entry>
+	<entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[You better be CAREFUL with administering that. Gyihi!]]></entry>
+	<entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[This bring back UNPLEASANT memories.]]></entry>
+
   </language> 
 
 
