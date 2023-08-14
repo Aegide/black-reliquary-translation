@@ -68,7 +68,6 @@
 <entry id="buff_rule_tooltip_in_activity"><![CDATA[%s dans %s]]></entry>
 <entry id="buff_rule_tooltip_in_camp"><![CDATA[%s en campement]]></entry>
 <entry id="buff_rule_tooltip_in_camp_false"><![CDATA[%s hors campement]]></entry>
-<entry id="buff_rule_tooltip_in_corridor"><![CDATA[%s dans les couloirs]]></entry>
 <entry id="buff_rule_tooltip_in_dungeon"><![CDATA[%s dans %s]]></entry>
 <entry id="buff_rule_tooltip_in_rank"><![CDATA[{?string1}%s si en position {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[{?string1}%s si en position autre que {?decimal1}%d]]></entry>
@@ -80,7 +79,7 @@
 <entry id="buff_rule_tooltip_monsterType"><![CDATA[%s vs %s]]></entry>
 <entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s vs autre que %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[Hors {colour_start|attacktype}distance{colour_end} : %s]]></entry>
-<entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Riposte{colour_end} : %s]]></entry>
+<entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Riposte :{colour_end} %s]]></entry>
 <entry id="buff_rule_tooltip_skill"><![CDATA[%s : %s]]></entry>
 <entry id="buff_rule_tooltip_stress_above"><![CDATA[{?string1}%s si {colour_start|stress}stress{colour_end} supérieur à {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_stress_below"><![CDATA[{?string1}%s si {colour_start|stress}stress{colour_end} inférieur à {?decimal1}%d]]></entry>
@@ -178,10 +177,9 @@
 <entry id="character_panel_next_hero_tooltip"><![CDATA[Héros suivant]]></entry>
 <entry id="character_panel_previous_hero_tooltip"><![CDATA[Héros précédent]]></entry>
 <entry id="character_panel_rename_tt"><![CDATA[Renommer le héros]]></entry>
-<entry id="character_title_base_stats"><![CDATA[Stats de base]]></entry>
 <entry id="character_title_camping_skills"><![CDATA[Compétences de campement]]></entry>
 <entry id="character_title_combat_skills"><![CDATA[Compétences de combat]]></entry>
-<entry id="character_title_equipment"><![CDATA[Équipement]]></entry>
+<entry id="character_title_equipment"><![CDATA[]]></entry>
 <entry id="character_title_resistances"><![CDATA[Résistances]]></entry>
 <entry id="confirm_ok"><![CDATA[OK]]></entry>
 <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Charger la copie de sauvegarde.]]></entry>
@@ -215,7 +213,7 @@
 <entry id="effect_tooltip_guard_performer"><![CDATA[Force {colour_start|guard}protection{colour_end} par allié]]></entry>
 <entry id="effect_tooltip_heal_format"><![CDATA[{colour_start|healhp}Soigne{colour_end} %d PV]]></entry>
 <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Soigne{colour_end} %d pts/tr sur %d trs]]></entry>
-<entry id="effect_tooltip_kill_enemy_type"><![CDATA[Retire tous les %ss]]></entry>
+<entry id="aaaeffect_tooltip_kill_enemy_type"><![CDATA[Retire tous les %ss]]></entry>
 <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Poussée{colour_end} : %d]]></entry>
 <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Traction{colour_end} : %d]]></entry>
 <entry id="effect_tooltip_party"><![CDATA[Tous les héros :]]></entry>
@@ -666,7 +664,7 @@
 <entry id="str_discard_items_from_your_inventory"><![CDATA[Votre inventaire est plein. Jetez des objets pour faire de la place.]]></entry>
 <entry id="str_disease_cured"><![CDATA[Maladie guérie :]]></entry>
 <entry id="str_disease_new"><![CDATA[Nouvelle maladie !]]></entry>
-<entry id="str_diseases"><![CDATA[Maladies]]></entry>
+<entry id="str_diseases"><![CDATA[]]></entry>
 <entry id="str_diseases_cured"><![CDATA[Maladies guéries :]]></entry>
 <entry id="str_dlc_disabled"><![CDATA[Contenu téléchargeable désactivé]]></entry>
 <entry id="str_dlc_feature_locked_in"><![CDATA[Ce contenu téléchargeable ne peut pas être désactivé pour ce domaine.]]></entry>
@@ -2189,9 +2187,6 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Intéressant !]]></entry>
 <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Hum...]]></entry>
 <entry id="trinket_hero_class_requirement_format"><![CDATA[{colour_start|specificclass}[Uniquement pour %s]{colour_end}]]></entry>
-<entry id="trinket_hero_class_requirement_seperator"><![CDATA[ou]]></entry>
-<entry id="trinket_rarity_ancestral"><![CDATA[Ancestrale]]></entry>
-<entry id="trinket_rarity_ancestral_shambler"><![CDATA[Ancestrale]]></entry>
 <entry id="trinket_rarity_collector"><![CDATA[Très rare]]></entry>
 <entry id="trinket_rarity_common"><![CDATA[Commune]]></entry>
 <entry id="trinket_rarity_courtier"><![CDATA[Très rare]]></entry>
@@ -2235,7 +2230,6 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="effect_unstealth_format"><![CDATA[{colour_start|stealth}Sortie de furtivité{colour_end}]]></entry>
 <entry id="effect_health_damage_blocks_format"><![CDATA[%d absorption(s)]]></entry>
 <entry id="tray_icon_tooltip_health_damage_blocks_format"><![CDATA[%d absorption(s) restante(s)]]></entry>
-<entry id="buff_stat_tooltip_guard_blocked"><![CDATA[{colour_start|guard}Garde{colour_end} inefficace]]></entry>
 <entry id="str_ui_health_damage_block_onset"><![CDATA[Égide]]></entry>
 <entry id="str_ui_health_damage_block"><![CDATA[Absorption]]></entry>
 <entry id="str_ui_tag_block"><![CDATA[Absorption]]></entry>

@@ -73,7 +73,6 @@
     <entry id="buff_rule_tooltip_in_activity"><![CDATA[%s in %s]]></entry>
     <entry id="buff_rule_tooltip_in_camp"><![CDATA[%s while Camping]]></entry>
     <entry id="buff_rule_tooltip_in_camp_false"><![CDATA[%s while not Camping]]></entry>
-    <entry id="buff_rule_tooltip_in_corridor"><![CDATA[%s in Hallways]]></entry>
     <entry id="buff_rule_tooltip_in_dungeon"><![CDATA[%s in %s]]></entry>
     <entry id="buff_rule_tooltip_in_rank"><![CDATA[{?string1}%s if in position {?decimal1}%d]]></entry>
     <entry id="buff_rule_tooltip_in_rank_false"><![CDATA[{?string1}%s if not in position {?decimal1}%d]]></entry>
@@ -85,7 +84,7 @@
     <entry id="buff_rule_tooltip_monsterType"><![CDATA[%s vs %s]]></entry>
     <entry id="buff_rule_tooltip_monsterType_false"><![CDATA[%s vs not %s]]></entry>
     <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[%s not {colour_start|attacktype}Ranged{colour_end}]]></entry>
-    <entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Riposte{colour_end}: %s]]></entry>
+    <entry id="buff_rule_tooltip_riposte"><![CDATA[{colour_start|riposte}Riposte:{colour_end} %s]]></entry>
     <entry id="buff_rule_tooltip_skill"><![CDATA[%s: %s]]></entry>
     <entry id="buff_rule_tooltip_stress_above"><![CDATA[{?string1}%s if {colour_start|stress}Stress {colour_end}above {?decimal1}%d]]></entry>
     <entry id="buff_rule_tooltip_stress_below"><![CDATA[{?string1}%s if {colour_start|stress}Stress {colour_end}below {?decimal1}%d]]></entry>
@@ -183,10 +182,9 @@
     <entry id="character_panel_next_hero_tooltip"><![CDATA[Next Hero]]></entry>
     <entry id="character_panel_previous_hero_tooltip"><![CDATA[Previous Hero]]></entry>
     <entry id="character_panel_rename_tt"><![CDATA[Rename Hero]]></entry>
-    <entry id="character_title_base_stats"><![CDATA[Base Stats]]></entry>
     <entry id="character_title_camping_skills"><![CDATA[Camping Skills]]></entry>
     <entry id="character_title_combat_skills"><![CDATA[Combat Skills]]></entry>
-    <entry id="character_title_equipment"><![CDATA[Equipment]]></entry>
+    <entry id="character_title_equipment"><![CDATA[]]></entry>
     <entry id="character_title_resistances"><![CDATA[Resistances]]></entry>
     <entry id="confirm_ok"><![CDATA[OK]]></entry>
     <entry id="corrupt_save_confirm_answer_load_backup"><![CDATA[Load from backup.]]></entry>
@@ -220,7 +218,7 @@
     <entry id="effect_tooltip_guard_performer"><![CDATA[Force {colour_start|guard}Guard{colour_end} by Ally]]></entry>
     <entry id="effect_tooltip_heal_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d HP]]></entry>
     <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d pts/tn for %d tns]]></entry>
-    <entry id="effect_tooltip_kill_enemy_type"><![CDATA[Clear all %ss]]></entry>
+    <entry id="aaaeffect_tooltip_kill_enemy_type"><![CDATA[Clear all %ss]]></entry>
     <entry id="effect_tooltip_move_backward"><![CDATA[{colour_start|knockback}Knockback{colour_end} %d]]></entry>
     <entry id="effect_tooltip_move_forward"><![CDATA[{colour_start|move}Pull{colour_end} %d]]></entry>
     <entry id="effect_tooltip_party"><![CDATA[All Heroes:]]></entry>
@@ -679,7 +677,7 @@
     <entry id="str_discard_items_from_your_inventory"><![CDATA[Your inventory is full. Discard items to make room.]]></entry>
     <entry id="str_disease_cured"><![CDATA[Disease Cured:]]></entry>
     <entry id="str_disease_new"><![CDATA[New Disease!]]></entry>
-    <entry id="str_diseases"><![CDATA[Diseases]]></entry>
+    <entry id="str_diseases"><![CDATA[]]></entry>
     <entry id="str_diseases_cured"><![CDATA[Diseases Cured:]]></entry>
     <entry id="str_dlc_disabled"><![CDATA[DLC Disabled]]></entry>
     <entry id="str_dlc_feature_locked_in"><![CDATA[This DLC cannot be disabled for this Estate.]]></entry>
@@ -2232,9 +2230,6 @@
     <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Interesting!]]></entry>
     <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Hmmm...]]></entry>
     <entry id="trinket_hero_class_requirement_format"><![CDATA[{colour_start|specificclass}[%s only]{colour_end}]]></entry>
-    <entry id="trinket_hero_class_requirement_seperator"><![CDATA[or]]></entry>
-    <entry id="trinket_rarity_ancestral"><![CDATA[Ancestral]]></entry>
-    <entry id="trinket_rarity_ancestral_shambler"><![CDATA[Ancestral]]></entry>
     <entry id="trinket_rarity_collector"><![CDATA[Very Rare]]></entry>
     <entry id="trinket_rarity_common"><![CDATA[Common]]></entry>
     <entry id="trinket_rarity_courtier"><![CDATA[Very Rare]]></entry>
@@ -2280,13 +2275,12 @@
     <entry id="effect_unstealth_format"><![CDATA[{colour_start|stealth}De-stealth{colour_end}]]></entry>
     <entry id="effect_health_damage_blocks_format"><![CDATA[%d Blocks]]></entry>
     <entry id="tray_icon_tooltip_health_damage_blocks_format"><![CDATA[%d Blocks Remain]]></entry>
-    <entry id="buff_stat_tooltip_guard_blocked"><![CDATA[Can't be Guarded]]></entry>
     <entry id="str_ui_health_damage_block_onset"><![CDATA[Aegis]]></entry>
     <entry id="str_ui_health_damage_block"><![CDATA[Blocked]]></entry>
     <entry id="str_ui_tag_block"><![CDATA[Blocked]]></entry>
     <entry id="buff_stat_tooltip_tag_blocked"><![CDATA[Can't be Marked]]></entry>
-    <entry id="buff_rule_tooltip_is_guarded"><![CDATA[%s while Guarded]]></entry>
-    <entry id="buff_rule_tooltip_target_is_guarded"><![CDATA[%s vs Guarded]]></entry>
+    <entry id="buff_rule_tooltip_is_guarded"><![CDATA[%s while {colour_start|guard}Guarded{colour_end}]]></entry>
+    <entry id="buff_rule_tooltip_target_is_guarded"><![CDATA[%s vs {colour_start|guard}Guarded{colour_end}]]></entry>
     <entry id="str_stat_additional_monster"><![CDATA[Monster Status]]></entry>
     <entry id="tray_icon_tooltip_stealth_title_round"><![CDATA[{colour_start|stealth}Stealth{colour_end} (%d tns)]]></entry>
     <entry id="tray_icon_tooltip_stealth_title_before_turn"><![CDATA[{colour_start|stealth}Stealth{colour_end} (%d tns)]]></entry>
