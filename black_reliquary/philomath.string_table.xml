@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+
+<entry id="hero_class_name_philomath"><![CDATA[Philomath]]></entry>
+
+
+<entry id="str_affliction_name_consumed"><![CDATA[Consumed]]></entry>
+
+<entry id="philomath+str_afflicted_consumed"><![CDATA[I release... I release...]]></entry>
+<entry id="philomath+str_afflicted_consumed"><![CDATA[My mind is the nexus!]]></entry>
+<entry id="philomath+str_afflicted_consumed"><![CDATA[It bends my will... CONSUME ME!]]></entry>
+<entry id="philomath+str_afflicted_consumed"><![CDATA[I WILL HOLD ON NO LONGER.]]></entry>
+
+<entry id="philomath+str_bark_stress_consumed"><![CDATA[The wordless must be spoken!]]></entry>
+<entry id="philomath+str_bark_stress_consumed"><![CDATA[The terror flows forth.]]></entry>
+<entry id="philomath+str_bark_stress_consumed"><![CDATA[Your thoughts are not your own.]]></entry>
+<entry id="philomath+str_bark_stress_consumed"><![CDATA[These delusions finally bear fruit.]]></entry>
+
+<entry id="philomath+str_change_pos_forward_consumed"><![CDATA[I must see it for myself.]]></entry>
+<entry id="philomath+str_change_pos_forward_consumed"><![CDATA[Dismiss yourself!]]></entry>
+
+<entry id="philomath+str_random_command_consumed"><![CDATA[I give myself to it!]]></entry>
+<entry id="philomath+str_random_command_consumed"><![CDATA[It consumes my mind!]]></entry>
+<entry id="philomath+str_random_command_consumed"><![CDATA[I submit to these thoughts.]]></entry>
+
+<entry id="philomath+str_attack_friendly_consumed"><![CDATA[You must see the truth.]]></entry>
+<entry id="philomath+str_attack_friendly_consumed"><![CDATA[I reveal this to you.]]></entry>
+
+<entry id="philomath+str_mark_self_consumed"><![CDATA[Through this, I find power.]]></entry>
+<entry id="philomath+str_mark_self_consumed"><![CDATA[Mind overcomes body.]]></entry>
+
+
+<entry id="philomath+str_comment_trap_triggered_consumed"><![CDATA[It could not have been more obvious!]]></entry>
+<entry id="philomath+str_comment_trap_triggered_consumed"><![CDATA[Bumbling troglodyte!]]></entry>
+<entry id="philomath+str_comment_trap_triggered_consumed"><![CDATA[Clumsy oaf.]]></entry>
+
+<entry id="philomath+str_comment_curio_interaction_consumed"><![CDATA[What do you think you're doing with that?!]]></entry>
+<entry id="philomath+str_comment_curio_interaction_consumed"><![CDATA[Get away from that, you insect-brained plebian!]]></entry>
+<entry id="philomath+str_comment_curio_interaction_consumed"><![CDATA[Inept savage! Back away before you destroy it!]]></entry>
+
+<entry id="philomath+str_comment_self_hit_consumed"><![CDATA[This worthless form withstands.]]></entry>
+<entry id="philomath+str_comment_self_hit_consumed"><![CDATA[This feeble body... It must have more!]]></entry>
+
+<entry id="philomath+str_comment_block_buff_consumed"><![CDATA[Taint me not with your mortal touch.]]></entry>
+<entry id="philomath+str_comment_block_buff_consumed"><![CDATA[Its power is sufficient.]]></entry>
+
+<entry id="philomath+str_comment_block_combat_retreat_consumed"><![CDATA[No, NO! I must witness it!]]></entry>
+
+<entry id="philomath+str_block_heal_consumed"><![CDATA[Mend me not. Suffering draws me to the truth.]]></entry>
+
+<entry id="philomath+str_keep_loot_string"><![CDATA[I'll be keeping this for further study.]]></entry>
+<entry id="philomath+str_keep_loot_string"><![CDATA[These must be further analyzed.]]></entry>
+
+<entry id="trigger_curio_affliction_consumed"><![CDATA[Its secrets are mine and mine alone!]]></entry>
+<entry id="trigger_curio_affliction_consumed"><![CDATA[Step back, its knowledge would only confuse you.]]></entry>
+<entry id="trigger_curio_affliction_consumed"><![CDATA[I must know... I must.]]></entry>
+<entry id="trigger_curio_affliction_consumed"><![CDATA[Begone from me, I have studies to perform.]]></entry>
+
+<entry id="philomath+trigger_curio_quirk_egomania"><![CDATA[Is that beautiful reflection... Mine?]]></entry>
+<entry id="philomath+trigger_curio_quirk_plutomania"><![CDATA[I'll need a means of paying my tuition when this is finished.]]></entry>
+<entry id="philomath+trigger_curio_quirk_hylomania"><![CDATA[Treasures such as these must be catalogued.]]></entry>
+<entry id="philomath+trigger_curio_quirk_paranormania"><![CDATA[I don't want to- Yet it forces me...]]></entry>
+<entry id="philomath+trigger_curio_quirk_demonomania"><![CDATA[It consumes my mind, and my will...]]></entry>
+<entry id="philomath+trigger_curio_quirk_tapeworm"><![CDATA[I feel faint... So hungry...]]></entry>
+
+<entry id="philomath+str_heart_attack_consumed"><![CDATA[This form falters, help me!]]></entry>
+<entry id="philomath+str_heart_attack_consumed"><![CDATA[I cannot feel my body...]]></entry>
+<entry id="philomath+str_heart_attack_consumed"><![CDATA[It... It takes me!]]></entry>
+
+
+<entry id="philomath+str_critbyhero"><![CDATA[I... Did that?]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[It reels...!]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[I- I understand now!]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Its weakness is clear!]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Crushed by a superior mind.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[I see...]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[I feel its power within me...]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[It empowers me... Why?]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[There is... Power in these whispers?]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[These sickening thoughts... Strengthen me?]]></entry>
+
+<entry id="philomath+str_combat_knockback"><![CDATA[]]></entry>
+
+<entry id="philomath+str_bark_stress_partyhigh"><![CDATA[Do you feel it creeping into your thoughts?]]></entry>
+<entry id="philomath+str_bark_stress_partyhigh"><![CDATA[I feel its presence among us...]]></entry>
+<entry id="philomath+str_bark_stress_partyhigh"><![CDATA[... Be quiet. Just be quiet already.]]></entry>
+
+<entry id="philomath+str_bark_stress_partylow"><![CDATA[You all seem focused. Good.]]></entry>
+<entry id="philomath+str_bark_stress_partylow"><![CDATA[It seems I am amongst sturdy minds.]]></entry>
+<entry id="philomath+str_bark_stress_partylow"><![CDATA[You are admittedly quality company.]]></entry>
+
+<entry id="philomath+str_bark_hp_partylow"><![CDATA[No medicines of mine can fix this mess.]]></entry>
+<entry id="philomath+str_bark_hp_partylow"><![CDATA[I'm no surgeon, sadly.]]></entry>
+<entry id="philomath+str_bark_hp_partylow"><![CDATA[Admittedly I know very little about treating others.]]></entry>
+
+<entry id="philomath+str_bark_hp_partyhigh"><![CDATA[All our blood is in our bodies, so that is something to be thankful for.]]></entry>
+<entry id="philomath+str_bark_hp_partyhigh"><![CDATA[Ready to carry on?.]]></entry>
+<entry id="philomath+str_bark_hp_partyhigh"><![CDATA[I don't foresee myself falling today.]]></entry>
+
+<entry id="philomath+str_bark_hp_selflow"><![CDATA[I'm not well, and nothing with me will null the pain.]]></entry>
+<entry id="philomath+str_bark_hp_selflow"><![CDATA[I've come so far... So hard to push on...]]></entry>
+<entry id="philomath+str_bark_hp_selflow"><![CDATA[In death... Would I still dream?]]></entry>
+
+<entry id="philomath+str_bark_hp_selfhigh"><![CDATA[Not much to fear, is there?]]></entry>
+<entry id="philomath+str_bark_hp_selfhigh"><![CDATA[Not a link of armor, and I'm doing just fine.]]></entry>
+<entry id="philomath+str_bark_hp_selfhigh"><![CDATA[And to think they say I'm underdressed.]]></entry>
+
+<entry id="philomath+str_bark_stress_selflow"><![CDATA[Not to get our hopes up, but things are going well.]]></entry>
+<entry id="philomath+str_bark_stress_selflow"><![CDATA[Things could be much worse, I suppose.]]></entry>
+<entry id="philomath+str_bark_stress_selflow"><![CDATA[Head is clear for now. I feel well.]]></entry>
+
+<entry id="philomath+str_bark_stress_selfhigh"><![CDATA[I feel it speaking to me...]]></entry>
+<entry id="philomath+str_bark_stress_selfhigh"><![CDATA[My mind... It's like an itch...]]></entry>
+<entry id="philomath+str_bark_stress_selfhigh"><![CDATA[It is trying to overtake me...]]></entry>
+
+<entry id="philomath+str_bark_party_great_condition"><![CDATA[Things could certainly be worse for us.]]></entry>
+<entry id="philomath+str_bark_party_great_condition"><![CDATA[This is not a bad state we find ourselves in.]]></entry>
+<entry id="philomath+str_bark_party_great_condition"><![CDATA[Perhaps I might even stay awake.]]></entry>
+
+<entry id="philomath+str_bark_party_poor_condition"><![CDATA[These forms are... Failing.]]></entry>
+<entry id="philomath+str_bark_party_poor_condition"><![CDATA[This form cannot press on...]]></entry>
+<entry id="philomath+str_bark_party_poor_condition"><![CDATA[Were we in over our heads?]]></entry>
+
+<entry id="philomath+str_bark_firewood_low"><![CDATA[Neither tinder nor timber...]]></entry>
+<entry id="philomath+str_bark_firewood_low"><![CDATA[No more fire... Should have worn more.]]></entry>
+<entry id="philomath+str_bark_firewood_low"><![CDATA[We'd best finish our dealings in this place soon.]]></entry>
+
+<entry id="philomath+str_bark_provisions_low"><![CDATA[Not much food left... Why didn't you bring more?]]></entry>
+<entry id="philomath+str_bark_provisions_low"><![CDATA[This form hu- I... I am hungry.]]></entry>
+<entry id="philomath+str_bark_provisions_low"><![CDATA[How can I stay awake on such an empty stomach?]]></entry>
+
+<entry id="philomath+str_bark_provisions_high"><![CDATA[You stocked us well. You have my gratitude.]]></entry>
+<entry id="philomath+str_bark_provisions_high"><![CDATA[If we eat like this too often, I may outgrow my clothes.]]></entry>
+<entry id="philomath+str_bark_provisions_high"><![CDATA[Full stomach, focused mind.]]></entry>
+
+<entry id="philomath+str_bark_firewood_high"><![CDATA[I didn't realize we had a logger amongst us.]]></entry>
+<entry id="philomath+str_bark_firewood_high"><![CDATA[No shortage of fuel for the flames.]]></entry>
+
+<entry id="philomath+str_bark_companionship"><![CDATA[You're not what I really had in mind as a team... But I'm grateful.]]></entry>
+<entry id="philomath+str_bark_companionship"><![CDATA[I was doubtful, but you all suffice.]]></entry>
+
+<entry id="philomath+str_stagecoach_idle"><![CDATA[Feeling a touch light-headed this high up...]]></entry>
+<entry id="philomath+str_stagecoach_idle"><![CDATA[My destination changes, yet my task is immutable.]]></entry>
+<entry id="philomath+str_stagecoach_idle"><![CDATA[Abhorrent mysteries await my prying eyes in this land.]]></entry>
+
+<entry id="philomath+str_stagecoach_roster_full_rejection"><![CDATA[A bit cramped in those dwellings...]]></entry>
+
+<entry id="philomath+str_quest_too_hard"><![CDATA[I know my limits. Please don't make me!]]></entry>
+<entry id="philomath+str_quest_too_hard"><![CDATA[I am a capable woman, but not that capable!]]></entry>
+<entry id="philomath+str_quest_too_hard"><![CDATA[Surely someone else would be more qualified...?]]></entry>
+<entry id="philomath+str_quest_too_hard"><![CDATA[I arrived here with the hope of surviving!]]></entry>
+
+<entry id="philomath+str_quest_too_easy"><![CDATA[I've nothing left to learn from such a trifling task.]]></entry>
+<entry id="philomath+str_quest_too_easy"><![CDATA[You think too little of me.]]></entry>
+<entry id="philomath+str_quest_too_easy"><![CDATA[There's nothing left for me to study there.]]></entry>
+<entry id="philomath+str_quest_too_easy"><![CDATA[I'll not garner anything from this trivial task.]]></entry>
+
+<entry id="philomath+str_bark_curiobad"><![CDATA[How could I be so easily deceived?]]></entry>
+<entry id="philomath+str_bark_curiobad"><![CDATA[Since when was I so gullible?]]></entry>
+<entry id="philomath+str_bark_curiobad"><![CDATA[How could I be so easily deceived?]]></entry>
+<entry id="philomath+str_bark_curiogood"><![CDATA[How intriguing.]]></entry>
+<entry id="philomath+str_bark_curiogood"><![CDATA[Definitely worth investigation.]]></entry>
+<entry id="philomath+str_bark_curiogood"><![CDATA[Simply excellent!]]></entry>
+<entry id="philomath+str_bark_curiomeh"><![CDATA[Such a waste of my time...]]></entry>
+<entry id="philomath+str_bark_curiomeh"><![CDATA[How dull.]]></entry>
+<entry id="philomath+str_bark_curiomeh"><![CDATA[Not a single grain of knowledge to find.]]></entry>
+
+
+<entry id="philomath+str_bark_cerebral_numbing"><![CDATA[You seem tense. I will soften your thoughts.]]></entry>
+<entry id="philomath+str_bark_cerebral_numbing"><![CDATA[Relax yourse- Nevermind, I will do it for you.]]></entry>
+
+<entry id="philomath+str_bark_eldritch_restoration"><![CDATA[Cease your sniveling. This will repair you.]]></entry>
+<entry id="philomath+str_bark_eldritch_restoration"><![CDATA[Tireless studies have taught me this technique.]]></entry>
+
+<entry id="philomath+str_bark_criticism"><![CDATA[You have room to improve... But I�m sure you will.]]></entry>
+<entry id="philomath+str_bark_criticism"><![CDATA[You could be doing better. You have it in you.]]></entry>
+
+
+<entry id="philomath+str_bark_increasingstress"><![CDATA[Losing focus...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[It is speaking.]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[Head hurts...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[I must shoulder this burden...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[*strained breathing*]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[...I hear it...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[I am- This form, it- I...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[Got to get a grip...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[*shudders*]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[Can't... Breathe...]]></entry>
+<entry id="philomath+str_bark_increasingstress"><![CDATA[Need to... Hold it together...]]></entry>
+
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[I see the threshold...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[I see the threshold...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[The abyss opens to me...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[The abyss opens to me...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[It all goes dark...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[It all goes dark...]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[I hear it speaking... Help me!]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[I hear it speaking... Help me!]]></entry>
+<entry id="philomath+str_bark_deathsdoor"><![CDATA[No, please, I must see her again!]]></entry>
+
+<entry id="philomath+str_bark_deathsdoor_ally"><![CDATA[Stay with me, I have use of you!]]></entry>
+<entry id="philomath+str_bark_deathsdoor_ally"><![CDATA[Do not let it take you yet!]]></entry>
+<entry id="philomath+str_bark_deathsdoor_ally"><![CDATA[Do not shed your mortal coil this day.]]></entry>
+
+<entry id="philomath+str_bark_deathsdoorsurvive_ally"><![CDATA[Stand! You are still useful.]]></entry>
+<entry id="philomath+str_bark_deathsdoorsurvive_ally"><![CDATA[Carry on. You still have purpose.]]></entry>
+<entry id="philomath+str_bark_deathsdoorsurvive_ally"><![CDATA[You are well enough.]]></entry>
+
+<entry id="philomath+str_bark_deathsdoorsurvive"><![CDATA[It will not take me. I refuse!]]></entry>
+<entry id="philomath+str_bark_deathsdoorsurvive"><![CDATA[I will live on to see my mind repaired.]]></entry>
+<entry id="philomath+str_bark_deathsdoorsurvive"><![CDATA[Not until this curse is broken!]]></entry>
+
+<entry id="philomathstr_bark_increasingstress"><![CDATA[These blackened thoughts are mounting...]]></entry>
+<entry id="philomathstr_bark_increasingstress"><![CDATA[My mind strains...]]></entry>
+<entry id="philomathstr_bark_increasingstress"><![CDATA[My head... Make it stop!]]></entry>
+<entry id="philomathstr_bark_increasingstress"><![CDATA[Augh! This headache...!]]></entry>
+
+<entry id="philomath+str_bark_startmoving"><![CDATA[Carry on. This curse will not lift itself.]]></entry>
+<entry id="philomath+str_bark_startmoving"><![CDATA[I have a mind to salvage. Move along.]]></entry>
+<entry id="philomath+str_bark_startmoving"><![CDATA[This day will be long enough if we do not march.]]></entry>
+
+
+<entry id="philomath+str_bark_stress_camp_consumed"><![CDATA[You ingrates do not understand what it means to sleep.]]></entry>
+<entry id="philomath+str_bark_stress_camp_consumed"><![CDATA[Go on, rest. You have the luxury of it.]]></entry>
+<entry id="philomath+str_bark_stress_camp_consumed"><![CDATA[This form may not rest.]]></entry>
+
+<entry id="philomath+str_block_camping_skill_target_consumed"><![CDATA[It must not be tampered with.]]></entry>
+
+<entry id="philomath+str_block_camping_meal_consumed"><![CDATA[This form needs not of nourishment.]]></entry>
+
+<entry id="philomath+str_change_pos_fwd_consumed"><![CDATA[Impede this form no further!]]></entry>
+
+
+<entry id="philomath+str_monster_user_selected_targets_kill_pill"><![CDATA[My visions... Fulfilled...]]></entry>
+<entry id="philomath+str_monster_user_selected_targets_kill_pill"><![CDATA[My visions... Fulfilled...]]></entry>
+<entry id="philomath+str_monster_user_selected_targets_kill_pill"><![CDATA[My visions... Fulfilled...]]></entry>
+<entry id="philomath+str_monster_user_selected_targets_kill_pill"><![CDATA[My visions... Fulfilled...]]></entry>
+<entry id="philomath+str_monster_user_selected_targets_kill_pill"><![CDATA[If I could just see her one last time...]]></entry>
+
+
+<entry id="philomath+str_monster_attack_yurei_free"><![CDATA[Should I be so lucky to meet a similar fate...]]></entry>
+<entry id="philomath+str_monster_attack_yurei_free"><![CDATA[I envy her tranquility...]]></entry>
+
+<entry id="philomath+damsel_death"><![CDATA[N-No, am I asleep?! It cannot be, THIS CANNOT BE REAL!]]></entry>
+
+<entry id="philomath+React_To_Kill_By_Fan_Favourite"><![CDATA[Now *you* warrant further study!]]></entry>
+<entry id="philomath+React_To_Kill_By_Fan_Favourite"><![CDATA[I could stay up all night watching this!]]></entry>
+
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[J-... Janet?]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[So beautiful...]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[So beautiful...]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[So beautiful...]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[So beautiful...]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[You... Love me?]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[You... Love me?]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[You... Love me?]]></entry>
+<entry id="philomath+str_control_before_turn_siren"><![CDATA[You... Love me?]]></entry>
+<entry id="philomath+str_control_return_siren"><![CDATA[Was it... A dream?]]></entry>
+<entry id="philomath+str_control_return_siren"><![CDATA[I don't understand what came over me!]]></entry>
+
+<entry id="philomath+str_prisoner_damage_drowned_anchored"><![CDATA[It's taking me- IT'S TAKING ME!]]></entry>
+<entry id="philomath+str_prisoner_damage_drowned_anchored"><![CDATA[Get me out of these chains!]]></entry>
+<entry id="philomath+str_prisoner_damage_drowned_anchored"><![CDATA[It is trying to take me, HELP!]]></entry>
+<entry id="philomath+str_prisoner_damage_drowned_anchored"><![CDATA[The chains are crushing me!]]></entry>
+
+<entry id="philomath+str_monster_attack_unholy_smite"><![CDATA[Why can I hear its voices?]]></entry>
+<entry id="philomath+str_monster_attack_unholy_smite"><![CDATA[I corrupted myself so!]]></entry>
+
+<entry id="philomath+str_prisoner_damage_pyre_full"><![CDATA[I'd rather it take me than burn here!]]></entry>
+<entry id="philomath+str_prisoner_damage_pyre_full"><![CDATA[*desperate wailing*]]></entry>
+<entry id="philomath+str_prisoner_damage_pyre_full"><![CDATA[Consume me, creature! Get me out of here!]]></entry>
+<entry id="philomath+str_prisoner_damage_pyre_full"><![CDATA[*choking on smoke*]]></entry>
+
+<entry id="philomath+str_quirk_description_disease_vampire_blood_lust"><![CDATA[THE BLOOD SPEAKS LOUDER!]]></entry>
+<entry id="philomath+str_quirk_description_disease_vampire_crave"><![CDATA[So thirsty...]]></entry>
+<entry id="philomath+str_quirk_description_disease_vampire_passive"><![CDATA[This hunger... This power...]]></entry>
+<entry id="philomath+str_quirk_description_disease_vampire_wasting"><![CDATA[I feel faint... Need blood. Precious blood...]]></entry>
+
+<entry id="philomath+str_random_command_disease_vampire_blood_lust"><![CDATA[THE BLOOD SPEAKS INSTEAD!]]></entry>
+<entry id="philomath+str_random_command_disease_vampire_blood_lust"><![CDATA[THE POWER IN MY VEINS!]]></entry>
+<entry id="philomath+str_random_command_disease_vampire_blood_lust"><![CDATA[SO JOYOUS! IT TAKES CONTROL!]]></entry>
+
+<entry id="philomath+str_attack_self_disease_vampire_wasting"><![CDATA[This drug-tainted blood must suffice!]]></entry>
+<entry id="philomath+str_attack_self_disease_vampire_wasting"><![CDATA[It cannot stop me! I must drink!]]></entry>
+<entry id="philomath+str_attack_self_disease_vampire_wasting"><![CDATA[I need it... That sweetest of medicines...]]></entry>
+
+<entry id="philomath+str_block_move_disease_vampire_crave"><![CDATA[Not until my needs are sated!]]></entry>
+<entry id="philomath+str_block_move_disease_vampire_crave"><![CDATA[My body must feel the pleasures of the blood!]]></entry>
+<entry id="philomath+str_block_move_disease_vampire_crave"><![CDATA[Yet you deny me that precious red nectar?!]]></entry>
+
+<entry id="philomath+trigger_curio_quirk_disease_vampire_passive"><![CDATA[Here, it must be here!]]></entry>
+<entry id="philomath+trigger_curio_quirk_disease_vampire_crave"><![CDATA[More... More...]]></entry>
+<entry id="philomath+trigger_curio_quirk_disease_vampire_wasting"><![CDATA[Surely there is blood hidden here, PLEASE!]]></entry>
+
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[So restless! So lurid!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[So restless! So lurid!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[So restless! So lurid!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[I could stay awake forever!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[I could stay awake forever!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[I could stay awake forever!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[My body feels so right!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[My body feels so right!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[My body feels so right!]]></entry>
+<entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[If only she could feel this with me!]]></entry>
+
+
+<entry id="philomath+str_wave_spawn_mash"><![CDATA[Am I asleep? How is any of this happening?!]]></entry>
+<entry id="philomath+str_wave_spawn_mash"><![CDATA[Is there no end to them?]]></entry>
+<entry id="philomath+str_wave_curio_room"><![CDATA[Need to catch my breath...]]></entry>
+<entry id="philomath+str_wave_curio_room"><![CDATA[It appears calm here... Finally.]]></entry>
+<entry id="philomath+str_wave_dungeon_weald"><![CDATA[A forest? How are we...?]]></entry>
+<entry id="philomath+str_wave_dungeon_weald"><![CDATA[Wait, how did we get here from the farm?]]></entry>
+<entry id="philomath+str_wave_dungeon_warrens"><![CDATA[This odor... I'd rather return to rotten crops!]]></entry>
+<entry id="philomath+str_wave_dungeon_warrens"><![CDATA[How does one navigate this hell?!]]></entry>
+<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[This rubble... Have I treaded it before?]]></entry>
+<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[Endless sarcoghagi in endless catacombs...]]></entry>
+<entry id="philomath+str_wave_dungeon_cove"><![CDATA[These waters ebb and flow at the same time...]]></entry>
+<entry id="philomath+str_wave_dungeon_cove"><![CDATA[These caves are... Are impossible!]]></entry>
+<entry id="philomath+str_wave_dungeon_farm"><![CDATA[This soil... Familiar, yet alien.]]></entry>
+<entry id="philomath+str_wave_dungeon_farm"><![CDATA[Close to reality, yet still so distant...]]></entry>
+<entry id="philomath+str_boss_miller_sadness"><![CDATA[His sorrow... Does he truly remember?]]></entry>
+<entry id="philomath+str_boss_miller_sadness"><![CDATA[Is this man not entirely gone?]]></entry>
+<entry id="philomath+str_wave_dungeon_darkestdungeon"><![CDATA[I am... Home...]]></entry>
+<entry id="philomath+str_wave_dungeon_town"><![CDATA[These streets... They are not...]]></entry>
+<entry id="philomath+str_wave_dungeon_town"><![CDATA[When did we return? Did we?]]></entry>
+
+
+<entry id="str_inventory_title_trinketnightshade_concoction"><![CDATA[Nightshade Concoction]]></entry>
+<entry id="str_inventory_title_trinketmood_tonic"><![CDATA[Mood Tonic]]></entry>
+<entry id="str_inventory_title_trinketguide_to_influence"><![CDATA[Guide to Influence 4th Ed.]]></entry>
+<entry id="str_inventory_title_trinketedged_altercations"><![CDATA[Edged Altercations Vol. II]]></entry>
+
+<entry id="str_inventory_title_trinketbook_of_no_language"><![CDATA[The Book of No Language]]></entry>
+<entry id="str_inventory_title_trinketunsent_love_letters"><![CDATA[Unsent Love Letters]]></entry>
+
+<entry id="str_inventory_title_trinketunhealthy_habits"><![CDATA[Unhealthy Habits]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_heartattack_heal_tooltip"><![CDATA[+100%% Heart Attack {colour_start|stress}Stress{colour_end} Recovery]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_UNCOMMON_SELF_HORROR_TOOLTIP"><![CDATA[On Friendly Skill: Self: {colour_start|stress}Horror{colour_end} 2 pts/tn for 3 tns]]></entry>
+
+
+<entry id="buff_stat_tooltip_upgrade_discount_sentry_serum_tooltip"><![CDATA["Trembling hands and eye fatigue may occur."]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_nerve_tamer_tooltip"><![CDATA["May cause numbness and/ or heat flashes."]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_foresight_tonic_tooltip"><![CDATA["Accuracy of visions not guaranteed."]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_mood_tooltip_horror"><![CDATA[-20%% {colour_start|stress}Horror{colour_end} amount applied]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_mood_tooltip_1"><![CDATA["Improves interpersonal behavior."]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_mood_tooltip_2"><![CDATA[(Behavioral changes may vary.)]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_thrilling_tablets_tooltip_1"><![CDATA["One tablet lasts all night."]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_thrilling_tablets_tooltip_2"><![CDATA["Maximizes stamina and libido."]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_cosmic_additive_tooltip"><![CDATA["Minor hallucinations are completely normal."]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_tanto_tooltip"><![CDATA[Page Cutter: Armor Piercing, Bypass Guard]]></entry>
+
+<entry id="buff_rule_data_tooltip_page_cutter"><![CDATA[Page Cutter]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_TRINKET_GUIDE_INF_S_TT"><![CDATA[Absorbent Mind: +40%% {colour_start|stress}Stress Healing{colour_end} Done]]></entry>
+<entry id="buff_rule_data_tooltip_PHILO_TRINKET_GUIDE_INF_S_TT"><![CDATA[ vs Non-Religious]]></entry>
+
+
+
+<entry id="str_inventory_set_title_cc_philomath"><![CDATA["To see my mind unviolated again..."]]></entry>
+
+<entry id="buff_rule_data_tooltip_somnium"><![CDATA[Somnium]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_camping_tooltip"><![CDATA[{colour_start|mark}Skill will be usable upon Nightmare Update.{colour_end}]]></entry>
+
+
+<entry id="combat_skill_name_philomath_head_trauma"><![CDATA[Head Trauma]]></entry>
+<entry id="combat_skill_name_philomath_page_cutter"><![CDATA[Page Cutter]]></entry>
+<entry id="combat_skill_name_philomath_sunder"><![CDATA[Sundering Flesh]]></entry>
+<entry id="combat_skill_name_philomath_breakdown"><![CDATA[Breakdown]]></entry>
+<entry id="combat_skill_name_philomath_eldritch_safeguard"><![CDATA[ {colour_start|white}əəəə{colour_end}
+Eldritch Safeguard]]></entry>
+<entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Absorbent Mind]]></entry>
+<entry id="combat_skill_name_philomath_malevolent_pact"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Malevolent Pact]]></entry>
+
+<entry id="upgrade_tree_name_philomath.head_trauma"><![CDATA[Head Trauma]]></entry>
+<entry id="upgrade_tree_name_philomath.page_cutter"><![CDATA[Page Cutter]]></entry>
+<entry id="upgrade_tree_name_philomath.sunder"><![CDATA[Sundering Flesh]]></entry>
+<entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[Breakdown]]></entry>
+<entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[ {colour_start|white}əəəə{colour_end}
+Eldritch Safeguard]]></entry>
+<entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Absorbent Mind]]></entry>
+<entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
+Malevolent Pact]]></entry>
+
+<entry id="combat_skill_name_philomath_move"><![CDATA[Move]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_HEADTRAUMA_STRESS_AP_TT"><![CDATA[+10ʪ Armor Piercing per 10 {colour_start|stress}Stress{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_breakdown_tooltip"><![CDATA[Break {colour_start|riposte}Riposte{colour_end}]]></entry>
+
+<entry id="effect_tooltip_steal_stress_dot"><![CDATA[Transfer {colour_start|stress}Horror{colour_end} to Caster]]></entry>
+
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_tooltip"><![CDATA[Target:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_block_tooltip"><![CDATA[2 Blocks]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_guard_tooltip"><![CDATA[Force {colour_start|guard}Guard{colour_end} by Ally {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_horror_tooltip"><![CDATA[{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns
+{colour_start|buff}Buff Others:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_1"><![CDATA[+25%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_2"><![CDATA[+27%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_3"><![CDATA[+30%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_4"><![CDATA[+32%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_5"><![CDATA[+35%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_other_tooltip"><![CDATA[Other Heroes:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_other_horror_tooltip"><![CDATA[{colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_self_tooltip"><![CDATA[Self:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_1"><![CDATA[Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_2"><![CDATA[Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_3"><![CDATA[Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_4"><![CDATA[Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_5"><![CDATA[Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
+
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_1"><![CDATA[Self:
+Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_2"><![CDATA[Self:
+Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_3"><![CDATA[Self:
+Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_4"><![CDATA[Self:
+Heal 9 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_5"><![CDATA[Self:
+Heal 10 {colour_start|stress}Stress{colour_end}]]></entry>
+
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_other_horror_tooltip"><![CDATA[Other Heroes:
+{colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_REDUCED_HORROR_AMOUNT_TT"><![CDATA[-50%% {colour_start|stress}Horror{colour_end} Amount Applied if Target is {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_self_tooltip"><![CDATA[Self:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_1"><![CDATA[Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_2"><![CDATA[Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_3"><![CDATA[Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_4"><![CDATA[Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_5"><![CDATA[Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_1"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
++10ʪ DMG, +4 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_2"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
++12ʪ DMG, +5 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_3"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
++15ʪ DMG, +6 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_4"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
++17ʪ DMG, +7 ACC]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_5"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
++20ʪ DMG, +8 ACC]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT1"><![CDATA[On Friendly Skill: {colour_start|blight}Blight Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +7%% CRT]]></entry>
+
+
+<entry id="camping_skill_name_unburden_mind"><![CDATA[UNBURDEN MIND]]></entry>
+<entry id="camping_skill_name_unsafe_dosage"><![CDATA[UNSAFE DOSAGE]]></entry>
+
+<entry id="str_bark_unburden_mind"><![CDATA[These thoughts betray you. I shall erase them...]]></entry>
+<entry id="str_bark_unburden_mind"><![CDATA[Leave the heavy thinking to me.]]></entry>
+<entry id="str_bark_unburden_mind"><![CDATA[The words in your head are not worth bothering yourself with.]]></entry>
+
+<entry id="str_bark_unsafe_dosage"><![CDATA[Anything... Please, anything at all to help me...]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[One of these has to help me eventually.]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[Just a sip. Or two. Or five...]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[I've abandoned concern for side effects long ago.]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[It's no solution, but it will hold for now.]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[Such horrible tasting relief...]]></entry>
+<entry id="str_bark_unsafe_dosage"><![CDATA[These shouldn't react *too* badly... I think.]]></entry>
+
+
+<entry id="philomath_weapon_0"><![CDATA[Eldritch Index Vol. I]]></entry>
+<entry id="philomath_weapon_1"><![CDATA[Demonic Catalogue 2nd Edition]]></entry>
+<entry id="philomath_weapon_2"><![CDATA[Abyssal Atlas: Book 3]]></entry>
+<entry id="philomath_weapon_3"><![CDATA[Journal of the Abyss (4/5)]]></entry>
+<entry id="philomath_weapon_4"><![CDATA["The Fifth Black Codex"]]></entry>
+<entry id="upgrade_tree_name_philomath.weapon"><![CDATA[Paper Knife and Book]]></entry>
+
+<entry id="philomath_armour_0"><![CDATA[Ensign's Coat]]></entry>
+<entry id="philomath_armour_1"><![CDATA[Academic's Jacket]]></entry>
+<entry id="philomath_armour_2"><![CDATA[Scribe's Outfit]]></entry>
+<entry id="philomath_armour_3"><![CDATA[Scholar's Uniform]]></entry>
+<entry id="philomath_armour_4"><![CDATA["The Savant"]]></entry>
+<entry id="upgrade_tree_name_philomath.armour"><![CDATA[Skyman's Attire]]></entry>
+
+<entry id="action_verbose_body_guild_philomath"><![CDATA[Once a collegiate young woman, she now bears the invisible puppet strings of the otherwordly. Where others would have broken, her mind prevailed in standing against the forces she recklessly reached for. The horrors of beyond manifest within her, from which she may project great power, so long as she can pay the toll it demands.]]></entry>
+<entry id="action_verbose_body_blacksmith_philomath"><![CDATA[The Philomath's mind draws power from books and tomes, exerting her will unto her victims. When these abilities will not suffice, a scalpel-sharp page-cutting knife remains in hand to dispatch overconfident aggressors.]]></entry>
+<entry id="action_verbose_body_camping_trainer_philomath"><![CDATA[A focused mind may achieve more than a tempered body. Exertion of her mental will can relive or harm those around her, or she may rely on a personal supply of experimental and untested drugs and medicines.]]></entry>
+
+
+<entry id="party_name_philo1"><![CDATA[Sorority]]></entry>
+<entry id="party_name_philo2"><![CDATA[Dropouts]]></entry>
+<entry id="party_name_philo3"><![CDATA[Sleepless Beauty]]></entry>
+<entry id="party_name_philo4"><![CDATA[Science Fair Project]]></entry>
+<entry id="party_name_philo5"><![CDATA[Dresses for Success]]></entry>
+<entry id="party_name_philo4"><![CDATA[Science Fair Project]]></entry>
+
+
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[It crawls through my mind! IT HURTS!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[The whispers won't stop, they won't stop!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[The thing is taking me!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Pflught'tith gahrlfr mnemnt'dhahl, arise. Arise. Arise!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Go ahead... Take this form... Take it from me.]]></entry>
+
+
+<entry id="philomath+str_bar_rejection"><![CDATA[I could pass out. Too risky.]]></entry>
+<entry id="philomath+str_bar_rejection"><![CDATA[With the medicines inside of me, liquor could be fatal.]]></entry>
+<entry id="philomath+str_bar_rejection"><![CDATA[I prefer keeping my intellect intact.]]></entry>
+
+<entry id="philomath+str_override_invalid_rejection"><![CDATA[I could pass out. Too risky.]]></entry>
+<entry id="philomath+str_override_invalid_rejection"><![CDATA[With the medicines inside of me, liquor could be fatal.]]></entry>
+<entry id="philomath+str_override_invalid_rejection"><![CDATA[I prefer keeping my intellect intact.]]></entry>
+
+
+<entry id="philomath+str_treatment_committed"><![CDATA[If you have questions, I've... Dabbled, in self-medication.]]></entry>
+<entry id="philomath+str_treatment_committed"><![CDATA[I'm looking for a specific bottle...]]></entry>
+<entry id="philomath+str_treatment_committed"><![CDATA[May I see your catalogue? I have some preferred treatments.]]></entry>
+<entry id="philomath+str_treatment_committed"><![CDATA[What university did you graduate from? ...You haven't?]]></entry>
+<entry id="philomath+str_treatment_committed"><![CDATA[They must use the term "doctor" rather loosely around here.]]></entry>
+
+<entry id="philomath+str_disease_treatment_committed"><![CDATA[I know a treatment you may find helpful...]]></entry>
+<entry id="philomath+str_disease_treatment_committed"><![CDATA[I'm rather proficient in self-treatment.]]></entry>
+<entry id="philomath+str_disease_treatment_committed"><![CDATA[Spare me the leeches, they offer no relief for this disease.]]></entry>
+<entry id="philomath+str_disease_treatment_committed"><![CDATA[Hmph. So you're the best they have?]]></entry>
+<entry id="philomath+str_disease_treatment_committed"><![CDATA[Allow me to administer that myself. I've used it often enough.]]></entry>
+
+<entry id="philomath+str_gambling_committed"><![CDATA[Have you ever heard of the game pinfinger?]]></entry>
+<entry id="philomath+str_gambling_committed"><![CDATA[Honestly, I've never had the best poker face.]]></entry>
+<entry id="philomath+str_gambling_committed"><![CDATA[I shall not waste my scant time with small wagers.]]></entry>
+<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[I assure you, counting cards is not real.]]></entry>
+<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[Eighteen? Hit.]]></entry>
+<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[I suggest you fold, for your own sake.]]></entry>
+
+<entry id="philomath+str_brothel_committed"><![CDATA[Bantam-weight, coming through.]]></entry>
+<entry id="philomath+str_brothel_committed"><![CDATA[Ladies, keep a close eye.]]></entry>
+<entry id="philomath+str_brothel_committed"><![CDATA[Feeling anxious, are we?]]></entry>
+<entry id="philomath+str_roster_list_brothel_bark"><![CDATA[I've studied more styles than you've ever heard of.]]></entry>
+<entry id="philomath+str_roster_list_brothel_bark"><![CDATA[Cease your whining, it doesn't hurt that much.]]></entry>
+<entry id="philomath+str_roster_list_brothel_bark"><![CDATA[Referee, she pulled my hair!]]></entry>
+
+<entry id="philomath+str_meditation_committed"><![CDATA[Stand aside and witness a true craftswoman at work.]]></entry>
+<entry id="philomath+str_meditation_committed"><![CDATA[These methods... appallingly outdated and inefficient.]]></entry>
+<entry id="philomath+str_meditation_committed"><![CDATA[Fret not, you could never hope to attain my talent.]]></entry>
+<entry id="philomath+str_meditation_committed"><![CDATA[This form will cooperate for now.]]></entry>
+<entry id="philomath+str_roster_list_meditation_bark"><![CDATA[I am on my break, leave me be.]]></entry>
+<entry id="philomath+str_roster_list_meditation_bark"><![CDATA[Who milled this?! These granules are like molars!]]></entry>
+<entry id="philomath+str_roster_list_meditation_bark"><![CDATA[Do none of you take pride in your work?]]></entry>
+
+<entry id="philomath+str_prayer_committed"><![CDATA[I've been known to be... persuasive.]]></entry>
+<entry id="philomath+str_prayer_committed"><![CDATA[I'll allow you to attempt negotiating.]]></entry>
+<entry id="philomath+str_prayer_committed"><![CDATA[Prices are not final. Try to impress me.]]></entry>
+<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[Your bargaining needs work.]]></entry>
+<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[Do not insult me with that offer.]]></entry>
+<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[At long last, we come to terms.]]></entry>
+
+<entry id="philomath+str_flagellation_committed"><![CDATA[The nightmares they... melt away.]]></entry>
+<entry id="philomath+str_flagellation_committed"><![CDATA[Finally, one less voice in my head.]]></entry>
+<entry id="philomath+str_flagellation_committed"><![CDATA[In my lungs, my veins, my gullet, it is all perfection.]]></entry>
+<entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[My sweet Janet, I'll bring some home for you.]]></entry>
+<entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[*peaceful snoring*]]></entry>
+<entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[Here, mix it with this tonic and see how it feels.]]></entry>
+
+<entry id="str_roster_list_consumed_bark"><![CDATA[Do not let me sleep! DO NOT LET ME!]]></entry>
+<entry id="str_roster_list_consumed_bark"><![CDATA[More laudanum, NOW!]]></entry>
+<entry id="str_roster_list_consumed_bark"><![CDATA[It peels back your false reality, now WITNESS IT!]]></entry>
+<entry id="str_roster_list_consumed_bark"><![CDATA[This form is weakened, repair it!]]></entry>
+
+<entry id="philomath+str_roster_list_treatment_bark"><![CDATA[It's nothing I haven't felt before.]]></entry>
+<entry id="philomath+str_roster_list_treatment_bark"><![CDATA[I'm getting sleepy... Best keep your distance.]]></entry>
+<entry id="philomath+str_roster_list_treatment_bark"><![CDATA[Not that one! Lest you share my dreams.]]></entry>
+<entry id="philomath+str_roster_list_treatment_bark"><![CDATA[Yes, yes, I know it tastes like rotten meat.]]></entry>
+<entry id="philomath+str_roster_list_treatment_bark"><![CDATA[Shackles? Stow them. I'm a student, not an animal.]]></entry>
+
+<entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[Best to spread the balm out thinner.]]></entry>
+<entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[That one is more effective when administered down here...]]></entry>
+<entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[I'll apply that salve myself. I'd rather you not touch me there.]]></entry>
+<entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[Did you even clean your hands?]]></entry>
+<entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[What are you doing? Place that needle over a flame!]]></entry>
+
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[The answer is out there waiting for me!]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[I could not be more awake!]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[This curse will not lift itself.]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[There is knowledge to be found out there!]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[I can only sit idle for so long.]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[My mind is clear and prepared]]></entry>
+
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[I am a touch weary.]]></entry>
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[It gnaws at my thoughts, but I am capable.]]></entry>
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[Send me out if you must.]]></entry>
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[I could do with some time in the library.]]></entry>
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[Perhaps I could simply have some time to myself?]]></entry>
+<entry id="philomath+str_roster_list_medium_stress_bark"><![CDATA[I have ingested some vile serums... I need rest.]]></entry>
+
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[It reaches into me! Please, not again!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[It reaches into me! Please, not again!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[It will not be silenced, please, show mercy!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[It will not be silenced, please, show mercy!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[I am tired... So, so tired...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[I am tired... So, so tired...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Get away. I cannot stay awake any longer...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Get away. I cannot stay awake any longer...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[I will not be able to resist its grasp!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[I will not be able to resist its grasp!]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Janet... If I could only feel your gentle touch...]]></entry>
+
+<!-- BR STUFF -->
+<entry id="camping_skill_effect_loot_PHILO_BREL_ACTIVITY_BLOCK"><![CDATA[On too many medications to go to the Bar]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_CRIT_TT"><![CDATA[+5% CRT]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -4ʪ]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_TT1"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} +4% Crits Received Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Consumed (100ʪ):{colour_end}
++50% DMG/ -35% {colour_start|stress}Stress{colour_end} Received/ -50% {colour_start|stress}Stress Healing {colour_end} Received/ -10 DODGE]]></entry>	
+<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT1"><![CDATA[All Resists except for {colour_start|stun}Stun{colour_end} -15% 
+Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} instead of {colour_start|stress}Stress{colour_end}]]></entry>	
+<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT1"><![CDATA[All Resists except for {colour_start|stun}Stun{colour_end} -15% 
+Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} instead of {colour_start|stress}Stress{colour_end}]]></entry>	
+
+<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT2"><![CDATA[40% Chance to Forcibly Interact with Kvarotz Related Curios]]></entry>	
+
+<entry id="camping_skill_effect_loot_PHILO_CAMP_REL"><![CDATA[{colour_start|stress}Horror:{colour_end} 2/3 rds if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_CAMP_FAITHLESS"><![CDATA[{colour_start|stress}Horror:{colour_end} 1/3 rds if {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_VR_RIPOSTE_TT"><![CDATA[On Melee Attack: Self: Activate {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_VR_PULL_TT"><![CDATA[On Friendly Skill: Self: {colour_start|move}Pull{colour_end} Forward 1]]></entry>
+
+<entry id="camping_skill_name_foretelling"><![CDATA[FORETELLING]]></entry>
+<entry id="camping_skill_name_educate"><![CDATA[EDUCATE]]></entry>
+<entry id="camping_skill_name_addinfo_philo"><![CDATA[Additional Information]]></entry>
+
+<entry id="camping_skill_effect_loot_CAMP_EDUCATE_TT"><![CDATA[{colour_start|stress}Horror{colour_end} 2/5 tns if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_MEMENTO_TT_1"><![CDATA[+5ʪ DMG per 20 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_MEMENTO_TT_2"><![CDATA[+5ʪ {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Skill Chance per 20 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_MEMENTO_TT_3"><![CDATA[+2 ACC per 20 {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_MEMENTO_TT_4"><![CDATA[+2ʪ CRT per 20 {colour_start|stress}Stress{colour_end}]]></entry>
+
+<entry id="str_bark_foretelling"><![CDATA[Through eldritch premonition, I know what lies ahead.]]></entry>
+<entry id="str_bark_foretelling"><![CDATA["It" has murmured to me about our path.]]></entry>
+<entry id="str_bark_foretelling"><![CDATA[I have foreseen vital information. It is horrific.]]></entry>
+<entry id="str_bark_educate"><![CDATA[Perhaps I can enlighten your pitiable minds.]]></entry>
+<entry id="str_bark_educate"><![CDATA[I will share half-truths. You are not ready to know them in full.]]></entry>
+<entry id="str_bark_educate"><![CDATA[Allow me to be your interpreter for the abyssal beings.]]></entry>
+
+<entry id="philomath+str_bark_first_aid"><![CDATA[Stifle your incessant whines, it's a minor wound.]]></entry>
+<entry id="philomath+str_bark_first_aid"><![CDATA[This is going to sting. Do not move a muscle.]]></entry>
+<entry id="philomath+str_bark_first_aid"><![CDATA[Human flesh is so much simpler...]]></entry>
+<entry id="philomath+str_bark_scout"><![CDATA[It is all so predictable when I can concentrate.]]></entry>
+<entry id="philomath+str_bark_scout"><![CDATA[I shall chart our path. You would be spotted instantly.]]></entry>
+<entry id="philomath+str_bark_scout"><![CDATA[A task so routine by this point.]]></entry>
+<entry id="philomath+str_bark_find_supplies"><![CDATA[Its location was easy to deduce.]]></entry>
+<entry id="philomath+str_bark_find_supplies"><![CDATA[Was I truly the only one to spot it?]]></entry>
+<entry id="philomath+str_bark_find_supplies"><![CDATA[Did no one else think to look *under* the corpse?]]></entry>
+
+<entry id="philomath+lev_jani_bark"><![CDATA[A commendable choice, but foolish all the same.]]></entry>
+
+<entry id="philomath+str_monster_attack_bite_call"><![CDATA[Move, you damned buffoons!]]></entry>
+<entry id="philomath+str_monster_attack_bite_call"><![CDATA[A burrowing snake? How?!]]></entry>
+<entry id="philomath+str_monster_attack_bite_call"><![CDATA[It will strike from below!]]></entry>
+
+<entry id="philomath+doot"><![CDATA[You decrepit dolt! You'll rend my eardrums!]]></entry>
+
+<entry id="philomath+str_mark_self_regenerator"><![CDATA[The flesh reshapes itself...?]]></entry>
+<entry id="philomath+str_mark_self_regenerator"><![CDATA[I am in good humors.]]></entry>
+<entry id="philomath+str_mark_self_regenerator"><![CDATA[Feeling quite resiliant these days.]]></entry>
+<entry id="philomath+str_attack_self_algophilic"><![CDATA[Such seductive pain...]]></entry>
+<entry id="philomath+str_attack_self_algophilic"><![CDATA[So unhealthy... so gratifying.]]></entry>
+<entry id="philomath+str_attack_self_algophilic"><![CDATA[I shan't be denied this crimson bliss.]]></entry>
+<entry id="philomath+str_mark_self_self_assured"><![CDATA[My mind over ALL matter!]]></entry>
+<entry id="philomath+str_mark_self_self_assured"><![CDATA[Intellect shall overcome all.]]></entry>
+<entry id="philomath+str_mark_self_self_assured"><![CDATA[A mere student: no longer.]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[Tainted through and through...]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[Tainted through and through...]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[It will yet consume me... in the end.]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[It will yet consume me... in the end.]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[This was all a grievous error.]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[This was all a grievous error.]]></entry>
+<entry id="philomath+str_mark_self_diffident"><![CDATA[She still loves me... right?]]></entry>
+<entry id="philomath+str_mark_self_cheerful"><![CDATA[I do suppose you are all... acceptable.]]></entry>
+<entry id="philomath+str_mark_self_cheerful"><![CDATA[Allow me to relieve you of those burdensome thoughts.]]></entry>
+<entry id="philomath+str_mark_self_cheerful"><![CDATA[You... "impress" me, so to speak.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[What loathesome, miscreant louts that beset me.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[My talents are not befitting of these cretinous curs...]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Miserable, sniveling whelps- so prideful as roosting cocks.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Why did I take the sisyphean task of guiding such dullards?]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[I am buffeted by such gales of incompetence and ignorance.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Nary a wit surrounds me in this band of imbeciles.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Alas, I am adrift in a veritable sea of buffoonery.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[How have I landed amongst a section of hapless babes?]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[How I have erred to accompany these fools of arrogant pomp.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Can you gaping-gobbed dolts not make yourselves of greater use?]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[What captain would permit such lame-brained troops?]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[Which among you tosspots will make yourself useful for once?]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[I am an academic, not a nanny for the feeble-minded.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[I've seen bedpans brighter than this collective unit.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_considerate"><![CDATA[Stay your agitation, we are all imperfect.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_considerate"><![CDATA[Steady your mind, steady your hand.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_considerate"><![CDATA[No good novel concludes with failure. Perservere.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Does not ONE iota of competence reside here?!]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Even I could not predict this degree of failure.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[The ineptitude is dizzying.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[I'm not upset, merely disappointed.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[If this is an attempt at comedy, I am not amused.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[You understand they intend to KILL US, do you not?!]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Ugh...]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[If it is pity you seek, you'll find only loathing.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[An impotent burden, as expected.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Somehow, I am at a loss for words.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Yet another who is inapt to fill a soldier's boots.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Against all probability, you continue to lower expectations.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Are you not capable of feeling shame?]]></entry>
+<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[Was I... not suited for this undertaking?]]></entry>
+<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[I- my- my mind is blank!]]></entry>
+<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[Why can I not focus?!]]></entry>
+
+<entry id="philomath+quirk_transition_ghoul_fever_to_ghoul_plague"><![CDATA[That stench... necrosis?]]></entry>
+<entry id="philomath+quirk_transition_ghoul_plague_tended_to_ghoul_plague"><![CDATA[What... what else whispers to me now?]]></entry>
+<entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[Treated, and yet my skin crawls.]]></entry>
+<entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[This foul taste lingers on my lips.]]></entry>
+<entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[Still clammy, but the itching has dulled.]]></entry>
+<entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[She'll not accept me like this, I must be cured.]]></entry>
+
+<entry id="philo+quirk_transition_1_faithless_to_1_religious"><![CDATA[This burning light- I cannot escape it!]]></entry>
+<entry id="philo+quirk_transition_1_pagan_to_1_religious"><![CDATA[No! This light- it rends my very being!]]></entry>
+<entry id="philo+quirk_transition_1_faithless_to_1_pagan"><![CDATA[This form submits to Its will!]]></entry>
+
+</language>
+</root>
+
