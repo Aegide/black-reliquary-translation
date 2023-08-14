@@ -19,7 +19,7 @@
 	and become lost.]]></entry>
 	<entry id="str_vo_bad_BR_afflicted_fearful2_0"><![CDATA[Cowardice is survival, or so 
 	they tell themselves.]]></entry>
-	<entry id="str_vo_bad_BR_afflicted_fearful3_0"><![CDATA[Bravery has been foresaken in the 
+	<entry id="str_vo_bad_BR_afflicted_fearful3_0"><![CDATA[Bravery has been forsaken in the 
 	throes of combat.]]></entry>
 	
     <entry id="str_vo_bad_BR_afflicted_irrational1_0"><![CDATA[Fortitude falls. Madness sets in.]]></entry>
@@ -170,10 +170,18 @@
 	<entry id="str_vo_good_BR_treasury_encounter_boss_1_0"><![CDATA[A mesmerizing deception; it hungers for the flesh of the allured.]]></entry>
     <entry id="str_vo_good_BR_treasury_encounter_boss_2_0"><![CDATA[Cleave your way through this shifting barrier! 
  Let no adaptation prove impregnable.]]></entry>
-	<entry id="str_vo_good_BR_sand_charmer_encounter_0"><![CDATA[A defiler of the dead. Unmake what the Valley has errantly given birth to.]]></entry>
-	<entry id="str_vo_good_BR_yngolian_encounter_0"><![CDATA[This... thing... should not be. It is a trespasser in our reality.]]></entry>
+	<entry id="str_vo_good_BR_sand_charmer_encounter_1_0"><![CDATA[A defiler of the dead. Unmake what the Valley has errantly given birth to.]]></entry>
+	<entry id="str_vo_good_BR_sand_charmer_encounter_2_0"><![CDATA[Born from sand and suffering, this fiend is the valley's truest son.]]></entry>
+	<entry id="str_vo_good_BR_sand_charmer_encounter_3_0"><![CDATA[The departed should remain as such. Lay these stolen souls to rest.]]></entry>
+	<entry id="str_vo_good_BR_yngolian_encounter_1_0"><![CDATA[This... thing... should not be. It is a trespasser in our reality.]]></entry>
+	<entry id="str_vo_good_BR_yngolian_encounter_2_0"><![CDATA[This cosmic terror, this celestial beast... drive it back to the ether!]]></entry>
+	<entry id="str_vo_good_BR_yngolian_encounter_3_0"><![CDATA[We cannot permit this cosmic malformation to tread this earth!]]></entry>
+	<entry id="str_vo_good_BR_flayed_encounter_1_0"><![CDATA[It returns to us, starving for violence. Make sure it bites off more than it can chew.]]></entry>
+	<entry id="str_vo_good_BR_flayed_encounter_2_0"><![CDATA[Its humanity is gone, fed to the maw of that helm. Kill it with pity in your heart.]]></entry>
+	<entry id="str_vo_good_BR_flayed_encounter_3_0"><![CDATA[And so we face this beast once more...]]></entry>
 	<entry id="str_vo_good_BR_ghoul_mother_encounter_0"><![CDATA[Eradicate this den of horrors, such that
  our possessions may be reclaimed.]]></entry>
+	<entry id="str_vo_good_BR_eclipse_encounter_0"><![CDATA[No- what is she doing?! Get her away from that accursed helm!]]></entry>
 	
 	<entry id="str_vo_good_BR_crypts_kill_boss_01_0"><![CDATA[A graceful and honorable end, for one such as he.]]></entry>
 	<entry id="str_vo_good_BR_crypts_kill_boss_02_0"><![CDATA[Leave the Levantine to witness the skin and scales on the floor.]]></entry>
@@ -192,9 +200,15 @@
  tremors through the earth and masonry.]]></entry>
 	<entry id="str_vo_good_BR_sand_charmer_kill_0"><![CDATA[It is a child of the Valley, and will return in time. For now, 
  we focus on the task ahead]]></entry>
-	<entry id="str_vo_good_BR_yngolian_kill_0"><![CDATA[What ever cosmic nightmare bore these horrors, we shall return them to it.]]></entry>
+	<entry id="str_vo_good_BR_yngolian_kill_1_0"><![CDATA[What ever cosmic nightmare bore these horrors, we shall return them to it.]]></entry>
+	<entry id="str_vo_good_BR_yngolian_kill_2_0"><![CDATA[For now, we can only delay the catastrophe that these monstrosities will bring about. So delay it, we shall.]]></entry>
+	<entry id="str_vo_good_BR_yngolian_kill_3_0"><![CDATA[To the void, with it. This battle can only delay the coming doom, but our mission will see to that.]]></entry>
+	<entry id="str_vo_good_BR_flayed_kill_1_0"><![CDATA[Even the Wildlanders would not allow such a beast back into their clans.]]></entry>
+	<entry id="str_vo_good_BR_flayed_kill_2_0"><![CDATA[Let this remind us to not take the allure of power lightly.]]></entry>
+	<entry id="str_vo_good_BR_flayed_kill_3_0"><![CDATA[It has fallen, but only the hand of father time will truly defeat this monster.]]></entry>
 	<entry id="str_vo_good_BR_ghoul_mother_kill_0"><![CDATA[Our belongings are at last freed from the pilfering nuisance.
  Well done.]]></entry>
+	<entry id="str_vo_good_BR_eclipse_kill_0"><![CDATA[No, no, NO! That damned fool! The helm's bearer will run amok now!]]></entry>
 	
     <entry id="str_vo_good_BR_crypts_success_boss_01_0"><![CDATA[A noble warrior given a fitting end. If only the same could 
  be said for the remainder of the Levantine.]]></entry>
@@ -210,7 +224,7 @@
  
 	<entry id="str_vo_good_BR_caverns_success_boss_01_0"><![CDATA[A great step closer to their inner-most dwellings where the
  trogs sacrifice and breed one another to achieve the form of their twisted messiah.]]></entry>
-	<entry id="str_vo_good_BR_caverns_success_boss_02_0"><![CDATA[None that I have ever seen could acheive such a feat. Your
+	<entry id="str_vo_good_BR_caverns_success_boss_02_0"><![CDATA[None that I have ever seen could achieve such a feat. Your
  soldiers will be due a set of medals after such an unlikely success.]]></entry>
  
 	<entry id="str_vo_good_BR_treasury_success_boss_01_0"><![CDATA[Our soldiers will not be defeated by some mere illusion of beauty.]]></entry>
@@ -219,6 +233,10 @@
  
 	<entry id="str_vo_good_BR_ghoul_mother_success_0"><![CDATA[At last these things are returned to their proper owners and
  we are free to resume the campaign.]]></entry>
+	<entry id="str_vo_good_BR_eclipse_success_0"><![CDATA[What's done is done. The beast has been created and it shall not be unmade.]]></entry>
+	
+	<entry id="str_vo_good_BR_otekh_success_0"><![CDATA[Unfortunately, I do recognize this mortifying infiltrator. It may appear in any place, at any time. Be mindful of what you are fighting in the field,]]></entry>
+	<entry id="str_vo_good_BR_otekh_success_1"><![CDATA[and search for telltale signs of the formless Kvarotz assassin.]]></entry>
 	
     <entry id="str_vo_good_BR_crypts_success_cleanse_01_0"><![CDATA[The Vizier's soldiers will march elsewhere for now.]]></entry>
     <entry id="str_vo_good_BR_crypts_success_cleanse_02_0"><![CDATA[An example has been set today. No trespassers.]]></entry>
@@ -248,7 +266,7 @@
  Fine work indeed.]]></entry>
 	
 	<entry id="str_vo_good_BR_caverns_success_cleanse_01_0"><![CDATA[Their vile chittering subsides, and their stockpiles 
- are ripe to pilfered. Well done.]]></entry>
+ are ripe to pilfer. Well done.]]></entry>
     <entry id="str_vo_good_BR_caverns_success_cleanse_02_0"><![CDATA[I care not who the victim is. The horrors these devils 
  commit should be forever ceased.]]></entry>
 	<entry id="str_vo_good_BR_caverns_success_cleanse_03_0"><![CDATA[To think that these aberrant terrors were once human... 
@@ -266,7 +284,7 @@
     <entry id="str_vo_good_BR_treasury_success_explore_03_0"><![CDATA[Charted paths lead to fruitful plunder.]]></entry>
 	
 	<entry id="str_vo_good_BR_treasury_success_activate_01_0"><![CDATA[My my, those pockets are jangling quite loudly.]]></entry>
-    <entry id="str_vo_good_BR_treasury_success_activate_02_0"><![CDATA[Hmm! We may need to release some balast to offset this haul.]]></entry>
+    <entry id="str_vo_good_BR_treasury_success_activate_02_0"><![CDATA[Hmm! We may need to release some ballast to offset this haul.]]></entry>
     <entry id="str_vo_good_BR_treasury_success_activate_03_0"><![CDATA[A beautiful, gleaming bounty... -For the cause of course!]]></entry>
  
     <entry id="str_vo_good_BR_general_crit_monster_01_0"><![CDATA[Yes. Strike true!]]></entry>
@@ -506,7 +524,7 @@
 	<entry id="str_vo_neutral_BR_caverns_cleanse_02_0"><![CDATA[These 'troglodytes' bar access to the vast pools and 
  formations of amber deep beneath the Reliquary. Remedy this..]]></entry>
 	<entry id="str_vo_neutral_BR_caverns_cleanse_03_0"><![CDATA[With each atrocity and sacrifice, these creatures hobble closer to 
- acheiving their dark divinity. Let us remedy this predicament.]]></entry>
+ achieving their dark divinity. Let us remedy this predicament.]]></entry>
  
     <entry id="str_vo_neutral_BR_caverns_explore_01_0"><![CDATA[The still-molten Amber flows freely here. It is no safer
  in its fluid state than in its crystalline form.]]></entry>
@@ -540,8 +558,11 @@
  this desert leviathan from our path.]]></entry>
 	<entry id="str_vo_neutral_BR_caverns_boss_02_1"><![CDATA[When you have the mighty terror's attention, we will provide
  cannon fire.]]></entry>
-	<entry id="str_vo_neutral_BR_treasury_boss_01_0"><![CDATA[An alluring scent fills the air, drawing prey deeper into the bloodthristy grove.]]></entry>
+	<entry id="str_vo_neutral_BR_treasury_boss_01_0"><![CDATA[An alluring scent fills the air, drawing prey deeper into the bloodthirsty grove.]]></entry>
 	<entry id="str_vo_neutral_BR_treasury_boss_02_0"><![CDATA[The core's grasp here is formidable. Follow the most constricted of paths.]]></entry>
+	
+	<entry id="str_vo_neutral_BR_eclipse_start_0"><![CDATA[The sky is not right, the air tastes foul, but we have not the luxury to let the day subside.]]></entry>
+	<entry id="str_vo_neutral_BR_otekh_start_0"><![CDATA[Wait just a second... Something seems irregular about one of these skymen.]]></entry>
  
     <entry id="str_vo_old_road_0"><![CDATA[You will arrive along the old road.]]></entry>
     <entry id="str_vo_old_road_1"><![CDATA[It winds with a troubling,
@@ -563,7 +584,7 @@
  violence, and perhaps]]></entry>
     <entry id="str_vo_old_road_9"><![CDATA[other damnably transcendent terrors.]]></entry>
 	
-    <entry id="str_vo_town_BR_backstory_fail_01_0"><![CDATA[Do not dwell on the harships. Wallowing in misery 
+    <entry id="str_vo_town_BR_backstory_fail_01_0"><![CDATA[Do not dwell on the hardships. Wallowing in misery 
  is for the common drunkard.]]></entry>
 	<entry id="str_vo_town_BR_backstory_fail_02_0"><![CDATA[Steady yourself, the winds are blowing strong!]]></entry>
     <entry id="str_vo_town_BR_backstory_fail_03_0"><![CDATA[We each carry a looming shadow my friend- 
@@ -576,7 +597,7 @@
  of this ship's Doctor. I would prefer not to keep him busy.]]></entry>
 	<entry id="str_vo_town_BR_backstory_fail_07_0"><![CDATA[I treat each and every pair of hands to grace this ship as valuable-
  But there is no conquest without loss.]]></entry>
-	<entry id="str_vo_town_BR_backstory_fail_08_0"><![CDATA[Regretably, not each soul among us will be able to 
+	<entry id="str_vo_town_BR_backstory_fail_08_0"><![CDATA[Regrettably, not each soul among us will be able to 
  witness the end of it all.]]></entry>
 	<entry id="str_vo_town_BR_backstory_fail_09_0"><![CDATA[That looming megalith on the Valley's crest...
  We will break its grip on this world in time.]]></entry>
@@ -678,13 +699,41 @@
     <entry id="str_vo_town_BR_recruit_vestal_0"><![CDATA[Faith and care-giving are indispensable 
  qualities in these lands.]]></entry>
 	<entry id="str_vo_town_BR_recruit_veiled_0"><![CDATA[For us, the power of the profaned light. For him, a promise to the end of his tale.]]></entry>
-	<entry id="str_vo_town_BR_recruit_philomath_0"><![CDATA[A brilliant woman, and a cautionary tale to those who would seek forbidden knowledge.]]></entry>
 	<entry id="str_vo_town_BR_recruit_hexer_0"><![CDATA[Gluttony is not necessarily a sin. It can have its... uh... purposes...]]></entry>
+	<entry id="str_vo_town_BR_recruit_philomath_0"><![CDATA[A brilliant woman, and a cautionary tale to those who would seek forbidden knowledge.]]></entry>
+	<entry id="str_vo_town_BR_recruit_thrall_0"><![CDATA[There is more to this man than sheer brutality... Though, the brutality is appreciated.]]></entry>
  
 	<entry id="str_vo_town_event_br_free_tech_0"><![CDATA[Our allies in trade are allies indeed. But business is still business]]></entry>
 	<entry id="str_vo_town_event_br_hero_death_0"><![CDATA[Let me... Soften the blow- This time...]]></entry>
 	<entry id="str_vo_town_event_br_amber_explosion_0"><![CDATA[*Coughing* It seems there has been a bit of an incident.]]></entry>
 	<entry id="str_vo_town_event_br_free_dust_0"><![CDATA[It is not desolate down there. Recesses of civility dot the hills...]]></entry>
+	<entry id="str_vo_town_event_br_melee_buff_0"><![CDATA[This is humiliating... Our blades have gone dull- on my watch! I shall have this resolved within the hour.]]></entry>
+	<entry id="str_vo_town_event_br_ranged_buff_0"><![CDATA[I have a sporting pistol in my cabin. Best two of three, my friend?]]></entry>
+	<entry id="str_vo_town_event_br_mystic_buff_0"><![CDATA[Quiet, my friend. Our soldiers need their concentration.]]></entry>
+	<entry id="str_vo_town_event_br_pagan_buff_0"><![CDATA[Be respectful of their practices. All of us share the common goal of freedom from the terrible darkness beneath the earth.]]></entry>
+	<entry id="str_vo_town_event_br_religious_buff_0"><![CDATA[It is a holy day, my friend. Feel free to participate in prayer if you so choose.]]></entry>
+	<entry id="str_vo_town_event_br_expensive_provisions_0"><![CDATA[A late shipment. Most of it spoiled or damaged... we will make due as we always have.]]></entry>
+	<entry id="str_vo_town_event_br_free_provisions_0"><![CDATA[Hahaha! Abundance, my friend! I would not expect much of this food to keep longer than a few days, so why be wasteful?]]></entry>
+	<entry id="str_vo_town_event_br_captain_owie_0"><![CDATA[You! Yes, you, go fetch me my coffee! Ah, friend, do not pay me any mind. It's just this damned leg!]]></entry>
+	<entry id="str_vo_town_event_br_lock_bar_galley_free_0"><![CDATA[It is not clear if there is a traitor or a damned fool among us, but someone has been tampering with the drinks. A dark day indeed.]]></entry>
+	<entry id="str_vo_town_event_br_lock_gambling_galley_free_0"><![CDATA[I swear that monkey should be thrown into a cage...]]></entry>
+	<entry id="str_vo_town_event_br_lock_fight_pit_galley_free_0"><![CDATA[Which one do you think will come out on top? Not that I... plan on wagering on it...]]></entry>
+	<entry id="str_vo_town_event_br_skill_issue_0"><![CDATA[How very noble... such a fortune bestowed to our cause.]]></entry>
+	<entry id="str_vo_town_event_br_free_galley_0"><![CDATA[I would not call this my favorite holiday... where the crew could hear me.]]></entry>
+	<entry id="str_vo_town_event_br_free_workshop_0"><![CDATA[Meeting Leonne was more than fortuitous. Our encounter was simply fated by the Light.]]></entry>
+	<entry id="str_vo_town_event_br_free_clinic_0"><![CDATA[As much as I... usually... trust Erick, I am not so certain I would invite him to treat me for a few days...]]></entry>
+	<entry id="str_vo_town_event_br_captain_birthday_0"><![CDATA[Oh goodness, how old am I this time? I can hardly keep track anymore!]]></entry>
+	<entry id="str_vo_town_event_br_ostvengr_mercs_1_0"><![CDATA[So soon after the great fall do some return to the old ways... ]]></entry>
+	<entry id="str_vo_town_event_br_ostvengr_mercs_2_0"><![CDATA[So soon after the great fall do some return to the old ways... ]]></entry>
+	<entry id="str_vo_town_event_br_ostvengr_mercs_3_0"><![CDATA[So soon after the great fall do some return to the old ways... ]]></entry>
+	<entry id="str_vo_town_event_br_extra_recruits_0"><![CDATA[These ones must have surprising perserverance to have lasted so long down below on their own.]]></entry>
+	<entry id="str_vo_town_event_br_kristjan_concert_0"><![CDATA[Encore! Encore!]]></entry>
+	<entry id="str_vo_town_event_br_dead_recruit_0"><![CDATA[The mysteries of undeath have been long-since documented and mastered. The miracle of resurrection, however, is a well-kept secret.]]></entry>
+	<entry id="str_vo_town_event_br_fire_sale_0"><![CDATA[At times, I wonder if it was a good decision to have struck a deal with our pirate siblings...]]></entry>
+	<entry id="str_vo_town_event_br_imposter_0"><![CDATA[The assassin has already breached our defenses. You've seen what he has done to our colleague. And worst of all, he could be any one of us...]]></entry>
+	<entry id="str_vo_town_event_br_free_armor_weapons_0"><![CDATA[Everyone has room for improvement. Some more than others. Let us get to work.]]></entry>
+	<entry id="str_vo_town_event_br_free_skills_camp_skills_0"><![CDATA[Blade, bullet, book, or blockade; it matters not. What we are given will find its purpose.]]></entry>
+	<entry id="str_vo_town_event_br_eclipse_0"><![CDATA[We were not due for a natural eclipse any time soon. Something horrid is causing this. A beacon of some sort...]]></entry>
  
   </language>
  </root>
