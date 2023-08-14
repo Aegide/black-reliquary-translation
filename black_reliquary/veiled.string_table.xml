@@ -128,7 +128,6 @@ Death Wish]]></entry>
     <entry id="skill_performer_hp_range"><![CDATA[Valid from %d%% to %d%% HP]]></entry>
 	<entry id="effect_tooltip_cure_bleed"><![CDATA[Cure {colour_start|bleed}Bleed{colour_end}]]></entry>
 	<entry id="effect_tooltip_cure_debuff"><![CDATA[Clear {colour_start|debuff}Debuffs{colour_end}]]></entry>
-	<entry id="effect_tooltip_clear_stress_dot"><![CDATA[Clear {colour_start|stress}Horror{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_deathblow_chance"><![CDATA[%+d%% {colour_start|deathblow}Death Blow{colour_end} Chance]]></entry>
 	<entry id="buff_stat_tooltip_torch_decrease_percent"><![CDATA[%+d%% Torch Decrease Modifier]]></entry>
 	<entry id="buff_rule_tooltip_is_actor_status"><![CDATA[%s while %s]]></entry>
