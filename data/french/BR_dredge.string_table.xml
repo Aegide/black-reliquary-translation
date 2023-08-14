@@ -22,7 +22,7 @@
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT3"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -6 {colour_start|skill_unselectable}(base : 120%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT4"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -7 {colour_start|skill_unselectable}(base : 130%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_FLAMETHROWER_MISS_DEBUFF_TT5"><![CDATA[{colour_start|debuff}Malus sur cible si rate :{colour_end} ESQUIVE -8 {colour_start|skill_unselectable}(base : 140%%){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_LASER_CLEAR_RIPOSTE_TT"><![CDATA[Destruction de {colour_start|riposte}riposte{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_LASER_CLEAR_RIPOSTE_TT"><![CDATA[Ignore/Destruction de {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_COOLDOWN"><![CDATA[Cœur horrible en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DREDGE_TRANSFORM_ON_FOOT_TT"><![CDATA[{colour_start|move}Avancée{colour_end} 2
 Passe en mode : Mecha]]></entry>
@@ -54,11 +54,11 @@ Les compétences en Mecha génèrent de la {colour_start|debuff}chaleur{colour_e
 <entry id="camping_skill_effect_loot_DREDGE_MODE_TT1"><![CDATA[{colour_start|notable}Cœur horrible{colour_end} permet de changer de mode]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_MODE_TT2"><![CDATA[Le mode est conservé à la fin d'un combat]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT1"><![CDATA[( {colour_start|amberblighted}Cœur d'ambre pur{colour_end} )
-{colour_start|notable}Foreuse{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 90 / DGT -35% / CRIT +4% 
+{colour_start|notable}Foreuse{colour_end} : {colour_start|attacktype}Mélée{colour_end} {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 90 / DGT -35% / CRIT +4% 
 DMG +50% vs {colour_start|amberblighted}Amberblight{colour_end} , Perçage d'armure +100% , {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[{colour_start|notable}Vitrification{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} PRÉ 95 / DGT -70% / CRIT +2% 
+<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[{colour_start|notable}Vitrification{colour_end} : {colour_start|attacktype}Mystique{colour_end} {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} PRÉ 95 / DGT -70% / CRIT +2% 
 Ignore le malus de {colour_start|prep_round}préparation{colour_end}, {colour_start|amberblighted}Amberblight{colour_end} la cible, {colour_start|debuff}Chaleur{colour_end} +15%]]></entry>
-<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[{colour_start|notable}Rayonnement ultra-ambré{colour_end} : {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 95 / DGT +25% / CRIT +5% 
+<entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[{colour_start|notable}Rayonnement ultra-ambré{colour_end} : {colour_start|attacktype}Distance{colour_end} {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 95 / DGT +25% / CRIT +5% 
 Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% DMG {colour_start|skill_unselectable}(2 trs){colour_end}, {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produit 3 huiles d'affûtage]]></entry>
 <entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Vision d'horreur]]></entry>
