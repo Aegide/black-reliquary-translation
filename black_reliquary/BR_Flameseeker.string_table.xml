@@ -15,7 +15,7 @@
 	
 	<entry id="[pc]str_help_raid_camping_0"><![CDATA[{colour_start|town_activity_log_positive_result}Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.{colour_end}]]></entry>
 	<entry id="[pc]str_help_raid_camping_1"><![CDATA[Base Nighttime Ambush Chance is 33% ]]></entry>
-	<entry id="[pc]str_help_raid_camping_2"><![CDATA[Nighttime Ambushes can surprise you.]]></entry>
+	<entry id="[pc]str_help_raid_camping_2"><![CDATA[Nighttime Ambushes will surprise you.]]></entry>
     <entry id="[pc]str_help_raid_camping_3"><![CDATA[If you're camping during Daytime in Exposed Interior, you don't need to spend points on ambush preventions, as those can't happen on these quests.]]></entry>
     <entry id="[pc]str_help_raid_camping_4"><![CDATA[Do note that Kvarotz enemies can be part of a Nighttime Ambush.]]></entry>
 	
@@ -42,16 +42,16 @@
 	<entry id="[pc]str_help_raid_room_2"><![CDATA[*Please note that you must un-equip Perfumer trinkets and place them in your inventory before giving them to the Perfumer to upgrade for this function to work.]]></entry>
     <entry id="[pc]str_help_raid_room_3"><![CDATA[Light level no longer influences loot gained from combat and curios- instead, different enemies might appear depending on the light level: Lost Legion while the torch is bright, and Kvarotz if the torch is dim enough.]]></entry>
     <entry id="[pc]str_help_raid_room_4"><![CDATA[Resist pop-ups are now removed- if an interaction didn't give any effects, your hero most likely just resisted one.]]></entry>
-    <entry id="[pc]str_help_raid_room_5"><![CDATA[In Exposed Interior, using a torch gives a small ACC buff during the day, and lets a hero ignore stealth at night.]]></entry>
+    <entry id="[pc]str_help_raid_room_5"><![CDATA[In Exposed Interior, using a torch has different effects based on the time of the day. Hover over the torch to find out what it does in each of the levels.]]></entry>
     <entry id="[pc]str_help_raid_room_6"><![CDATA[Except for certain enemy factions and encounters, all enemies have a fixed 15% chance of being surprised. This is not affected by torchlight.]]></entry>
-    <entry id="[pc]str_help_raid_room_7"><![CDATA[Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill that interacts with it.]]></entry>
+    <entry id="[pc]str_help_raid_room_7"><![CDATA[Now, the hero's affiliation is on a per character basis, not per class. Make sure to check it on the hero's panel before using a skill and trinkets that interacts with it.]]></entry>
 
   
 	<entry id="str_help_town_abbey_0"><![CDATA[{colour_start|town_activity_log_positive_result}Here at the Amber Workshop, heroes can refine their hard-earned Amber into {colour_start|BR_heirloom}Refined Amber Dust{colour_end} under the watchful eye of Penitent Leonne.{colour_end}]]></entry>
-    <entry id="str_help_town_abbey_1"><![CDATA[{colour_start|BR_heirloom}Refined Amber Dust{colour_end} can be spent at the Tek Exchange to obtain {colour_start|BR_lost_tek}Lost Tek{colour_end}, used for expansions in our Side Decks.]]></entry>
-	<entry id="str_help_town_abbey_2"><![CDATA[{colour_start|BR_heirloom}Refined Amber Dust{colour_end} and it may also be spent at the Amber Den to give heroes an advanced means of relieving stress.]]></entry>
-    <entry id="str_help_town_abbey_3"><![CDATA[The Amber Workshop requires Amber to be upgraded, which can be found in highest quantities in the Caverns.]]></entry>
-    <entry id="str_help_town_abbey_4"><![CDATA[Tek Exchange lets you trade some of the refined amber into a new resource, used for ship upgrades.]]></entry>
+    <entry id="str_help_town_abbey_1"><![CDATA[At the Amber Refinement, heroes can spend a week to turn a piece of Amber into a small amount of {colour_start|BR_heirloom}Refined Amber Dust{colour_end}.]]></entry>
+    <entry id="str_help_town_abbey_2"><![CDATA[{colour_start|BR_heirloom}Refined Amber Dust{colour_end} can be spent at the Tek Exchange to obtain {colour_start|BR_lost_tek}Lost Tek{colour_end}, used for expansions in our Side Decks.]]></entry>
+	<entry id="str_help_town_abbey_3"><![CDATA[{colour_start|BR_heirloom}Refined Amber Dust{colour_end} may also be spent at the Amber Den to give heroes an advanced means of relieving stress.]]></entry>
+    <entry id="str_help_town_abbey_4"><![CDATA[The Amber Workshop requires Amber to be upgraded, which can be found in highest quantities in the Caverns.]]></entry>
     <entry id="str_help_town_abbey_5"><![CDATA[Both the Amber Workshop and Tek Exchange {colour_start|stress}Stress{colour_end} Heals for a very low amount (10/15/20) and do not remove afflictions.]]></entry>
     <entry id="str_help_town_abbey_6"><![CDATA[The Amber Den requires {colour_start|BR_heirloom}Refined Amber Dust{colour_end} and {colour_start|stress}Stress{colour_end} Heals for a very high amount (100) and has a chance to trigger positive side-effects ( 50% ).]]></entry>
     <entry id="str_help_town_abbey_7"><![CDATA[You can hover over the upgrade icon for the stress relief activity to get more information on each possible outcome.]]></entry>
@@ -67,11 +67,12 @@
 	
     <entry id="[pc]str_help_town_guild_0"><![CDATA[{colour_start|town_activity_log_positive_result}The Training Hall is where Riga and Abbas overview the heroes' training regimens. Unlock and upgrade your heroes' skills here. Heroes with un-upgraded skills may have difficulties with hitting, or inflicting effects upon, higher level enemies.{colour_end}]]></entry>
     <entry id="str_help_town_guild_1"><![CDATA[The Training Hall requires Valor Marks to upgrade, which can be found in highest quantities in the Exposed Interior.]]></entry>
-    <entry id="[pc]str_help_town_guild_2"><![CDATA[Skills now require the hero to be one level higher than vanilla to be upgraded. This is done to adjust for the higher starting level.]]></entry>
+    <entry id="[pc]str_help_town_guild_2"><![CDATA[Skills now require the hero to be one level higher than vanilla to be upgraded. This is done to adjust for the higher starting level. An exception to that is that heroes are allowed to upgrade their skills to lvl 4 upon reaching lvl 3.]]></entry>
 
     <entry id="[pc]str_help_town_nomad_wagon_0"><![CDATA[{colour_start|town_activity_log_positive_result}At Vernon’s Odds and Ends, you can unburden your pockets full of Gold for a choice selection of trinkets. You can also purchase unique Amber Trinkets from his sister Veronica for {colour_start|BR_heirloom}Refined Amber Dust{colour_end}. Both stocks change after every Quest.{colour_end}]]></entry>
     <entry id="[pc]str_help_town_nomad_wagon_1"><![CDATA[The Oddities Dealer requires Amber to upgrade, which can be found in highest quantities in the Caverns.]]></entry>
 	<entry id="[pc]str_help_town_nomad_wagon_2"><![CDATA[You can click the button in the bottom left corner to see a special set of trinkets, which are purchased with {colour_start|BR_heirloom}Refined Amber Dust{colour_end}. You can get this resource in the Amber Refinery.]]></entry>
+	<entry id="[pc]str_help_town_nomad_wagon_3"><![CDATA[All discounts for trinkets apply only for ones purchased with Gold.]]></entry>
 
     <entry id="[pc]str_help_town_provision_0"><![CDATA[{colour_start|town_activity_log_positive_result}The Captain's ever-faithful first mate has procured only the best for our supply stores which hold new and powerful items to be used in the field. Additionally, your higher-quality backpacks allow you to carry bonus items and larger quantities per slot.{colour_end}]]></entry>
     <entry id="str_help_town_provision_1"><![CDATA[Make sure to properly check out all the provisions, as some have changed, and a handful of new ones were added. Some of the additions require {colour_start|BR_heirloom}Refined Amber Dust{colour_end} to purchase, which can be produced in the Amber Refinery.]]></entry>
@@ -81,16 +82,16 @@
     <entry id="[pc]str_help_town_quest_select_0"><![CDATA[{colour_start|town_activity_log_positive_result}Select a Quest to embark on an expedition there. Our Ferry will take you from the Flameseeker to your destination and back. Whether you return with your tails between your legs or with hard-fought spoils, is up to you.{colour_end}]]></entry>
     <entry id="[pc]str_help_town_quest_select_1"><![CDATA[The Catacombs is the place in which the Levantine army has made their temporary home. This area has the highest quantity of the Matakh resource.]]></entry>
     <entry id="str_help_town_quest_select_2"><![CDATA[The Exposed Interior is home to the Wildlanders. This area has the highest quantity of the Valor Mark resource. This region features the Night and Day quests, which can be checked by the quest icons and in the quests' names.]]></entry>
-    <entry id="str_help_town_quest_select_3"><![CDATA[The Caverns are filled with the Troglodytes. This area will have the highest amount of the Amber resource.]]></entry>
-    <entry id="[pc]str_help_town_quest_select_4"><![CDATA[The Treasury is inhabited by the Cactonid. This area will have the highest amount of the Salvaged Jewelry resource.]]></entry>
+    <entry id="str_help_town_quest_select_3"><![CDATA[The Caverns are filled with the Troglodytes. This area has the highest amount of the Amber resource.]]></entry>
+    <entry id="[pc]str_help_town_quest_select_4"><![CDATA[The Treasury is inhabited by the Cactonid. This area has the highest amount of the Salvaged Jewelry resource.]]></entry>
 	<entry id="[pc]str_help_town_quest_select_5"><![CDATA[All Regions have Lost Legion and Kvarotz enemies, which can be found at high and low torchlight respectively.]]></entry>
 	
     <entry id="[pc]str_help_town_sanitarium_0"><![CDATA[{colour_start|town_activity_log_positive_result}Erick oversees the Clinic, an important facility for keeping your heroes’ humors in balance. In the Medical Ward, you can treat diseases with the latest in surgical advancements.{colour_end}]]></entry>
     <entry id="str_help_town_sanitarium_1"><![CDATA[The Treatment Ward allows you to remove unwanted positive and negative quirks to make place for new ones.]]></entry>
-    <entry id="str_help_town_sanitarium_2"><![CDATA[Positive quirks cannot be reinforced anymore, as they're locked in by default. To acquire new positive quirks, make sure to free up some slots.]]></entry>
-    <entry id="str_help_town_sanitarium_3"><![CDATA[The Clinic is now the only way to completely cure diseases, so make sure to visit it whenever a hero acquires a symptom inside the dungeon.]]></entry>
+    <entry id="str_help_town_sanitarium_2"><![CDATA[Positive quirks are locked in by default. To acquire new positive quirks, make sure to free up some slots.]]></entry>
+    <entry id="str_help_town_sanitarium_3"><![CDATA[The Clinic is the most reliable way to cure diseases, as the Disease Kits can only remove newly acquired symptoms.]]></entry>
     <entry id="str_help_town_sanitarium_4"><![CDATA[Keep in mind that you can treat a positive and a negative quirk at the same time.]]></entry>
-    <entry id="str_help_town_sanitarium_5"><![CDATA[The Clinic requires Salvaged Jewelry to upgrade, which will be found in highest quantities in the Treasury.]]></entry>
+    <entry id="str_help_town_sanitarium_5"><![CDATA[The Clinic requires Salvaged Jewelry to upgrade, which can be found in highest quantities in the Treasury.]]></entry>
 	
     <entry id="[pc]str_help_town_stage_coach_0"><![CDATA[{colour_start|town_activity_log_positive_result}The Ferry is the lifeblood of the Flameseeker, a steady source of Heroes and Provisions. After every Quest, check in to see the latest group of daring adventurers. Don't forget to upgrade the Crew Accommodations here either, which determines how many Heroes can reside at the Flameseeker at once.{colour_end}]]></entry>
     <entry id="[pc]str_help_town_stage_coach_1"><![CDATA[The Ferry requires Matakh to upgrade, which can be found in highest quantities in the Catacombs.]]></entry>
@@ -98,7 +99,7 @@
 	
     <entry id="[pc]str_help_town_tavern_0"><![CDATA[{colour_start|town_activity_log_positive_result}Your primary source of Stress relief. The Galley and its Brewmaster, Almira, are indispensable in ensuring your heroes are not just hale, but hearty as well. Keep in mind that the different activities can bring side effects, both negative or positive, to the Heroes using them.{colour_end}]]></entry>
     <entry id="str_help_town_tavern_1"><![CDATA[The Galley Requires Matakh to upgrade, which can be found in highest quantities in the Catacombs.]]></entry>
-    <entry id="str_help_town_tavern_2"><![CDATA[Regardless of the amount of stress healing that an activity provides, it will always get rid of the hero's affliction.]]></entry>
+    <entry id="str_help_town_tavern_2"><![CDATA[Regardless of the amount of stress healing that an activity provides, Galley will always get rid of the hero's affliction.]]></entry>
     <entry id="str_help_town_tavern_3"><![CDATA[You can hover over the upgrade icon for the stress relief activity to see the exact chances for each possible outcome.]]></entry>
     <entry id="str_help_town_tavern_4"><![CDATA[The Bar {colour_start|stress}Stress{colour_end} Heals for a low amount (40/50/60) and has a low chance to trigger side-effects ( 25% ).]]></entry>
     <entry id="str_help_town_tavern_5"><![CDATA[The Gambling Hall {colour_start|stress}Stress{colour_end} Heals for a medium amount (50/63/75) and has a medium chance to trigger side-effects ( 50% ).]]></entry>
@@ -261,6 +262,8 @@
     <entry id="upgrade_tag_name_building"><![CDATA[Building]]></entry>
     <entry id="upgrade_tag_name_trinket"><![CDATA[Normal Trinkets]]></entry>
     <entry id="upgrade_tag_name_weapon"><![CDATA[Weapon]]></entry>
+    <entry id="upgrade_tag_name_combat_skill"><![CDATA[Combat Skill]]></entry>
+    <entry id="upgrade_tag_name_camping_skill"><![CDATA[Camping Skill]]></entry>
     <entry id="upgrade_tree_name_abbey.flagellation"><![CDATA[Amber Den]]></entry>
     <entry id="upgrade_tree_name_abbey.meditation"><![CDATA[Refinement Technique]]></entry>
     <entry id="upgrade_tree_name_abbey.prayer"><![CDATA[Exchange Upgrades]]></entry>
@@ -316,8 +319,8 @@
 	{colour_start|common}Common{colour_end} - 40% 
 	{colour_start|uncommon}Uncommon{colour_end} - 30% 
 	{colour_start|rare}Rare{colour_end} - 20% 
-	{colour_start|very_rare}Very Rare{colour_end} - 9% 
-	{colour_start|nomad}Nomad{colour_end} - 1% ]]></entry>
+	{colour_start|very_rare}Very Rare{colour_end} - 9.75% 
+	{colour_start|nomad}Flameseeker{colour_end} - 0.25% ]]></entry>
     <entry id="upgrade_tree_tooltip_description_reduces_chance_of_negative_side_effects"><![CDATA[Reduces chance of side effects]]></entry>
     <entry id="upgrade_tree_tooltip_description_reduces_cost_of_camping_skills_format"><![CDATA[Reduces cost of training Camping skills by %d%%]]></entry>
     <entry id="upgrade_tree_tooltip_description_reduces_cost_of_combat_skill_upgrades_format"><![CDATA[Reduces cost of skill training by %d%%]]></entry>
@@ -584,38 +587,6 @@
     <entry id="str_district_build_building_confirm_yes"><![CDATA[Yes]]></entry>
     
 	<entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[IF YOU'RE SEEING THIS, SOMETHING IS WRONG]]></entry>
-    <entry id="town_event_info_br_districts_unlock"><![CDATA[[Side Deck Upgrades Available]]]></entry>
-    <entry id="town_event_title_br_districts_unlock"><![CDATA[Room for Improvements]]></entry>
-	<entry id="town_event_description_br_districts_unlock"><![CDATA["The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
-	
-	<entry id="town_event_info_br_intro"><![CDATA[[Enabling Tutorials is RECOMMENDED]
-[Press H to open the Help Menus]]]></entry>
-    <entry id="town_event_title_br_intro"><![CDATA[Finding Your Sky Legs]]></entry>
-	<entry id="town_event_description_br_intro"><![CDATA["All hand are to make accommodations for our guest and help them get situated!"]]></entry>
-	
-	<entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-	<entry id="town_event_title_br_free_dust"><![CDATA[Cache in the Dunes]]></entry>
-	<entry id="town_event_description_br_free_dust"><![CDATA[One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
-	
-	<entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
-	<entry id="town_event_title_br_champ_unlock"><![CDATA[Cache in the Dunes]]></entry>
-	<entry id="town_event_description_br_champ_unlock"><![CDATA[One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
-	
-	<entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
-	<entry id="town_event_title_br_free_tech"><![CDATA[Quid Pro Quo]]></entry>
-	<entry id="town_event_description_br_free_tech"><![CDATA[The Ostvengr are as generous as they are shrewd. A favor has been granted, but favors will eventually be called in.]]></entry>
-	
-	<entry id="town_event_info_br_amber_explosion"><![CDATA[{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken{colour_end} {colour_start|neutral}on next quest{colour_end}
-{colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
-	<entry id="town_event_title_br_amber_explosion"><![CDATA[Amber Accident]]></entry>
-	<entry id="town_event_description_br_amber_explosion"><![CDATA[A mishap in the refinery has resulted in a miasma of amber fumes filling the entire ship. Try to take short breaths.]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
-	
-	<entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}All Stress Relief Activities in the Galley are Free
-+10 Idle Stress Relief{colour_end}]]></entry>
-	<entry id="town_event_title_br_hero_death"><![CDATA[Proper Remembrance]]></entry>
-	<entry id="town_event_description_br_hero_death"><![CDATA[The first has fallen. Let us savor that bitter taste of defeat, as we supplement it with wines and brews.]]></entry>
-	
 	<entry id="tutorial_popup_shard_nomad_wagon_title"><![CDATA[Black Market Dealings]]></entry>
     <entry id="tutorial_popup_shard_nomad_wagon_description"><![CDATA[{colour_start|BR_heirloom}Refined Amber Dust{colour_end} has a niche but voracious clientele, and its enthusiasts will exchange great wealth for it. In this case, the contraband dealer Veronica will gladly part with her assortment of exotic trinkets for a sizeable amount of {colour_start|BR_heirloom}Refined Amber Dust{colour_end}.]]></entry>
 	
@@ -652,7 +623,17 @@
     <entry id="str_bank_buff_stacking1"><![CDATA[ ]]></entry>
     <entry id="str_bank_buff_stacking2"><![CDATA[ ]]></entry>
     <entry id="str_bank_buff_stacking3"><![CDATA[ ]]></entry>
-
+	
+	<entry id="str_gold_stack_building1_title"><![CDATA[Counting Station]]></entry>
+    <entry id="str_gold_stack_building1_buff_stacking"><![CDATA[Gold inventory stacking increased by 500]]></entry>
+    <entry id="str_gold_stack_building1_buff_stacking1"><![CDATA[Daric inventory stacking increased by 5]]></entry>
+	
+	<entry id="str_gold_stack_building2_title"><![CDATA[Vault]]></entry>
+    <entry id="str_gold_stack_building2_buff_need_bank"><![CDATA[{colour_start|skill_unselectable}Requires Counting Station to be built{colour_end}]]></entry>
+    <entry id="str_gold_stack_building2_buff_stacking"><![CDATA[Gold inventory stacking increased by 500]]></entry>
+    <entry id="str_gold_stack_building2_buff_stacking1"><![CDATA[Daric inventory stacking increased by 5]]></entry>
+	
+	
     <entry id="str_illuminators_guild_title"><![CDATA[Jeweler's Shoppe]]></entry>
     <entry id="str_illuminators_guild_buff_stacking4"><![CDATA[Gem and {colour_start|cursed_gem}Malignant Vestige{colour_end} inventory stacking increased by 1]]></entry>
     <entry id="str_illuminators_guild_buff_stacking5"><![CDATA[ ]]></entry>
@@ -705,6 +686,127 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
     <entry id="str_blood_bank_buff_adrenaline_provision"><![CDATA[Add 1 Reflex Serum to the Provisioner's stock each week]]></entry>
     <entry id="str_blood_bank_buff_adrenaline_desc"><![CDATA[Reflex Serum can be purchased for 6 {colour_start|BR_heirloom}Refined Amber Dust{colour_end} and grants a short powerspike, giving the user a {colour_start|riposte}Riposte{colour_end}.]]></entry>
    
+    <!-- Town Events -->
+    <entry id="town_event_info_br_districts_unlock"><![CDATA[[Side Deck Upgrades Available]]]></entry>
+    <entry id="town_event_title_br_districts_unlock"><![CDATA[Room for Improvements]]></entry>
+	<entry id="town_event_description_br_districts_unlock"><![CDATA["The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
+	
+	<entry id="town_event_info_br_intro"><![CDATA[[Enabling Tutorials is RECOMMENDED]
+[Press H to open the Help Menus]]]></entry>
+    <entry id="town_event_title_br_intro"><![CDATA[Finding Your Sky Legs]]></entry>
+	<entry id="town_event_description_br_intro"><![CDATA["All hands are to make accommodations for our guest and help them get situated!"]]></entry>
+	
+	<entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
+	<entry id="town_event_title_br_free_dust"><![CDATA[Cache in the Dunes]]></entry>
+	<entry id="town_event_description_br_free_dust"><![CDATA[One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
+	
+	<entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}Refined Amber Dust{colour_end}]]></entry>
+	<entry id="town_event_title_br_champ_unlock"><![CDATA[Cache in the Dunes]]></entry>
+	<entry id="town_event_description_br_champ_unlock"><![CDATA[One of our benefactors has seen it fit to leave us a stockpile of particular goods in a remote location.]]></entry>
+	
+	<entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Lost Tek{colour_end}]]></entry>
+	<entry id="town_event_title_br_free_tech"><![CDATA[Quid Pro Quo]]></entry>
+	<entry id="town_event_description_br_free_tech"><![CDATA[The Ostvengr are as generous as they are shrewd. A favor has been granted, but favors will eventually be called in.]]></entry>
+	
+	<entry id="town_event_info_br_amber_explosion"><![CDATA[{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken on next quest{colour_end}
+{colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
+	<entry id="town_event_title_br_amber_explosion"><![CDATA[Amber Accident]]></entry>
+	<entry id="town_event_description_br_amber_explosion"><![CDATA[A mishap in the refinery has resulted in a miasma of amber fumes filling the entire ship. Try to take short breaths.]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
+	
+	<entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}All Stress Relief Activities in the Galley are Free
++10 Idle Stress Relief{colour_end}]]></entry>
+	<entry id="town_event_title_br_hero_death"><![CDATA[Proper Remembrance]]></entry>
+	<entry id="town_event_description_br_hero_death"><![CDATA[The first has fallen. Let us savor that bitter taste of defeat, as we supplement it with wines and brews.]]></entry>
+   
+	<entry id="town_event_title_br_melee_buff"><![CDATA[Weapon Maintenance]]></entry>
+	<entry id="town_event_description_br_melee_buff"><![CDATA[A recent inspection revealed that the blades have been badly miskept. This must be rectified immediately!]]></entry>
+	
+	<entry id="town_event_title_br_ranged_buff"><![CDATA[Target Practice]]></entry>
+	<entry id="town_event_description_br_ranged_buff"><![CDATA[All rangers must report to the top deck at once! Your marksmanship is due for examination.]]></entry>
+		
+	<entry id="town_event_title_br_mystic_buff"><![CDATA[Celestial Alignment]]></entry>
+	<entry id="town_event_description_br_mystic_buff"><![CDATA[Non-practicing crew shall keep their voices to whispers as our mystics engage in meditation.]]></entry>
+	<entry id="town_event_info_br_mystic_buff"><![CDATA[{colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +8 ACC on next quest{colour_end}
+{colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +5% CRT on next quest{colour_end}]]></entry>
+	
+	<entry id="town_event_title_br_religious_buff"><![CDATA[Candlelit Vigil]]></entry>
+	<entry id="town_event_description_br_religious_buff"><![CDATA[The faithful are gathered in solemn prayer today, and those still seeking an answer are welcomed to participate.]]></entry>
+	<entry id="town_event_info_br_religious_buff"><![CDATA[{colour_start|notable}+15% {colour_start|healhp}Healing{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}
+{colour_start|notable}-15% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_RELIGIOUS_STRESSREC"><![CDATA[{colour_start|notable}-15%% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end}{colour_end}]]></entry>
+	
+	<entry id="town_event_title_br_pagan_buff"><![CDATA[Eldritch Invocation]]></entry>
+	<entry id="town_event_description_br_pagan_buff"><![CDATA[The seekers of dark powers have congregated to pay homage to their many masters.]]></entry>
+	
+	<entry id="town_event_title_br_expensive_provisions"><![CDATA[Spoiled Shipment]]></entry>
+	<entry id="town_event_description_br_expensive_provisions"><![CDATA[Our most recent delivery of supplies was lacking. Crew should expect half rations until the next resupply.]]></entry>
+	
+	<entry id="town_event_title_br_free_provisions"><![CDATA[Supply Cache]]></entry>
+	<entry id="town_event_description_br_free_provisions"><![CDATA[Scouts have located an enormous store of what are now formerly Levantine supplies!]]></entry>
+	
+	<entry id="town_event_title_br_captain_owie"><![CDATA[Inconvenient Injury]]></entry>
+	<entry id="town_event_description_br_captain_owie"><![CDATA[Keep your heads down and do your jobs thrice as hard. The Captain is in a scornful mood.]]></entry>
+	<entry id="town_event_info_br_captain_owie"><![CDATA[{colour_start|harmful}-15% {colour_start|virtue}Virtue{colour_end} Chance on next quest{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_CAPTAIN_LEG_BREAK"><![CDATA[{colour_start|harmful}-15%% {colour_start|virtue}Virtue{colour_end} Chance{colour_end}]]></entry>
+	
+	<entry id="town_event_title_br_lock_bar_galley_free"><![CDATA[Corrupted Wine]]></entry>
+	<entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[Several crew members were left sick from tainted brews! The bar is closed until all drinks are potable once more...]]></entry>
+	
+	<entry id="town_event_title_br_lock_gambling_galley_free"><![CDATA[Hog Wild]]></entry>
+	<entry id="town_event_description_br_lock_gambling_galley_free"><![CDATA[The gambling tables are currently closed. Almira has not specified why at this time.]]></entry>
+	
+	<entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[Exhibition Bout]]></entry>
+	<entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[A match we've all been waiting to see! Other competitors are asked to wait until the event has concluded.]]></entry>
+	
+	<entry id="town_event_title_br_skill_issue"><![CDATA[Inheritance]]></entry>
+	<entry id="town_event_description_br_skill_issue"><![CDATA[One of the most recent to perish had apparently kept quite the sum on them, and bequeathed it to the ship.]]></entry>
+	<entry id="town_event_info_br_skill_issue"><![CDATA[+30000 {colour_start|notable}Gold{colour_end}]]></entry>
+	
+	<entry id="town_event_title_br_free_galley"><![CDATA[Ertefest]]></entry>
+	<entry id="town_event_description_br_free_galley"><![CDATA[A day of old Ostvengr traditions! Enjoy yourselves, but be responsible- this is still an airship!]]></entry>
+	
+	<entry id="town_event_title_br_free_workshop"><![CDATA[Amber Convention]]></entry>
+	<entry id="town_event_description_br_free_workshop"><![CDATA[The Penitent Leonne's colleagues are visiting to share their expertise in the studies of amber!]]></entry>
+	
+	<entry id="town_event_title_br_free_clinic"><![CDATA[Curious Cadaver]]></entry>
+	<entry id="town_event_description_br_free_clinic"><![CDATA[Erick and Ilya have discovered a most peculiar cadavar, and their discoveries are yielding miraculous results!.]]></entry>
+	
+	<entry id="town_event_title_br_captain_birthday"><![CDATA[Captain's Birthday]]></entry>
+	<entry id="town_event_description_br_captain_birthday"><![CDATA[It's a very special day!]]></entry>
+	<entry id="town_event_info_br_captain_birthday"><![CDATA[{colour_start|notable}All activities are free!{colour_end}]]></entry>
+	
+	<entry id="town_event_title_br_ostvengr_mercs_1"><![CDATA[Augmented Mercenaries]]></entry>
+	<entry id="town_event_description_br_ostvengr_mercs_1"><![CDATA[Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
+	<entry id="town_event_title_br_ostvengr_mercs_2"><![CDATA[Augmented Mercenaries]]></entry>
+	<entry id="town_event_description_br_ostvengr_mercs_2"><![CDATA[Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
+	<entry id="town_event_title_br_ostvengr_mercs_3"><![CDATA[Augmented Mercenaries]]></entry>
+	<entry id="town_event_description_br_ostvengr_mercs_3"><![CDATA[Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
+	
+	<entry id="town_event_title_br_extra_recruits"><![CDATA[Smoke Signals]]></entry>
+	<entry id="town_event_description_br_extra_recruits"><![CDATA[A collection of survivors were spotted down below, some of which may be of promise to us.]]></entry>
+	
+	<entry id="town_event_title_br_kristjan_concert"><![CDATA[Concert]]></entry>
+	<entry id="town_event_description_br_kristjan_concert"><![CDATA[The ship's bard has fallen into a musical dervish and the songs are inspiring!]]></entry>
+	
+	<entry id="town_event_title_br_dead_recruit"><![CDATA[The Stranger]]></entry>
+	<entry id="town_event_description_br_dead_recruit"><![CDATA[A hooded figure has mysteriously appeared on the ship, claiming to be able to defy death.]]></entry>
+	
+	<entry id="town_event_title_br_fire_sale"><![CDATA[Suspicious Sale]]></entry>
+	<entry id="town_event_description_br_fire_sale"><![CDATA[Vernon is selling at a huge discount, citing a sudden need to liquidate before we return to port.]]></entry>
+	
+	<entry id="town_event_title_br_imposter"><![CDATA[Emergency Meeting]]></entry>
+	<entry id="town_event_description_br_imposter"><![CDATA[A crewmate was found murdered in their sleep. Someone is not who they claim to be...]]></entry>
+	
+	<entry id="town_event_title_br_free_armor_weapons"><![CDATA[Second Hand Shipment]]></entry>
+	<entry id="town_event_description_br_free_armor_weapons"><![CDATA[Our friends at the Rot Hering Company left us a gift! Check the box marked "Defekt: Nicht Verwenden".]]></entry>
+	
+	<entry id="town_event_title_br_free_skills_camp_skills"><![CDATA[Bootcamp]]></entry>
+	<entry id="town_event_description_br_free_skills_camp_skills"><![CDATA[Riga and Abbas have found the crew's performance lacking, and are offering a more intensive course.]]></entry>
+	
+	<entry id="town_event_title_br_eclipse"><![CDATA[Blackened Sun]]></entry>
+	<entry id="town_event_description_br_eclipse"><![CDATA[This is more than a simple eclipse. Something in the dunes below is causing this horrible occurrence.]]></entry>
+	
 	<!-- Drown Out -->
     <entry id="str_bar_committed"><![CDATA[Fetch me your most expensive liquor!]]></entry>
     <entry id="str_bar_committed"><![CDATA[A drink to wet these sand-dried lips of mine, please!]]></entry>
