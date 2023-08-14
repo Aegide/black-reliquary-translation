@@ -128,7 +128,7 @@
 	<entry id="camping_skill_effect_loot_FLA_BREL_DEATH_TT"><![CDATA[Other Heroes: {colour_start|healhp}Heal{colour_end} 10 HP]]></entry>	
 	<entry id="camping_skill_effect_loot_FLA_BREL_VIRTUE_CHECK_TT"><![CDATA[Cannot {colour_start|virtue}Virtue{colour_end}]]></entry>	
 	<entry id="camping_skill_effect_loot_FLA_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Rapturous(100ʪ):{colour_end}
-+25% DMG/ -20 DODGE/ +3 SPD
++25% DMG/ +6 SPD/ -20 DODGE
 Harmful Act-outs and Reactions]]></entry>	
 	<entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD"><![CDATA[Death's Door Debuffs replaced with:
 	+5 ACC/+20% DMG/+2 SPD
