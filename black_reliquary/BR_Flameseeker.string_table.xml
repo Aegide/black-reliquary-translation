@@ -794,6 +794,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 	
 	<entry id="town_event_title_br_fire_sale"><![CDATA[Suspicious Sale]]></entry>
 	<entry id="town_event_description_br_fire_sale"><![CDATA[Vernon is selling at a huge discount, citing a sudden need to liquidate before we return to port.]]></entry>
+	<entry id="town_event_info_br_fire_sale"><![CDATA[{colour_start|notable}Non-Contraband Trinkets Cost -75ʪ{colour_end}]]></entry>
 	
 	<entry id="town_event_title_br_imposter"><![CDATA[Emergency Meeting]]></entry>
 	<entry id="town_event_description_br_imposter"><![CDATA[A crewmate was found murdered in their sleep. Someone is not who they claim to be...]]></entry>

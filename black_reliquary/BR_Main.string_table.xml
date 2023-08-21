@@ -896,7 +896,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 	<entry id="str_glossary_term_1022"><![CDATA[Refined Amber Dust]]></entry>
 	<entry id="str_glossary_term_definition_1022"><![CDATA[A refined version of Amber. Can be created in the Amber Refinery Activity in the Amber Workshop Facility on the Flameseeker, and occasionally found as loot. Used to purchase luxury provisions, use the Amber Den Activity, and to buy Contraband Trinkets.]]></entry>
 	<entry id="str_glossary_term_1023"><![CDATA[Troglodyte]]></entry>
-    <entry id="str_glossary_term_definition_1023"><![CDATA[The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength. Due to the their blindness they also completely ignore Stealth.]]></entry>
+    <entry id="str_glossary_term_definition_1023"><![CDATA[The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength. Due to the their blindness they also completley ignore Stealth.]]></entry>
     <entry id="str_glossary_term_1024"><![CDATA[Cactonid]]></entry>
     <entry id="str_glossary_term_definition_1024"><![CDATA[These eldritch hybrids of flesh and flora have overgrown the Kvarotz treasury. They lie in wait, ready to spring upon victims who unwittingly spring their traps, bombarding their prey with various statuses.]]></entry>
 	
@@ -3049,6 +3049,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monstername_yngolian_small_E"><![CDATA[Y Cell]]></entry>
 	<entry id="str_monstername_yngolian_small_F"><![CDATA[Y Cell]]></entry>
 	<entry id="str_monstername_yngolian_small_G"><![CDATA[Y Cell]]></entry>
+	<entry id="str_monstername_yngolian_small_H"><![CDATA[Y Cell]]></entry>
+	
 	
 	<entry id="str_monstername_kvarotz_crewmate_A"><![CDATA[Flameseeker Crewmate]]></entry>
 	<entry id="str_monstername_crewmate_A"><![CDATA[Flameseeker Crewmate]]></entry>
@@ -3711,6 +3713,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_speed_rating"><![CDATA[%+d SPD]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_protection_rating"><![CDATA[%+d%% PROT]]></entry>
 
+    <entry id="buff_stat_tooltip_upgrade_discount_stress_dmg_percent"><![CDATA[%+d%% {colour_start|stress}Stress{colour_end} Inflicted On Party]]></entry>
+
+
 
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_heal_dot_amount_percent"><![CDATA[%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_dot_bleed_amount_percent"><![CDATA[%+d%% {colour_start|bleed}Bleed{colour_end} Amount Applied]]></entry>
@@ -4156,6 +4161,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_rule_data_tooltip_IMMUNITY_MASK_TT_2"><![CDATA[ Self: Cure {colour_start|bleed}Bleed{colour_end}/ {colour_start|blight}Blight{colour_end}/ {colour_start|mark}Mark{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_IMMUNITY_MASK_TT_3"><![CDATA[ Self: +4 {colour_start|stress}Stress{colour_end} per condition cured]]></entry>
 
+
+	
 	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[On Attack Crit: Deal 4 Damage to Target
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[On Attack Crit: Deal 6 Damage to Target
