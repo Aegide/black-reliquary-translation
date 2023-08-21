@@ -1,4 +1,4 @@
-rm ./black_reliquary/*.xml
+rm ./black_reliquary/*.xml 2> /dev/null
 cp /c/'Program Files (x86)'/Steam/steamapps/common/'Black Reliquary'/localization/*.xml ./black_reliquary/
 rm ./black_reliquary/PSN.string_table.xml
 rm ./black_reliquary/switch.string_table.xml
