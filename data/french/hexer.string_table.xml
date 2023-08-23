@@ -1,4 +1,7 @@
-<entry id="hero_class_name_hexer"><![CDATA[TODO:Hexer]]></entry>
+
+
+  
+<entry id="hero_class_name_hexer"><![CDATA[Maniaque]]></entry>
 <entry id="upgrade_tree_name_hexer.weapon"><![CDATA[TODO:Evil Blood]]></entry>
 <entry id="upgrade_tree_name_hexer.armour"><![CDATA[TODO:Straitjacket & Cloak]]></entry>
 <entry id="hexer_weapon_0"><![CDATA[TODO:Evil]]></entry>
@@ -10,7 +13,7 @@
 <entry id="hexer_armour_1"><![CDATA[TODO:Vile Jacket, Black Cloak]]></entry>
 <entry id="hexer_armour_2"><![CDATA[TODO:Toxic Jacket, Nocturnal Cloak]]></entry>
 <entry id="hexer_armour_3"><![CDATA[TODO:Noxious Jacket, Devouring Cloak]]></entry>
-<entry id="hexer_armour_4"><![CDATA[TODO:"The Virulent & The Thirsty"]]></entry>	
+<entry id="hexer_armour_4"><![CDATA[TODO:"The Virulent & The Thirsty"]]></entry>
 <entry id="str_inventory_title_trinkethexer_feet_on_rope"><![CDATA[TODO:Trotter's Snack]]></entry>
 <entry id="str_inventory_title_trinkethexer_beating_heart"><![CDATA[TODO:Unceasing Vigor]]></entry>
 <entry id="str_inventory_title_trinkethexer_pure_injection"><![CDATA[TODO:Blissful Moment]]></entry>
@@ -68,7 +71,7 @@ Ichor Incantation]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_foot_moveskill_TT"><![CDATA[TODO:+10%% {colour_start|move}Move{colour_end} Chance per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[TODO:On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
-{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
+	{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[TODO:-25%% {colour_start|stress}Stress{colour_end} Received if has less than 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[TODO:-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[TODO:+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
@@ -99,7 +102,7 @@ Ichor Incantation]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEXER_HEART_DODGE_TT"><![CDATA[TODO:+6 DODGE per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_stress"><![CDATA[TODO:On Attack: Other Heroes +3 {colour_start|stress}Stress{colour_end} if not {colour_start|afflicted}Afflicted{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_buffs"><![CDATA[TODO:On Attack: {colour_start|buff}Buff Others:{colour_end} +5%% ACC, +3%% CRIT, -33%% {colour_start|stress}Stress{colour_end} Inflicted On Party if {colour_start|afflicted}Afflicted{colour_end}]]></entry>
-<entry id="camping_skill_name_addinfo_hexer"><![CDATA[Informations supplémentaires]]></entry>
+<entry id="camping_skill_name_addinfo_hexer"><![CDATA[TODO:Additional Information]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -40% ]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Is banned from the Amber Refinery and Tek Exchange]]></entry>
@@ -108,13 +111,13 @@ Ichor Incantation]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} +10% Damage Taken {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_CRIT_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_VIALS_TT"><![CDATA[TODO:{colour_start|hexer_vial}CORRUPTION VIALS{colour_end}
-Hexer can gain up to 3 {colour_start|hexer_vial}Corruption Vials{colour_end}
-Certain skills gain bonuses the more {colour_start|hexer_vial}Vials{colour_end} Hexer has
-{colour_start|hexer_vial}Vials{colour_end} persists after combat end]]></entry>
+	Hexer can gain up to 3 {colour_start|hexer_vial}Corruption Vials{colour_end}
+	Certain skills gain bonuses the more {colour_start|hexer_vial}Vials{colour_end} Hexer has
+	{colour_start|hexer_vial}Vials{colour_end} persists after combat end]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT"><![CDATA[TODO:{colour_start|afflicted}Cannibalistic(100ʪ):{colour_end}
 +25% DMG/ +10% CRT/ -10 DODGE/ -20% {colour_start|debuff}Debuff{colour_end} Skill Chance
-Harmful Act-outs and Reactions]]></entry>	
-<entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT2"><![CDATA[TODO:50% Chance to Forcibly Interact with Corpse Curios]]></entry>	
+Harmful Act-outs and Reactions]]></entry>
+<entry id="camping_skill_effect_loot_HEX_BREL_AFFLICT_TT2"><![CDATA[TODO:50% Chance to Forcibly Interact with Corpse Curios]]></entry>
 <entry id="str_skill_mode_info_hexer_melt_1"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_hexer_melt_2"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_hexer_mal_1"><![CDATA[TODO: ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
@@ -178,15 +181,15 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="buff_rule_data_tooltip_HEXER_PAIN_2_SKILL_LINE4"><![CDATA[TODO:  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE1"><![CDATA[TODO:^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[TODO:^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^-7%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^-8%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[TODO:^^-12%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[TODO:^^-13%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[TODO:^^-15%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[TODO:^^-16%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[TODO:^^-18%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[TODO:^^-11%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[TODO:^^-12%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[TODO:^^-13%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[TODO:^^-14%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[TODO:^^-15%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HEXER_FLESH_2_SKILL_LINE4"><![CDATA[TODO:  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE1"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE2"><![CDATA[TODO:{colour_start|guard}Guard{colour_end}, {colour_start|riposte}Riposte{colour_end}]]></entry>
@@ -278,6 +281,9 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[TODO:Hihi... Hihihi... Hahahahaha!]]></entry>
 <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[TODO:Know your place, and GROVEL at my feet.]]></entry>
 <entry id="hexer+str_bark_hexer_enthroned"><![CDATA[TODO:I shall RULE over all, and turn the weak into meals.]]></entry>
+<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:My body, a TEMPLE...]]></entry>
+<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:EXPUNGE this filth!]]></entry>
+<entry id="hexer+str_bark_hexer_sanguis_metallica"><![CDATA[TODO:I am far STRONGER than any mere disease...]]></entry>
 <entry id="hexer+str_bark_scout"><![CDATA[TODO:Time to STALK for prey... Hihihi.]]></entry>
 <entry id="hexer+str_bark_scout"><![CDATA[TODO:I will blend in with these MONSTERS.]]></entry>
 <entry id="hexer+str_bark_scout"><![CDATA[TODO:Time for a MIDNIGHT tour of my kingdom-to-be.]]></entry>
@@ -332,8 +338,8 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:The relief! I thank you!]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:I almost became lost to... That thing.]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
-<entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_rictus"><![CDATA[TODO:{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[TODO:{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
 <entry id="str_incompatible_party_member_hexer_limit"><![CDATA[TODO:You can not FOOL me.]]></entry>
 <entry id="hexer+str_incompatible_party_member_hexer_limit"><![CDATA[TODO:I am UNIQUE.]]></entry>
 <entry id="hexer+str_override_invalid_rejection"><![CDATA[TODO:You EXPECT me to do what?]]></entry>
@@ -437,7 +443,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:How blood-stiflingly DULL.]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:What a WASTE of time.]]></entry>
 <entry id="hexer+str_bark_curiomeh"><![CDATA[TODO:I am falling ASLEEP here, yes?]]></entry>
-<entry id="str_affliction_name_cannibalistic"><![CDATA[TODO:Cannibalistic]]></entry>
+<entry id="str_affliction_name_cannibalistic"><![CDATA[Cannibalisme]]></entry>
 <entry id="str_roster_list_cannibalistic_bark"><![CDATA[TODO:Let go of me! This ship is FULL of victims!]]></entry>
 <entry id="str_roster_list_cannibalistic_bark"><![CDATA[TODO:So much MEALS just passing by... Gyihihi!]]></entry>
 <entry id="str_roster_list_cannibalistic_bark"><![CDATA[TODO:The STENCH of all these peasants is mouth-watering.]]></entry>
@@ -550,3 +556,8 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:Spare the SCIENCE. My blood is stronger!]]></entry>
 <entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:You better be CAREFUL with administering that. Gyihi!]]></entry>
 <entry id="hexer+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:This bring back UNPLEASANT memories.]]></entry>
+
+   
+
+
+ 
