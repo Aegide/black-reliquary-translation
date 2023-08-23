@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="french">	
+  
+    <entry id="salad_weapon_0"><![CDATA[Prothèse rudimentaire]]></entry>
+    <entry id="salad_weapon_1"><![CDATA[Prothèse]]></entry>
+    <entry id="salad_weapon_2"><![CDATA[Prothèse de qualité]]></entry>
+    <entry id="salad_weapon_3"><![CDATA[Prothèse complexe]]></entry>
+    <entry id="salad_weapon_4"><![CDATA["Feu de fafnir"]]></entry>
+    <entry id="upgrade_tree_name_salad.weapon"><![CDATA[Prothèse]]></entry>
+
+    <entry id="salad_armour_0"><![CDATA[Plastron abîmé]]></entry>
+    <entry id="salad_armour_1"><![CDATA[Plastron de bonne qualité]]></entry>
+    <entry id="salad_armour_2"><![CDATA[Plastron solide]]></entry>
+    <entry id="salad_armour_3"><![CDATA[Plastron en plomb]]></entry>
+    <entry id="salad_armour_4"><![CDATA["La fin du monde"]]></entry>
+    <entry id="upgrade_tree_name_salad.armour"><![CDATA[Plastron]]></entry>
+
+    <entry id="action_verbose_body_guild_salad"><![CDATA[Une fusion sombre de métal et de chair, la Salamandre est devenue une machine de guerre vivante. Grâce à l’utilisation de son lance-flammes, elle peut infliger des attaques dévastatrices sur ses ennemis, sautant agilement avec ses griffes prothétiques, elle fait des ravages !]]></entry>
+    <entry id="action_verbose_body_blacksmith_salad"><![CDATA[La Salamandre uttilise ses prothèses durant les combats, faisant bon usage de sa myriade de gadgets pour couper tout sur son passage. Sa plaque thoracique n’est pas une simple armure, elle est greffée à sa chair elle-même, offrant des capacités au-delà de celles d’un humain ordinaire.]]></entry>
+    <entry id="action_verbose_body_camping_trainer_salad"><![CDATA[La Salamandre est tout à fait autosuffisante, bricolant et améliorant à la fois ses prothèses et sa propre chair afin de s’optimiser pour les batailles à venir.]]></entry>
+
+    <entry id="buff_stat_tooltip_damage_reflect_percent"><![CDATA[%d%% Damage Reflection]]></entry>
+	
+	<entry id="buff_stat_tooltip_torchlight_burn_percent"><![CDATA[%d%% Torch Burn Rate]]></entry>
+
+	<entry id="effect_health_damage_format"><![CDATA[Suffer %d DMG]]></entry>
+	
+    <entry id="salad+str_monster_user_selected_targets_kill_pill"><![CDATA[Je ne suis qu'une marionette et eux les maîtres des poupées...]]></entry>
+
+    <entry id="salad+str_bark_deathsdoor"><![CDATA[Non... Je peux le réparer... Je peux le réparer !]]></entry>
+	
+    <entry id="town_event_title_first_salad"><![CDATA[Deus Ex Machina]]></entry>
+    <entry id="town_event_description_first_salad"><![CDATA[Ce sinistre mercenaire semble plus machine que homme. Elle offre son équipement de pointe et... sa physiologie unique à notre cause.]]></entry>
+	
+    <entry id="hero_class_name_salad"><![CDATA[Salamandre]]></entry>
+
+    <entry id="combat_skill_name_salad_salad_gout"><![CDATA[Lance-flammes]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_gout"><![CDATA[Lance-flammes]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_gout"><![CDATA[Flame Gout]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_breath"><![CDATA[Souffle de la salamandre]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_breath"><![CDATA[Souffle de la salamandre]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_breath"><![CDATA[Salamander's Breath]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_vent"><![CDATA[Évacuation de la vapeur]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_vent"><![CDATA[Évacuation de la vapeur]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_vent"><![CDATA[Steam Vent]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_yoink"><![CDATA[Pince-grappin]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_yoink"><![CDATA[Pince-grappin]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_yoink"><![CDATA[Grappling Claw]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_bunker"><![CDATA[Dague véloce]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_bunker"><![CDATA[Dague véloce]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_bunker"><![CDATA[Pile Bunker]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_glove"><![CDATA[Lacération]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_glove"><![CDATA[Lacération]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_glove"><![CDATA[Lacerate]]></entry>
+	
+    <entry id="combat_skill_name_salad_salad_kick"><![CDATA[Balayette]]></entry>
+    <entry id="upgrade_tree_name_salad.salad_kick"><![CDATA[Balayette]]></entry>
+	<entry id="buff_rule_data_tooltip_salad_kick"><![CDATA[Sweep Kick]]></entry>
+	
+    <entry id="combat_skill_name_salad_move"><![CDATA[Déplacement]]></entry>
+	
+    <entry id="camping_skill_name_salad_windup"><![CDATA[Surégime]]></entry>
+    <entry id="camping_skill_name_salad_flameio"><![CDATA[Allumez le feu !]]></entry>
+    <entry id="camping_skill_name_salad_surg"><![CDATA[Addiction chiurgicale]]></entry>
+    <entry id="camping_skill_name_salad_blaze"><![CDATA[Gloire Flamboyante]]></entry>	
+	
+	<entry id="buff_stat_tooltip_upgrade_discount_salad_vent_dmg_tt"><![CDATA[Flame Gout/Salamander's Breath/Steam Vent: +1 DMG]]></entry>	
+
+	<entry id="buff_stat_tooltip_upgrade_discount_salad_sekiro_dodge_tt"><![CDATA[-10 DODGE if in position 2 or 3]]></entry>	
+	
+    <entry id="str_inventory_title_trinketsalad_scrap"><![CDATA[Feraille]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_needle"><![CDATA[Aiguille brûlante]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_fuel"><![CDATA[Réserve de carburant]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_hook"><![CDATA[Gants-crochets jumeaux]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_fvent"><![CDATA[Grille d'évacuation]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_heart"><![CDATA[Coeur horloge]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_proto"><![CDATA[Prototype Mark I]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_cflame"><![CDATA[Flamme froide]]></entry>	
+    <entry id="str_inventory_title_trinketsalad_sekiro"><![CDATA[Phrothèse expérimentale]]></entry>	
+	
+	<entry id="str_inventory_set_title_salad_cc"><![CDATA["Plus humain que les humains."]]></entry>	
+
+    <entry id="salad+str_afflicted_fearful"><![CDATA[My body fails! My flesh is exposed!]]></entry>
+    <entry id="salad+str_afflicted_fearful"><![CDATA[Meat! I'm just meat!]]></entry>
+    <entry id="salad+str_afflicted_fearful"><![CDATA[My arms malfunction, my legs freeze up!]]></entry>
+
+    <entry id="salad+str_afflicted_paranoid"><![CDATA[My designs... You all want my designs!]]></entry>
+    <entry id="salad+str_afflicted_paranoid"><![CDATA[I won't let you steal my ideas!]]></entry>
+    <entry id="salad+str_afflicted_paranoid"><![CDATA[I can hear it. Metal fatigue's setting in...]]></entry>
+    <entry id="salad+str_afflicted_paranoid"><![CDATA[No one look at me!]]></entry>
+    <entry id="salad+str_afflicted_paranoid"><![CDATA[Eyes everywhere...]]></entry>
+
+    <entry id="salad+str_afflicted_masochistic"><![CDATA[Yes! Carve the meat away!]]></entry>
+    <entry id="salad+str_afflicted_masochistic"><![CDATA[Crush me like a toy! Turn me into broken gears and put me back together!]]></entry>
+    <entry id="salad+str_afflicted_masochistic"><![CDATA[Too much meat... I have too much meat! Take it away!]]></entry>
+    <entry id="salad+str_afflicted_masochistic"><![CDATA[I want... I want to be ripped apart...]]></entry>
+    <entry id="salad+str_afflicted_masochistic"><![CDATA[Please, take me apart! I will rebuild myself!]]></entry>
+
+    <entry id="salad+str_afflicted_abusive"><![CDATA[You're all so... soft. Ugh.]]></entry>
+    <entry id="salad+str_afflicted_abusive"><![CDATA[Inferior meat! Let me show you how it's done!]]></entry>
+    <entry id="salad+str_afflicted_abusive"><![CDATA[Worthless piles of organs is what you are.]]></entry>
+	
+    <entry id="salad+str_afflicted_selfish"><![CDATA[Metal over man! This is the way!]]></entry>
+    <entry id="salad+str_afflicted_selfish"><![CDATA[Why am I still with you all? I'm worth a king's ransom alone!]]></entry>
+    <entry id="salad+str_afflicted_selfish"><![CDATA[I'm so much better than you, you, and ESPECIALLY you.]]></entry>
+
+    <entry id="salad+str_afflicted_depressed"><![CDATA[What...? What have I done?...]]></entry>
+    <entry id="salad+str_afflicted_depressed"><![CDATA[What have I become?...]]></entry>
+    <entry id="salad+str_afflicted_depressed"><![CDATA[I'm... nothing...]]></entry>
+	
+    <entry id="salad+str_afflicted_irrational"><![CDATA[(chaotic whirring)]]></entry>
+    <entry id="salad+str_afflicted_irrational"><![CDATA[My chassis needs lubricant!]]></entry>
+    <entry id="salad+str_afflicted_irrational"><![CDATA[Man and machine convene! HAHAHAHAHAHA!]]></entry>
+
+    <entry id="salad+str_virtued_stalwart"><![CDATA[These pathetic beasts can't even touch me.]]></entry>
+    <entry id="salad+str_virtued_stalwart"><![CDATA[They'll never get through my armor!]]></entry>
+	
+    <entry id="salad+str_virtued_courageous"><![CDATA[We can kill anything they throw at us!]]></entry>
+    <entry id="salad+str_virtued_courageous"><![CDATA[Never fear, these claws can shred anything.]]></entry>
+
+    <entry id="salad+str_virtued_focused"><![CDATA[Steel and fire, delivered with precision!]]></entry>
+    <entry id="salad+str_virtued_focused"><![CDATA[I'll bet you anything I won't miss again.]]></entry>
+	
+    <entry id="salad+str_virtued_powerful"><![CDATA[Flesh doesn't stand a sodding chance against my steel!]]></entry>
+    <entry id="salad+str_virtued_powerful"><![CDATA[Ah, my blood boils! I'm unstoppable!!]]></entry>
+	
+    <entry id="salad+str_virtued_vigorous"><![CDATA[I've never felt so alive! Every piece functions perfectly!]]></entry>
+    <entry id="salad+str_virtued_vigorous"><![CDATA[I'm never going to die! Ahhahahaha!]]></entry>
+	
+    <entry id="salad+str_stress_heal_self_stalwart"><![CDATA[As long as my heart still ticks, I'm never going to stop.]]></entry>
+    <entry id="salad+str_stress_heal_self_stalwart"><![CDATA[I've come so far, I won't stop till I'm complete!]]></entry>
+	
+    <entry id="salad+str_stress_heal_party_courageous"><![CDATA[We won't fall. I have a flamethrower!]]></entry>
+    <entry id="salad+str_stress_heal_party_courageous"><![CDATA[Stand with me! We cannot fail!]]></entry>
+	
+    <entry id="salad+str_buff_random_party_member_focused"><![CDATA[Hit 'em with mechanical efficiency!]]></entry>
+    <entry id="salad+str_buff_random_party_member_focused"><![CDATA[You have a good eye!]]></entry>
+
+    <entry id="salad+str_buff_party_powerful"><![CDATA[Feel my power! Let's kill the bastards!]]></entry>
+    <entry id="salad+str_buff_party_powerful"><![CDATA[Nothing can stop us when I'm around!]]></entry>
+
+    <entry id="salad+str_heal_self_vigorous"><![CDATA[Didn't even scratch the finish. Heh.]]></entry>
+    <entry id="salad+str_heal_self_vigorous"><![CDATA[Just a dent, nothing more, easily fixed!]]></entry>
+    <entry id="salad+str_heal_self_vigorous"><![CDATA[(brushes off shoulder)]]></entry>
+
+    <entry id="salad+str_bark_stress_fearful"><![CDATA[My gears and flesh will all rot here!]]></entry>
+    <entry id="salad+str_bark_stress_fearful"><![CDATA[Rust and rot, oh gods!...]]></entry>
+    <entry id="salad+str_bark_stress_fearful"><![CDATA[We're going to die here! Die!]]></entry>
+	
+    <entry id="salad+str_bark_stress_paranoid"><![CDATA[Your fault! This is all your fault!]]></entry>
+    <entry id="salad+str_bark_stress_paranoid"><![CDATA[You're all in it together, aren't you?]]></entry>
+    <entry id="salad+str_bark_stress_paranoid"><![CDATA[I know that look. You're just jealous of my enhancements!]]></entry>
+
+    <entry id="salad+str_bark_stress_masochistic"><![CDATA[More, I want more... More steel, more gears!]]></entry>
+    <entry id="salad+str_bark_stress_masochistic"><![CDATA[Let them take my blood, I’ll replace it with oil!]]></entry>
+    <entry id="salad+str_bark_stress_masochistic"><![CDATA[One day I’ll be complete. I can’t wait... Oh, I can’t wait!...]]></entry>
+
+    <entry id="salad+str_bark_stress_abusive"><![CDATA[They should've sent me alone. Wouldn't be getting dragged down as much.]]></entry>
+    <entry id="salad+str_bark_stress_abusive"><![CDATA[So weak, so fallible!]]></entry>
+    <entry id="salad+str_bark_stress_abusive"><![CDATA[Your techniques are so limp-wristed. Pitiful, really.]]></entry>
+	
+    <entry id="salad+str_bark_stress_selfish"><![CDATA[I haven't seen a single one of you do anything worthwhile so far.]]></entry>
+    <entry id="salad+str_bark_stress_selfish"><![CDATA[Need I remind you that I'll be needing your share for self maintenance.]]></entry>
+    <entry id="salad+str_bark_stress_selfish"><![CDATA[Pfah! I could do all of your jobs tenfold!]]></entry>
+
+    <entry id="salad+str_bark_stress_depressed"><![CDATA[I'm already a corpse...]]></entry>
+    <entry id="salad+str_bark_stress_depressed"><![CDATA[I'm... nothing... a soulless meat puppet...]]></entry>
+    <entry id="salad+str_bark_stress_depressed"><![CDATA[I carved away so much of myself. There's not much of me left...]]></entry>
+	
+    <entry id="salad+str_bark_stress_irrational"><![CDATA[Burn them all... BURN THEM ALL!...]]></entry>
+    <entry id="salad+str_bark_stress_irrational"><![CDATA[Beep boop. Boop beep?]]></entry>
+    <entry id="salad+str_bark_stress_irrational"><![CDATA[You know what really grinds my gears? (grinding and sputtering)]]></entry>
+	
+    <entry id="salad+str_change_pos_back_fearful"><![CDATA[My armor fails! They'll kill us all!]]></entry>
+    <entry id="salad+str_change_pos_back_fearful"><![CDATA[I-I must live!]]></entry>
+    <entry id="salad+str_change_pos_back_fearful"><![CDATA[Get away! GET AWAY!]]></entry>
+	
+    <entry id="salad+str_change_pos_back_paranoid"><![CDATA[I have to get away from their gaze!]]></entry>
+    <entry id="salad+str_change_pos_back_paranoid"><![CDATA[They’re trying to figure out my workings!]]></entry>
+    <entry id="salad+str_change_pos_back_paranoid"><![CDATA[I can’t stand their eyes on my clockwork!]]></entry>
+
+    <entry id="salad+str_change_pos_fwd_masochistic"><![CDATA[I’ll take their blows, you fall back!]]></entry>
+    <entry id="salad+str_change_pos_fwd_masochistic"><![CDATA[Let them tear me apart! PLEASE!]]></entry>
+    <entry id="salad+str_change_pos_fwd_masochistic"><![CDATA[You don't understand! I NEED this!]]></entry>
+	
+    <entry id="salad+str_change_pos_fwd_irrational"><![CDATA[Recalculating...]]></entry>
+    <entry id="salad+str_change_pos_fwd_irrational"><![CDATA[Is... is that a new spanner? For me?!]]></entry>
+    <entry id="salad+str_change_pos_fwd_irrational"><![CDATA[Choo choo!]]></entry>
+	
+    <entry id="salad+str_change_pos_back_irrational"><![CDATA[Recalculating...]]></entry>
+    <entry id="salad+str_change_pos_back_irrational"><![CDATA[Just popping into the shop for a checkup!]]></entry>
+    <entry id="salad+str_change_pos_back_irrational"><![CDATA[Oh, I think I dropped a rivet over here...]]></entry>
+	
+    <entry id="salad+str_change_pos_fwd_depressed"><![CDATA[Just finish it already.]]></entry>
+    <entry id="salad+str_change_pos_fwd_depressed"><![CDATA[End me. I'm a monster.]]></entry>
+    <entry id="salad+str_change_pos_fwd_depressed"><![CDATA[I died a long time ago. Let's speed this up.]]></entry>
+	
+    <entry id="salad+str_change_pos_back_depressed"><![CDATA[Just... give me a moment. One moment.]]></entry>
+    <entry id="salad+str_change_pos_back_depressed"><![CDATA[Look at me, skulking away again.]]></entry>
+    <entry id="salad+str_change_pos_back_depressed"><![CDATA[I'm awful. Don't... don't look at me.]]></entry>
+	
+    <entry id="salad+str_change_pos_fwd_selfish"><![CDATA[Let me show you how we do it in Ostvengr!]]></entry>
+    <entry id="salad+str_change_pos_fwd_selfish"><![CDATA[Out of the way! I'll show them some real steel!]]></entry>
+    <entry id="salad+str_change_pos_fwd_selfish"><![CDATA[You call that a blade? THIS is a blade!]]></entry>
+	
+    <entry id="salad+str_change_pos_back_selfish"><![CDATA[You're so good then you go first.]]></entry>
+    <entry id="salad+str_change_pos_back_selfish"><![CDATA[.....I'll be back.]]></entry>
+    <entry id="salad+str_change_pos_back_selfish"><![CDATA[Give me a moment to wind up...]]></entry>
+	
+    <entry id="salad+str_ignore_command_fearful"><![CDATA[My gears, they freeze!]]></entry>
+    <entry id="salad+str_ignore_command_fearful"><![CDATA[My blood turns to dust!]]></entry>
+    <entry id="salad+str_ignore_command_fearful"><![CDATA[(steam hissing chaotically)]]></entry>
+	
+    <entry id="salad+str_ignore_command_paranoid"><![CDATA[It’s all a conspiracy...]]></entry>
+    <entry id="salad+str_ignore_command_paranoid"><![CDATA[Let me think, gods, let me think.]]></entry>
+    <entry id="salad+str_ignore_command_paranoid"><![CDATA[I just need... oil...]]></entry>
+	
+    <entry id="salad+str_ignore_command_selfish"><![CDATA[Not now, genius. I'm self repairing.]]></entry>
+    <entry id="salad+str_ignore_command_selfish"><![CDATA[What? I'm just blowing off some steam. Really.]]></entry>
+    <entry id="salad+str_ignore_command_selfish"><![CDATA[Hm, something's loose. Give me a mo'.]]></entry>
+	
+    <entry id="salad+str_ignore_command_depressed"><![CDATA[...]]></entry>
+    <entry id="salad+str_ignore_command_depressed"><![CDATA[Let me rust here. At least what's left of me will feed the soil.]]></entry>
+    <entry id="salad+str_ignore_command_depressed"><![CDATA[I've found my resting place. Though I don't deserve rest.]]></entry>
+	
+    <entry id="salad+str_ignore_command_irrational"><![CDATA[Let me just make a quick pit stop...]]></entry>
+    <entry id="salad+str_ignore_command_irrational"><![CDATA[I have arrived at my destination!]]></entry>
+    <entry id="salad+str_ignore_command_irrational"><![CDATA[(clockwork revving in anticipation)]]></entry>
+	
+    <entry id="salad+str_random_command_paranoid"><![CDATA[Didn’t expect that, you bastards!]]></entry>
+    <entry id="salad+str_random_command_paranoid"><![CDATA[Got to be unpredictable...]]></entry>
+    <entry id="salad+str_random_command_paranoid"><![CDATA[You can’t follow that, eh?]]></entry>
+	
+    <entry id="salad+str_random_command_masochistic"><![CDATA[I’ll risk it all to get what I need!]]></entry>
+    <entry id="salad+str_random_command_masochistic"><![CDATA[I know what I have to do!]]></entry>
+    <entry id="salad+str_random_command_masochistic"><![CDATA[This'll quench my thirst!]]></entry>
+	
+    <entry id="salad+str_random_command_abusive"><![CDATA[See? This is the proper way to do things!]]></entry>
+    <entry id="salad+str_random_command_abusive"><![CDATA[I can't believe I have to teach you how to attack.]]></entry>
+    <entry id="salad+str_random_command_abusive"><![CDATA[Ugh, just watch This is what you're meant to do.]]></entry>
+	
+    <entry id="salad+str_random_command_selfish"><![CDATA[Ugh. Fine, I'll show you.]]></entry>
+    <entry id="salad+str_random_command_selfish"><![CDATA[Hands off, lads! This one's mine!]]></entry>
+    <entry id="salad+str_random_command_selfish"><![CDATA[No guts, no glory!]]></entry>
+	
+    <entry id="salad+str_random_command_depressed"><![CDATA[...Whatever.]]></entry>
+    <entry id="salad+str_random_command_depressed"><![CDATA[This'll do it. Or it'll explode on me. Hopefully the latter.]]></entry>
+    <entry id="salad+str_random_command_depressed"><![CDATA[Hopefully this'll kill me.]]></entry>
+	
+    <entry id="salad+str_random_command_irrational"><![CDATA[(gleeful burst of steam)]]></entry>
+    <entry id="salad+str_random_command_irrational"><![CDATA[My calculations dictate the most logical action is to...]]></entry>
+    <entry id="salad+str_random_command_irrational"><![CDATA[Wheeeeee!]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_fearful"><![CDATA[My body fails! I'll be trapped in this metal prison forever!]]></entry>
+    <entry id="salad+str_bark_stress_camp_fearful"><![CDATA[Snuff out the fire! They'll know we're here!]]></entry>
+    <entry id="salad+str_bark_stress_camp_fearful"><![CDATA[My arm keeps malfunctioning...]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_paranoid"><![CDATA[Keep your eyes to yourselves!]]></entry>
+    <entry id="salad+str_bark_stress_camp_paranoid"><![CDATA[Don’t even think about looking at my gearing!]]></entry>
+    <entry id="salad+str_bark_stress_camp_paranoid"><![CDATA[I know you all want to steal my work!]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_masochistic"><![CDATA[The fire’s beautiful on dented steel. I wish there was more.]]></entry>
+    <entry id="salad+str_bark_stress_camp_masochistic"><![CDATA[Burn my flesh away on the campfire, and beneath, the glint of steel...]]></entry>
+    <entry id="salad+str_bark_stress_camp_masochistic"><![CDATA[Do you dream? I dream of slicing away the rest of... (trails off)]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_abusive"><![CDATA[So weak. So fleshy. So pathetic.]]></entry>
+    <entry id="salad+str_bark_stress_camp_abusive"><![CDATA[I'd respect you more if you could take the burn from the campfire.]]></entry>
+    <entry id="salad+str_bark_stress_camp_abusive"><![CDATA[If you where from where I'm from, you'd have been fed to the Tind'losi Hounds by now.]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_selfish"><![CDATA[I'll be needing your coat, your boots, and your weapon.]]></entry>
+    <entry id="salad+str_bark_stress_camp_selfish"><![CDATA[I'll also need your shares, by the way. Upkeep is expensive.]]></entry>
+    <entry id="salad+str_bark_stress_camp_selfish"><![CDATA[I'll be leading from now on. Since you obviously can't.]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_depressed"><![CDATA[I hope my body fails in my sleep. At least it'll be quick and painless that way.]]></entry>
+    <entry id="salad+str_bark_stress_camp_depressed"><![CDATA[Look at me, a deathless freak sent into hell...]]></entry>
+    <entry id="salad+str_bark_stress_camp_depressed"><![CDATA[I've done all this to myself, and for what?...]]></entry>
+	
+    <entry id="salad+str_bark_stress_camp_irrational"><![CDATA[Ugh, you'd all look SO much better with some steel in you.]]></entry>
+    <entry id="salad+str_bark_stress_camp_irrational"><![CDATA[Give me a couple of hours and I'll have calculated every possible outcome from here!]]></entry>
+    <entry id="salad+str_bark_stress_camp_irrational"><![CDATA[Let me replace that hand? Please? Just a tiny little finger?]]></entry>
+
+    <entry id="salad+str_mark_self_masochistic"><![CDATA[Slash me, break me, I can’t wait!]]></entry>
+    <entry id="salad+str_mark_self_masochistic"><![CDATA[Look here, this bit of skin... Rip it off so I can replace it!]]></entry>
+    <entry id="salad+str_mark_self_masochistic"><![CDATA[Take my bones, I will replace them with steel!]]></entry>
+	
+    <entry id="salad+str_mark_self_depressed"><![CDATA[This is where my heart replacement is. Hit it.]]></entry>
+    <entry id="salad+str_mark_self_depressed"><![CDATA[Press this and I'll fall apart.]]></entry>
+	
+    <entry id="salad+str_mark_self_irrational"><![CDATA[The flesh is temporary! Metal is eternal!]]></entry>
+    <entry id="salad+str_mark_self_irrational"><![CDATA[You can't beat me! I'm immortal!]]></entry>
+	
+    <entry id="salad+str_attack_self_masochistic"><![CDATA[If they won't rip my flesh off, I'll have to do it myself...]]></entry>
+    <entry id="salad+str_attack_self_masochistic"><![CDATA[Ahh! There, yes, that’s it! (mechanical shuddering)]]></entry>
+	
+    <entry id="salad+str_attack_self_depressed"><![CDATA[I guess I'll have to do it myself. Of course. (pulls out wrench)]]></entry>
+    <entry id="salad+str_attack_self_depressed"><![CDATA[I'm going to do what should've happened years ago.]]></entry>
+	
+    <entry id="salad+str_attack_self_irrational"><![CDATA[AUTO-CREMATE! SELF-IMMOLATE!]]></entry>
+    <entry id="salad+str_attack_self_irrational"><![CDATA[Initiating self-destruct sequence!]]></entry>
+
+    <entry id="salad+str_block_combat_retreat_paranoid"><![CDATA[No! You want to let them stab me in the back!]]></entry>
+    <entry id="salad+str_block_combat_retreat_paranoid"><![CDATA[Fool, I won’t run into an ambush.]]></entry>
+	
+    <entry id="salad+str_block_combat_retreat_depressed"><![CDATA[Let's just die here and make it quick. Not like we have much of a choice.]]></entry>
+    <entry id="salad+str_block_combat_retreat_depressed"><![CDATA[I've wanted this for so long. Don't take it from me.]]></entry>
+	
+    <entry id="salad+str_block_combat_retreat_masochistic"><![CDATA[Please, I need this. I need it!]]></entry>
+    <entry id="salad+str_block_combat_retreat_masochistic"><![CDATA[Let me take just... just one more blow!]]></entry>	
+	
+    <entry id="salad+str_block_combat_retreat_irrational"><![CDATA[(annoyed click)]]></entry>
+    <entry id="salad+str_block_combat_retreat_irrational"><![CDATA[In two hundred meters, take a left turn...]]></entry>
+	
+    <entry id="salad+str_comment_self_hit_fearful"><![CDATA[No! Not the pistons!]]></entry>
+    <entry id="salad+str_comment_self_hit_fearful"><![CDATA[(sputtering hiss of steam)]]></entry>
+	
+    <entry id="salad+str_comment_self_hit_paranoid"><![CDATA[Take my flesh, but don’t hurt my machinery!]]></entry>
+    <entry id="salad+str_comment_self_hit_paranoid"><![CDATA[Please, not the clockwork!]]></entry>
+	
+    <entry id="salad+str_comment_self_hit_selfish"><![CDATA[Ugh! Why'd you let that happen!]]></entry>
+    <entry id="salad+str_comment_self_hit_selfish"><![CDATA[Hands off the mechandise!]]></entry>
+	
+    <entry id="salad+str_comment_self_hit_masochistic"><![CDATA[Yes, yes, hit me again!]]></entry>
+    <entry id="salad+str_comment_self_hit_masochistic"><![CDATA[More! MORE!]]></entry>
+	
+    <entry id="salad+str_comment_self_hit_irrational"><![CDATA[Oil! Oil, I said!]]></entry>
+    <entry id="salad+str_comment_self_hit_irrational"><![CDATA[Nothing that can't be self-repaired!]]></entry>
+	
+    <entry id="salad+str_comment_self_missed_fearful"><![CDATA[If you're going to kill me, make it quick!]]></entry>
+    <entry id="salad+str_comment_self_missed_fearful"><![CDATA[This is torture! Torture!]]></entry>
+	
+    <entry id="salad+str_comment_self_missed_paranoid"><![CDATA[The steam, there’s something wrong with the steam...]]></entry>
+    <entry id="salad+str_comment_self_missed_paranoid"><![CDATA[They’re trying to distract me... they want the blueprints!]]></entry>
+	
+    <entry id="salad+str_comment_self_missed_masochistic"><![CDATA[(steam hisses in frustration)]]></entry>
+    <entry id="salad+str_comment_self_missed_masochistic"><![CDATA[No! No, come back, damn you!]]></entry>
+	
+    <entry id="salad+str_comment_self_missed_irrational"><![CDATA[Aw, I was hoping to get the chance to recalibrate.]]></entry>
+    <entry id="salad+str_comment_self_missed_irrational"><![CDATA[You idiot! You  can't kill a machine!]]></entry>
+
+    <entry id="salad+str_comment_ally_attack_hit_selfish"><![CDATA[Oi! I had that one!]]></entry>
+    <entry id="salad+str_comment_ally_attack_hit_selfish"><![CDATA[Get your own kill! This one's mine!]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_hit_abusive"><![CDATA[...Is that all?]]></entry>
+    <entry id="salad+str_comment_ally_attack_hit_abusive"><![CDATA[That was barely a hit. As expected from mere meat.]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_hit_irrational"><![CDATA[Finally! Something to replace!]]></entry>
+    <entry id="salad+str_comment_ally_attack_hit_irrational"><![CDATA[You'll be like me soon. And you'll thank me for it.]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_missed_fearful"><![CDATA[(nervous clicking)]]></entry>
+    <entry id="salad+str_comment_ally_attack_missed_fearful"><![CDATA[I knew it! We're doomed!]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_missed_paranoid"><![CDATA[That was on purpose! I saw it!]]></entry>
+    <entry id="salad+str_comment_ally_attack_missed_paranoid"><![CDATA[Traitor! I’ll burn you!]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_missed_abusive"><![CDATA[Could you actually try for once in your worthless life?]]></entry>
+    <entry id="salad+str_comment_ally_attack_missed_abusive"><![CDATA[Gods, you weren't even trying, were you.]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_missed_selfish"><![CDATA[Good. More for me.]]></entry>
+    <entry id="salad+str_comment_ally_attack_missed_selfish"><![CDATA[Do I really have to do it for you? (sigh)]]></entry>
+	
+    <entry id="salad+str_comment_ally_attack_missed_irrational"><![CDATA[Damn it! ...I mean, what?]]></entry>
+    <entry id="salad+str_comment_ally_attack_missed_irrational"><![CDATA[Hm, maybe next time then. (tucks away bonesaw)]]></entry>
+	
+    <entry id="salad+str_comment_ally_hit_fearful"><![CDATA[It's all falling apart!]]></entry>
+    <entry id="salad+str_comment_ally_hit_fearful"><![CDATA[Oh Gods! I'm next!]]></entry>
+	
+    <entry id="salad+str_comment_ally_hit_paranoid"><![CDATA[They’ll tear us all to scrap!]]></entry>
+    <entry id="salad+str_comment_ally_hit_paranoid"><![CDATA[The scrapheap! The scrapheap!]]></entry>
+	
+    <entry id="salad+str_comment_ally_hit_masochistic"><![CDATA[No, let them take me! ME!]]></entry>
+    <entry id="salad+str_comment_ally_hit_masochistic"><![CDATA[You stole that hit! It could have been mine! It SHOULD be mine!]]></entry>
+	
+    <entry id="salad+str_comment_ally_hit_abusive"><![CDATA[Pity it didn't take the rest of you with it.]]></entry>
+    <entry id="salad+str_comment_ally_hit_abusive"><![CDATA[Good. Saves me some time.]]></entry>
+	
+    <entry id="salad+str_comment_ally_hit_irrational"><![CDATA[Oh, you've sprung a leak!]]></entry>
+    <entry id="salad+str_comment_ally_hit_irrational"><![CDATA[An oil replacement! YES!]]></entry>
+	
+    <entry id="salad+str_comment_ally_missed_fearful"><![CDATA[They're drawing it out! Why would...!]]></entry>
+    <entry id="salad+str_comment_ally_missed_fearful"><![CDATA[Now's our chance! Run while we still can!]]></entry>
+	
+    <entry id="salad+str_comment_ally_missed_paranoid"><![CDATA[You’re all in it together!]]></entry>
+    <entry id="salad+str_comment_ally_missed_paranoid"><![CDATA[What? Afraid to take a hit?]]></entry>
+	
+    <entry id="salad+str_comment_ally_missed_irrational"><![CDATA[Don't worry! I can fix that aim of yours!]]></entry>
+    <entry id="salad+str_comment_ally_missed_irrational"><![CDATA[If only you'd accepted my offer before. Tsk tsk!]]></entry>
+	
+    <entry id="salad+str_block_move_fearful"><![CDATA[I-I can't! I won't!]]></entry>
+    <entry id="salad+str_block_move_fearful"><![CDATA[(clanking and scraping)]]></entry>
+	
+    <entry id="salad+str_block_move_paranoid"><![CDATA[Wait, I need... I need to think...]]></entry>
+    <entry id="salad+str_block_move_paranoid"><![CDATA[No, curse you, I won’t let you lead me astray!]]></entry>
+	
+    <entry id="salad+str_block_move_masochistic"><![CDATA[(shakes head, panting)]]></entry>
+    <entry id="salad+str_block_move_masochistic"><![CDATA[(stands still, twitching)]]></entry>
+	
+    <entry id="salad+str_block_move_abusive"><![CDATA[Where do you think you're going?]]></entry>
+    <entry id="salad+str_block_move_abusive"><![CDATA[What, afraid to get your hands dirty?]]></entry>
+	
+    <entry id="salad+str_block_move_irrational"><![CDATA[(unholy metallic screeching)]]></entry>
+    <entry id="salad+str_block_move_irrational"><![CDATA[Wait! My calculations are almost finished!]]></entry>
+	
+    <entry id="salad+str_block_item_paranoid"><![CDATA[This is defective. Or... sabotaged?]]></entry>
+    <entry id="salad+str_block_item_paranoid"><![CDATA[Bad workmanship. Throw it away.]]></entry>
+	
+    <entry id="salad+str_block_item_masochistic"><![CDATA[I don’t need this. Let me bleed! It feels... It feels...]]></entry>
+    <entry id="salad+str_block_item_masochistic"><![CDATA[Ugh, no! Let me savor this!]]></entry>
+	
+    <entry id="salad+str_block_item_depressed"><![CDATA[That won't help. I'm not even human anymore.]]></entry>
+    <entry id="salad+str_block_item_depressed"><![CDATA[Save it. I haven't been alive for years.]]></entry>
+	
+    <entry id="salad+str_block_item_irrational"><![CDATA[I can't use this! Fetch the breastplate stretcher!]]></entry>
+    <entry id="salad+str_block_item_irrational"><![CDATA[This is a Phillips head! I asked for a flathead!]]></entry>
+
+    <entry id="salad+str_block_heal_paranoid"><![CDATA[Want a closer look, eh? Back off!]]></entry>
+    <entry id="salad+str_block_heal_paranoid"><![CDATA[Stand back! I see your inquisitive eyes.]]></entry>
+    <entry id="salad+str_block_heal_paranoid"><![CDATA[Don’t even think about looking at my devices!]]></entry>
+	
+    <entry id="salad+str_block_heal_masochistic"><![CDATA[You don't understand. I can replace it!]]></entry>
+    <entry id="salad+str_block_heal_masochistic"><![CDATA[DON'T TAKE THIS FROM ME!!]]></entry>
+    <entry id="salad+str_block_heal_masochistic"><![CDATA[Don't touch me. I feel... good.]]></entry>
+	
+    <entry id="salad+str_block_heal_depressed"><![CDATA[You can't fix me. Nothing can.]]></entry>
+    <entry id="salad+str_block_heal_depressed"><![CDATA[I'm not like you. I did it to myself.]]></entry>
+    <entry id="salad+str_block_heal_depressed"><![CDATA[There's not much of me left to heal.]]></entry>
+
+    <entry id="salad+str_block_heal_irrational"><![CDATA[I'd like to see your engineering license first...]]></entry>
+    <entry id="salad+str_block_heal_irrational"><![CDATA[Pfah! As if you know how to use a wrench!]]></entry>
+    <entry id="salad+str_block_heal_irrational"><![CDATA[Bandages? For metal? Ha!]]></entry>
+	
+    <entry id="salad+str_block_buff_paranoid"><![CDATA[You want to improve my gearing? Ha!]]></entry>
+    <entry id="salad+str_block_buff_paranoid"><![CDATA[You don't know how any of this works, you moron.]]></entry>
+    <entry id="salad+str_block_buff_paranoid"><![CDATA[Touch me and bleed.]]></entry>
+	
+    <entry id="salad+str_block_buff_masochistic"><![CDATA[Let me work out my own improvements.]]></entry>
+    <entry id="salad+str_block_buff_masochistic"><![CDATA[Ha! I’ll fix myself up as I wish, thank you.]]></entry>
+    <entry id="salad+str_block_buff_masochistic"><![CDATA[I was reborn in agony, you can't improve on it.]]></entry>
+	
+    <entry id="salad+str_block_buff_depressed"><![CDATA[It's pointless. I'm no better than those monsters.]]></entry>
+    <entry id="salad+str_block_buff_depressed"><![CDATA[That won't help. Nothing can help me. Gods..]]></entry>
+    <entry id="salad+str_block_buff_depressed"><![CDATA[You'd just waste your time.]]></entry>
+	
+    <entry id="salad+str_block_buff_irrational"><![CDATA[You can't improve on perfection!]]></entry>
+    <entry id="salad+str_block_buff_irrational"><![CDATA[010001110110111100100000011001100111010101100011011010110010000001111001011011110111
+	...2]]></entry>
+    <entry id="salad+str_block_buff_irrational"><![CDATA[*I* have a screw loose? What does that make you then?]]></entry>
+
+    <entry id="salad+str_block_camping_skill_performer_fearful"><![CDATA[It'll make it worse! I know it will!]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_fearful"><![CDATA[I-it's malfunctioning again!]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_fearful"><![CDATA[I can't... move... my limbs!...]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_paranoid"><![CDATA[I’m busy tinkering.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_paranoid"><![CDATA[Don’t even try it, I have important work to do.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_paranoid"><![CDATA[I won’t help that one. Can’t trust ‘em.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_masochistic"><![CDATA[Feel the pain? Steel doesn’t feel pain.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_masochistic"><![CDATA[I can’t help. I’m trying to decide what to replace next.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_masochistic"><![CDATA[Why? Savor the sensation.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_abusive"><![CDATA[Oh you'd like to see how I work, huh.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_abusive"><![CDATA[It'd be wasted on this bunch.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_abusive"><![CDATA[Not when I'm surrounded by morons like these.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_selfish"><![CDATA[My talents are wasted here.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_selfish"><![CDATA[No, I don't think I will.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_selfish"><![CDATA[Maybe later, when I feel like it.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_depressed"><![CDATA[It's all falling apart anyway. What's the point.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_depressed"><![CDATA[Tinker as I might, I can't bring back my humanity.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_depressed"><![CDATA[It's all been for naught. I killed myself and created a monster.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_performer_irrational"><![CDATA[System malfunction!]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_irrational"><![CDATA[I'm sorry. I'm afraid I can't do that.]]></entry>
+    <entry id="salad+str_block_camping_skill_performer_irrational"><![CDATA[(sparking and twitching)]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_target_paranoid"><![CDATA[Back! Back I say! Get back or burn!]]></entry>
+    <entry id="salad+str_block_camping_skill_target_paranoid"><![CDATA[Talk? I’d rather talk to myself.]]></entry>
+    <entry id="salad+str_block_camping_skill_target_paranoid"><![CDATA[Don’t bother me. I don’t trust you.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_target_masochistic"><![CDATA[Blood and oil running down my skin, my armor...]]></entry>
+    <entry id="salad+str_block_camping_skill_target_masochistic"><![CDATA[No, I'm... enjoying this feeling.]]></entry>
+    <entry id="salad+str_block_camping_skill_target_masochistic"><![CDATA[This is an opportunity to improve myself! I don't need you! Any of you!]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_target_abusive"><![CDATA[Don't touch me, meat.]]></entry>
+    <entry id="salad+str_block_camping_skill_target_abusive"><![CDATA[Pf. What could you possibly do to help me?]]></entry>
+    <entry id="salad+str_block_camping_skill_target_abusive"><![CDATA[Get your grubby hands off me! Worthless offal.]]></entry>
+
+    <entry id="salad+str_block_camping_skill_target_depressed"><![CDATA[Your time is more valuable than mine.]]></entry>
+    <entry id="salad+str_block_camping_skill_target_depressed"><![CDATA[I'm broken beyond repair.]]></entry>
+    <entry id="salad+str_block_camping_skill_target_depressed"><![CDATA[I'm just walking scrap. You can't do anything to help.]]></entry>
+	
+    <entry id="salad+str_block_camping_skill_target_irrational"><![CDATA[A heart? What would I want a heart for?]]></entry>
+    <entry id="salad+str_block_camping_skill_target_irrational"><![CDATA[But that'd just clog up my gears!]]></entry>
+	
+    <entry id="salad+str_block_camping_meal_paranoid"><![CDATA[Pah! As if I’d eat something you made.]]></entry>
+    <entry id="salad+str_block_camping_meal_paranoid"><![CDATA[(slowly, mechanically, flings her food to the ground)]]></entry>
+	
+    <entry id="salad+str_block_camping_meal_masochistic"><![CDATA[The ache in my belly focuses my thoughts.]]></entry>
+    <entry id="salad+str_block_camping_meal_masochistic"><![CDATA[One day my stomach will be replaced with a boiler...]]></entry>
+	
+    <entry id="salad+str_block_camping_meal_depressed"><![CDATA[What for? I'm already a monster as is. Why pretend otherwise?]]></entry>
+    <entry id="salad+str_block_camping_meal_depressed"><![CDATA[Just let me rust in peace.]]></entry>
+	
+    <entry id="salad+str_block_camping_meal_irrational"><![CDATA[Oil... can!...]]></entry>
+    <entry id="salad+str_block_camping_meal_irrational"><![CDATA[Maybe I can rebuild myself from scratch? ...No?...]]></entry>
+	
+    <entry id="salad+str_attack_friendly_paranoid"><![CDATA[Want a closer look, eh? Let me show you!]]></entry>
+    <entry id="salad+str_attack_friendly_paranoid"><![CDATA[You think I don’t see your eyes on me?! Take this!]]></entry>
+
+    <entry id="salad+str_attack_friendly_abusive"><![CDATA[Let me show you just how weak the flesh is!]]></entry>
+    <entry id="salad+str_attack_friendly_abusive"><![CDATA[Let me do you a favor and speed things up.]]></entry>
+	
+    <entry id="salad+str_attack_friendly_irrational"><![CDATA[A mistake in the blueprints! I must rewrite it!]]></entry>
+    <entry id="salad+str_attack_friendly_irrational"><![CDATA[Oh, there's a loose screw here. Let me just tighten it up...]]></entry>
+
+    <entry id="salad+str_critbyhero"><![CDATA[Take that, meat.]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[Precision Ostvengr engineering!]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[Ha-HA! How'd that taste!]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[You won't be repairing that!]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[If you could see my face, I'm grinning.]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[(gleeful mechanical revving)]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[(actuators clicking in satisfaction)]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[(steam hisses ferociously)]]></entry>
+    <entry id="salad+str_critbyhero"><![CDATA[Machine triumphs over man! ...Again.]]></entry>
+
+    <entry id="salad+str_monster_attack_unholy_smite"><![CDATA[Its claws are like cold steel!]]></entry>
+    <entry id="salad+str_monster_attack_unholy_judgement"><![CDATA[Bones turned machine. Fascinating...]]></entry>
+    <entry id="salad+str_monster_attack_unholy_curse"><![CDATA[Isee my blood... it turns to rust...!]]></entry>
+
+    <entry id="str_bark_salad_windup"><![CDATA[Ah, what a rush!]]></entry>
+
+    <entry id="str_bark_salad_flameio"><![CDATA[I've always liked how the flames dance...]]></entry>
+
+    <entry id="str_bark_salad_surg"><![CDATA[(hiss) Ah, it's a good hurt...]]></entry>
+
+    <entry id="str_bark_salad_blaze"><![CDATA[Ahhahahahaha!]]></entry>	
+
+    <entry id="salad+str_bark_encourage"><![CDATA[Hm. You're not so bad, for just meat.]]></entry>
+    <entry id="salad+str_bark_encourage"><![CDATA[You even impressed me back there, you know.]]></entry>
+    <entry id="salad+str_bark_encourage"><![CDATA[Chin up. We can do this.]]></entry>
+	
+    <entry id="salad+str_bark_first_aid"><![CDATA[It's called cauterizing. Don't be such a baby.]]></entry>
+    <entry id="salad+str_bark_first_aid"><![CDATA[Here. I have a spare needle and thread just for the occasion.]]></entry>
+    <entry id="salad+str_bark_first_aid"><![CDATA[I can sew that up, just hold still. ...I said hold still!]]></entry>
+	
+    <entry id="salad+str_bark_pep_talk"><![CDATA[How about a deal: we get through this and I'll take a look at that gear of yours. Might be able to upgrade it.]]></entry>
+    <entry id="salad+str_bark_pep_talk"><![CDATA[Pfah! From what I've seen, you wouldn't even need enhancements!]]></entry>
+    <entry id="salad+str_bark_pep_talk"><![CDATA[You're pretty good.]]></entry>	
+	
+    <entry id="salad+str_combat_knockback"><![CDATA[]]></entry>	
+
+  </language>
+</root>
