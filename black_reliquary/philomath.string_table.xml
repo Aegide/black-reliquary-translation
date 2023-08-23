@@ -437,7 +437,12 @@ Heal 10 {colour_start|stress}Stress{colour_end}]]></entry>
 
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_other_horror_tooltip"><![CDATA[Other Heroes:
 {colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PHILO_REDUCED_HORROR_AMOUNT_TT"><![CDATA[-50%% {colour_start|stress}Horror{colour_end} Amount Applied if Target is {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT1"><![CDATA[+15% {colour_start|stress}Stress{colour_end} Received]]></entry>
+<entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT2"><![CDATA[+13% {colour_start|stress}Stress{colour_end} Received]]></entry>
+<entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT3"><![CDATA[+10% {colour_start|stress}Stress{colour_end} Received]]></entry>
+
+
+
 
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_self_tooltip"><![CDATA[Self:]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_1"><![CDATA[Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
@@ -458,7 +463,7 @@ Heal 10 {colour_start|stress}Stress{colour_end}]]></entry>
 +20ʪ DMG, +8 ACC]]></entry>
 
 <entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT1"><![CDATA[On Friendly Skill: {colour_start|blight}Blight Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +7%% CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +6%% CRT]]></entry>
 
 
 <entry id="camping_skill_name_unburden_mind"><![CDATA[UNBURDEN MIND]]></entry>

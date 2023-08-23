@@ -278,7 +278,7 @@
     <entry id="upgrade_tree_name_nomad_wagon.appraisal"><![CDATA[Brokery]]></entry>
     <entry id="upgrade_tree_name_sanitarium.cost"><![CDATA[Treatment Library]]></entry>
     <entry id="upgrade_tree_name_sanitarium.disease_quirk_cost"><![CDATA[Medical Devices]]></entry>
-    <entry id="upgrade_tree_name_sanitarium.slots"><![CDATA[Patient Cells]]></entry>
+    <entry id="upgrade_tree_name_sanitarium.slots"><![CDATA[Patient Rooms]]></entry>
 	<entry id="upgrade_tree_name_stage_coach.numrecruits"><![CDATA[Sails & Cabin]]></entry>
     <entry id="upgrade_tree_name_stage_coach.rostersize"><![CDATA[Crew Accommodations]]></entry>
     <entry id="upgrade_tree_name_stage_coach.upgraded_recruits"><![CDATA[Experienced Recruits]]></entry>
@@ -674,7 +674,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
     <entry id="str_library_buff_br_disease_kit"><![CDATA[Disease kits provides additional -50% {colour_start|symptom}Symptom{colour_end}/{colour_start|disease}Disease{colour_end} Progression Rate {colour_start|skill_unselectable}(32 tns){colour_end}]]></entry>
 	
 	<entry id="str_theater_title"><![CDATA[Memorial to Lost Souls]]></entry>
-    <entry id="str_theater_buff_curio_buff0"><![CDATA[Heal 10 {colour_start|stress}Stress{colour_end} on interaction with Corpse Curios]]></entry>
+    <entry id="str_theater_buff_curio_buff0"><![CDATA[Heal 5 {colour_start|stress}Stress{colour_end} on interaction with Corpse Curios]]></entry>
 
     <entry id="str_outsiders_bonfire_title"><![CDATA[Amber Handling Instructor]]></entry>
     <entry id="str_outsiders_bonfire_buff_curio_buff0"><![CDATA[Heal 10 {colour_start|stress}Stress{colour_end} on interaction with {colour_start|BR_heirloom}Amber{colour_end} Curios]]></entry>
@@ -751,7 +751,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 	<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_CAPTAIN_LEG_BREAK"><![CDATA[{colour_start|harmful}-15%% {colour_start|virtue}Virtue{colour_end} Chance{colour_end}]]></entry>
 	
 	<entry id="town_event_title_br_lock_bar_galley_free"><![CDATA[Corrupted Wine]]></entry>
-	<entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[Several crew members were left sick from tainted brews! The bar is closed until all drinks are potable once more...]]></entry>
+	<entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[Several crew members were left injured from tainted brews! The bar is closed until all drinks are potable once more...]]></entry>
 	
 	<entry id="town_event_title_br_lock_gambling_galley_free"><![CDATA[Hog Wild]]></entry>
 	<entry id="town_event_description_br_lock_gambling_galley_free"><![CDATA[The gambling tables are currently closed. Almira has not specified why at this time.]]></entry>

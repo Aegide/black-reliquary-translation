@@ -896,7 +896,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 	<entry id="str_glossary_term_1022"><![CDATA[Refined Amber Dust]]></entry>
 	<entry id="str_glossary_term_definition_1022"><![CDATA[A refined version of Amber. Can be created in the Amber Refinery Activity in the Amber Workshop Facility on the Flameseeker, and occasionally found as loot. Used to purchase luxury provisions, use the Amber Den Activity, and to buy Contraband Trinkets.]]></entry>
 	<entry id="str_glossary_term_1023"><![CDATA[Troglodyte]]></entry>
-    <entry id="str_glossary_term_definition_1023"><![CDATA[The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength. Due to the their blindness they also completley ignore Stealth.]]></entry>
+    <entry id="str_glossary_term_definition_1023"><![CDATA[The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength. Due to the their blindness they also completely ignore Stealth.]]></entry>
     <entry id="str_glossary_term_1024"><![CDATA[Cactonid]]></entry>
     <entry id="str_glossary_term_definition_1024"><![CDATA[These eldritch hybrids of flesh and flora have overgrown the Kvarotz treasury. They lie in wait, ready to spring upon victims who unwittingly spring their traps, bombarding their prey with various statuses.]]></entry>
 	
@@ -947,13 +947,13 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
     <entry id="str_glossary_term_definition_1031"><![CDATA[Symptom which can be contracted via the Ghoulserum Injection. If not treated, evolves into Ghoul Plague.  This disease prevents hero from getting any other diseases.]]></entry>
 
 	<entry id="str_glossary_term_1032"><![CDATA[Ghoul Plague]]></entry>
-    <entry id="str_glossary_term_definition_1032"><![CDATA[Disease which evolves from Ghoul Fever. Alongside applying debuffs to your hero, it also increases likelyhood of party encountering Ghouls. This disease prevents hero from getting any other diseases.]]></entry>
+    <entry id="str_glossary_term_definition_1032"><![CDATA[Disease which evolves from Ghoul Fever. Alongside applying debuffs to your hero, it also increases likelihood of party encountering Ghouls. This disease prevents hero from getting any other diseases.]]></entry>
 
 	<entry id="str_glossary_term_1033"><![CDATA[Rictus Imperfectus]]></entry>
     <entry id="str_glossary_term_definition_1033"><![CDATA[Symptom which can be contracted via the Parasite Zero. If not treated, evolves into Rictus Mortis. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This disease prevents hero from getting any other diseases.]]></entry>
 
 	<entry id="str_glossary_term_1039"><![CDATA[Rictus Mortis]]></entry>
-    <entry id="str_glossary_term_definition_1039"><![CDATA[Diseases evoled from Rictus Imperfectus. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This effect is removed if the disease is treated. This disease prevents hero from getting any other diseases.]]></entry>
+    <entry id="str_glossary_term_definition_1039"><![CDATA[Diseases evolved from Rictus Imperfectus. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This effect is removed if the disease is treated. This disease prevents hero from getting any other diseases.]]></entry>
 
 	<entry id="str_glossary_term_1038"><![CDATA[Bounties]]></entry>
     <entry id="str_glossary_term_definition_1038"><![CDATA[Bounties can be obtained using "Big Prize" Contraband trinket, stack up to 99 per inventory slot, and they grant 200 gold each.]]></entry>
@@ -961,7 +961,7 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
     <entry id="str_glossary_term_1040"><![CDATA[Eclipse Quest]]></entry>
     <entry id="str_glossary_term_definition_1040"><![CDATA[Special Exposed Interior quest which subject heroes and enemies to the "Encroaching Eclipse" torch effects, and are always set to 0 torchlight.
 {colour_start|skill_unselectable}Hero Effects: -20% Bleed Resist, -14% Deathblow Resist
-Monster Effects: +15% Bleed Resist
+Monster Effects: -15% Bleed Resist
 Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
 
 	
@@ -3714,6 +3714,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_protection_rating"><![CDATA[%+d%% PROT]]></entry>
 
     <entry id="buff_stat_tooltip_upgrade_discount_stress_dmg_percent"><![CDATA[%+d%% {colour_start|stress}Stress{colour_end} Inflicted On Party]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_debuff_performer_group_other"><![CDATA[{colour_start|debuff}Debuff Others:{colour_end}
+]]></entry>	
 
 
 
@@ -4278,7 +4280,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_rule_data_tooltip_PERFUMER_NEEDLE_TT2"><![CDATA[ Gain 1 Extract
 {colour_start|skill_unselectable}(Limit 3 per Battle){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT4"><![CDATA[{colour_start|skill_unselectable}Extract differs based on dungeon{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT3"><![CDATA[-15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT3"><![CDATA[-20%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_NODODGE_TT"><![CDATA[Hero Can't Dodge]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_WHEN_HIT_TT"><![CDATA[On Being Hit: {colour_start|buff}Buff Self:{colour_end} +25%% {colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAGE_SLAM_TT"><![CDATA[On Rage/Slam Hit: {colour_start|blight}Blight Target{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
@@ -4356,7 +4358,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE"><![CDATA[{colour_start|notable}Amber Provision Table:{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_POACHER_MASK_TABLE"><![CDATA[
-Gingseng Powder {colour_start|skill_unselectable}(40ʪ){colour_end}
+Ginseng Powder {colour_start|skill_unselectable}(40ʪ){colour_end}
 Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 
 	<entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[Aegis Scale {colour_start|skill_unselectable}(20%%){colour_end}]]></entry>
@@ -4441,7 +4443,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MAP_ROOM"><![CDATA[On Combat Start in Room:]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_BR_HPR_TWILIGHT_MAP_SCOUT_TT"><![CDATA[%+d%% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MAP_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +10% {colour_start|trap}Trap{colour_end} Resist {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MAP_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +10% {colour_start|trap}Trap{colour_end} Disarm Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MAP_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +2.5% {colour_start|scouting}Scouting{colour_end} Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
 
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_PRINT_TT1"><![CDATA[ {colour_start|healhp}Heal Party:{colour_end} 10% Max HP]]></entry>
