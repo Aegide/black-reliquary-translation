@@ -1,5 +1,9 @@
 
-<entry id="hero_class_name_veiled"><![CDATA[TODO:Veiled]]></entry>
+
+  
+  
+<entry id="hero_class_name_veiled"><![CDATA[Veilleur]]></entry>
+	  
 <entry id="veiled_armour_0"><![CDATA[TODO:Torn Veil]]></entry>
 <entry id="veiled_armour_1"><![CDATA[TODO:Dusty Veil]]></entry>
 <entry id="veiled_armour_2"><![CDATA[TODO:Fine Veil]]></entry>
@@ -12,6 +16,8 @@
 <entry id="veiled_weapon_3"><![CDATA[TODO:Malevolent Staff, Serrated Sword Breaker]]></entry>
 <entry id="veiled_weapon_4"><![CDATA[TODO:"Misery & Company"]]></entry>
 <entry id="upgrade_tree_name_veiled.weapon"><![CDATA[TODO:Staff and Sword Breaker]]></entry>
+	
+  
 <entry id="combat_skill_name_veiled_veil_unnamed_melee"><![CDATA[TODO:Disfigure]]></entry>
 <entry id="combat_skill_name_veiled_veil_hex"><![CDATA[TODO:Enfeeblement]]></entry>
 <entry id="combat_skill_name_veiled_veil_heal"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
@@ -33,10 +39,12 @@ Death Wish]]></entry>
 <entry id="str_skill_mode_info_seventyhp"><![CDATA[TODO:{colour_start|notable}If HP below 70 % {colour_end}]]></entry>
 <entry id="str_skill_mode_info_fourtyhp"><![CDATA[TODO:{colour_start|notable}If HP below 40 % {colour_end}]]></entry>
 <entry id="str_skill_mode_info_tenhp"><![CDATA[TODO:{colour_start|notable}If HP below 10 % {colour_end}]]></entry>
+  
 <entry id="camping_skill_name_past_life_regression"><![CDATA[TODO:PAST LIFE REGRESSION]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_2"><![CDATA[TODO:NO REST, NO PEACE]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_3"><![CDATA[TODO:COLD TOUCH OF DEATH]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_4"><![CDATA[TODO:STUDY NECROMANTIC SCROLLS]]></entry>
+ 
 <entry id="action_verbose_body_guild_veiled"><![CDATA[TODO:Neither dead nor alive, cursed and hiding from prying eyes, the Veiled has learned the same powers that caused his condition. He’s full of hate towards the undead, yet after ages of suffering he is in control of the same strange necromancy. It is not intended for reviving the dead, but for salvaging those not yet departed. His strength grows as he nears death, as the closer he gets to freeing himself from his damnation, the harder it is to keep this energy under control.]]></entry>
 <entry id="action_verbose_body_blacksmith_veiled"><![CDATA[TODO:The only purpose of his veil is to hide his unholy body from anyone’s sight. The staff merely helps the Veiled to control his curse, and force it to submit to his will. His swordbreaker might seem to be for self-defense, yet its purpose is to weaken his foes even further.]]></entry>
 <entry id="action_verbose_body_camping_trainer_veiled"><![CDATA[TODO:Unable to feel the warmth of fire, taste food, or see dreams, the Veiled eschews others’ company and gets absorbed in his ancient, imperishable memories. Solitude either brings him peace, or strengthens his regrets. But if necessary, he will give his life force to anyone who might need it more than him.]]></entry>
@@ -46,14 +54,14 @@ Death Wish]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self1_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Self:{colour_end} +30ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self2_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Party:{colour_end} +3 SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_others_TT"><![CDATA[TODO:On Kill: Self: {colour_start|deathdoor}Suffer{colour_end} 4 HP]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Berserk{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Terreur{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[TODO:On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
 <entry id="camping_skill_name_addinfo_veil"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_HP_TT"><![CDATA[TODO:The Veiled grows stronger the lower his HP is 
-Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes:{colour_end} +20% {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>	
+	Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes:{colour_end} +20% {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD"><![CDATA[TODO:Death's Door Debuffs replaced with:
-+10 ACC/+5% CRT/+6 SPD]]></entry>
+	+10 ACC/+5% CRT/+6 SPD]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[TODO:Doesn't suffer from Death's Door Recovery penalty]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Can't go to the Bar]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
@@ -61,7 +69,7 @@ Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 1
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT3"><![CDATA[TODO:{colour_start|notable}If HP below 40ʪ:{colour_end} Self: {colour_start|healhp}Heal{colour_end} 10% Max HP, 
-Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+	Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT4"><![CDATA[TODO:{colour_start|notable}If HP below 10ʪ:{colour_end} Self: {colour_start|healhp}Heal{colour_end} Additional 5% Max HP]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +10% {colour_start|deathdoor}Death Blow{colour_end} Resist]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
@@ -76,7 +84,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="str_inventory_set_title_cc_veiled"><![CDATA[TODO:"At last, I share her dreadful fate."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_1"><![CDATA[TODO:"It would give its all to feel again."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_2"><![CDATA[TODO:"Fragile, yet indestructable creation."]]></entry>
-
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_70hp_fx"><![CDATA[TODO: ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_40hp_fx"><![CDATA[TODO: ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_10hp_fx"><![CDATA[TODO: ]]></entry>
@@ -108,12 +115,12 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_2"><![CDATA[TODO:-5 SPD]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_3"><![CDATA[TODO:-6 SPD]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_4"><![CDATA[TODO:-7 SPD]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_5"><![CDATA[TODO:-8 SPD]]></entry>	
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_5"><![CDATA[TODO:-8 SPD]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_1"><![CDATA[TODO:-4 SPD / -6 DODGE]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_2"><![CDATA[TODO:-5 SPD / -7 DODGE]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_3"><![CDATA[TODO:-6 SPD / -8 DODGE]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_4"><![CDATA[TODO:-7 SPD / -9 DODGE]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_5"><![CDATA[TODO:-8 SPD / -10 DODGE]]></entry>	
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_2_5"><![CDATA[TODO:-8 SPD / -10 DODGE]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_1"><![CDATA[TODO:-4 SPD / -6 DODGE / -20%% PROT]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_2"><![CDATA[TODO:-5 SPD / -7 DODGE / -22%% PROT]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_3_3"><![CDATA[TODO:-6 SPD / -8 DODGE / -25%% PROT]]></entry>
@@ -491,24 +498,31 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_bark_stress_partyhigh"><![CDATA[TODO:This is a nightmare for us all!]]></entry>
 <entry id="veiled+str_bark_stress_partyhigh"><![CDATA[TODO:Our minds falter and bones shake.]]></entry>
 <entry id="veiled+str_bark_stress_partyhigh"><![CDATA[TODO:Prison of flesh or bone, neither protects the soul.]]></entry>
+    
 <entry id="veiled+str_bark_stress_partylow"><![CDATA[TODO:Good to see you are all doing well. Good to see...]]></entry>
 <entry id="veiled+str_bark_stress_partylow"><![CDATA[TODO:I do believe we've got this under control.]]></entry>
 <entry id="veiled+str_bark_stress_partylow"><![CDATA[TODO:A strong mind makes for a strong body.]]></entry>
+    
 <entry id="veiled+str_bark_hp_partylow"><![CDATA[TODO:We are close to our ends!]]></entry>
 <entry id="veiled+str_bark_hp_partylow"><![CDATA[TODO:Aaah, the thrill of release!]]></entry>
 <entry id="veiled+str_bark_hp_partylow"><![CDATA[TODO:We are so close to our sweet unmaking!]]></entry>
+    
 <entry id="veiled+str_bark_hp_partyhigh"><![CDATA[TODO:You've got plenty of blood to spill. Wish I still could.]]></entry>
 <entry id="veiled+str_bark_hp_partyhigh"><![CDATA[TODO:This is rather boring, don't you think?]]></entry>
 <entry id="veiled+str_bark_hp_partyhigh"><![CDATA[TODO:So hale and hearty. How good for you.]]></entry>
+    
 <entry id="veiled+str_bark_hp_selflow"><![CDATA[TODO:I am close to my end! I can feel it!]]></entry>
 <entry id="veiled+str_bark_hp_selflow"><![CDATA[TODO:Soon... Soon...!]]></entry>
 <entry id="veiled+str_bark_hp_selflow"><![CDATA[TODO:At last, I am close to my death. Tomorrow, let me meet it.]]></entry>
+    
 <entry id="veiled+str_bark_hp_selfhigh"><![CDATA[TODO:I'm still far away from my demise.]]></entry>
 <entry id="veiled+str_bark_hp_selfhigh"><![CDATA[TODO:Why do you keep me alive? Please, stop treating me.]]></entry>
 <entry id="veiled+str_bark_hp_selfhigh"><![CDATA[TODO:Wish I'd taken more blows.]]></entry>
+    
 <entry id="veiled+str_bark_stress_selflow"><![CDATA[TODO:Excellent. My soul will not fall before my cage does.]]></entry>
 <entry id="veiled+str_bark_stress_selflow"><![CDATA[TODO:I am prepared to meet my end head-on.]]></entry>
 <entry id="veiled+str_bark_stress_selflow"><![CDATA[TODO:Like this, I can go without regrets.]]></entry>
+    
 <entry id="veiled+str_bark_stress_selfhigh"><![CDATA[TODO:These hands still have much left to do...]]></entry>
 <entry id="veiled+str_bark_stress_selfhigh"><![CDATA[TODO:Her face... I... I...]]></entry>
 <entry id="veiled+str_bark_stress_selfhigh"><![CDATA[TODO:What will I leave behind? A legacy, or her ruin?]]></entry>
@@ -558,7 +572,7 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+trigger_curio_quirk_hagiomania"><![CDATA[TODO:Maybe it's not too late to become religious, after all...]]></entry>
 <entry id="veiled+trigger_curio_quirk_demonomania"><![CDATA[TODO:I must exorcise this cursed body!]]></entry>
 <entry id="veiled+trigger_curio_quirk_tapeworm"><![CDATA[TODO:Somehow, I feel like hoarding food.]]></entry>
-<entry id="veiled+str_keep_loot_string"><![CDATA[TODO:...And tucked away.]]></entry>	
+<entry id="veiled+str_keep_loot_string"><![CDATA[TODO:...And tucked away.]]></entry>
 <entry id="veiled+str_mark_self_regenerator"><![CDATA[TODO:Why does it torture me?!]]></entry>
 <entry id="veiled+str_mark_self_regenerator"><![CDATA[TODO:Cease this so-called mercy!]]></entry>
 <entry id="veiled+str_mark_self_regenerator"><![CDATA[TODO:Do not prolong my suffering!]]></entry>
@@ -1032,7 +1046,7 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_attack_self_color_madness"><![CDATA[TODO:Can these shards damage me? Can they make me feel pain?!]]></entry>
 <entry id="veiled+str_attack_self_color_madness"><![CDATA[TODO:Insanity, free me! Free me from this cage! I am nothing but pure magenta!]]></entry>
 <entry id="veiled+str_attack_self_color_madness"><![CDATA[TODO:The cage tightens!!]]></entry>
-<entry id="veiled+str_mark_self_color_madness"><![CDATA[TODO:Take me first! Take me with you!]]></entry>	
+<entry id="veiled+str_mark_self_color_madness"><![CDATA[TODO:Take me first! Take me with you!]]></entry>
 <entry id="veiled+str_mark_self_color_madness"><![CDATA[TODO:Bone makes a wonderful pigment!]]></entry>
 <entry id="veiled+str_mark_self_color_madness"><![CDATA[TODO:Hear my scream! It comes straight from my soul!]]></entry>
 <entry id="veiled+str_comment_self_hit_color_madness"><![CDATA[TODO:It takes much more to free me! Strike again!]]></entry>
@@ -1106,3 +1120,6 @@ Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectab
 <entry id="veiled+str_heal_self_vigorous"><![CDATA[TODO:Damnable healing, let me die already.]]></entry>
 <entry id="veiled+str_heal_self_vigorous"><![CDATA[TODO:Ah, great. The healing is back. Just what I need...]]></entry>
 <entry id="veiled+str_block_effect_vigorous"><![CDATA[TODO:I've been dead much longer than you are! We are nothing alike!]]></entry>
+	
+    
+ 
