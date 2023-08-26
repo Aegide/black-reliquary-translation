@@ -1,7 +1,3 @@
-
-
-  
-
 <entry id="hero_class_name_philomath"><![CDATA[Philomathe]]></entry>
 <entry id="str_affliction_name_consumed"><![CDATA[Obsession]]></entry>
 <entry id="philomath+str_afflicted_consumed"><![CDATA[TODO:I release... I release...]]></entry>
@@ -574,7 +570,3 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="philo+quirk_transition_1_faithless_to_1_religious"><![CDATA[TODO:This burning light- I cannot escape it!]]></entry>
 <entry id="philo+quirk_transition_1_pagan_to_1_religious"><![CDATA[TODO:No! This light- it rends my very being!]]></entry>
 <entry id="philo+quirk_transition_1_faithless_to_1_pagan"><![CDATA[TODO:This form submits to Its will!]]></entry>
-
-
-
-

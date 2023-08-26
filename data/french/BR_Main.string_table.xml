@@ -3113,7 +3113,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦʑʏ{colour_end}Crocs infects]]></entry>
 <entry id="str_monster_skill_cact_hemo_bite_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Hungry Lunge]]></entry>
 <entry id="str_monster_skill_cact_homonid_rebuke_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
-<entry id="str_monster_skill_cact_homonid_rebuke_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]></entry>
+<entry id="str_monster_skill_cact_homonid_rebuke_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʵɮ{colour_end}Replantez-vous !]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Croissance de combat]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Grenade de spores]]></entry>
 <entry id="str_monster_skill_cact_homonid_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Fouet liane]]></entry>
