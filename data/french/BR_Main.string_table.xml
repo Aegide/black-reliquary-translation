@@ -1002,7 +1002,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_vase_tutorial_loot"><![CDATA[Des richesses cachées !]]></entry>
 <entry id="str_curio_kvarotz_vase_tutorial_shovel_loot"><![CDATA[Un trésor parmi les éclats de céramique !]]></entry>
 <entry id="str_curio_kvarotz_vase_tutorial_arch_kit_loot"><![CDATA[Le vase est incrusté de pierres précieuses !]]></entry>
-<entry id="str_curio_kvarotz_vase_tutorial_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry
+<entry id="str_curio_kvarotz_vase_tutorial_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_levantine_supplies_tutorial1"><![CDATA[Matériel levantin]]></entry>
 <entry id="str_curio_content_levantine_supplies_tutorial1"><![CDATA[TODO:Some abandoned Levantine equipment.]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial1"><![CDATA[TODO:There could be something useful here...]]></entry>
