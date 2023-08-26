@@ -4,6 +4,7 @@ echo " "
 echo ">> CLEANING"
 echo " "
 
+(cd "/c/Program Files (x86)/Steam/steamapps/common/Black Reliquary/localization/" && ls *.loc2 && rm *.loc2) 2> /dev/null
 rm review/*.xml
 rm build/*.xml
 echo "" > "/c/Program Files (x86)/Steam/steamapps/common/Black Reliquary/localization/missing_strings.csv"
