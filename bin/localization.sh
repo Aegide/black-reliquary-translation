@@ -23,8 +23,11 @@ echo " "
 cp build/*.xml /c/'Program Files (x86)'/Steam/steamapps/common/'Black Reliquary'/localization
 (cd "/c/Program Files (x86)/Steam/steamapps/common/Black Reliquary/_windows" && ./localization.exe) > build.txt
 cat build.txt | grep -v "SUCCESS!" | grep -v '\-\-' | grep -v "Building" | grep -v "  "
+(cd "/c/Program Files (x86)/Steam/steamapps/common/Black Reliquary/localization/" && ls *.loc2)
 cp /c/'Program Files (x86)'/Steam/steamapps/common/'Black Reliquary'/localization/missing_strings.csv missing_strings.csv 2> /dev/null
 
+echo " "
+echo " "
 echo ">> MISSING"
 echo " "
 
