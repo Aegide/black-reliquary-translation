@@ -35,7 +35,7 @@ cat missing_strings.csv | grep -v ",PSN," | grep -v ",switch," | grep -v ",xb1,"
 
 echo " "
 echo " "
-echo ">> INVALID"
+echo ">> ANOMALY"
 echo " "
 
 grep -r ".*" review
