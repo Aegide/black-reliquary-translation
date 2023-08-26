@@ -1,6 +1,14 @@
 # clear;sh bin/localization.sh
 
 echo " "
+echo ">> CLEANING"
+echo " "
+
+rm review/*.xml
+rm build/*.xml
+echo "" > "/c/Program Files (x86)/Steam/steamapps/common/Black Reliquary/localization/missing_strings.csv"
+
+echo " "
 echo ">> LOCALIZING"
 echo " "
 
