@@ -39,13 +39,15 @@ def translate_everything():
 def partial_duplication(original_filename:str):
     original_filepath = Path(ORIGINAL_FILES_PATH, original_filename)
     destination_filepath = Path(TRANSLATION_DESTINATION_PATH, original_filename)
-    with open(original_filepath, mode="r", encoding="utf8") as original_file:
-        with open(destination_filepath, mode="w", encoding="utf8") as destination_file:
-            for line in original_file.readlines():
-                line_content = line.strip()
-                if line_content != CLOSING_ROOT:
-                    destination_file.write(line)
-
+    try:
+        with open(original_filepath, mode="r", encoding="utf8") as original_file:
+            with open(destination_filepath, mode="w", encoding="utf8") as destination_file:
+                for line in original_file.readlines():
+                    line_content = line.strip()
+                    if line_content != CLOSING_ROOT:
+                        destination_file.write(line)
+    except UnicodeDecodeError as exception:
+        print("(partial_duplication)", exception)
 
 def translation_injection(original_filename:str, mock_language:bool=False):
     for language in listdir(TRANSLATION_SOURCE_PATH):
