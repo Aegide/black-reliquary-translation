@@ -679,8 +679,10 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_description_br_kristjan_concert"><![CDATA[TODO:The ship's bard has fallen into a musical dervish and the songs are inspiring!]]></entry>
 <entry id="town_event_title_br_dead_recruit"><![CDATA[TODO:The Stranger]]></entry>
 <entry id="town_event_description_br_dead_recruit"><![CDATA[TODO:A hooded figure has mysteriously appeared on the ship, claiming to be able to defy death.]]></entry>
-<entry id="town_event_title_br_fire_sale"><![CDATA[TODO:Suspicious Sale]]></entry>
-<entry id="town_event_description_br_fire_sale"><![CDATA[TODO:Vernon is selling at a huge discount, citing a sudden need to liquidate before we return to port.]]></entry>
+<entry id="town_event_title_br_fire_sale"><![CDATA[Commerce équitable]]></entry>
+<entry id="town_event_description_br_fire_sale"><![CDATA[Vernon propose d'énormes réductions, prétextant un besoin soudain de tout liquider avant notre retour au port.]]></entry>
+<entry id="town_event_info_br_fire_sale"><![CDATA[{colour_start|notable}-75ʪ sur les breloques{colour_end}
+(hors Contrebande)]]></entry>
 <entry id="town_event_title_br_imposter"><![CDATA[Réunion d'urgence]]></entry>
 <entry id="town_event_description_br_imposter"><![CDATA[TODO:A crewmate was found murdered in their sleep. Someone is not who they claim to be...]]></entry>
 <entry id="town_event_title_br_free_armor_weapons"><![CDATA[TODO:Second Hand Shipment]]></entry>

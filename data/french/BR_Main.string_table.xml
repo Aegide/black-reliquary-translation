@@ -427,6 +427,7 @@ New statuses are applied in combat from both friends and foes, such as {colour_s
 {colour_start|amberblighted}Amberblight{colour_end} debuffs target's damage received or dealt based on their last action, {colour_start|expiated}Expiation{colour_end} damages the target on their next three attacks while healing the opposing party on the first one, and {colour_start|enraged}Enrage{colour_end} provides target with health and buffs upon killing their enemies. 
 There are more statuses like that, which are applied by some specific enemy factions. Hover over the status icon on an affected target for more information.]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[TODO:New Statuses]]></entry>
+<entry id="tutorial_popup_supplies_title"><![CDATA[TODO:New Statuses]]></entry>
 <entry id="tutorial_popup_camping_description"><![CDATA[TODO:Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
 During the {colour_start|notable}Meal phase{colour_end}, you choose how much they eat, which determines recovery. Make sure you have enough food!
 {colour_start|notable}Skill Phase{colour_end} allows you to spend {colour_start|notable}Respite{colour_end} on different hero skills used for recuperation.
@@ -2704,6 +2705,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_yngolian_small_E"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_yngolian_small_F"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_yngolian_small_G"><![CDATA[Cellule Y]]></entry>
+<entry id="str_monstername_yngolian_small_H"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_kvarotz_crewmate_A"><![CDATA[Membre de l'équipage]]></entry>
 <entry id="str_monstername_crewmate_A"><![CDATA[Membre de l'équipage]]></entry>
 <entry id="monster_panel_skills"><![CDATA[Cibles                         Compétences]]></entry>
@@ -3252,6 +3254,9 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_crit_chance"><![CDATA[TODO:%+d%% CRT]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_speed_rating"><![CDATA[TODO:%+d SPD]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_protection_rating"><![CDATA[TODO:%+d%% PROT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_stress_dmg_percent"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Inflicted On Party]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_debuff_performer_group_other"><![CDATA[TODO:{colour_start|debuff}Debuff Others:{colour_end}
+]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_heal_dot_amount_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_dot_bleed_amount_percent"><![CDATA[TODO:%+d%% {colour_start|bleed}Bleed{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hp_heal_dot_amount_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
@@ -3793,6 +3798,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_POACHER_MASK_TABLE"><![CDATA[
 Ginseng Powder {colour_start|skill_unselectable}(40ʪ){colour_end}
 Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entry id="buff_stat_tooltip_upgrade_discount_WURM_SCARF_TT"><![CDATA[TODO:On Monster Kill: Self: Clear {colour_start|mark}Mark{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[TODO:Aegis Scale {colour_start|skill_unselectable}(20%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_TT"><![CDATA[TODO:On Attack Hit: Self: {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARCH_COMPENDIUM_TT"><![CDATA[TODO:Can be used on Kvarotz Curios for guaranteed Darics
 {colour_start|skill_unselectable}Must be used from Inventory{colour_end}]]></entry>
