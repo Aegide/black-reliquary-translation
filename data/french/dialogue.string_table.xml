@@ -4938,7 +4938,7 @@
 <entry id="trigger_curio_quirk_curious"><![CDATA[TODO:I wonder how this works...]]></entry>
 <entry id="trigger_curio_quirk_dark_temptation"><![CDATA[TODO:Finally, I get my hands on an authentic eldritch sample!]]></entry>
 <entry id="trigger_curio_quirk_guilty_conscience"><![CDATA[TODO:I have sinned so very much...Light guide me.]]></entry>
-<entry id="trigger_curio_quirk_kleptomaniac"><![CDATA[TODO:<whistles>]]></entry>
+<entry id="trigger_curio_quirk_kleptomaniac"><![CDATA[(sifflement)]]></entry>
 <entry id="trigger_curio_quirk_bloodthirsty"><![CDATA[TODO:Such carnage...yes...]]></entry>
 <entry id="trigger_curio_quirk_hieromania"><![CDATA[TODO:This is a call. I am prepared to accept it!]]></entry>
 <entry id="trigger_curio_quirk_ablutomania"><![CDATA[TODO:Out of my way! I must cleanse myself...]]></entry>
@@ -5236,12 +5236,12 @@
 <entry id="str_bark_gallows_humor"><![CDATA[TODO:How many adventurers does it take to die in a pit?]]></entry>
 <entry id="str_bark_night_steps"><![CDATA[TODO:I shall wander in the night. Don't wait up.]]></entry>
 <entry id="str_bark_pilfer"><![CDATA[TODO:I...borrowed...this when we were on the ship.]]></entry>
-<entry id="str_bark_battle_trance"><![CDATA[TODO:<chants>]]></entry>
+<entry id="str_bark_battle_trance"><![CDATA[(psaume)]]></entry>
 <entry id="str_bark_revel"><![CDATA[TODO:A jug for each of us! We live once only...time to enjoy it!]]></entry>
 <entry id="str_bark_reject_the_gods"><![CDATA[TODO:I follow only the cult of battle! Trust only what you can kill!]]></entry>
 <entry id="str_bark_sharpen_spear"><![CDATA[TODO:...much better.]]></entry>
 <entry id="str_bark_uncatchable"><![CDATA[TODO:Naught but my own blade will find the heart of these monstrosities!]]></entry>
-<entry id="str_bark_clean_guns"><![CDATA[TODO:<whistles>]]></entry>
+<entry id="str_bark_clean_guns"><![CDATA[(sifflement)]]></entry>
 <entry id="str_bark_bandits_sense"><![CDATA[TODO:With my ear to the road, none shall surprise us...]]></entry>
 <entry id="str_bark_abandon_hope"><![CDATA[TODO:Why should we fret? We'll all be worms soon enough.]]></entry>
 <entry id="str_bark_dark_ritual"><![CDATA[TODO:G'NATH ELDRATCHANAR F'THGYLL GRY'NDOT!]]></entry>
@@ -5463,7 +5463,7 @@
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:Ha ha ha! Hee hee!]]></entry>
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:It writhes, it flips, but yet it says nothing!]]></entry>
 <entry id="str_roster_list_irrational_bark"><![CDATA[TODO:One thousand eyes - staring, blinking!  I cannot bear it!]]></entry>
-<entry id="str_roster_list_bar_bark"><![CDATA[TODO:<glug glug>]]></entry>
+<entry id="str_roster_list_bar_bark"><![CDATA[(glou, glou)]]></entry>
 <entry id="str_roster_list_bar_bark"><![CDATA[TODO:More wine, sir!]]></entry>
 <entry id="str_roster_list_bar_bark"><![CDATA[TODO:Delicious, satisfying - MORE!]]></entry>
 <entry id="str_roster_list_bar_bark"><![CDATA[TODO:Ahhh, it's so good when it hits your lips!]]></entry>

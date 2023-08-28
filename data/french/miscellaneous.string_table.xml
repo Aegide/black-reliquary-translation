@@ -2182,7 +2182,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="tray_status_bar_tooltip_turns_remaining_format"><![CDATA[Actions restantes : %d]]></entry>
 <entry id="trigger_curio_quirk_corvids_appetite"><![CDATA[Cette odeur... Délicieux !]]></entry>
 <entry id="trigger_curio_quirk_corvids_appetite"><![CDATA[Un repas étrange, mais cela reste un repas !]]></entry>
-<entry id="trigger_curio_quirk_corvids_appetite"><![CDATA[<grondement d'estomac>]]></entry>
+<entry id="trigger_curio_quirk_corvids_appetite"><![CDATA[(grondement d'estomac)]]></entry>
 <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Ça brille !]]></entry>
 <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Intéressant !]]></entry>
 <entry id="trigger_curio_quirk_corvids_curiosity"><![CDATA[Hum...]]></entry>

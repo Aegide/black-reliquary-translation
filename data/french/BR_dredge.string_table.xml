@@ -343,7 +343,7 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_bark_stress_camp_depressed"><![CDATA[TODO:Marching... always marching...]]></entry>
 <entry id="dredge+str_bark_stress_camp_depressed"><![CDATA[TODO:Being a soldier isn't all praise and medals, you know...]]></entry>
 <entry id="dredge+str_bark_stress_camp_depressed"><![CDATA[TODO:This machine and I have been through so much. Too much...]]></entry>
-<entry id="dredge+str_mark_self_depressed"><![CDATA[TODO:<wheezing loudly>]]></entry>
+<entry id="dredge+str_mark_self_depressed"><![CDATA[(respiration bruyante)]]></entry>
 <entry id="dredge+str_mark_self_depressed"><![CDATA[TODO:No one lives forever. Let's make it good.]]></entry>
 <entry id="dredge+str_mark_self_depressed"><![CDATA[TODO:Let us dance.]]></entry>
 <entry id="dredge+str_attack_self_depressed"><![CDATA[TODO:This blasted leg of mine!]]></entry>
@@ -386,7 +386,7 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_ignore_command_irrational"><![CDATA[TODO:There is no plenty without want.]]></entry>
 <entry id="dredge+str_ignore_command_irrational"><![CDATA[TODO:I savor the hunt, watching my prey make its move...]]></entry>
 <entry id="dredge+str_random_command_irrational"><![CDATA[TODO:A tactic beyond your feeble minds!]]></entry>
-<entry id="dredge+str_random_command_irrational"><![CDATA[TODO:<incomprehensible gibberish>]]></entry>
+<entry id="dredge+str_random_command_irrational"><![CDATA[(charabia incompréhensible)]]></entry>
 <entry id="dredge+str_random_command_irrational"><![CDATA[TODO:Your child-minds cannot slow me!]]></entry>
 <entry id="dredge+str_bark_stress_camp_irrational"><![CDATA[TODO:One of my machine's steam vents is oddly suspicious...]]></entry>
 <entry id="dredge+str_bark_stress_camp_irrational"><![CDATA[TODO:I get it. We have to choose.]]></entry>
