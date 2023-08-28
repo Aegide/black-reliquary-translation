@@ -861,7 +861,8 @@ Certains aspects du "Chasseur de la Flamme" pourront changer au cours du dévelo
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Black Reliquary est en cours de développement.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-N'oubliez pas d'assigner, chaque semaine, des héros à l'atelier d'ambre.]]></entry>
+N'oubliez pas d'assigner, chaque semaine,
+des héros à l'atelier d'ambre.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les attributs positifs sont verrouillés par défaut, et peuvent être retirés à la clinique.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
