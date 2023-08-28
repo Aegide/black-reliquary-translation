@@ -300,24 +300,24 @@ Rendement : 5-7 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_stage_coach.upgraded_recruits"><![CDATA[Octroie une chance au ferry de de proposer des recrues plus expérimentées]]></entry>
 <entry id="upgrade_tree_tooltip_description_tavern.bar"><![CDATA[Améliore le bar.
 {colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
-Gain de bonus - 7.5% 
-Gain de malus - 7.5% 
-Perte d'or - 10% ]]></entry>
+Gain de bonus - 7.5ʪ
+Gain de malus - 7.5ʪ
+Perte d'or - 10ʪ]]></entry>
 <entry id="upgrade_tree_tooltip_description_tavern.brothel"><![CDATA[Améliore l'arène.
 {colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
-Gain d'or - 10% 
-Gain de breloque - 5% 
-Gain de bonus - 10%  
-Gain de malus - 15% 
-Perte d'or - 10% 
-Refus de partir - 10% 
-Accident grave - 15% ]]></entry>
+Gain d'or - 10ʪ
+Gain de breloque - 5ʪ
+Gain de bonus - 10ʪ
+Gain de malus - 15ʪ
+Perte d'or - 10ʪ
+Refus de partir - 10ʪ
+Accident grave - 15ʪ]]></entry>
 <entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[Améliore la salle de jeux.
 {colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
-Gain Gold - 10% 
-Gain Trinket - 5% 
-Chance to Lose Gold - 20% 
-Refus de partir - 15% ]]></entry>
+Gain Gold - 10ʪ
+Gain Trinket - 5ʪ
+Chance to Lose Gold - 20ʪ
+Refus de partir - 15ʪ]]></entry>
 <entry id="str_empty_hero_slot_action"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_empty_hero_slot_bar"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_empty_hero_slot_brothel"><![CDATA[Placez un héros ici.]]></entry>
@@ -601,96 +601,131 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="str_blood_bank_title"><![CDATA[Fabrique d'adrénaline]]></entry>
 <entry id="str_blood_bank_buff_adrenaline_provision"><![CDATA[TODO:Add 1 Reflex Serum to the Provisioner's stock each week]]></entry>
 <entry id="str_blood_bank_buff_adrenaline_desc"><![CDATA[TODO:Reflex Serum can be purchased for 6 {colour_start|BR_heirloom}Refined Amber Dust{colour_end} and grants a short powerspike, giving the user a {colour_start|riposte}Riposte{colour_end}.]]></entry>
+
 <entry id="town_event_info_br_districts_unlock"><![CDATA[TODO:[Side Deck Upgrades Available]]]></entry>
 <entry id="town_event_title_br_districts_unlock"><![CDATA[TODO:Room for Improvements]]></entry>
 <entry id="town_event_description_br_districts_unlock"><![CDATA[TODO:"The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
+
 <entry id="town_event_info_br_intro"><![CDATA[TODO:[Enabling Tutorials is RECOMMENDED]
 [Press H to open the Help Menus]]]></entry>
 <entry id="town_event_title_br_intro"><![CDATA[Invité d'honneur]]></entry>
 <entry id="town_event_description_br_intro"><![CDATA["Tout l'équipage est prié d'accueillir notre invité, et de l'aider à se mettre à son aise !"]]></entry>
+
 <entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="town_event_title_br_free_dust"><![CDATA[L'ambre doit couler]]></entry>
 <entry id="town_event_description_br_free_dust"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
+
 <entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="town_event_title_br_champ_unlock"><![CDATA[L'ambre doit couler]]></entry>
 <entry id="town_event_description_br_champ_unlock"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
+
 <entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
 <entry id="town_event_title_br_free_tech"><![CDATA[Quid pro quo]]></entry>
 <entry id="town_event_description_br_free_tech"><![CDATA[Ceux d'Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
+
 <entry id="town_event_info_br_amber_explosion"><![CDATA[TODO:{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken on next quest{colour_end}
 {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
 <entry id="town_event_title_br_amber_explosion"><![CDATA[Explosion d'ambre]]></entry>
-<entry id="town_event_description_br_amber_explosion"><![CDATA[TODO:A mishap in the refinery has resulted in a miasma of amber fumes filling the entire ship. Try to take short breaths.]]></entry>
+<entry id="town_event_description_br_amber_explosion"><![CDATA[Un incident dans la raffinerie a provoqué un miasme de fumées ambrées dans tout le navire. Essayez de prendre de courtes respirations.]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[TODO:{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
+
 <entry id="town_event_info_br_hero_death"><![CDATA[TODO:{colour_start|notable}All Stress Relief Activities in the Galley are Free
 +10 Idle Stress Relief{colour_end}]]></entry>
 <entry id="town_event_title_br_hero_death"><![CDATA[Minute de silence]]></entry>
 <entry id="town_event_description_br_hero_death"><![CDATA[Le premier est tombé. Savourons le goût amer de la défaite, avec du vin et de la bière.]]></entry>
+
 <entry id="town_event_title_br_melee_buff"><![CDATA[Maintenance des armes]]></entry>
-<entry id="town_event_description_br_melee_buff"><![CDATA[TODO:A recent inspection revealed that the blades have been badly miskept. This must be rectified immediately!]]></entry>
+<entry id="town_event_description_br_melee_buff"><![CDATA[Une inspection récente a révélé que les lames étaient mal entretenues. Il faut y remédier immédiatement !]]></entry>
+
 <entry id="town_event_title_br_ranged_buff"><![CDATA[Entraînement au tir]]></entry>
-<entry id="town_event_description_br_ranged_buff"><![CDATA[TODO:All rangers must report to the top deck at once! Your marksmanship is due for examination.]]></entry>
-<entry id="town_event_title_br_mystic_buff"><![CDATA[TODO:Celestial Alignment]]></entry>
-<entry id="town_event_description_br_mystic_buff"><![CDATA[TODO:Non-practicing crew shall keep their voices to whispers as our mystics engage in meditation.]]></entry>
+<entry id="town_event_description_br_ranged_buff"><![CDATA[Tous les rangers doivent se présenter immédiatement sur le pont supérieur ! Votre adresse au tir doit être évaluée.]]></entry>
+
+<entry id="town_event_title_br_mystic_buff"><![CDATA[Alignement céleste]]></entry>
+<entry id="town_event_description_br_mystic_buff"><![CDATA[Les membres de l'équipage doivent se contenter de chuchoter pendant que nos mystiques se livrent à la méditation.]]></entry>
 <entry id="town_event_info_br_mystic_buff"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +8 ACC on next quest{colour_end}
 {colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +5% CRT on next quest{colour_end}]]></entry>
-<entry id="town_event_title_br_religious_buff"><![CDATA[TODO:Candlelit Vigil]]></entry>
-<entry id="town_event_description_br_religious_buff"><![CDATA[TODO:The faithful are gathered in solemn prayer today, and those still seeking an answer are welcomed to participate.]]></entry>
+
+<entry id="town_event_title_br_religious_buff"><![CDATA[Veillée aux chandelles]]></entry>
+<entry id="town_event_description_br_religious_buff"><![CDATA[Les fidèles sont rassemblés pour une prière solennelle, tout ceux qui cherchent encore une réponse y sont invités.]]></entry>
 <entry id="town_event_info_br_religious_buff"><![CDATA[TODO:{colour_start|notable}+15% {colour_start|healhp}Healing{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}
 {colour_start|notable}-15% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_RELIGIOUS_STRESSREC"><![CDATA[TODO:{colour_start|notable}-15%% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end}{colour_end}]]></entry>
-<entry id="town_event_title_br_pagan_buff"><![CDATA[TODO:Eldritch Invocation]]></entry>
-<entry id="town_event_description_br_pagan_buff"><![CDATA[TODO:The seekers of dark powers have congregated to pay homage to their many masters.]]></entry>
-<entry id="town_event_title_br_expensive_provisions"><![CDATA[TODO:Spoiled Shipment]]></entry>
-<entry id="town_event_description_br_expensive_provisions"><![CDATA[TODO:Our most recent delivery of supplies was lacking. Crew should expect half rations until the next resupply.]]></entry>
-<entry id="town_event_title_br_free_provisions"><![CDATA[TODO:Supply Cache]]></entry>
-<entry id="town_event_description_br_free_provisions"><![CDATA[TODO:Scouts have located an enormous store of what are now formerly Levantine supplies!]]></entry>
-<entry id="town_event_title_br_captain_owie"><![CDATA[TODO:Inconvenient Injury]]></entry>
-<entry id="town_event_description_br_captain_owie"><![CDATA[TODO:Keep your heads down and do your jobs thrice as hard. The Captain is in a scornful mood.]]></entry>
+
+<entry id="town_event_title_br_pagan_buff"><![CDATA[Horrible rituel]]></entry>
+<entry id="town_event_description_br_pagan_buff"><![CDATA[Les adeptes des pouvoirs obscurs se sont rassemblés pour rendre hommage à leurs maîtres.]]></entry>
+
+<entry id="town_event_title_br_expensive_provisions"><![CDATA[Provisions avariées]]></entry>
+<entry id="town_event_description_br_expensive_provisions"><![CDATA[Notre dernier ravitaillement était insuffisant. Demi-rations pour tous jusqu'au prochain ravitaillement.]]></entry>
+
+<entry id="town_event_title_br_free_provisions"><![CDATA[Ravitaillement improvisé]]></entry>
+<entry id="town_event_description_br_free_provisions"><![CDATA[Nos éclaireurs ont localisé un énorme entrepôt de matériel levantin !]]></entry>
+
+<entry id="town_event_title_br_captain_owie"><![CDATA[Blessure désagréable]]></entry>
+<entry id="town_event_description_br_captain_owie"><![CDATA[Gardez la tête baissée et travaillez trois fois plus dur. Le capitaine est de mauvaise humeur.]]></entry>
 <entry id="town_event_info_br_captain_owie"><![CDATA[TODO:{colour_start|harmful}-15% {colour_start|virtue}Virtue{colour_end} Chance on next quest{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_CAPTAIN_LEG_BREAK"><![CDATA[TODO:{colour_start|harmful}-15%% {colour_start|virtue}Virtue{colour_end} Chance{colour_end}]]></entry>
-<entry id="town_event_title_br_lock_bar_galley_free"><![CDATA[TODO:Corrupted Wine]]></entry>
-<entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[TODO:Several crew members were left sick from tainted brews! The bar is closed until all drinks are potable once more...]]></entry>
-<entry id="town_event_title_br_lock_gambling_galley_free"><![CDATA[TODO:Hog Wild]]></entry>
-<entry id="town_event_description_br_lock_gambling_galley_free"><![CDATA[TODO:The gambling tables are currently closed. Almira has not specified why at this time.]]></entry>
-<entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[TODO:Exhibition Bout]]></entry>
-<entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[TODO:A match we've all been waiting to see! Other competitors are asked to wait until the event has concluded.]]></entry>
+
+<entry id="town_event_title_br_lock_bar_galley_free"><![CDATA[Vin contaminé]]></entry>
+<entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[Plusieurs membres de l'équipage sont tombés malades à cause du vin ! Le bar est fermé jusqu'à nouvel ordre ...]]></entry>
+
+<entry id="town_event_title_br_lock_gambling_galley_free"><![CDATA[Cochon sauvage]]></entry>
+<entry id="town_event_description_br_lock_gambling_galley_free"><![CDATA[Les tables de jeu sont actuellement fermées. Pour le moment, Almira n'en a pas précisé la raison.]]></entry>
+
+<entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[Combat exhibition]]></entry>
+<entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[Un combat que nous attendions tous ! Les autres concurrents sont priés de patienter jusqu'à la fin de l'événement.]]></entry>
+
 <entry id="town_event_title_br_skill_issue"><![CDATA[Héritage]]></entry>
 <entry id="town_event_description_br_skill_issue"><![CDATA[L'un des derniers à avoir péri avait apparemment accumulé une belle fortune, qu'il a légué au navire.]]></entry>
 <entry id="town_event_info_br_skill_issue"><![CDATA[+30.000 {colour_start|notable}or{colour_end}]]></entry>
+
 <entry id="town_event_title_br_free_galley"><![CDATA[Ertefest]]></entry>
-<entry id="town_event_description_br_free_galley"><![CDATA[TODO:A day of old Ostvengr traditions! Enjoy yourselves, but be responsible- this is still an airship!]]></entry>
-<entry id="town_event_title_br_free_workshop"><![CDATA[TODO:Amber Convention]]></entry>
-<entry id="town_event_description_br_free_workshop"><![CDATA[TODO:The Penitent Leonne's colleagues are visiting to share their expertise in the studies of amber!]]></entry>
-<entry id="town_event_title_br_free_clinic"><![CDATA[TODO:Curious Cadaver]]></entry>
-<entry id="town_event_description_br_free_clinic"><![CDATA[TODO:Erick and Ilya have discovered a most peculiar cadavar, and their discoveries are yielding miraculous results!.]]></entry>
+<entry id="town_event_description_br_free_galley"><![CDATA[Une vieille tradition Ostvengr ! Amusez-vous bien, mais soyez responsables - ce serait dommage de tomber.]]></entry>
+
+<entry id="town_event_title_br_free_workshop"><![CDATA[Séminaire sur l'ambre]]></entry>
+<entry id="town_event_description_br_free_workshop"><![CDATA[les collègues de la pénitente Leonne sont en visite pour partager leur expertise dans l'étude de l'ambre !]]></entry>
+
+<entry id="town_event_title_br_free_clinic"><![CDATA[Cadavre exquis]]></entry>
+<entry id="town_event_description_br_free_clinic"><![CDATA[Erick et Ilya ont découvert un cadavre très particulier, et leurs découvertes aboutissent à des résultats spectaculaires.]]></entry>
+
 <entry id="town_event_title_br_captain_birthday"><![CDATA[Anniversaire du capitaine]]></entry>
-<entry id="town_event_description_br_captain_birthday"><![CDATA[TODO:It's a very special day!]]></entry>
-<entry id="town_event_info_br_captain_birthday"><![CDATA[TODO:{colour_start|notable}All activities are free!{colour_end}]]></entry>
-<entry id="town_event_title_br_ostvengr_mercs_1"><![CDATA[TODO:Augmented Mercenaries]]></entry>
-<entry id="town_event_description_br_ostvengr_mercs_1"><![CDATA[TODO:Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
-<entry id="town_event_title_br_ostvengr_mercs_2"><![CDATA[TODO:Augmented Mercenaries]]></entry>
-<entry id="town_event_description_br_ostvengr_mercs_2"><![CDATA[TODO:Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
-<entry id="town_event_title_br_ostvengr_mercs_3"><![CDATA[TODO:Augmented Mercenaries]]></entry>
-<entry id="town_event_description_br_ostvengr_mercs_3"><![CDATA[TODO:Those who have ventured into the ruins of the Ostvengr are offering their unique services to us!]]></entry>
+<entry id="town_event_description_br_captain_birthday"><![CDATA[C'est un jour très particulier !]]></entry>
+<entry id="town_event_info_br_captain_birthday"><![CDATA[{colour_start|notable}Toutes les activité sont gratuites !{colour_end}]]></entry>
+
+<entry id="town_event_title_br_ostvengr_mercs_1"><![CDATA[Mercenaires augmentés]]></entry>
+<entry id="town_event_description_br_ostvengr_mercs_1"><![CDATA[Ceux qui ont survécus à l'effondrement d'Ostvengr nous offrent leurs services !]]></entry>
+
+<entry id="town_event_title_br_ostvengr_mercs_2"><![CDATA[Mercenaires augmentés]]></entry>
+<entry id="town_event_description_br_ostvengr_mercs_2"><![CDATA[Ceux qui ont survécus à l'effondrement d'Ostvengr nous offrent leurs services !]]></entry>
+
+<entry id="town_event_title_br_ostvengr_mercs_3"><![CDATA[Mercenaires augmentés]]></entry>
+<entry id="town_event_description_br_ostvengr_mercs_3"><![CDATA[Ceux qui ont survécus à l'effondrement d'Ostvengr nous offrent leurs services !]]></entry>
+
 <entry id="town_event_title_br_extra_recruits"><![CDATA[Signaux de fumée]]></entry>
-<entry id="town_event_description_br_extra_recruits"><![CDATA[TODO:A collection of survivors were spotted down below, some of which may be of promise to us.]]></entry>
+<entry id="town_event_description_br_extra_recruits"><![CDATA[Une poignée de survivants a été repérée en bas, dont certains pourraient nous être utiles.]]></entry>
+
 <entry id="town_event_title_br_kristjan_concert"><![CDATA[Concert]]></entry>
-<entry id="town_event_description_br_kristjan_concert"><![CDATA[TODO:The ship's bard has fallen into a musical dervish and the songs are inspiring!]]></entry>
-<entry id="town_event_title_br_dead_recruit"><![CDATA[TODO:The Stranger]]></entry>
-<entry id="town_event_description_br_dead_recruit"><![CDATA[TODO:A hooded figure has mysteriously appeared on the ship, claiming to be able to defy death.]]></entry>
+<entry id="town_event_description_br_kristjan_concert"><![CDATA[Le barde du navire s'est transformé en diable de la musique et ses chansons sont exaltantes !]]></entry>
+
+<entry id="town_event_title_br_dead_recruit"><![CDATA[L'Inconnu]]></entry>
+<entry id="town_event_description_br_dead_recruit"><![CDATA[Une silhouette encapuchonnée est mystérieusement apparue sur le navire, prétendant pouvoir défier la mort.]]></entry>
+
 <entry id="town_event_title_br_fire_sale"><![CDATA[Commerce équitable]]></entry>
 <entry id="town_event_description_br_fire_sale"><![CDATA[Vernon propose d'énormes réductions, prétextant un besoin soudain de tout liquider avant notre retour au port.]]></entry>
 <entry id="town_event_info_br_fire_sale"><![CDATA[{colour_start|notable}-75ʪ sur les breloques{colour_end}
 (hors Contrebande)]]></entry>
+
 <entry id="town_event_title_br_imposter"><![CDATA[Réunion d'urgence]]></entry>
-<entry id="town_event_description_br_imposter"><![CDATA[TODO:A crewmate was found murdered in their sleep. Someone is not who they claim to be...]]></entry>
-<entry id="town_event_title_br_free_armor_weapons"><![CDATA[TODO:Second Hand Shipment]]></entry>
-<entry id="town_event_description_br_free_armor_weapons"><![CDATA[TODO:Our friends at the Rot Hering Company left us a gift! Check the box marked "Defekt: Nicht Verwenden".]]></entry>
+<entry id="town_event_description_br_imposter"><![CDATA[Un membre de l'équipage a été assassiné. L'un d'entre nous n'est pas celui qu'il prétend être ...]]></entry>
+
+<entry id="town_event_title_br_free_armor_weapons"><![CDATA[Produits dérivés]]></entry>
+<entry id="town_event_description_br_free_armor_weapons"><![CDATA[Nos amis d'Ostvengr nous ont envoyés un cadeau ! Une boite nommée "Defekt: Nicht Verwenden".]]></entry>
+
 <entry id="town_event_title_br_free_skills_camp_skills"><![CDATA[Camp d'entraînement]]></entry>
-<entry id="town_event_description_br_free_skills_camp_skills"><![CDATA[TODO:Riga and Abbas have found the crew's performance lacking, and are offering a more intensive course.]]></entry>
+<entry id="town_event_description_br_free_skills_camp_skills"><![CDATA[Riga et Abbas ont trouvé que les performances de l'équipage laissaient à désirer et proposent des cours intensifs.]]></entry>
+
 <entry id="town_event_title_br_eclipse"><![CDATA[Soleil noir]]></entry>
-<entry id="town_event_description_br_eclipse"><![CDATA[TODO:This is more than a simple eclipse. Something in the dunes below is causing this horrible occurrence.]]></entry>
+<entry id="town_event_description_br_eclipse"><![CDATA[C'est plus qu'une simple éclipse. Quelque chose dans les dunes est à l'origine de cet horrible phénomène.]]></entry>
+
 <entry id="str_bar_committed"><![CDATA[TODO:Fetch me your most expensive liquor!]]></entry>
 <entry id="str_bar_committed"><![CDATA[TODO:A drink to wet these sand-dried lips of mine, please!]]></entry>
 <entry id="str_bar_committed"><![CDATA[TODO:Nothing beats a cold beer under this hot sun!]]></entry>
