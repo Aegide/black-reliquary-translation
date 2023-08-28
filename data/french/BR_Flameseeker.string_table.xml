@@ -656,8 +656,8 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[TODO:Exhibition Bout]]></entry>
 <entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[TODO:A match we've all been waiting to see! Other competitors are asked to wait until the event has concluded.]]></entry>
 <entry id="town_event_title_br_skill_issue"><![CDATA[Héritage]]></entry>
-<entry id="town_event_description_br_skill_issue"><![CDATA[TODO:One of the most recent to perish had apparently kept quite the sum on them, and bequeathed it to the ship.]]></entry>
-<entry id="town_event_info_br_skill_issue"><![CDATA[+30000 {colour_start|notable}or{colour_end}]]></entry>
+<entry id="town_event_description_br_skill_issue"><![CDATA[L'un des derniers à avoir péri avait apparemment accumulé une belle fortune, qu'il a légué au navire.]]></entry>
+<entry id="town_event_info_br_skill_issue"><![CDATA[+30.000 {colour_start|notable}or{colour_end}]]></entry>
 <entry id="town_event_title_br_free_galley"><![CDATA[Ertefest]]></entry>
 <entry id="town_event_description_br_free_galley"><![CDATA[TODO:A day of old Ostvengr traditions! Enjoy yourselves, but be responsible- this is still an airship!]]></entry>
 <entry id="town_event_title_br_free_workshop"><![CDATA[TODO:Amber Convention]]></entry>
