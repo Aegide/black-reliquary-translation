@@ -3007,7 +3007,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_hunter_vomit_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_hunter_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Poignard d'ambre]]></entry>
 <entry id="str_monster_skill_trog_hunter_weak_slash"><![CDATA[{colour_start|white}ɘɘɡɡʥɘɘɣɣɩɨ{colour_end}Roulade]]></entry>
-<entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Bile insectoïde]]></entry>
+<entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_slinger_bola"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɦɱɽ{colour_end}Bolas d'ambre]]></entry>
 <entry id="str_monster_skill_trog_slinger_flashbomb"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦɮʓ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_dig"><![CDATA[{colour_start|white}ɪʤɘɘɣɣɩɧʐ{colour_end}Tunnel]]></entry>
