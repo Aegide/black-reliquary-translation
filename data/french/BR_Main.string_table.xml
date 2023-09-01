@@ -870,7 +870,8 @@ Les attributs positifs sont verrouillés par défaut, et peuvent être retirés 
 Les attributs positifs ne peuvent pas être remplacés,
 il faudra dépenser de l'argent pour les retirer.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La trousse médicinale enlève les symptômes et réduit la sévérité des maladies.]]></entry>
+La trousse médicinale enlève les symptômes
+et réduit la sévérité des maladies.]]></entry>
 <entry id="str_town_title"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="str_return_to_hamlet_tooltip"><![CDATA[Retourner au navire]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
