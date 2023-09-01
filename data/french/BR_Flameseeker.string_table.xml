@@ -524,7 +524,7 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_district_build_building_confirm_no"><![CDATA[Non]]></entry>
 <entry id="str_district_build_building_confirm_yes"><![CDATA[Oui]]></entry>
 <entry id="str_vo_crimson_court_town_event_cc_districts_unlock_0"><![CDATA[TODO:IF YOU'RE SEEING THIS, SOMETHING IS WRONG]]></entry>
-<entry id="tutorial_popup_shard_nomad_wagon_title"><![CDATA[TODO:Black Market Dealings]]></entry>
+<entry id="tutorial_popup_shard_nomad_wagon_title"><![CDATA[Contrebande]]></entry>
 <entry id="tutorial_popup_shard_nomad_wagon_description"><![CDATA[TODO:{colour_start|BR_heirloom}Refined Amber Dust{colour_end} has a niche but voracious clientele, and its enthusiasts will exchange great wealth for it. In this case, the contraband dealer Veronica will gladly part with her assortment of exotic trinkets for a sizeable amount of {colour_start|BR_heirloom}Refined Amber Dust{colour_end}.]]></entry>
 <entry id="tutorial_popup_districts_panel_description"><![CDATA[TODO:Each Side Deck uses different currencies to construct, but all require Lost Tek which can be obtained by trading with the Rot Herring Company's Tek Exchange found in the Amber Workshop. Some buildings now have tiered progression, and require other side decks to be built.]]></entry>
 <entry id="tutorial_popup_districts_panel_title"><![CDATA[TODO:Side Deck Currencies]]></entry>
