@@ -427,8 +427,8 @@ Disease kit provision items can be used to remove the symptoms, or lessen the ef
 New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, and {colour_start|enraged}Enraged{colour_end}. 
 {colour_start|amberblighted}Amberblight{colour_end} debuffs target's damage received or dealt based on their last action, {colour_start|expiated}Expiation{colour_end} damages the target on their next three attacks while healing the opposing party on the first one, and {colour_start|enraged}Enrage{colour_end} provides target with health and buffs upon killing their enemies. 
 There are more statuses like that, which are applied by some specific enemy factions. Hover over the status icon on an affected target for more information.]]></entry>
-<entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[TODO:New Statuses]]></entry>
-<entry id="tutorial_popup_supplies_title"><![CDATA[TODO:New Statuses]]></entry>
+<entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[Nouveaux statuts]]></entry>
+<entry id="tutorial_popup_supplies_title"><![CDATA[Nouveaux statuts]]></entry>
 <entry id="tutorial_popup_camping_description"><![CDATA[TODO:Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
 During the {colour_start|notable}Meal phase{colour_end}, you choose how much they eat, which determines recovery. Make sure you have enough food!
 {colour_start|notable}Skill Phase{colour_end} allows you to spend {colour_start|notable}Respite{colour_end} on different hero skills used for recuperation.
@@ -546,7 +546,7 @@ Please note that this interaction only works if the trinket is dragged from the 
 {colour_start|notable}This makes moves that would normally perform during the Prep Round have a 50% less chance of hitting, while other moves have their accuracy reduced to the 5% hit minimum.{colour_end}
 
 Certain enemy factions, specifically those found in low light are immune to being surprised.]]></entry>
-<entry id="tutorial_popup_bandage_title"><![CDATA[TODO:Surprised!]]></entry>
+<entry id="tutorial_popup_bandage_title"><![CDATA[Surprise]]></entry>
 <entry id="tutorial_popup_crimson_curse_blood_lust_description"><![CDATA[TODO:{colour_start|cursed_gem}Malignant Vestiges{colour_end} are a unique type of loot dropped mostly from Cactonid enemies. These exceedingly valuable treasures bring various penalties while in your inventory, so consider the effects carefully! 
 These effects do not stack. Each vestige downside is only applied once while in your inventory.
 Cactonid fights are guaranteed to drop at least one vestige, and the {colour_start|cursed_gem}"Maligned"{colour_end} cactonids, summoned by performing an alum ritual near a cactonid, grant even more of them.]]></entry>
