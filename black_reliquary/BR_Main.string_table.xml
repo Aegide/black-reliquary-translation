@@ -253,7 +253,7 @@ Current Torch Level:]]></entry>
 	<entry id="str_returned_from_kill_boss_weald_success"><![CDATA[{?hero_names}%s slayed a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>	
 	<entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[{?hero_names}%s failed to slay a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>	
 	
-    <entry id="str_roaming_tooltip_flayer"><![CDATA[The Wildlander Flayer prowls here this week. 
+    <entry id="str_roaming_tooltip_flayer"><![CDATA[The Flayed prowls here this week. 
 {colour_start|skill_unselectable}(50ʪ Chance to Encounter in Champ){colour_end}]]></entry>
 	<entry id="loading_screen_override_flayer"><![CDATA[Something calls out in the dunes...]]></entry>
 	<entry id="str_flayer_tip"><![CDATA[]]></entry>
@@ -652,7 +652,7 @@ While there are some roaming creatures which call the Treasury their home, most 
 	<entry id="tutorial_popup_memories_title"><![CDATA[Strength in Numbers]]></entry>
     <entry id="tutorial_popup_memories_description"><![CDATA[Certain Troglodyte enemies have a special {colour_start|notable}Swarm{colour_end} typing.
 
-If left along for too long, these meek Trogs will call for reinforcements, bringing a similar ally to their side, {colour_start|notable}doubling its total HP, and granting the unit a second action.{colour_end}
+If left alone for too long, these meek Trogs will call for reinforcements, bringing a similar ally to their side, {colour_start|notable}doubling its total HP, and granting the unit a second action.{colour_end}
 
 Stamping out these pests as quickly as possible can keep the fight under control.]]></entry>
 
@@ -4274,8 +4274,6 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_stat_tooltip_upgrade_discount_STYX_URN_TT5"><![CDATA[+10%% {colour_start|blight}Blight{colour_end} Amount Applied, +10%% {colour_start|blight}Blight{colour_end} Chance {colour_start|skill_unselectable}(4 Battles){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_STYX_URN_TT3"><![CDATA[On Melee Attack vs Corpse Hit: {colour_start|debuff}Debuff Self:{colour_end} -4%% Max HP {colour_start|skill_unselectable}(4 Battles){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_STYX_URN_TT4"><![CDATA[On Melee Attack vs Corpse Hit: Clear Corpse]]></entry>
-	<entry id="buff_rule_data_tooltip_JUDI_LEECH_TT"><![CDATA[ Gain 1 Amber Residue
-{colour_start|skill_unselectable}(Limit 3 per Battle){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT1"><![CDATA[Gain Permanent {colour_start|riposte}Riposte{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_PERFUMER_NEEDLE_TT2"><![CDATA[ Gain 1 Extract
 {colour_start|skill_unselectable}(Limit 3 per Battle){colour_end}]]></entry>
@@ -4285,8 +4283,8 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_WHEN_HIT_TT"><![CDATA[On Being Hit: {colour_start|buff}Buff Self:{colour_end} +25%% {colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAGE_SLAM_TT"><![CDATA[On Rage/Slam Hit: {colour_start|blight}Blight Target{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT"><![CDATA[{colour_start|skill_unselectable}+20%% Blight Chance/+50%% Blight Amount per Difficulty{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT2"><![CDATA[{colour_start|skill_unselectable}+20%% Blight Chance/+50%% Blight Amount per Difficulty{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT"><![CDATA[{colour_start|skill_unselectable}(+20%% Blight Chance/+50%% Blight Amount per Difficulty){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT2"><![CDATA[{colour_start|skill_unselectable}(+20%% Blight Chance/+50%% Blight Amount per Difficulty){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +25%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_SELF_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +25%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT"><![CDATA[On Attack Crit: {colour_start|move}Shuffle{colour_end} Self]]></entry>
@@ -4378,8 +4376,12 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT1"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Party:{colour_end} +4 SPD, +8 DODGE {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT2"><![CDATA[On Friendly Skill: {colour_start|move}Shuffle{colour_end} Party]]></entry>
-	
-	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_TORCH_TT"><![CDATA[{colour_start|skill_unselectable}(Buffs above doubled if Torch is below 1){colour_end}]]></entry>
+
+	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_TORCH_TT"><![CDATA[Buffs above doubled if Torch below 1]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_CELL_TT"><![CDATA[Buffs and Blight Amount above doubled if Torch below 1]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_CELL_SCALE_TT"><![CDATA[{colour_start|skill_unselectable}(+20%% Blight Chance/+50%% Blight Amount per Difficulty){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_CELL_SCALE_TT2"><![CDATA[{colour_start|skill_unselectable}(Not Affected by Hero's Buffs/Debuffs){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_HAND_TT"><![CDATA[Buffs and Loot Chance above doubled if Torch below 1]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_SCOUT_TT"><![CDATA[+12.5%% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_TRINKET_NEXT_LVL"><![CDATA[{colour_start|notable}Next Level:{colour_end}
 ]]></entry>
@@ -4387,26 +4389,29 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_UPGRADE_2"><![CDATA[ {colour_start|skill_unselectable}Additional +2.5% Scouting Chance{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_UPGRADE_3"><![CDATA[ {colour_start|skill_unselectable}Additional Prevents Nighttime Ambush{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[{colour_start|notable}Max Level{colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_1"><![CDATA[ {colour_start|skill_unselectable}Additional 50% chance for 2 Gems{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_1"><![CDATA[ {colour_start|skill_unselectable}Additional +1 Max Gems{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_2"><![CDATA[ {colour_start|skill_unselectable}Additional +1 SPD {colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_3"><![CDATA[ {colour_start|skill_unselectable}Additional Guaranteed 2 Gems{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_3"><![CDATA[ {colour_start|skill_unselectable}Additional +1 Min Gems{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_4"><![CDATA[ {colour_start|skill_unselectable}Additional Curio Interaction{colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_UPGRADE_1"><![CDATA[ {colour_start|skill_unselectable}Additional +2 Blight amount on Kill{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_UPGRADE_1"><![CDATA[ {colour_start|skill_unselectable}Additional +1 Blight Amount on Kill{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_UPGRADE_2"><![CDATA[ {colour_start|skill_unselectable}Additional +5% Blight Chance{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_UPGRADE_3"><![CDATA[ {colour_start|skill_unselectable}Additional On Combat Start Debuff Enemy Party{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_YNG_VET_REQUIRED_TT"><![CDATA[{colour_start|notable}Requires Yngolian Kill on Lvl 3+ Difficulty{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNG_CHAMP_REQUIRED_TT"><![CDATA[{colour_start|notable}Requires Yngolian Kill on Lvl 5+ Difficulty{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNG_CHAMP_REQUIRED_TT"><![CDATA[{colour_start|notable}Requires Yngolian Kill on Lvl 5+ Difficulty{colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_1_TT"><![CDATA[ Gain 1 Additional Gem]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_2_TT"><![CDATA[ Gain 1-2 Additional Gems]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_3_TT"><![CDATA[ Gain 2 Additional Gems]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_YNG_HAND_CHA_TT"><![CDATA[{colour_start|skill_unselectable}(Can be used on any curio to turn it into a gem){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_1_TT"><![CDATA[ Gain 1 Additional Gem (50% chance)]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_2_TT"><![CDATA[ Gain 1-2 Additional Gems (50% chance)]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_3_TT"><![CDATA[ Gain 2 Additional Gems (50% chance)]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_YNG_HAND_CHA_TT"><![CDATA[Can be Used on any Curio to Turn it into a Gem]]></entry>
 
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 6 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 8 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 3 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+
+
+
 
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_HPR_TT"><![CDATA[ {colour_start|debuff}Debuff Enemy Party:{colour_end} -20% {colour_start|blight}Blight{colour_end} Resist]]></entry>
 
@@ -4415,58 +4420,60 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_ON_COMBAT_START_TT"><![CDATA[On Combat Start:]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_ON_COMBAT_END_TT"><![CDATA[On Combat End:]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_KILL_COMBAT_END_TT"><![CDATA[On Monster Kill: After Combat:]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MASK_TT"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +8 ACC if Torch below 26 {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MASK_TT2"><![CDATA[-20%% {colour_start|stress}Stress{colour_end} Received if Torch below 26 {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MASK_TT2"><![CDATA[+8 ACC, -20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MASK_TT"><![CDATA[ if Torch below 26 {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	
+	<entry id="buff_rule_data_tooltip_BUFF_PARTY_TT"><![CDATA[ {colour_start|buff}Buff Party:{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_DEBUFF_PARTY_TT"><![CDATA[ {colour_start|debuff}Debuff Party:{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_BUFF_ENEMY_PARTY_TT"><![CDATA[ {colour_start|buff}Buff Enemy Party:{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_DEBUFF_ENEMY_PARTY_TT"><![CDATA[ {colour_start|debuff}Debuff Enemy Party:{colour_end}]]></entry>
 
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_NECK_TT"><![CDATA[ {colour_start|mark}Mark Everyone{colour_end} {colour_start|skill_unselectable}(4 rds){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_NECK_TT2"><![CDATA[ {colour_start|buff}Buff Enemy Party:{colour_end} +20% DMG vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_NECK_TT2"><![CDATA[+20%% DMG vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT1"><![CDATA[ {colour_start|bleed}Bleed Party:{colour_end} 2 pts/tn for 4 tns {colour_start|skill_unselectable}(+50% Amount per Diff){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} -10% Crit Received if {colour_start|bleed}Bleeding{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_TOOTH_TT3"><![CDATA[+10%% PROT, -20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT1"><![CDATA[ {colour_start|bleed}Bleed Party:{colour_end} 1 pts/tn for 4 tns {colour_start|skill_unselectable}(+100% Amount In Champion/Darkest){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_TOOTH_TT3"><![CDATA[+10ʪ PROT, -8ʪ Crits Received, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT4"><![CDATA[ if {colour_start|bleed}Bleeding{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT1"><![CDATA[ {colour_start|blight}Blight Party:{colour_end} 2 pts/tn for 4 tns {colour_start|skill_unselectable}(+50% Amount per Diff){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +8% CRT if {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CENSER_TT3"><![CDATA[+15%% DMG, +4 SPD if {colour_start|blight}Blighted{colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT4"><![CDATA[ {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CENSER_TT3"><![CDATA[+15%% DMG, +8%% CRT, +4 SPD]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT4"><![CDATA[ if {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_DAGGER_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +3% CRT if not {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_DAGGER_TT2"><![CDATA[+10%% DMG if not {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_DAGGER_TT2"><![CDATA[+10%% DMG, +3%% CRT]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_DAGGER_TT1"><![CDATA[ if not {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CANDLE_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +20% {colour_start|healhp}Healing{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CANDLE_TT2"><![CDATA[-10%% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CANDLE_TT2"><![CDATA[+20%% {colour_start|healhp}Healing{colour_end} Received, -10%% {colour_start|stress}Stress{colour_end} Received]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CANDLE_TT1"><![CDATA[ if not {colour_start|affiliation_pagan}Pagan{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
 
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MAP_HALL"><![CDATA[On Combat Start in Hallway:]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MAP_ROOM"><![CDATA[On Combat Start in Room:]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_BR_HPR_TWILIGHT_MAP_SCOUT_TT"><![CDATA[%+d%% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MAP_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +10% {colour_start|trap}Trap{colour_end} Disarm Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_MAP_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +2.5% {colour_start|scouting}Scouting{colour_end} Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MAP_TT2"><![CDATA[+10%% {colour_start|trap}Trap{colour_end} Disarm Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_MAP_TT4"><![CDATA[+2.5%% {colour_start|scouting}Scouting{colour_end} Chance {colour_start|skill_unselectable}(5 Battles){colour_end}]]></entry>
 
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_PRINT_TT1"><![CDATA[ {colour_start|healhp}Heal Party:{colour_end} 10% Max HP]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_PRINT_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +10% PROT if above 75% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_PRINT_TT3"><![CDATA[ {colour_start|debuff}Debuff Party:{colour_end} -4 SPD if below 75% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_PRINT_TT2"><![CDATA[+10%% PROT if above 75%% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_PRINT_TT3"><![CDATA[-4 SPD if below 75%% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT1"><![CDATA[ Party: {colour_start|harmful}Suffer{colour_end} 2 DMG {colour_start|skill_unselectable}(+50% per Diff){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT2"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +25% DMG if below 40% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CROWN_TT3"><![CDATA[+5 SPD, +8 DODGE]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CROWN_TT3"><![CDATA[+25%% DMG, +5 SPD, +8 DODGE]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT4"><![CDATA[ if below 40% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT5"><![CDATA[ {colour_start|debuff}Debuff Party:{colour_end} +15% Damage Received if above 75% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CROWN_TT5"><![CDATA[+15%% Damage Received if above 75%% Max HP {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HEART_TT1"><![CDATA[ {colour_start|debuff}Debuff Enemy Party:{colour_end} -10% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT2"><![CDATA[-5 ACC if {colour_start|bleed}Bleeding{colour_end},]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HEART_TT3"><![CDATA[ -5 DODGE if {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HEART_TT4"><![CDATA[ {colour_start|buff}Buff Enemy Party:{colour_end} +10% PROT if not {colour_start|bleed}Bleeding{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT5"><![CDATA[+10%% DMG if not {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT2"><![CDATA[-10%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist, -5 ACC if {colour_start|bleed}Bleeding{colour_end}, -5 DODGE if {colour_start|blight}Blighted{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT3"><![CDATA[+10%% PROT if not {colour_start|bleed}Bleeding{colour_end}, +10%% DMG if not {colour_start|blight}Blighted{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HEART_TT4"><![CDATA[ {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 
-	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_BACKPACK_TT1"><![CDATA[ {colour_start|buff}Buff Party:{colour_end} +8 ACC when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT4"><![CDATA[+4 SPD when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[+30%% {colour_start|healhp}Healing{colour_end} Received]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT1"><![CDATA[On Combat Start: {colour_start|buff}Buff Party:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[+8 ACC, +4 SPD, +30%% {colour_start|healhp}Healing{colour_end} Received, -20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_BACKPACK_TT3"><![CDATA[ when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT5"><![CDATA[-20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
+
+
+
+
+
 
 		<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_EXTRACT"><![CDATA[{colour_start|skill_unselectable}(For more info about Extracts, check their entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_RESIDUE"><![CDATA[{colour_start|skill_unselectable}(For more info about Amber Residue, check its entry in Info Comms){colour_end}]]></entry>
@@ -5489,12 +5496,12 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
    	<entry id="combat_skill_name_musketeer_stock_strike"><![CDATA[Stock Strike]]></entry>
 	<entry id="upgrade_tree_name_musketeer.stock_strike"><![CDATA[Stock Strike]]></entry>
 	
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_0"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 4 DMG]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_1"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 4 DMG]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_2"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 5 DMG]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_3"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 7 DMG]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_4"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 8 DMG]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_5"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 10 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_0"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 6 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_1"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 6 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_2"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 7 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_3"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 9 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_4"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 10 DMG]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MUSK_SHRAPNEL_COLLATERAL_5"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} 12 DMG]]></entry>
 
 	<entry id="buff_rule_data_tooltip_smokescreen"><![CDATA[Smokescreen]]></entry>
 	
