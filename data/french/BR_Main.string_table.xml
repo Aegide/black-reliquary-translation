@@ -11,10 +11,11 @@ We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black
 <entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer]]></entry>
 <entry id="str_save_post_click"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="fe_flow_mode_base_confirm"><![CDATA[Reliquaire]]></entry>
-<entry id="str_game_mode_select_base_tooltip"><![CDATA[La campagne reliquaire représente les paramètres "originaux" du jeu. Si vous connaissez Darkest Dungeon, vos compétences seront mises à l'épreuve.]]></entry>
+<entry id="str_game_mode_select_base_tooltip"><![CDATA[La campagne reliquaire représente les paramètres "originaux" du jeu. Si vous connaissez déjà Darkest Dungeon, vos compétences seront mises à l'épreuve.]]></entry>
 <entry id="str_mods_installed"><![CDATA[Mods installés]]></entry>
 <entry id="str_ugc_show_panel_tooltip"><![CDATA[Activer / Voir les mods]]></entry>
-<entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité. Le haut de la liste a la plus haute priorité.]]></entry>
+<entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité.
+Le haut de la liste a la plus haute priorité.]]></entry>
 <entry id="str_ugc_title"><![CDATA[Choisir les mods à activer]]></entry>
 <entry id="menu_base_element_view_glossary"><![CDATA[Informations]]></entry>
 <entry id="town_event_title_out_of_date"><![CDATA[MIS À JOUR]]></entry>
