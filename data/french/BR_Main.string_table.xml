@@ -439,7 +439,7 @@ Short quests are strongly recommended for less experienced or prepared heroes.]]
 <entry id="tutorial_popup_camping_title"><![CDATA[TODO:The Benefits of Camping]]></entry>
 <entry id="tutorial_popup_combat_description"><![CDATA[TODO:Enemies and allies alike take advantage of a moment to brace themselves during the first round of combat. {colour_start|notable}Accuracy for ordinary attacks is halved and critical hits are impossible{colour_end}, some abilities however can ignore the Accuracy reduction of the {colour_start|notable}Prep Round{colour_end} and can be used for an initiating strike. 
 Additionally, {colour_start|notable}certain hero skills have their effects altered during the Prep Round{colour_end}, so be sure to read over your heroes' skill descriptions.]]></entry>
-<entry id="tutorial_popup_combat_title"><![CDATA[TODO:Preparation is Paramount!]]></entry>
+<entry id="tutorial_popup_combat_title"><![CDATA[Préparation]]></entry>
 <entry id="tutorial_popup_consider_retreat_description"><![CDATA[TODO:The first of many heroes has given their all in service to you. You have the option of {colour_start|notable}retreating from combat{colour_end} and abandoning this quest to save the others, or {colour_start|notable}press onward{colour_end}.
 The choice is yours.]]></entry>
 <entry id="tutorial_popup_consider_retreat_title"><![CDATA[TODO:Discretion is the better part of valor...]]></entry>
@@ -460,7 +460,7 @@ Some heroes are better than others at disarming, and Archaeology Kits can provid
 <entry id="tutorial_popup_embark_description"><![CDATA[TODO:Facilities in the {colour_start|notable}Amber Workshop{colour_end} generate resources while you are on a quest! Remember to put heroes to work weekly to keep up your resource gain.
 From there, clicking on the {colour_start|notable}[EMBARK]{colour_end} button at the bottom of the screen!]]></entry>
 <entry id="tutorial_popup_hallway_nav_description"><![CDATA[TODO:Hero panels now contain information about a class's various details which would be otherwise hidden in the {colour_start|notable}Hero Info{colour_end}. This shows information such as virtue chance, crit effects, riposte information, and more should that class have any other unique properties.]]></entry>
-<entry id="tutorial_popup_hallway_nav_title"><![CDATA[TODO:Additional Hero Information]]></entry>
+<entry id="tutorial_popup_hallway_nav_title"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="tutorial_popup_heart_attack_description"><![CDATA[TODO:{colour_start|harmful}Stress{colour_end} continues to build beyond the point of {colour_start|harmful}Affliction{colour_end}.
 If a hero's stress bar fills a second time completely, their {colour_start|harmful}body will give out{colour_end}. Get them aid or retreat back to the Flameseeker before this happens.
 Death awaits us all.]]></entry>
@@ -475,8 +475,8 @@ Additionally, the {colour_start|notable}Honing Oil{colour_end} supply is a good 
 <entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Les {colour_start|notable}attributs positifs{colour_end} sont désormais verrouillés par défaut, et ne seront pas remplacés.
 La {colour_start|notable}clinique{colour_end} pourra vous aider à retirer les {colour_start|notable}attributs positifs{colour_end} indésirables, pour un prix.]]></entry>
 <entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Attributs positifs]]></entry>
-<entry id="tutorial_popup_loot_title"><![CDATA[TODO:Dynamic Quirks]]></entry>
-<entry id="tutorial_popup_loot_description"><![CDATA[Some quirks develop as a result of ongoing combat against factional enemies. 
+<entry id="tutorial_popup_loot_title"><![CDATA[Attributs dynamiques]]></entry>
+<entry id="tutorial_popup_loot_description"><![CDATA[TODO:Some quirks develop as a result of ongoing combat against factional enemies.
 This can result in both {colour_start|notable}positive{colour_end} and {colour_start|harmful}negative{colour_end} quirks based on the specific factions that are fought.]]></entry>
 <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[TODO:Heroes can only have {colour_start|notable}4 Camping skills active{colour_end} at a time. Toggle the skills on and off by clicking on them.]]></entry>
 <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[TODO:Remap Camping Skills]]></entry>
@@ -486,10 +486,10 @@ Area of Effect abilities now have a {colour_start|notable}Negative Crit Multipli
 3 Target AoEs: -60% CRT
 4 Target AoEs: -70% CRT]]></entry>
 <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[TODO:New Skills and AoE Crit]]></entry>
-<entry id="tutorial_popup_map_nav_description"><![CDATA[TODO:Your heroes all carry different beliefs in their hearts. 
+<entry id="tutorial_popup_map_nav_description"><![CDATA[TODO:Your heroes all carry different beliefs in their hearts.
 Some are devout to the {colour_start|affiliation_religious}Light{colour_end}, some worship the {colour_start|affiliation_pagan}pagan{colour_end} deities, and some {colour_start|affiliation_faithless}reject the gods entirely{colour_end}. 
 Each type of affiliation has different advantages and disadvantages in combat, and while some heroes cannot fall into certain faiths, they can only be one of the three.]]></entry>
-<entry id="tutorial_popup_map_nav_title"><![CDATA[TODO:Affiliations]]></entry>
+<entry id="tutorial_popup_map_nav_title"><![CDATA[Affiliations]]></entry>
 <entry id="tutorial_popup_new_game_plus_description"><![CDATA[TODO:Some of the items you find will have special "Oddity" frame. This means that the item can be carried back to Flameseeker and used during one of your future expeditions, if you wish for item to be used on a different hero.]]></entry>
 <entry id="tutorial_popup_new_game_plus_title"><![CDATA[TODO:Oddities of the Reliquary]]></entry>
 <entry id="tutorial_popup_permanent_neg_quirks_description"><![CDATA[TODO:Over time, some {colour_start|harmful}negative quirks{colour_end} will lock into place and become {colour_start|notable}severe{colour_end}. Severe{colour_start|harmful} negative quirks{colour_end} cost much more to remove in the Clinic.]]></entry>
@@ -1009,18 +1009,18 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_vase_tutorial_arch_kit_loot"><![CDATA[Le vase est incrusté de pierres précieuses !]]></entry>
 <entry id="str_curio_kvarotz_vase_tutorial_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_levantine_supplies_tutorial1"><![CDATA[Matériel levantin]]></entry>
-<entry id="str_curio_content_levantine_supplies_tutorial1"><![CDATA[TODO:Some abandoned Levantine equipment.]]></entry>
-<entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial1"><![CDATA[TODO:There could be something useful here...]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial1_loot"><![CDATA[TODO:They were well supplied!]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial1_torch_effect"><![CDATA[TODO:The supplies are burned!]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial1_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
+<entry id="str_curio_content_levantine_supplies_tutorial1"><![CDATA[Quelques équipements levantins abandonnés.]]></entry>
+<entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial1"><![CDATA[Cela pourrait s'avérer utile ...]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial1_loot"><![CDATA[Ils étaient bien approvisionnés !]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial1_torch_effect"><![CDATA[Les provisions sont brûlées !]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial1_skeleton_key_loot"><![CDATA[Un coffret secret est ouvert !]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial1_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_levantine_supplies_tutorial2"><![CDATA[Matériel levantin]]></entry>
-<entry id="str_curio_content_levantine_supplies_tutorial2"><![CDATA[TODO:Some abandoned Levantine equipment.]]></entry>
-<entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial2"><![CDATA[TODO:There could be something useful here...]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial2_loot"><![CDATA[TODO:They were well supplied!]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial2_torch_effect"><![CDATA[TODO:The supplies are burned!]]></entry>
-<entry id="str_curio_levantine_supplies_tutorial2_skeleton_key_loot"><![CDATA[TODO:A hidden strongbox is opened!]]></entry>
+<entry id="str_curio_content_levantine_supplies_tutorial2"><![CDATA[Quelques équipements levantins abandonnés.]]></entry>
+<entry id="str_curio_tooltip_investigate_levantine_supplies_tutorial2"><![CDATA[Cela pourrait s'avérer utile ...]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial2_loot"><![CDATA[Ils étaient bien approvisionnés !]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial2_torch_effect"><![CDATA[Les provisions sont brûlées !]]></entry>
+<entry id="str_curio_levantine_supplies_tutorial2_skeleton_key_loot"><![CDATA[Un coffret secret est ouvert !]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial2_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_tablet_tutorial"><![CDATA[Tablette primitive]]></entry>
 <entry id="str_curio_content_kvarotz_tablet_tutorial"><![CDATA[Une dalle de pierre contenant des connaissances obscures Kvarotz.]]></entry>
