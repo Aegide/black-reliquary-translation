@@ -475,9 +475,7 @@ Heal 10 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT"><![CDATA[TODO:{colour_start|afflicted}Consumed (100ʪ):{colour_end}
 +50% DMG/ -40% {colour_start|stress}Stress{colour_end} Received/ -50% {colour_start|stress}Stress Healing {colour_end} Received/ -10 DODGE]]></entry>
-<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT1"><![CDATA[TODO:All Resists except for {colour_start|stun}Stun{colour_end} -15%
-Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} instead of {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT1"><![CDATA[TODO:All Resists except for {colour_start|stun}Stun{colour_end} -15%
+<entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT1"><![CDATA[TODO:All Resists except for {colour_start|stun}Stun{colour_end} -15ʪ
 Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} instead of {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT2"><![CDATA[TODO:40% Chance to Forcibly Interact with Kvarotz Related Curios]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_CAMP_REL"><![CDATA[TODO:{colour_start|stress}Horror:{colour_end} 2/3 rds if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
