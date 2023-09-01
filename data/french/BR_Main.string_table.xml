@@ -529,7 +529,7 @@ Committing a hero to an activity {colour_start|notable}locks them in that activi
 <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
 <entry id="tutorial_popup_torch_description"><![CDATA[TODO:The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level affects which enemies you may run into{colour_end}. The darker it gets, the more likely it is to run into challenging enemies which offer up greater rewards for defeating. {colour_start|town_activity_log_positive_result}[RIGHT-CLICK]{colour_end} on a torch from inventory to boost the light back up.
 Likewise, certain enemies will also only appear in bright light, although they do not give more loot.]]></entry>
-<entry id="tutorial_popup_torch_title"><![CDATA[TODO:Torchlight Changes]]></entry>
+<entry id="tutorial_popup_torch_title"><![CDATA[Lumière]]></entry>
 <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros possède de la place pour s'équiper de deux objets appelés {colour_start|notable}breloques{colour_end}. Il suffit de {colour_start|notable}faire glisser la breloque{colour_end} depuis l'inventaire sur {colour_start|notable}l'emplacement du héros sélectionné{colour_end}. Les {colour_start|notable}breloques{colour_end} présentent généralement un compromis : un avantage pour un inconvénient. Certaines sont également réservées à certaines classes.]]></entry>
 <entry id="tutorial_popup_trinkets_title"><![CDATA[Breloques]]></entry>
 <entry id="tutorial_popup_using_doors_description"><![CDATA[{colour_start|town_activity_log_positive_result}[CLIC GAUCHE]{colour_end} ou {colour_start|town_activity_log_positive_result}[Z]{colour_end} devant une {colour_start|notable}porte{colour_end} permet de l'ouvrir.]]></entry>
