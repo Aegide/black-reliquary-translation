@@ -472,9 +472,9 @@ Just like before, a skill needs to be seen to show up on that panel.]]></entry>
 <entry id="tutorial_popup_high_prot_description"><![CDATA[TODO:Some monsters have high {colour_start|notable}PROT{colour_end}, which {colour_start|notable}absorbs attack damage{colour_end}. DOTs ({colour_start|pop_text_poison}blight{colour_end} and {colour_start|pop_text_bleed}bleed{colour_end}) ignore PROT and are effective means to take down these highly armored opponents.
 Additionally, the {colour_start|notable}Honing Oil{colour_end} supply is a good supplement to deal with those enemies for heroes that lack any other options.]]></entry>
 <entry id="tutorial_popup_high_prot_title"><![CDATA[Monstres à forte PROT]]></entry>
-<entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[TODO:{colour_start|notable}Positive quirks{colour_end} are now locked in by default, and will not be replaced.
-The {colour_start|notable}Clinic{colour_end} can be used to remove undesirable positive quirks for a small fee.]]></entry>
-<entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[TODO:Positive Quirk Changes]]></entry>
+<entry id="tutorial_popup_locking_pos_quirks_description"><![CDATA[Les {colour_start|notable}attributs positifs{colour_end} sont désormais verrouillés par défaut, et ne seront pas remplacés.
+La {colour_start|notable}clinique{colour_end} pourra vous aider à retirer les {colour_start|notable}attributs positifs{colour_end} indésirables, pour un prix.]]></entry>
+<entry id="tutorial_popup_locking_pos_quirks_title"><![CDATA[Attributs positifs]]></entry>
 <entry id="tutorial_popup_loot_title"><![CDATA[TODO:Dynamic Quirks]]></entry>
 <entry id="tutorial_popup_loot_description"><![CDATA[Some quirks develop as a result of ongoing combat against factional enemies. 
 This can result in both {colour_start|notable}positive{colour_end} and {colour_start|harmful}negative{colour_end} quirks based on the specific factions that are fought.]]></entry>
