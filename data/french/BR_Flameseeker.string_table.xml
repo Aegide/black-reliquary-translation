@@ -606,8 +606,8 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_title_br_districts_unlock"><![CDATA[TODO:Room for Improvements]]></entry>
 <entry id="town_event_description_br_districts_unlock"><![CDATA[TODO:"The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
 
-<entry id="town_event_info_br_intro"><![CDATA[TODO:[Enabling Tutorials is RECOMMENDED]
-[Press H to open the Help Menus]]]></entry>
+<entry id="town_event_info_br_intro"><![CDATA[[Activer les tutoriels est RECOMMANDÉ]
+[Appuyez sur H pour ouvrir les menus d'aide]]]></entry>
 <entry id="town_event_title_br_intro"><![CDATA[Invité d'honneur]]></entry>
 <entry id="town_event_description_br_intro"><![CDATA["Tout l'équipage est prié d'accueillir notre invité, et de l'aider à se mettre à son aise !"]]></entry>
 
