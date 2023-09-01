@@ -435,7 +435,7 @@ During the {colour_start|notable}Meal phase{colour_end}, you choose how much the
 Additionally, when camping under the {colour_start|sun_torch}sun{colour_end} of Exposed Interior, ambush prevention is not necessary.]]></entry>
 <entry id="tutorial_popup_camping_quest_description"><![CDATA[TODO:Quest durations have been adjusted to be slightly longer, and now all missions include 1 more {colour_start|notable}firewood{colour_end} than before. Be sure to supply yourself in anticipation of more fights, blockages, and hunger.
 Short quests are strongly recommended for less experienced or prepared heroes.]]></entry>
-<entry id="tutorial_popup_camping_quest_title"><![CDATA[TODO:Quest Length Adjustments]]></entry>
+<entry id="tutorial_popup_camping_quest_title"><![CDATA[Longueur des donjons]]></entry>
 <entry id="tutorial_popup_camping_title"><![CDATA[TODO:The Benefits of Camping]]></entry>
 <entry id="tutorial_popup_combat_description"><![CDATA[TODO:Enemies and allies alike take advantage of a moment to brace themselves during the first round of combat. {colour_start|notable}Accuracy for ordinary attacks is halved and critical hits are impossible{colour_end}, some abilities however can ignore the Accuracy reduction of the {colour_start|notable}Prep Round{colour_end} and can be used for an initiating strike. 
 Additionally, {colour_start|notable}certain hero skills have their effects altered during the Prep Round{colour_end}, so be sure to read over your heroes' skill descriptions.]]></entry>
