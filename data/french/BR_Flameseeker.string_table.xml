@@ -656,9 +656,11 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 
 <entry id="town_event_title_br_expensive_provisions"><![CDATA[Provisions avariées]]></entry>
 <entry id="town_event_description_br_expensive_provisions"><![CDATA[Notre dernier ravitaillement était insuffisant. Demi-rations pour tous jusqu'au prochain ravitaillement.]]></entry>
+<entry id="town_event_info_br_expensive_provisions"><![CDATA[TODO:{colour_start|notable}Provision and Supplies Costs +50ʪ{colour_end}]]></entry>
 
 <entry id="town_event_title_br_free_provisions"><![CDATA[Ravitaillement improvisé]]></entry>
 <entry id="town_event_description_br_free_provisions"><![CDATA[Nos éclaireurs ont localisé un énorme entrepôt de matériel levantin !]]></entry>
+<entry id="town_event_info_br_free_provisions"><![CDATA[TODO:{colour_start|notable}Provision and Supplies Costs -100ʪ{colour_end}]]></entry>
 
 <entry id="town_event_title_br_captain_owie"><![CDATA[Blessure désagréable]]></entry>
 <entry id="town_event_description_br_captain_owie"><![CDATA[Gardez la tête baissée et travaillez trois fois plus dur. Le capitaine est de mauvaise humeur.]]></entry>

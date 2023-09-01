@@ -741,9 +741,11 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 	
 	<entry id="town_event_title_br_expensive_provisions"><![CDATA[Spoiled Shipment]]></entry>
 	<entry id="town_event_description_br_expensive_provisions"><![CDATA[Our most recent delivery of supplies was lacking. Crew should expect half rations until the next resupply.]]></entry>
+	<entry id="town_event_info_br_expensive_provisions"><![CDATA[{colour_start|notable}Provision and Supplies Costs +50ʪ{colour_end}]]></entry>
 	
 	<entry id="town_event_title_br_free_provisions"><![CDATA[Supply Cache]]></entry>
 	<entry id="town_event_description_br_free_provisions"><![CDATA[Scouts have located an enormous store of what are now formerly Levantine supplies!]]></entry>
+	<entry id="town_event_info_br_free_provisions"><![CDATA[{colour_start|notable}Provision and Supplies Costs -100ʪ{colour_end}]]></entry>
 	
 	<entry id="town_event_title_br_captain_owie"><![CDATA[Inconvenient Injury]]></entry>
 	<entry id="town_event_description_br_captain_owie"><![CDATA[Keep your heads down and do your jobs thrice as hard. The Captain is in a scornful mood.]]></entry>
@@ -770,7 +772,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 	<entry id="town_event_description_br_free_workshop"><![CDATA[The Penitent Leonne's colleagues are visiting to share their expertise in the studies of amber!]]></entry>
 	
 	<entry id="town_event_title_br_free_clinic"><![CDATA[Curious Cadaver]]></entry>
-	<entry id="town_event_description_br_free_clinic"><![CDATA[Erick and Ilya have discovered a most peculiar cadavar, and their discoveries are yielding miraculous results!.]]></entry>
+	<entry id="town_event_description_br_free_clinic"><![CDATA[Erick and Ilya have discovered a most peculiar cadaver, and their discoveries are yielding miraculous results!.]]></entry>
 	
 	<entry id="town_event_title_br_captain_birthday"><![CDATA[Captain's Birthday]]></entry>
 	<entry id="town_event_description_br_captain_birthday"><![CDATA[It's a very special day!]]></entry>
