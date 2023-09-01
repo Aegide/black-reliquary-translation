@@ -31,6 +31,10 @@
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_AMBER_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: Target: Gain Quirk: Amber Symbiosis {colour_start|skill_unselectable}(33%% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_BUFF_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5 ACC if has Amber Symbiosis]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_DEBUFF_SYMBIOSIS_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist if has Amber Symbiosis]]></entry>
+<entry id="buff_rule_data_tooltip_JUDI_LEECH_TT"><![CDATA[TODO: Gain 1 Amber Residue
+{colour_start|skill_unselectable}(Limit 3 per Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT2"><![CDATA[TODO:On Monster Kill: Gain 1 Faithless Supply {colour_start|skill_unselectable}(20ʪ Chance, Limit of 1 per Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT3"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +4 SPD, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_amber_symbiosis"><![CDATA[Symbiose avec l'ambre]]></entry>
 <entry id="hero_class_name_judicator"><![CDATA[Médiatrice]]></entry>
 <entry id="combat_skill_name_judicator_judi_melee"><![CDATA[Convocation]]></entry>
