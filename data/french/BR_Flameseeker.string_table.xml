@@ -602,9 +602,9 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="str_blood_bank_buff_adrenaline_provision"><![CDATA[TODO:Add 1 Reflex Serum to the Provisioner's stock each week]]></entry>
 <entry id="str_blood_bank_buff_adrenaline_desc"><![CDATA[TODO:Reflex Serum can be purchased for 6 {colour_start|BR_heirloom}Refined Amber Dust{colour_end} and grants a short powerspike, giving the user a {colour_start|riposte}Riposte{colour_end}.]]></entry>
 
-<entry id="town_event_info_br_districts_unlock"><![CDATA[TODO:[Side Deck Upgrades Available]]]></entry>
-<entry id="town_event_title_br_districts_unlock"><![CDATA[TODO:Room for Improvements]]></entry>
-<entry id="town_event_description_br_districts_unlock"><![CDATA[TODO:"The engineers have arrived! See to it that their quarters are ready within the hour, we've a great deal to build!"]]></entry>
+<entry id="town_event_info_br_districts_unlock"><![CDATA[[ Pont supérieur accessible ]]]></entry>
+<entry id="town_event_title_br_districts_unlock"><![CDATA[Aménagements]]></entry>
+<entry id="town_event_description_br_districts_unlock"><![CDATA["Les ingénieurs sont arrivés ! Veillez à ce que leurs cabines soient prêtes dans l'heure, nous avons beaucoup à faire !"]]></entry>
 
 <entry id="town_event_info_br_intro"><![CDATA[[ Activer les tutoriels est RECOMMANDÉ ]
 [ Appuyez sur H pour ouvrir les menus d'aide ]]]></entry>
