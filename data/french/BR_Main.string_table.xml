@@ -437,7 +437,7 @@ Additionally, when camping under the {colour_start|sun_torch}sun{colour_end} of 
 <entry id="tutorial_popup_camping_quest_description"><![CDATA[TODO:Quest durations have been adjusted to be slightly longer, and now all missions include 1 more {colour_start|notable}firewood{colour_end} than before. Be sure to supply yourself in anticipation of more fights, blockages, and hunger.
 Short quests are strongly recommended for less experienced or prepared heroes.]]></entry>
 <entry id="tutorial_popup_camping_quest_title"><![CDATA[Longueur des donjons]]></entry>
-<entry id="tutorial_popup_camping_title"><![CDATA[TODO:The Benefits of Camping]]></entry>
+<entry id="tutorial_popup_camping_title"><![CDATA[Campement]]></entry>
 <entry id="tutorial_popup_combat_description"><![CDATA[TODO:Enemies and allies alike take advantage of a moment to brace themselves during the first round of combat. {colour_start|notable}Accuracy for ordinary attacks is halved and critical hits are impossible{colour_end}, some abilities however can ignore the Accuracy reduction of the {colour_start|notable}Prep Round{colour_end} and can be used for an initiating strike. 
 Additionally, {colour_start|notable}certain hero skills have their effects altered during the Prep Round{colour_end}, so be sure to read over your heroes' skill descriptions.]]></entry>
 <entry id="tutorial_popup_combat_title"><![CDATA[Préparation]]></entry>
@@ -1084,9 +1084,9 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_cannon_torch_summon"><![CDATA[Le coup de canon attire l'attention !]]></entry>
 <entry id="str_curio_kvarotz_cannon_archaeologist_compendium_loot"><![CDATA[Un compartiment secret est révélé !]]></entry>
 <entry id="str_curio_kvarotz_cannon_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
-<entry id="str_curio_title_kvarotz_sarcophagus"><![CDATA[TODO:Encrusted Sarcophagus]]></entry>
-<entry id="str_curio_content_kvarotz_sarcophagus"><![CDATA[TODO:A sarcophagus untouched for centuries.]]></entry>
-<entry id="str_curio_tooltip_investigate_kvarotz_sarcophagus"><![CDATA[TODO:A peek inside couldn't hurt...]]></entry>
+<entry id="str_curio_title_kvarotz_sarcophagus"><![CDATA[Sarcophage décoré]]></entry>
+<entry id="str_curio_content_kvarotz_sarcophagus"><![CDATA[Un sarcophage intact depuis des siècles]]></entry>
+<entry id="str_curio_tooltip_investigate_kvarotz_sarcophagus"><![CDATA[Un coup d'œil ne ferait pas de mal ...]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_loot"><![CDATA[TODO:This one was laid to rest with riches!]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_effect"><![CDATA[TODO:Unspeakable things must have been done to this person...]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_medicinal_herbs_effect"><![CDATA[TODO:The salt is corrupted and erupts into black smoke.]]></entry>
