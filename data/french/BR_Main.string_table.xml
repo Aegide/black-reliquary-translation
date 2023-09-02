@@ -486,7 +486,7 @@ Area of Effect abilities now have a {colour_start|notable}Negative Crit Multipli
 2 Target AoEs: -40% CRT
 3 Target AoEs: -60% CRT
 4 Target AoEs: -70% CRT]]></entry>
-<entry id="tutorial_popup_map_combat_skills_title"><![CDATA[TODO:New Skills and AoE Crit]]></entry>
+<entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Nouvelles compétences et CRIT]]></entry>
 <entry id="tutorial_popup_map_nav_description"><![CDATA[TODO:Your heroes all carry different beliefs in their hearts.
 Some are devout to the {colour_start|affiliation_religious}Light{colour_end}, some worship the {colour_start|affiliation_pagan}pagan{colour_end} deities, and some {colour_start|affiliation_faithless}reject the gods entirely{colour_end}. 
 Each type of affiliation has different advantages and disadvantages in combat, and while some heroes cannot fall into certain faiths, they can only be one of the three.]]></entry>
