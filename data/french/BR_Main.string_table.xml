@@ -1209,10 +1209,10 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_legion_laudanum_purge"><![CDATA[Le héros affronte ses peurs avec courage.]]></entry>
 <entry id="str_curio_corpse_legion_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_corpse_levantine"><![CDATA[Cadavre levantin]]></entry>
-<entry id="str_curio_content_corpse_levantine"><![CDATA[Ce soldat a été victime d'une cruauté sans-nom.]]></entry>
+<entry id="str_curio_content_corpse_levantine"><![CDATA[Ce soldat a été victime d'une cruauté sans nom.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_levantine"><![CDATA[Il doit bien rester quelque chose ...]]></entry>
 <entry id="str_curio_corpse_levantine_nothing"><![CDATA[Un simple cadavre séché au soleil.]]></entry>
-<entry id="str_curio_corpse_levantine_effect"><![CDATA[Des atrocités sans-nom ont été infligées ...]]></entry>
+<entry id="str_curio_corpse_levantine_effect"><![CDATA[Des atrocités sans nom ont été infligées ...]]></entry>
 <entry id="str_curio_corpse_levantine_disease"><![CDATA[Des insectes nécrophages émergent du cadavre !]]></entry>
 <entry id="str_curio_corpse_levantine_loot"><![CDATA[La bourse du soldat est intacte.]]></entry>
 <entry id="str_curio_corpse_levantine_torch_effect"><![CDATA[Une crémation s'impose.]]></entry>
