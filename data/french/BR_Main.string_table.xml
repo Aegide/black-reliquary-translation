@@ -519,7 +519,7 @@ The mysterious Perfumer conducts his clandestine experiments in numerous locatio
 <entry id="tutorial_popup_stage_coach_title"><![CDATA[Le ferry est votre force vitale]]></entry>
 <entry id="tutorial_popup_stage_coach2_description"><![CDATA[TODO:While you're here, spend some of your starting relics on {colour_start|notable}upgrading the Ferry's Sails and Cabins{colour_end}. This will increase the number of heroes available here in the future.
 To upgrade click the {colour_start|notable}[+]{colour_end} symbol on the left, and then click the upgrade.]]></entry>
-<entry id="tutorial_popup_stage_coach2_title"><![CDATA[TODO:Upgrade the Ferry]]></entry>
+<entry id="tutorial_popup_stage_coach2_title"><![CDATA[Améliorer le ferry]]></entry>
 <entry id="tutorial_popup_stress_description"><![CDATA[TODO:Many actions and experiences cause {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end}. {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end} damage appears above heroes' heads, in black type. {colour_start|harmful}{colour_start|stressNOT1}stress{colour_end}{colour_end} can also be {colour_start|notable}healed{colour_end}, and that appears in white type.]]></entry>
 <entry id="tutorial_popup_stress_relief_description"><![CDATA[TODO:There are many ways for heroes to spend their time on the Flameseeker. 
 Heroes can relieve {colour_start|stressNOT1}stress{colour_end} by taking part in activities at the {colour_start|notable}Galley{colour_end}.
@@ -5124,12 +5124,12 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IGNORE_PROT_TT"><![CDATA[TODO:Attacks Ignore PROT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOKEN_DRUIDBLEED_TT"><![CDATA[TODO:Apply On Hit: {colour_start|bleed}Bleed{colour_end} Target 6/3 tns {colour_start|skill_unselectable}(140%% Base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOKEN_DRUIDBLEED_TT2"><![CDATA[TODO:          {colour_start|skill_unselectable}-50%% Bleed Amount applied on AoE Skills{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="str_quirk_name_1_faithless"><![CDATA[TODO:
-																													 						{colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
-<entry id="str_quirk_name_1_religious"><![CDATA[TODO:
-																													 						{colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="str_quirk_name_1_pagan"><![CDATA[TODO:
-																													  	   	   {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="str_quirk_name_1_faithless"><![CDATA[
+																													 						{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
+<entry id="str_quirk_name_1_religious"><![CDATA[
+																													 						{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
+<entry id="str_quirk_name_1_pagan"><![CDATA[
+																													  	   	   {colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
 <entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
 <entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[TODO:All that I have held faith in- IT IS ALL A LIE!]]></entry>
