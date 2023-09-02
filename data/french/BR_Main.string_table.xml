@@ -250,7 +250,8 @@ La technologie macabre et les connaissances des Kvarotz renferment de dangereux 
 Les Levantins profiteront de chaque occasion pour se préparer au combat,
 et vous devriez faire de même.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les vendeurs demandent des reliques spécifiques ou des objets spéciaux à échanger.]]></entry>
+Les vendeurs demandent des reliques spécifiques
+ou des objets spéciaux à échanger.]]></entry>
 <entry id="str_caretaker_goal_plot_kill_janissary_3"><![CDATA[ Vaincre le Janissaire]]></entry>
 <entry id="town_quest_name_plot_kill_janissary_3"><![CDATA[La lame du Vizir]]></entry>
 <entry id="town_quest_description_plot_kill_janissary_3"><![CDATA[L'un des généraux les plus talentueux du Vizir se dresse fièrement dans son camp, nous indiquant ouvertement où il se trouve et se vantant de nous offrir une mort honorable.]]></entry>
@@ -498,7 +499,7 @@ Each type of affiliation has different advantages and disadvantages in combat, a
 There are multiple Help Menus available in different places; The Flameseeker, each airship facility, the provision menu, dungeon rooms, dungeon hallways, and in the middle of combat.]]></entry>
 <entry id="tutorial_popup_press_h_title"><![CDATA[TODO:Info Details]]></entry>
 <entry id="tutorial_popup_quest_complete_description"><![CDATA[TODO:After you've completed the requirements of a quest, you have the option to {colour_start|notable}return to the Flameseeker{colour_end} at any time - just {colour_start|notable}click the crest{colour_end}. You don't need to return to the starting room of the dungeon to exit.]]></entry>
-<entry id="tutorial_popup_quest_complete_title"><![CDATA[TODO:Completing a Quest]]></entry>
+<entry id="tutorial_popup_quest_complete_title"><![CDATA[Quête accomplie]]></entry>
 <entry id="tutorial_popup_quest_restriction_darkest_dungeon_description"><![CDATA[TODO:Heroes who have returned from a successful quest in the Darkest Dungeon have seen too much. Depending on which game mode and game options you have selected, they may choose to never go back, or simply will be stressed upon re-entry.]]></entry>
 <entry id="tutorial_popup_quest_restriction_darkest_dungeon_title"><![CDATA[Plus jamais]]></entry>
 <entry id="tutorial_popup_questparty_description"><![CDATA[TODO:Each quest has {colour_start|notable}different goals and rewards{colour_end}, and each region has its own challenges. Experiment with various combinations to see what works!
@@ -506,7 +507,7 @@ However, it's recommended to bring along a {colour_start|notable}Vestal{colour_e
 <entry id="tutorial_popup_questparty_title"><![CDATA[Formation du groupe]]></entry>
 <entry id="tutorial_popup_resolve_level_description"><![CDATA[TODO:Heroes gain {colour_start|notable}Resolve XP{colour_end} for each successful quest. {colour_start|notable}Resolve XP{colour_end} determines the hero's {colour_start|notable}Resolve Level{colour_end}.
 {colour_start|notable}Resolve XP{colour_end} gain and requirements have been adjusted to smooth out the progression curve for the course of Black Reliquary's campaign.]]></entry>
-<entry id="tutorial_popup_resolve_level_title"><![CDATA[TODO:Experience Adjustments]]></entry>
+<entry id="tutorial_popup_resolve_level_title"><![CDATA[Expérience]]></entry>
 <entry id="tutorial_popup_scout_hidden_door_description"><![CDATA[TODO:A critical scouting success will sometimes reveal a {colour_start|notable}Perfumer's Outpost{colour_end}! Advance to the marked tile, and press 'W' or click to enter. 
 The mysterious Perfumer conducts his clandestine experiments in numerous locations around the valley. He is known to offer up strange and intriguing objects, asking people to return to him after observing their power.]]></entry>
 <entry id="tutorial_popup_scout_hidden_door_title"><![CDATA[Pièces secrètes]]></entry>
@@ -944,7 +945,8 @@ La technologie macabre et les connaissances des Kvarotz renferment de dangereux 
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les Levantins profiteront de chaque occasion pour se préparer, vous devriez faire de même.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les vendeurs demandent des reliques spécifiques ou des objets spéciaux à échanger.]]></entry>
+Les vendeurs demandent des reliques spécifiques
+ou des objets spéciaux à échanger.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La plupart des curios peuvent être abordées de différentes manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
