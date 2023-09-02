@@ -453,7 +453,7 @@ As for the loot changes, the Relics (previously heirlooms) are now obtained in m
 <entry id="tutorial_popup_death_door_description"><![CDATA[TODO:When a hero is reduced to 0 HP, they are at {colour_start|harmful}Death's Door{colour_end}. Heroes start with the maximum amount of {colour_start|harmful}Deathblow{colour_end} Resist.
 While in this state, they will suffer {colour_start|notable}stat penalties{colour_end}, plus any further damage has a {colour_start|notable}chance to kill them{colour_end}. Successive attacks received on and attacks that bring heroes to {colour_start|harmful}Death's Door{colour_end} lower their {colour_start|harmful}Deathblow{colour_end} slightly for an extensive duration.
 {colour_start|notable}Heal{colour_end} them to get off {colour_start|deathdoor}Death's Door{colour_end}!]]></entry>
-<entry id="tutorial_popup_death_door_title"><![CDATA[TODO:Death's Door Changes]]></entry>
+<entry id="tutorial_popup_death_door_title"><![CDATA[Agonie]]></entry>
 <entry id="tutorial_popup_disarm_trap_description"><![CDATA[TODO:Scouted {colour_start|trap}traps{colour_end} will be {colour_start|notable}visible on the ground{colour_end} as you approach them. Select a hero and then {colour_start|town_activity_log_positive_result}[CLICK]{colour_end} on the {colour_start|trap}trap{colour_end} to attempt to {colour_start|notable}disarm it{colour_end}.
 Some heroes are better than others at disarming, and Archaeology Kits can provide increased trap disarm chance when used.]]></entry>
 <entry id="tutorial_popup_disarm_trap_title"><![CDATA[TODO:Disarming Traps]]></entry>
@@ -469,7 +469,7 @@ Death awaits us all.]]></entry>
 <entry id="tutorial_popup_hero_panel_description"><![CDATA[TODO:The display for the enemies' skills has been updated, and now in addition to showing more of the skills' effects, it also includes information about where and on what targets the skills can used on.
 In Info Comms, accessible via either the {colour_start|notable}[G]{colour_end} hotkey or the main menu, you can see the explanations on meaning for each of the icons. 
 Just like before, a skill needs to be seen to show up on that panel.]]></entry>
-<entry id="tutorial_popup_hero_panel_title"><![CDATA[TODO:Updated Enemy Skill Display]]></entry>
+<entry id="tutorial_popup_hero_panel_title"><![CDATA[Compétences ennemies]]></entry>
 <entry id="tutorial_popup_high_prot_description"><![CDATA[TODO:Some monsters have high {colour_start|notable}PROT{colour_end}, which {colour_start|notable}absorbs attack damage{colour_end}. DOTs ({colour_start|pop_text_poison}blight{colour_end} and {colour_start|pop_text_bleed}bleed{colour_end}) ignore PROT and are effective means to take down these highly armored opponents.
 Additionally, the {colour_start|notable}Honing Oil{colour_end} supply is a good supplement to deal with those enemies for heroes that lack any other options.]]></entry>
 <entry id="tutorial_popup_high_prot_title"><![CDATA[Monstres à forte PROT]]></entry>
@@ -1068,7 +1068,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_armory_loot"><![CDATA[TODO:Some of these weapons are decorative!]]></entry>
 <entry id="str_curio_kvarotz_armory_effect"><![CDATA[TODO:These weapons and tools can garner much knowledge of the Kvarotz.]]></entry>
 <entry id="str_curio_kvarotz_armory_disease"><![CDATA[TODO:The hero cuts their hand on a rusted weapon.]]></entry>
-<entry id="str_curio_kvarotz_armory_honing_oil_effect"><![CDATA[Une fois aiguisée, cette arme est plutôt belle !]]></entry>
+<entry id="str_curio_kvarotz_armory_honing_oil_effect"><![CDATA[Une fois aiguisée, cette arme est magnifique !]]></entry>
 <entry id="str_curio_kvarotz_armory_arch_kit_loot"><![CDATA[TODO:One of these dusty objects is a trinket!]]></entry>
 <entry id="str_curio_kvarotz_armory__disease"><![CDATA[TODO:Kvarotz weapons don't make for good cutlery.]]></entry>
 <entry id="str_curio_kvarotz_armory_archaeologist_compendium_loot"><![CDATA[Un compartiment secret est révélé !]]></entry>
@@ -5129,7 +5129,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_1_religious"><![CDATA[
 																													 						{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="str_quirk_name_1_pagan"><![CDATA[
-																													  	   	   {colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
+																													 						{colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
 <entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
 <entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[TODO:All that I have held faith in- IT IS ALL A LIE!]]></entry>
@@ -5284,14 +5284,14 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_amber_symbiosis"><![CDATA[Amour de l'ambre]]></entry>
 <entry id="str_quirk_name_necromania"><![CDATA[Passion macabre]]></entry>
 <entry id="str_quirk_name_golem_curse"><![CDATA[Marque du Golem]]></entry>
-<entry id="str_quirk_name_survivor"><![CDATA[Débrouillardise]]></entry> 
-<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Fan du marché noir]]></entry> 
+<entry id="str_quirk_name_survivor"><![CDATA[Débrouillardise]]></entry>
+<entry id="str_quirk_name_contraband_enjoyer"><![CDATA[Fan du marché noir]]></entry>
 <entry id="str_quirk_name_penitent"><![CDATA[Pénitence]]></entry>
 <entry id="str_quirk_name_ritualist"><![CDATA[Ritualiste]]></entry>
 <entry id="str_quirk_name_mystic"><![CDATA[Mystique]]></entry>
 <entry id="str_quirk_name_trophy_hunter"><![CDATA[Chasseur de trophées]]></entry>
-<entry id="str_quirk_name_BR_guilty_conscience"><![CDATA[Mauvaise conscience]]></entry> 
-<entry id="str_quirk_name_rampager"><![CDATA[TODO:Rampager]]></entry> 
+<entry id="str_quirk_name_BR_guilty_conscience"><![CDATA[Mauvaise conscience]]></entry>
+<entry id="str_quirk_name_rampager"><![CDATA[TODO:Rampager]]></entry>
 <entry id="str_quirk_name_convalescent"><![CDATA[Convalescence]]></entry>
 <entry id="str_quirk_name_intercessor"><![CDATA[Fanatique]]></entry>
 <entry id="str_quirk_name_compulsive"><![CDATA[Compulsion]]></entry>
