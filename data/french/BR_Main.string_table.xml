@@ -516,7 +516,7 @@ The mysterious Perfumer conducts his clandestine experiments in numerous locatio
 <entry id="tutorial_popup_stage_coach_description"><![CDATA[TODO:The ferry {colour_start|notable}allows you to recruit new heroes{colour_end}. 
 {colour_start|town_activity_log_positive_result}[RIGHT-CLICK]{colour_end} on a hero's icon to view their information.
 {colour_start|town_activity_log_positive_result}[Drag and drop]{colour_end} them into your roster.]]></entry>
-<entry id="tutorial_popup_stage_coach_title"><![CDATA[TODO:The Ferry is Your Hero Lifeblood]]></entry>
+<entry id="tutorial_popup_stage_coach_title"><![CDATA[Le ferry est votre force vitale]]></entry>
 <entry id="tutorial_popup_stage_coach2_description"><![CDATA[TODO:While you're here, spend some of your starting relics on {colour_start|notable}upgrading the Ferry's Sails and Cabins{colour_end}. This will increase the number of heroes available here in the future.
 To upgrade click the {colour_start|notable}[+]{colour_end} symbol on the left, and then click the upgrade.]]></entry>
 <entry id="tutorial_popup_stage_coach2_title"><![CDATA[TODO:Upgrade the Ferry]]></entry>
