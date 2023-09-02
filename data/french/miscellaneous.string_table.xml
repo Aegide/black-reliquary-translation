@@ -2241,7 +2241,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="tray_icon_tooltip_stealth_title_before_turn"><![CDATA[{colour_start|stealth}Furtivité{colour_end} (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_stealth_title_after_turn"><![CDATA[{colour_start|stealth}Furtivité{colour_end} (%d trs)]]></entry>
 <entry id="tray_icon_tooltip_stealth_description"><![CDATA[Les attaques visant uniquement cet emplacement sont inutilisables.]]></entry>
-<entry id="tutorial_popup_stealth_title"><![CDATA[{colour_start|stealth}Furtivité{colour_end}]]></entry>
+<entry id="tutorial_popup_stealth_title"><![CDATA[Furtivité]]></entry>
 <entry id="tutorial_popup_stealth_description"><![CDATA[Les monstres en état de {colour_start|stealth}FURTIVITÉ{colour_end} ont une apparence indistincte. Ils ne peuvent pas être touchés par les attaques directes mais peuvent l'être par les attaques de zone. De plus, certaines compétences de héros ("Exposer", de la Brise-bouclier, par exemple) peuvent les toucher malgré leur état furtif. Ces compétences ont l'avantage supplémentaire d'{colour_start|stealth}annuler la furtivité{colour_end} du monstre.]]></entry>
 <entry id="str_quirk_is_singleton"><![CDATA[UN HÉROS PAR LISTE DE RECRUES]]></entry>
 <entry id="town_district_unavailable_tooltip"><![CDATA[Quartier indisponible.]]></entry>
