@@ -233,7 +233,8 @@ Torche :]]></entry>
 <entry id="str_embarked_on_plot_catacombs_tutorial"><![CDATA[TODO:{?hero_names}%s were the first to Enter the Catacombs]]></entry>
 <entry id="town_quest_progress_plot_catacombs_tutorial"><![CDATA[Terminez votre première expédition !]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-D'anciens mécanismes Kvarotz se dissimulent dans l'ombre.]]></entry>
+D'anciens mécanismes Kvarotz se dissimulent
+encore dans l'ombre.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les Levantins sont venus piller la vaste nécropole Kvarotz.]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -932,7 +933,8 @@ La plupart des curios peuvent être abordées de différentes manières, afin d'
 Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-D'anciens mécanismes Kvarotz se dissimulent encore dans l'ombre.]]></entry>
+D'anciens mécanismes Kvarotz se dissimulent
+encore dans l'ombre.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les Levantins sont venus piller les vastes catacombes Kvarotz.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
