@@ -629,8 +629,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_description_br_amber_explosion"><![CDATA[Un incident dans la raffinerie a provoqué un miasme de fumées ambrées dans tout le navire. Essayez de prendre de courtes respirations.]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[TODO:{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
 
-<entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}
-Activités gratuites : Taverne
+<entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}Activités gratuites : Taverne
 Héros inactifs : -10 stress{colour_end}]]></entry>
 <entry id="town_event_title_br_hero_death"><![CDATA[Minute de silence]]></entry>
 <entry id="town_event_description_br_hero_death"><![CDATA[Le premier est tombé.
