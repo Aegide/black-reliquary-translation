@@ -1871,7 +1871,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_event_description_upgrade_tag_free_weapon"><![CDATA[Au final, les heures passées à fouiller les vieux tonneaux et les râteliers d'armes abandonnés ont porté leurs fruits !]]></entry>
 <entry id="town_event_info_format_activity_cost_change"><![CDATA[Prix modifié : {?activity}%s / {?cost_change}%d%%]]></entry>
 <entry id="town_event_info_format_activity_lock"><![CDATA[L'activité %s est fermée]]></entry>
-<entry id="town_event_info_format_embark_party_buff"><![CDATA[%s pour la prochaine quête]]></entry>
+<entry id="town_event_info_format_embark_party_buff"><![CDATA[%s (quête)]]></entry>
 <entry id="town_event_info_format_free_activity"><![CDATA[Activité gratuite : %s]]></entry>
 <entry id="town_event_info_format_idle_buff"><![CDATA[Héros inactifs : %s]]></entry>
 <entry id="town_event_info_format_idle_resolve_level"><![CDATA[Héros inactifs : les {?hero_class}%ss gagnent {?resolve_level}%d de détermination]]></entry>

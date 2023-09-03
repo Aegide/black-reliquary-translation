@@ -637,7 +637,9 @@ Savourons le goût amer de la défaite,
 avec du vin et une fête.]]></entry>
 
 <entry id="town_event_title_br_melee_buff"><![CDATA[Maintenance des armes]]></entry>
-<entry id="town_event_description_br_melee_buff"><![CDATA[Une inspection récente a révélé que les lames étaient mal entretenues. Il faut y remédier immédiatement !]]></entry>
+<entry id="town_event_description_br_melee_buff"><![CDATA[Une inspection récente a révélé que
+les lames étaient mal entretenues.
+Il faut y remédier immédiatement !]]></entry>
 
 <entry id="town_event_title_br_ranged_buff"><![CDATA[Entraînement au tir]]></entry>
 <entry id="town_event_description_br_ranged_buff"><![CDATA[Tous les rangers doivent se présenter immédiatement sur le pont supérieur ! Votre adresse au tir doit être évaluée.]]></entry>
