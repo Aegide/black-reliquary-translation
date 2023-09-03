@@ -675,8 +675,9 @@ avec du vin et une fête.]]></entry>
 <entry id="town_event_title_br_lock_gambling_galley_free"><![CDATA[Cochon sauvage]]></entry>
 <entry id="town_event_description_br_lock_gambling_galley_free"><![CDATA[Les tables de jeu sont actuellement fermées. Pour le moment, Almira n'en a pas précisé la raison.]]></entry>
 
-<entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[Combat exhibition]]></entry>
-<entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[Un combat que nous attendions tous ! Les autres concurrents sont priés de patienter jusqu'à la fin de l'événement.]]></entry>
+<entry id="town_event_title_br_lock_fight_pit_galley_free"><![CDATA[combat d'exhibition]]></entry>
+<entry id="town_event_description_br_lock_fight_pit_galley_free"><![CDATA[Un combat que nous attendions tous !
+Les autres concurrents sont priés de patienter jusqu'à la fin de l'événement.]]></entry>
 
 <entry id="town_event_title_br_skill_issue"><![CDATA[Héritage]]></entry>
 <entry id="town_event_description_br_skill_issue"><![CDATA[L'un des derniers à avoir péri avait apparemment accumulé une belle fortune, qu'il a légué au navire.]]></entry>
