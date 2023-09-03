@@ -2790,7 +2790,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_appraiser_res"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʠʀ{colour_end}Undead Protector]]></entry>
 <entry id="str_monster_skill_pursuer_mark"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʔʑ{colour_end}Œil de faucon]]></entry>
 <entry id="str_monster_skill_pursuer_pursue"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷʎ{colour_end}Assaut aérien]]></entry>
-<entry id="str_monster_skill_pursuer_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Découpe]]></entry>
+<entry id="str_monster_skill_pursuer_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Katana]]></entry>
 <entry id="str_monster_skill_pursuer_stress"><![CDATA[{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}Cri strident]]></entry>
 <entry id="str_monster_skill_pursuer_flight"><![CDATA[TODO:Feather Flight]]></entry>
 <entry id="str_monster_skill_thaum_throw"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʏʑʖ{colour_end}Explosion caustique]]></entry>
