@@ -632,7 +632,9 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_info_br_hero_death"><![CDATA[TODO:{colour_start|notable}All Stress Relief Activities in the Galley are Free
 +10 Idle Stress Relief{colour_end}]]></entry>
 <entry id="town_event_title_br_hero_death"><![CDATA[Minute de silence]]></entry>
-<entry id="town_event_description_br_hero_death"><![CDATA[Le premier est tombé. Savourons le goût amer de la défaite, avec du vin et de la bière.]]></entry>
+<entry id="town_event_description_br_hero_death"><![CDATA[Le premier est tombé.
+Savourons le goût amer de la défaite,
+avec du vin et une fête.]]></entry>
 
 <entry id="town_event_title_br_melee_buff"><![CDATA[Maintenance des armes]]></entry>
 <entry id="town_event_description_br_melee_buff"><![CDATA[Une inspection récente a révélé que les lames étaient mal entretenues. Il faut y remédier immédiatement !]]></entry>
