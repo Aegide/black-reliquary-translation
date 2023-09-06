@@ -2747,7 +2747,6 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_fire_jumpjet"><![CDATA[{colour_start|white}ɘɘɠɟʥʯɩɦʻɱ{colour_end}Embrasement]]></entry>
 <entry id="str_monster_skill_levantine_fire_malfunction"><![CDATA[{colour_start|white}ɪɥʫɩɧʐ{colour_end}Défaillance]]></entry>
 <entry id="str_monster_skill_levantine_fire_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩɮʻʟ{colour_end}Explosion catastrophique]]></entry>
-<entry id="str_monster_skill_levantine_fire_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩɦʻʟ{colour_end}Explosion catastrophique]]></entry>
 <entry id="str_monster_skill_levantine_sniper_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Repli stratégique]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_normal"><![CDATA[{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Prêt à tirer !]]></entry>
 <entry id="str_monster_skill_levantine_sniper_pull_explode"><![CDATA[{colour_start|white}ɪɥɘɘɣɣɩɧʁ{colour_end}Prêt à tirer !]]></entry>
