@@ -417,7 +417,8 @@ The daylight is aberrant and unnerving, and has unique properties.]]></entry>
 <entry id="str_embarked_on_plot_otekh_invasion_0"><![CDATA[TODO:{?hero_names}%s conducted an investigation aboard the airship.]]></entry>
 <entry id="town_quest_progress_plot_otekh_invasion_0"><![CDATA[Trouver le meurtrier]]></entry>
 <entry id="str_plot_otekh_invasion_0_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-L'un des membres de l'équipage n'est pas celui qu'il prétend être ...]]></entry>
+L'un des membres de l'équipage n'est pas
+celui qu'il prétend être ...]]></entry>
 <entry id="tutorial_popup_afflicted_description"><![CDATA[TODO:When heroes {colour_start|notable}can't take the {colour_start|stressNOT1}stress{colour_end} any more{colour_end}, they can become {colour_start|harmful}AFFLICTED{colour_end}. This manifests in {colour_start|notable}different behaviors{colour_end} and {colour_start|notable}stat changes{colour_end}. {colour_start|harmful}Afflictions{colour_end} last until you {colour_start|notable}send them to treatment{colour_end} on the Flameseeker, unless you can reduce their {colour_start|stressNOT1}stress{colour_end} to zero during the quest.]]></entry>
 <entry id="tutorial_popup_afflicted_title"><![CDATA[Affliction !]]></entry>
 <entry id="tutorial_popup_antivenom_description"><![CDATA[TODO:Your hero has a {colour_start|symptom}symptom{colour_end}!
