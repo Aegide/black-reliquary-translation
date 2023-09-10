@@ -178,10 +178,10 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="buff_rule_data_tooltip_HEXER_PAIN_2_SKILL_LINE4"><![CDATA[TODO:  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE1"><![CDATA[TODO:^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[TODO:^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^-7%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^-8%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[TODO:^^-11%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[TODO:^^-12%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[TODO:^^-13%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
