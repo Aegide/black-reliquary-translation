@@ -556,7 +556,7 @@ Cactonid fights are guaranteed to drop at least one vestige, and the {colour_sta
 <entry id="tutorial_popup_crimson_curse_blood_lust_title"><![CDATA[Vestiges malveillants]]></entry>
 <entry id="tutorial_popup_crimson_curse_craving_description"><![CDATA[TODO:Yngolian drops {colour_start|yngolian1}Celestial{colour_end} trinkets. These special trinkets can be used in place of a standard torch to activate the Yngolian's Beacon, and in doing so will upgrade the trinket! [Remember that evolving trinkets must be placed in the inventory before they can be used on curios.]]]></entry>
 <entry id="tutorial_popup_crimson_curse_craving_title"><![CDATA[TODO:Boon from Beyond]]></entry>
-<entry id="tutorial_popup_thing_title"><![CDATA[TODO:The Cactonids]]></entry>
+<entry id="tutorial_popup_thing_title"><![CDATA[Cactonides]]></entry>
 <entry id="tutorial_popup_thing_description"><![CDATA[TODO:Deception is everywhere!
 
 Cactonids lie in wait to attack unsuspecting adventurers!  {colour_start|notable}Most curios in the Treasury are disguised Cactonids ready to strike, but these creatures are overloaded with riches, both exotic and mundane.{colour_end} Certain interactions can be used to give yourself an advantage in fights against these floral beasts, so prepare accordingly.
@@ -2598,21 +2598,21 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_cact_opulean_flow_A"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_flow_B"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_flow_C"><![CDATA[Aspiciaque cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_A"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_B"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_C"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_E"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_F"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_G"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_H"><![CDATA[Imposteur maudit]]></entry>
-<entry id="str_monstername_cact_necrobiote_I"><![CDATA[Imposteur maudit]]></entry>
-<entry id="str_monstername_cact_necrobiote_J"><![CDATA[Imposteur maudit]]></entry>
-<entry id="str_monstername_cact_necrobiote_X"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_Y"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_Z"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_flow_A"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_flow_B"><![CDATA[Imposteur cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_flow_C"><![CDATA[Imposteur cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_A"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_B"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_C"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_E"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_F"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_G"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_H"><![CDATA[Marionnettiste maudit]]></entry>
+<entry id="str_monstername_cact_necrobiote_I"><![CDATA[Marionnettiste maudit]]></entry>
+<entry id="str_monstername_cact_necrobiote_J"><![CDATA[Marionnettiste maudit]]></entry>
+<entry id="str_monstername_cact_necrobiote_X"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_Y"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_Z"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_flow_A"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_flow_B"><![CDATA[Marionnettiste cactonide]]></entry>
+<entry id="str_monstername_cact_necrobiote_flow_C"><![CDATA[Marionnettiste cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_A"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_B"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_C"><![CDATA[Mimique cactonide]]></entry>
