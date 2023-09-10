@@ -283,7 +283,7 @@
     <entry id="combat_skill_name_thrall_maim"><![CDATA[Maim]]></entry>
     <entry id="combat_skill_name_thrall_gore"><![CDATA[Gore]]></entry>
     <entry id="combat_skill_name_thrall_indomitable_will"><![CDATA[Indomitable]]></entry>
-    <entry id="combat_skill_name_thrall_torment"><![CDATA[Animosity]]></entry>
+    <entry id="combat_skill_name_thrall_torment"><![CDATA[Menace]]></entry>
     <entry id="combat_skill_name_thrall_savagery"><![CDATA[Savagery]]></entry>
     <entry id="combat_skill_name_thrall_trample"><![CDATA[Devastate]]></entry>
     <entry id="combat_skill_name_thrall_tremors"><![CDATA[Tremors]]></entry>
@@ -292,7 +292,7 @@
     <entry id="upgrade_tree_name_thrall.maim"><![CDATA[Maim]]></entry>
     <entry id="upgrade_tree_name_thrall.gore"><![CDATA[Gore]]></entry>
     <entry id="upgrade_tree_name_thrall.indomitable_will"><![CDATA[Indomitable]]></entry>
-    <entry id="upgrade_tree_name_thrall.torment"><![CDATA[Animosity]]></entry>
+    <entry id="upgrade_tree_name_thrall.torment"><![CDATA[Menace]]></entry>
     <entry id="upgrade_tree_name_thrall.savagery"><![CDATA[Savagery]]></entry>
     <entry id="upgrade_tree_name_thrall.trample"><![CDATA[Devastate]]></entry>
     <entry id="upgrade_tree_name_thrall.tremors"><![CDATA[Tremors]]></entry>
@@ -322,7 +322,7 @@
     <entry id="str_inventory_set_title_cc_thrall"><![CDATA["MY WILL IS MY OWN!"]]></entry>	
 	
     <entry id="action_verbose_body_guild_thrall"><![CDATA[Born a slave and forced to fight for his master's pleasure, the Thrall is a monster amongst men. Any who futily assault this impenetrable beast will soon find themselves crushed to pulp as the Thrall unleashes a brutal counter-attack as punishment for defying him. However, should the Thrall feel his life is threatened, he will enter an uncontrollable rage. He will deny orders and do as he pleases as he destroys friend and foe alike.]]></entry>
-    <entry id="action_verbose_body_blacksmith_thrall"><![CDATA[The Thrall uses the weapons he is most familiar with, his twin cestuses. In brutal fashion, he crushes and maims any unfortunate enough to cross his path. The only armor the Thrall wears is the helmet that also serves as his collar. The rest of his body is left bare to display the countless scars inflicted by his opponents and his master.]]></entry>
+    <entry id="action_verbose_body_blacksmith_thrall"><![CDATA[The Thrall uses the weapons he is most familiar with, his twin cestuses. In brutal fashion, he crushes and maims any unfortunate enough to cross his path. His body is left bare to display the countless scars inflicted by his opponents and his master.]]></entry>
     <entry id="action_verbose_body_camping_trainer_thrall"><![CDATA[The Thrall has spent much of his life in isolation when not in battle. As a result, he only knows how to care for himself. He will do things for his own benefit that could be detrimental to the entire party. Should his actions be too much, the party can elect to chain him up away from the camp, where he can harm no one.]]></entry>
 	
 	<entry id="camping_skill_name_addinfo_thrall"><![CDATA[Additional Information]]></entry>
