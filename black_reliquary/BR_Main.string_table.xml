@@ -964,7 +964,8 @@ Torch Effects: Buff Hero: Ignore Stealth (1 tn){colour_end}]]></entry>
 Monster Effects: -15% Bleed Resist
 Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
 
-	
+	<entry id="str_glossary_term_1041"><![CDATA[Soul Leech]]></entry>
+    <entry id="str_glossary_term_definition_1041"><![CDATA[A special leech that can be used to extract the faith of an individual, turning them {colour_start|affiliation_faithless}Faithless{colour_end}.]]></entry>
 	
 	<!-- Load Screen Stuff -->
 	<entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -1998,8 +1999,8 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_gembh_big_bounty"><![CDATA[A collected piece of a fallen target. Bring back to claim your reward!]]></entry>
     <entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[Kill Confirmation]]></entry>
 	
-	<entry id="str_inventory_title_estatesupply_faithless"><![CDATA[Transform to Faithless]]></entry>
-	<entry id="str_inventory_description_estatesupply_faithless"><![CDATA[Extravagant riches exchanged by the Kvarotz upper class.]]></entry>
+	<entry id="str_inventory_title_estatesupply_faithless"><![CDATA[Soul Leech]]></entry>
+	<entry id="str_inventory_description_estatesupply_faithless"><![CDATA[A parasite so unnatural that it worms into the mind and heart of its host. {colour_start|skill_unselectable}[Convert the user's affiliation to {colour_start|affiliation_faithless}Faithless{colour_end}]{colour_end}]]></entry>
 	<entry id="str_inventory_title_estatesupply_pagan"><![CDATA[Truthbearer]]></entry>
     <entry id="str_inventory_description_estatesupply_pagan"><![CDATA[Wearers of this arcane mask are overcome with dark knowledge, forever changing them. {colour_start|skill_unselectable}[Convert the user's affiliation to {colour_start|affiliation_pagan}Pagan{colour_end}]{colour_end}]]></entry>
 	<entry id="str_inventory_title_estatesupply_religious"><![CDATA[Broken Halo]]></entry>
@@ -2965,6 +2966,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monstername_snail_urchin_E"><![CDATA[Reinforced Snail]]></entry>
 	<entry id="str_monstername_snail_urchin_F"><![CDATA[Plated Snail]]></entry>
 	<entry id="str_monstername_snail_urchin_G"><![CDATA[Armored Snail]]></entry>
+	<entry id="str_monstername_snail_urchin_H"><![CDATA[Armored Snail]]></entry>
 	<entry id="str_monstername_snail_urchin_X"><![CDATA[Reinforced Snail]]></entry>
 	<entry id="str_monstername_snail_urchin_Y"><![CDATA[Plated Snail]]></entry>
 	<entry id="str_monstername_snail_urchin_Z"><![CDATA[Armored Snail]]></entry>
@@ -2972,6 +2974,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monstername_spider_spitter_E"><![CDATA[Spitter]]></entry>
     <entry id="str_monstername_spider_spitter_F"><![CDATA[Overgrown Spitter]]></entry>
     <entry id="str_monstername_spider_spitter_G"><![CDATA[Ancient Spitter]]></entry>
+    <entry id="str_monstername_spider_spitter_H"><![CDATA[Ancient Spitter]]></entry>
 	<entry id="str_monstername_spider_spitter_X"><![CDATA[Spitter]]></entry>
     <entry id="str_monstername_spider_spitter_Y"><![CDATA[Overgrown Spitter]]></entry>
     <entry id="str_monstername_spider_spitter_Z"><![CDATA[Ancient Spitter]]></entry>
@@ -2979,6 +2982,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
     <entry id="str_monstername_spider_webber_E"><![CDATA[Webber]]></entry>
     <entry id="str_monstername_spider_webber_F"><![CDATA[Overgrown Webber]]></entry>
     <entry id="str_monstername_spider_webber_G"><![CDATA[Ancient Webber]]></entry>
+    <entry id="str_monstername_spider_webber_H"><![CDATA[Ancient Webber]]></entry>
     <entry id="str_monstername_spider_webber_X"><![CDATA[Webber]]></entry>
     <entry id="str_monstername_spider_webber_Y"><![CDATA[Overgrown Webber]]></entry>
     <entry id="str_monstername_spider_webber_Z"><![CDATA[Ancient Webber]]></entry>
@@ -2986,6 +2990,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monstername_maggot_E"><![CDATA[Maggot]]></entry>
     <entry id="str_monstername_maggot_F"><![CDATA[Twitching Maggot]]></entry>
     <entry id="str_monstername_maggot_G"><![CDATA[Bulbous Maggot]]></entry>
+    <entry id="str_monstername_maggot_H"><![CDATA[Bulbous Maggot]]></entry>
 	<entry id="str_monstername_maggot_X"><![CDATA[Maggot]]></entry>
     <entry id="str_monstername_maggot_Y"><![CDATA[Twitching Maggot]]></entry>
     <entry id="str_monstername_maggot_Z"><![CDATA[Bulbous Maggot]]></entry>
@@ -2993,6 +2998,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monstername_carrion_eater_E"><![CDATA[Carrion Eater]]></entry>
     <entry id="str_monstername_carrion_eater_F"><![CDATA[Corpse Eater]]></entry>
     <entry id="str_monstername_carrion_eater_G"><![CDATA[Flesh Eater]]></entry>
+    <entry id="str_monstername_carrion_eater_H"><![CDATA[Flesh Eater]]></entry>
 	<entry id="str_monstername_carrion_eater_X"><![CDATA[Carrion Eater]]></entry>
     <entry id="str_monstername_carrion_eater_Y"><![CDATA[Corpse Eater]]></entry>
     <entry id="str_monstername_carrion_eater_Z"><![CDATA[Flesh Eater]]></entry>
@@ -3241,8 +3247,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 	<entry id="str_monster_skill_boneman_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 	<entry id="str_monster_skill_boneman_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
 	
-	<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
-	<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
+	<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
+	<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Bleed Them Dry]]></entry>
 	<entry id="str_monster_skill_wildlander_breakthru"><![CDATA[{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Wreck]]></entry>
 	<entry id="str_monster_skill_wildlander_yawp"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
 	<entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Fearsome YAWP!]]></entry>
@@ -4376,7 +4382,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT1"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Party:{colour_end} +4 SPD, +8 DODGE {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT2"><![CDATA[On Friendly Skill: {colour_start|move}Shuffle{colour_end} Party]]></entry>
-
+	
 	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_TORCH_TT"><![CDATA[Buffs above doubled if Torch below 1]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_CELL_TT"><![CDATA[Buffs and Blight Amount above doubled if Torch below 1]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_CELL_SCALE_TT"><![CDATA[{colour_start|skill_unselectable}(+20%% Blight Chance/+50%% Blight Amount per Difficulty){colour_end}]]></entry>
@@ -4409,9 +4415,6 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 3 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[ {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-
-
-
 
 	<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_HPR_TT"><![CDATA[ {colour_start|debuff}Debuff Enemy Party:{colour_end} -20% {colour_start|blight}Blight{colour_end} Resist]]></entry>
 
@@ -4470,13 +4473,8 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[+8 ACC, +4 SPD, +30%% {colour_start|healhp}Healing{colour_end} Received, -20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_BACKPACK_TT3"><![CDATA[ when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 
-
-
-
-
-
 		<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_EXTRACT"><![CDATA[{colour_start|skill_unselectable}(For more info about Extracts, check their entry in Info Comms){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_RESIDUE"><![CDATA[{colour_start|skill_unselectable}(For more info about Amber Residue, check its entry in Info Comms){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_LEECH"><![CDATA[{colour_start|skill_unselectable}(For more info about Soul Leech, check its entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_BOUNTY"><![CDATA[{colour_start|skill_unselectable}(For more info about Bounties, check their entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_VESTIGE"><![CDATA[{colour_start|skill_unselectable}(For more info about Malignant Vestiges, check their entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_GHOUL"><![CDATA[{colour_start|skill_unselectable}(For more info about Ghoul Fever and Plague, check their entry in Info Comms){colour_end}]]></entry>
@@ -4896,7 +4894,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="str_inventory_title_trinketjes_overgrown_setar"><![CDATA[Overgrown Setar]]></entry>
 	<entry id="str_inventory_title_trinketsb_snake_wine"><![CDATA[Snake Wine]]></entry>
 	<entry id="str_inventory_title_trinketpd_styx_urn"><![CDATA[Styx Urn]]></entry>
-	<entry id="str_inventory_title_trinketjudi_amalgamated_leech"><![CDATA[Amalgamated Leech]]></entry>
+	<entry id="str_inventory_title_trinketjudi_amalgamated_leech"><![CDATA[Leech Breeding Apparatus]]></entry>
 	<entry id="str_inventory_title_trinketperfumers_needle"><![CDATA[Perfumer's Needle]]></entry>
 	<entry id="str_inventory_title_trinketabom_bloodtaint_strain"><![CDATA[Bloodtaint Strain]]></entry>
 	<entry id="str_inventory_title_trinketarb_jolly_bandana"><![CDATA[Jolly Bandana]]></entry>
@@ -5907,8 +5905,8 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 	<entry id="str_quirk_name_1_pagan"><![CDATA[
 																													  	   	   {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 	
-	<entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[FAITHLESS]]></entry>
-	<entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[FAITHLESS]]></entry>
+	<entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[The chorus of the great ones... it is silent now...]]></entry>
+	<entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[A delusion... Was it all a delusion?]]></entry>
 	<entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[All that I have held faith in- IT IS ALL A LIE!]]></entry>
     <entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[I know it now... I cannot hide any longer!]]></entry>
 	<entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[This warmth... this joy... I feel the Light within me!]]></entry>

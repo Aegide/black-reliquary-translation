@@ -859,6 +859,8 @@ Treasury - Living Extract - Debuffs Healing Received and Blight Resistance]]></e
 {colour_start|skill_unselectable}Hero Effects: -20% Bleed Resist, -14% Deathblow Resist
 Monster Effects: +15% Bleed Resist
 Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
+<entry id="str_glossary_term_1041"><![CDATA[Sangsue spirituelle]]></entry>
+<entry id="str_glossary_term_definition_1041"><![CDATA[Une sangsue spéciale qui peut être utilisée pour retirer la foi d'un individu, le rendant {colour_start|affiliation_faithless}athée{colour_end}.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Certains aspects du "Chasseur de la Flamme" pourront changer au cours du développement de Black Reliquary.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -1796,12 +1798,12 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_gembh_big_bounty"><![CDATA[TODO:Kill Confirmation]]></entry>
 <entry id="str_inventory_description_gembh_big_bounty"><![CDATA[TODO:A collected piece of a fallen target. Bring back to claim your reward!]]></entry>
 <entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[TODO:Kill Confirmation]]></entry>
-<entry id="str_inventory_title_estatesupply_faithless"><![CDATA[TODO:Transform to Faithless]]></entry>
-<entry id="str_inventory_description_estatesupply_faithless"><![CDATA[TODO:Extravagant riches exchanged by the Kvarotz upper class.]]></entry>
-<entry id="str_inventory_title_estatesupply_pagan"><![CDATA[TODO:Truthbearer]]></entry>
-<entry id="str_inventory_description_estatesupply_pagan"><![CDATA[TODO:Wearers of this arcane mask are overcome with dark knowledge, forever changing them. {colour_start|skill_unselectable}[Convert the user's affiliation to {colour_start|affiliation_pagan}Pagan{colour_end}]{colour_end}]]></entry>
-<entry id="str_inventory_title_estatesupply_religious"><![CDATA[TODO:Broken Halo]]></entry>
-<entry id="str_inventory_description_estatesupply_religious"><![CDATA[TODO:Those whom embrace the shattered remains of this holy symbol are filled with unbridled hope. {colour_start|skill_unselectable}[Convert the user's affiliation to {colour_start|affiliation_religious}Religious{colour_end}]{colour_end}]]></entry>
+<entry id="str_inventory_title_estatesupply_faithless"><![CDATA[Sangsue spirituelle]]></entry>
+<entry id="str_inventory_description_estatesupply_faithless"><![CDATA[Un parasite qui s'infiltre dans le cœur et l'esprit de son hôte. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_faithless}athée{colour_end}]{colour_end}]]></entry>
+<entry id="str_inventory_title_estatesupply_pagan"><![CDATA[Porte-Vérité]]></entry>
+<entry id="str_inventory_description_estatesupply_pagan"><![CDATA[Les porteurs de ce masque occulte sont envahis de terribles connaissances. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_pagan}païen{colour_end}]{colour_end}]]></entry>
+<entry id="str_inventory_title_estatesupply_religious"><![CDATA[Halo brisé]]></entry>
+<entry id="str_inventory_description_estatesupply_religious"><![CDATA[Ceux qui accueillent les vestiges brisés de ce symbole sacré sont remplis d'un espoir débordant. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_religious}païen{colour_end}]{colour_end}]]></entry>
 <entry id="str_inventory_title_gemdaric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[Richesses extravagantes utilisées par la haute bourgeoisie Kvarotz.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
@@ -2652,24 +2654,28 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monstername_spider_spitter_E"><![CDATA[Cracheuse]]></entry>
 <entry id="str_monstername_spider_spitter_F"><![CDATA[Cracheuse géante]]></entry>
 <entry id="str_monstername_spider_spitter_G"><![CDATA[Cracheuse ancienne]]></entry>
+<entry id="str_monstername_spider_spitter_H"><![CDATA[Cracheuse ancienne]]></entry>
 <entry id="str_monstername_spider_spitter_X"><![CDATA[Cracheuse]]></entry>
 <entry id="str_monstername_spider_spitter_Y"><![CDATA[Cracheuse géante]]></entry>
 <entry id="str_monstername_spider_spitter_Z"><![CDATA[Cracheuse ancienne]]></entry>
 <entry id="str_monstername_spider_webber_E"><![CDATA[Tisseuse]]></entry>
 <entry id="str_monstername_spider_webber_F"><![CDATA[Tisseuse géante]]></entry>
 <entry id="str_monstername_spider_webber_G"><![CDATA[Tisseuse ancienne]]></entry>
+<entry id="str_monstername_spider_webber_H"><![CDATA[Tisseuse ancienne]]></entry>
 <entry id="str_monstername_spider_webber_X"><![CDATA[Tisseuse]]></entry>
 <entry id="str_monstername_spider_webber_Y"><![CDATA[Tisseuse géante]]></entry>
 <entry id="str_monstername_spider_webber_Z"><![CDATA[Tisseuse ancienne]]></entry>
 <entry id="str_monstername_maggot_E"><![CDATA[Larves]]></entry>
 <entry id="str_monstername_maggot_F"><![CDATA[Larves grouillantes]]></entry>
 <entry id="str_monstername_maggot_G"><![CDATA[Larves bulbeuses]]></entry>
+<entry id="str_monstername_maggot_H"><![CDATA[Larves bulbeuses]]></entry>
 <entry id="str_monstername_maggot_X"><![CDATA[Larves]]></entry>
 <entry id="str_monstername_maggot_Y"><![CDATA[Larves grouillantes]]></entry>
 <entry id="str_monstername_maggot_Z"><![CDATA[Larves bulbeuses]]></entry>
 <entry id="str_monstername_carrion_eater_E"><![CDATA[Mange-charogne]]></entry>
 <entry id="str_monstername_carrion_eater_F"><![CDATA[Mange-cadavre]]></entry>
 <entry id="str_monstername_carrion_eater_G"><![CDATA[Dévoreur de chair]]></entry>
+<entry id="str_monstername_carrion_eater_H"><![CDATA[Dévoreur de chair]]></entry>
 <entry id="str_monstername_carrion_eater_X"><![CDATA[Mange-charogne]]></entry>
 <entry id="str_monstername_carrion_eater_Y"><![CDATA[Mange-cadavre]]></entry>
 <entry id="str_monstername_carrion_eater_Z"><![CDATA[Dévoreur de chair]]></entry>
@@ -2875,8 +2881,8 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_totakh_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Présage funeste]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Undead Swipe]]></entry>
 <entry id="str_monster_skill_boneman_guard"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Protect the Living]]></entry>
-<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
-<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
+<entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
+<entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
 <entry id="str_monster_skill_wildlander_breakthru"><![CDATA[{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Massacre]]></entry>
 <entry id="str_monster_skill_wildlander_yawp"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
 <entry id="str_monster_skill_wildlander_yawp_prep"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɮʓʑ{colour_end}Cri terrifiant]]></entry>
@@ -3894,7 +3900,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[TODO:+8 ACC, +4 SPD, +30%% {colour_start|healhp}Healing{colour_end} Received, -20%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_BACKPACK_TT3"><![CDATA[TODO: when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_EXTRACT"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Extracts, check their entry in Info Comms){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_RESIDUE"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Amber Residue, check its entry in Info Comms){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_LEECH"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Soul Leech, check its entry in Info Comms){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_BOUNTY"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Bounties, check their entry in Info Comms){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_VESTIGE"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Malignant Vestiges, check their entry in Info Comms){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_GHOUL"><![CDATA[TODO:{colour_start|skill_unselectable}(For more info about Ghoul Fever and Plague, check their entry in Info Comms){colour_end}]]></entry>
@@ -5135,8 +5141,8 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 																													 						{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="str_quirk_name_1_pagan"><![CDATA[
 																													 						{colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
-<entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
-<entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[TODO:FAITHLESS]]></entry>
+<entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[Le chant des Anciens ... est maintenant silencieux ...]]></entry>
+<entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[Une illusion ... Tout cela n'était qu'une illusion ?]]></entry>
 <entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[TODO:All that I have held faith in- IT IS ALL A LIE!]]></entry>
 <entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[TODO:I know it now... I cannot hide any longer!]]></entry>
 <entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[TODO:This warmth... this joy... I feel the Light within me!]]></entry>
