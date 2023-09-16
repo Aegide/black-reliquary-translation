@@ -123,7 +123,7 @@
 <entry id="philomath+str_bark_cerebral_numbing"><![CDATA[TODO:Relax yourse- Nevermind, I will do it for you.]]></entry>
 <entry id="philomath+str_bark_eldritch_restoration"><![CDATA[TODO:Cease your sniveling. This will repair you.]]></entry>
 <entry id="philomath+str_bark_eldritch_restoration"><![CDATA[TODO:Tireless studies have taught me this technique.]]></entry>
-<entry id="philomath+str_bark_criticism"><![CDATA[TODO:You have room to improve... But I�m sure you will.]]></entry>
+<entry id="philomath+str_bark_criticism"><![CDATA[TODO:You have room to improve... But Im sure you will.]]></entry>
 <entry id="philomath+str_bark_criticism"><![CDATA[TODO:You could be doing better. You have it in you.]]></entry>
 <entry id="philomath+str_bark_increasingstress"><![CDATA[TODO:Losing focus...]]></entry>
 <entry id="philomath+str_bark_increasingstress"><![CDATA[TODO:It is speaking.]]></entry>
@@ -263,8 +263,7 @@
 <entry id="buff_stat_tooltip_upgrade_discount_cosmic_additive_tooltip"><![CDATA[TODO:"Minor hallucinations are completely normal."]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_tanto_tooltip"><![CDATA[TODO:Page Cutter: Armor Piercing, Bypass Guard]]></entry>
 <entry id="buff_rule_data_tooltip_page_cutter"><![CDATA[TODO:Page Cutter]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PHILO_TRINKET_GUIDE_INF_S_TT"><![CDATA[TODO:Absorbent Mind: +40%% {colour_start|stress}Stress Healing{colour_end} Done]]></entry>
-<entry id="buff_rule_data_tooltip_PHILO_TRINKET_GUIDE_INF_S_TT"><![CDATA[TODO: vs Non-Religious]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_TRINKET_EDGED_TT"><![CDATA[TODO:+10 DODGE if in Pos 1 or 2]]></entry>
 <entry id="str_inventory_set_title_cc_philomath"><![CDATA[TODO:"To see my mind unviolated again..."]]></entry>
 <entry id="buff_rule_data_tooltip_somnium"><![CDATA[TODO:Somnium]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_camping_tooltip"><![CDATA[TODO:{colour_start|mark}Skill will be usable upon Nightmare Update.{colour_end}]]></entry>
@@ -282,12 +281,9 @@ Malevolent Pact]]></entry>
 <entry id="upgrade_tree_name_philomath.page_cutter"><![CDATA[TODO:Page Cutter]]></entry>
 <entry id="upgrade_tree_name_philomath.sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
 <entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[TODO:Breakdown]]></entry>
-<entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Eldritch Safeguard]]></entry>
-<entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Absorbent Mind]]></entry>
-<entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Malevolent Pact]]></entry>
+<entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[TODO:Eldritch Safeguard]]></entry>
+<entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[TODO:Absorbent Mind]]></entry>
+<entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[TODO:Malevolent Pact]]></entry>
 <entry id="combat_skill_name_philomath_move"><![CDATA[TODO:Move]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEADTRAUMA_STRESS_AP_TT"><![CDATA[TODO:+10ʪ Armor Piercing per 10 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_breakdown_tooltip"><![CDATA[TODO:Break {colour_start|riposte}Riposte{colour_end}]]></entry>
@@ -298,6 +294,7 @@ Malevolent Pact]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_guard_tooltip"><![CDATA[TODO:Force {colour_start|guard}Guard{colour_end} by Ally {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_horror_tooltip"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns
 {colour_start|buff}Buff Others:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_horror_tooltip2"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_1"><![CDATA[TODO:+25%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_2"><![CDATA[TODO:+27%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_3"><![CDATA[TODO:+30%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
@@ -312,15 +309,15 @@ Malevolent Pact]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_4"><![CDATA[TODO:Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_stress_tooltip_5"><![CDATA[TODO:Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_1"><![CDATA[TODO:Self:
-Heal 6 {colour_start|stress}Stress{colour_end}]]></entry>
+Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_2"><![CDATA[TODO:Self:
-Heal 7 {colour_start|stress}Stress{colour_end}]]></entry>
+Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_3"><![CDATA[TODO:Self:
 Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_4"><![CDATA[TODO:Self:
-Heal 9 {colour_start|stress}Stress{colour_end}]]></entry>
+Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_stress_tooltip_5"><![CDATA[TODO:Self:
-Heal 10 {colour_start|stress}Stress{colour_end}]]></entry>
+Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_other_horror_tooltip"><![CDATA[TODO:Other Heroes:
 {colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
 <entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT1"><![CDATA[TODO:+15% {colour_start|stress}Stress{colour_end} Received]]></entry>
