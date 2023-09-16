@@ -30,8 +30,8 @@
 		<entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_2"><![CDATA[+20% PROT while {colour_start|expiated}Expiated{colour_end}]]></entry>
 		<entry id="camping_skill_selection_br151a"><![CDATA[
 		{colour_start|notable}Passive:{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[+15% PROT if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[+15% DMG if {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[+15% PROT if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+		<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[+15% DMG if not {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_INDICTMENT_COOLDOWN_TT"><![CDATA[Indictment Brand on Cooldown]]></entry>
 		
 		<entry id="camping_skill_effect_loot_AMBER_RESIDUE_PECULIAR"><![CDATA[Produce 2-4 Amber Residue]]></entry>

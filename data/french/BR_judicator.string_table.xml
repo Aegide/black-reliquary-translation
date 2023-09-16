@@ -23,8 +23,8 @@
 <entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_2"><![CDATA[TODO:+20% PROT while {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="camping_skill_selection_br151a"><![CDATA[
 {colour_start|notable}Passif :{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[TODO:+15% PROT if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[TODO:+15% DMG if {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_1"><![CDATA[TODO:+15% PROT if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_JUDI_BREL_CRIT_2"><![CDATA[TODO:+15% DMG if not {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JUDI_INDICTMENT_COOLDOWN_TT"><![CDATA[TODO:Indictment Brand on Cooldown]]></entry>
 <entry id="camping_skill_effect_loot_AMBER_RESIDUE_PECULIAR"><![CDATA[TODO:Produce 2-4 Amber Residue]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERPAGE_PULL_AMBERBLIGHTED"><![CDATA[TODO:On Fury of the Ancients Hit: {colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
