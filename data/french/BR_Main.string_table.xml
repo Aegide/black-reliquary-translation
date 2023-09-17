@@ -45,10 +45,10 @@ Torche : ( 0 )]]></entry>
 Torche : ( 0 )]]></entry>
 <entry id="str_wave_transition_c5_torch_tooltip_title"><![CDATA[{colour_start|eclipse_torch}Éclipse oppressante{colour_end}
 Torche : ( 0 )]]></entry>
-<entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[{colour_start|yellow}[Splendeur]{colour_end}]]></entry>	
+<entry id="str_wave_transition_d_torch_tooltip_title"><![CDATA[{colour_start|yellow}[Splendeur]{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche{colour_end} :]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end} {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable}
@@ -807,7 +807,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_1020"><![CDATA[TODO:An effect that applies Shuffle over specific amount of turns.]]></entry>
 <entry id="str_glossary_term_1021"><![CDATA[Récupération]]></entry>
 <entry id="str_glossary_term_definition_1021"><![CDATA[TODO:Number of rounds before a skill can be used again. Cooldowns are refreshed on combat end.]]></entry>
-<entry id="str_glossary_term_1022"><![CDATA[Poudre d'ambre raffinée]]></entry>
+<entry id="str_glossary_term_1022"><![CDATA[Poussière d'ambre]]></entry>
 <entry id="str_glossary_term_definition_1022"><![CDATA[TODO:A refined version of Amber. Can be created in the Amber Refinery Activity in the Amber Workshop Facility on the Flameseeker, and occasionally found as loot. Used to purchase luxury provisions, use the Amber Den Activity, and to buy Contraband Trinkets.]]></entry>
 <entry id="str_glossary_term_1023"><![CDATA[Troglodyte]]></entry>
 <entry id="str_glossary_term_definition_1023"><![CDATA[TODO:The devolved creatures deep within the caverns, these insectoid savages practice sinister rituals and feast upon raw amber far below the surface. They wear down their opponents with overwhelming numbers rather than individual strength. Due to the their blindness they also completely ignore Stealth.]]></entry>
@@ -849,7 +849,7 @@ Treasury - Living Extract - Debuffs Healing Received and Blight Resistance]]></e
 <entry id="str_glossary_term_definition_1031"><![CDATA[TODO:Symptom which can be contracted via the Ghoulserum Injection. If not treated, evolves into Ghoul Plague.  This disease prevents hero from getting any other diseases.]]></entry>
 <entry id="str_glossary_term_1032"><![CDATA[TODO:Ghoul Plague]]></entry>
 <entry id="str_glossary_term_definition_1032"><![CDATA[TODO:Disease which evolves from Ghoul Fever. Alongside applying debuffs to your hero, it also increases likelihood of party encountering Ghouls. This disease prevents hero from getting any other diseases.]]></entry>
-<entry id="str_glossary_term_1033"><![CDATA[TODO:Rictus Imperfectus]]></entry>
+<entry id="str_glossary_term_1033"><![CDATA[Rictus Imperfectus]]></entry>
 <entry id="str_glossary_term_definition_1033"><![CDATA[TODO:Symptom which can be contracted via the Parasite Zero. If not treated, evolves into Rictus Mortis. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This disease prevents hero from getting any other diseases.]]></entry>
 <entry id="str_glossary_term_1039"><![CDATA[TODO:Rictus Mortis]]></entry>
 <entry id="str_glossary_term_definition_1039"><![CDATA[TODO:Diseases evolved from Rictus Imperfectus. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This effect is removed if the disease is treated. This disease prevents hero from getting any other diseases.]]></entry>
@@ -913,7 +913,8 @@ Les illusions sont légion. Agissez avec précaution.]]></entry>
 Les curios de la trésorerie peuvent avoir des effets inattendus,
 avec certains objets.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-De nombreux cactonides seront prêts à contre-attaquer. Soyez prévoyant et planifiez vos actions.]]></entry>
+De nombreux cactonides seront prêts à contre-attaquer.
+Soyez prévoyant et planifiez vos actions.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La trésorerie a peu de rencontres normales.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -941,7 +942,8 @@ encore dans l'ombre.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les Levantins sont venus piller les vastes catacombes Kvarotz.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les soldats levantins sont organisés et disciplinés, ils sauront profiter des opportunités.]]></entry>
+Les soldats levantins sont organisés et disciplinés,
+ils sauront profiter des opportunités.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les trésors ne se trouvent pas dans l'obscurité,
 mais plutôt grâce à elle.]]></entry>
@@ -3346,7 +3348,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_data_tooltip_laudanum"><![CDATA[Laudanum]]></entry>
 <entry id="buff_rule_data_tooltip_medicinal_herbs"><![CDATA[Sel purifiant]]></entry>
 <entry id="buff_rule_data_tooltip_provision"><![CDATA[Nourriture]]></entry>
-<entry id="buff_rule_data_tooltip_shard"><![CDATA[{colour_start|BR_heirloom}Poudre d'ambre raffinée{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_deed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_portrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_crest"><![CDATA[{colour_start|BR_heirloom}Trophée{colour_end}]]></entry>
