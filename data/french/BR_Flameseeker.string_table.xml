@@ -90,9 +90,9 @@
 <entry id="town_activity_description_gambling"><![CDATA[L'appât du gain
 {colour_start|stress}Stress{colour_end} -50/63/75]]></entry>
 <entry id="town_activity_description_disease_treatment"><![CDATA[Traitement des maladies, et autres afflictions physiques.]]></entry>
-<entry id="town_activity_description_meditation"><![CDATA[Transforme l'ambre brut en ambre raffiné.
+<entry id="town_activity_description_meditation"><![CDATA[Transforme l'ambre brut en poussière d'ambre.
 {colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
-<entry id="town_activity_description_prayer"><![CDATA[Échange l'ambre raffiné contre de la tek antique.
+<entry id="town_activity_description_prayer"><![CDATA[Échange la poussière d'ambre contre de la tek antique.
 {colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
 <entry id="town_activity_description_treatment"><![CDATA[Traitement d'attributs, et autres comportements problématiques.]]></entry>
 <entry id="town_activity_description_flagellation"><![CDATA[Les plaisirs de l'ambre.
@@ -252,7 +252,7 @@ Revenez après votre prochaine quête.]]></entry>
 {colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
 Gain de bonus (stress) - 50% ]]></entry>
 <entry id="upgrade_tree_tooltip_description_abbey.meditation"><![CDATA[Améliore la raffinerie.
-Rendement : 5-7 {colour_start|BR_heirloom}poudre d'ambre raffinée{colour_end}]]></entry>
+Rendement : 5-7 {colour_start|BR_heirloom}poussière d'ambre{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_abbey.prayer"><![CDATA[Améliore nos relations commerciales avec l'Ostvengr.
 Rendement : 5-7 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="upgrade_tree_tooltip_description_allows_armour_upgrades_of_rank_format"><![CDATA[Permet d'améliorer les armures jusqu'au rang %d]]></entry>
