@@ -290,8 +290,8 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_hobby"><![CDATA[TODO:Aah, some ripened CARRION! A perfect snack.]]></entry>
 <entry id="hexer+str_bark_hobby"><![CDATA[TODO:Just partaking of this DESPAIRING odor of yours is revitalizing...]]></entry>
 <entry id="hexer+str_bark_hobby"><![CDATA[TODO:Excellent, there's still MARROW to be had in these bones.]]></entry>
-<entry id="str_quirk_name_rictus"><![CDATA[TODO:{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
-<entry id="str_quirk_name_rictus_mortis"><![CDATA[TODO:{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
+<entry id="str_quirk_name_rictus"><![CDATA[{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
+<entry id="str_quirk_name_rictus_mortis"><![CDATA[{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
 <entry id="str_quirk_name_rictus_mortis_tended"><![CDATA[TODO:{colour_start|white}⠍{colour_end}{colour_start|quirk_rictus}Rictus Mortis (Stabilized){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt1"><![CDATA[TODO:Unusual hungers and delight in misery...]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_rictus_tt2"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
@@ -335,8 +335,8 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:The relief! I thank you!]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:I almost became lost to... That thing.]]></entry>
 <entry id="quirk_transition_rictus_mortis_to_rictus_mortis_tended"><![CDATA[TODO:Promise me that if it gets worse again, you'll put me out of my misery.]]></entry>
-<entry id="buff_rule_data_tooltip_rictus"><![CDATA[TODO:{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[TODO:{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_rictus"><![CDATA[{colour_start|quirk_rictus}Rictus Imperfectus{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_rictus_mortis"><![CDATA[{colour_start|quirk_rictus}Rictus Mortis{colour_end}]]></entry>
 <entry id="str_incompatible_party_member_hexer_limit"><![CDATA[TODO:You can not FOOL me.]]></entry>
 <entry id="hexer+str_incompatible_party_member_hexer_limit"><![CDATA[TODO:I am UNIQUE.]]></entry>
 <entry id="hexer+str_override_invalid_rejection"><![CDATA[TODO:You EXPECT me to do what?]]></entry>
