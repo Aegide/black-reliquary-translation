@@ -1070,7 +1070,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_altar_shovel_effect"><![CDATA[Sa destruction vous rassure.]]></entry>
 <entry id="str_curio_kvarotz_altar_medicinal_herbs_effect"><![CDATA[L'autel purifié apporte un sentiment de bien-être.]]></entry>
 <entry id="str_curio_kvarotz_altar_arch_kit_effect"><![CDATA[ De terribles découvertes sont faites ...]]></entry>
-<entry id="str_curio_kvarotz_altar_holy_water_effect"><![CDATA[Les forces maléfiques sont apaisées ...]]></entry> 
+<entry id="str_curio_kvarotz_altar_holy_water_effect"><![CDATA[Les forces maléfiques sont apaisées ...]]></entry>
 <entry id="str_curio_kvarotz_altar_archaeologist_compendium_loot"><![CDATA[Le livre révèle l'emplacement de la pièce maîtresse !]]></entry>
 <entry id="str_curio_kvarotz_altar_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_armory"><![CDATA[Armurerie antique]]></entry>
@@ -1088,7 +1088,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_content_kvarotz_cannon"><![CDATA[Une arme de guerre Kvarotz, recouverte de poussière.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_cannon"><![CDATA[Examiner le canon ...]]></entry>
 <entry id="str_curio_kvarotz_cannon_nothing"><![CDATA[Le canon est abîmé et inutilisable.]]></entry>
-<entry id="str_curio_kvarotz_cannon_effect"><![CDATA[La poudre à canon Kvarotz est récupérée.]]></entry>
+<entry id="str_curio_kvarotz_cannon_effect"><![CDATA[La poudre à canon est récupérée.]]></entry>
 <entry id="str_curio_kvarotz_cannon_disease"><![CDATA[Le héros se blesse la main sur l'électrum rouillé.]]></entry>
 <entry id="str_curio_kvarotz_cannon_honing_oil_effect"><![CDATA[L'électrum du canon réagit étrangement ...]]></entry>
 <entry id="str_curio_kvarotz_cannon_arch_kit_loot"><![CDATA[Le canon est recouvert de pierres précieuses !]]></entry>
@@ -1152,12 +1152,12 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_levantine_defector_dog_treats_effect"><![CDATA["Hahaha, pas mal."]]></entry>
 <entry id="str_curio_levantine_defector_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_vending"><![CDATA[Distributeur Kvarotz]]></entry>
-<entry id="str_curio_content_kvarotz_vending"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
+<entry id="str_curio_content_kvarotz_vending"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'empire Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
 <entry id="str_curio_kvarotz_vending_archaeologist_compendium_loot"><![CDATA[Un compartiment derrière la machine est révélé !]]></entry>
 <entry id="str_curio_kvarotz_vending_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_vending_tutorial"><![CDATA[Distributeur Kvarotz]]></entry>
-<entry id="str_curio_content_kvarotz_vending_tutorial"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'époque de Kvarotz ...]]></entry>
+<entry id="str_curio_content_kvarotz_vending_tutorial"><![CDATA[VENDEUR : Il semble accepter uniquement la monnaie de l'empire Kvarotz ...]]></entry>
 <entry id="str_curio_kvarotz_vending_tutorial_bust_loot"><![CDATA[Un achat est effectué !]]></entry>
 <entry id="str_curio_kvarotz_vending_tutorial_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_monolith_piece"><![CDATA[TODO:Shard of the Monolith]]></entry>
@@ -3377,7 +3377,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_cure_poison_chance"><![CDATA[TODO:%+d%% {colour_start|blight}Blight{colour_end} Cure Chance]]></entry>
 <entry id="buff_stat_tooltip_guard_duration_percent"><![CDATA[Durée de la {colour_start|guard}garde{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_guard_duration_received_percent"><![CDATA[TODO:%+d%% {colour_start|guard}Guard{colour_end} Duration Received]]></entry>
-<entry id="buff_stat_tooltip_guard_blocked"><![CDATA[TODO:Can't be {colour_start|guard}Guarded{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_guard_blocked"><![CDATA[{colour_start|guard}Garde{colour_end} inefficace]]></entry>
 <entry id="buff_stat_tooltip_ambush_chance"><![CDATA[TODO:%+d%% Chance of being Ambushed]]></entry>
 <entry id="buff_rule_tooltip_target_hpabove"><![CDATA[TODO:{?string1}%s vs Targets above {?percent1}%d%% Max HP]]></entry>
 <entry id="buff_rule_tooltip_target_hpbelow"><![CDATA[TODO:{?string1}%s vs Targets below {?percent1}%d%% Max HP]]></entry>

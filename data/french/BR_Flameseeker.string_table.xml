@@ -683,7 +683,7 @@ Les autres concurrents sont priés de patienter jusqu'à la fin de l'événement
 
 <entry id="town_event_title_br_skill_issue"><![CDATA[Héritage]]></entry>
 <entry id="town_event_description_br_skill_issue"><![CDATA[L'un des derniers à avoir péri avait apparemment accumulé une belle fortune, qu'il a légué au navire.]]></entry>
-<entry id="town_event_info_br_skill_issue"><![CDATA[+30.000 {colour_start|notable}or{colour_end}]]></entry>
+<entry id="town_event_info_br_skill_issue"><![CDATA[+30.000 {colour_start|notable}d'or{colour_end}]]></entry>
 
 <entry id="town_event_title_br_free_galley"><![CDATA[Ertefest]]></entry>
 <entry id="town_event_description_br_free_galley"><![CDATA[Une vieille tradition Ostvengr ! Amusez-vous bien, mais soyez responsables - ce serait dommage de tomber.]]></entry>
