@@ -102,14 +102,18 @@ Cooldown: 2 tn(s), Self: -15% DMG, +15% DMG Received (2 tns), +40% {colour_start
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PILEBUNKER_DEBUFF_PROT_MELEE_TT"><![CDATA[On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -20%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_ELDRITCHFIRE_DEBUFF_RANGED_TT"><![CDATA[On Omnipistol Blast Hit: {colour_start|debuff}Debuff Target:{colour_end} +15%% DMG Taken if not Human {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_FRIENDLY_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +20 DODGE, +10 SPD if In Mech]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Buffs last for duration of Eldritch Core{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_DEBUFF_FRIENDLY_TT"><![CDATA[On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} -15%% PROT, -15%%]]></entry>
+		<entry id="buff_rule_data_tooltip_DREDGE_OSTVENGR_DEBUFF_FRIENDLY_TT2"><![CDATA[ {colour_start|bleed}Bleed{colour_end}/{colour_start|stun}Stun{colour_end}/{colour_start|move}Move{colour_end} Resist if In Mech]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_OSTVENGR_BUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Buffs/Debuffs last for duration of Eldritch Core{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_REDUCE_ELDRITCH_CORE_COOLDOWN_TT"><![CDATA[Reduces Cooldown on Eldritch Core to 3 tns]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_DEBUFF_FRIENDLY_TT"><![CDATA[On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} -30%% DMG, -8 ACC if In Mech]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_PROTOTYPE_DEBUFF_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Debuffs last for duration of Eldritch Core{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_NO_KILLING_ON_FOOT_TT"><![CDATA[Can't Deal Damage, Crit, or {colour_start|blight}Blight{colour_end} while On Foot]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_CHANGE_TO_AMBER_TT"><![CDATA[On Monster Kill: Equip {colour_start|amberblighted}Pure Amber Core{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}Lasts for duration of Eldritch Core{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_AMBER_CORE_RESET_HEAT_TT"><![CDATA[On Monster Kill: Reset {colour_start|debuff}Heat Level{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_SCOUT_IN_MECH_TT"><![CDATA[-20%% {colour_start|scouting}Scouting{colour_end} Chance if In Mech]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_RESISTS_IN_MECH_TT"><![CDATA[-15%% {colour_start|bleed}Bleed{colour_end}, {colour_start|stun}Stun{colour_end} and {colour_start|move}Move{colour_end} Resist if In Mech]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_RESISTS_IN_MECH_TT"><![CDATA[ if In Mech]]></entry>
 		
 		<entry id="buff_stat_tooltip_upgrade_discount_DREDGE_SMOKE_DEBUFFS_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end}
 		-10 DODGE]]></entry>
