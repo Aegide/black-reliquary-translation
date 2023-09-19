@@ -965,7 +965,7 @@ Monster Effects: -15% Bleed Resist
 Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
 
 	<entry id="str_glossary_term_1041"><![CDATA[Soul Leech]]></entry>
-    <entry id="str_glossary_term_definition_1041"><![CDATA[A special leech that can be used to extract the faith of an individual, turning them {colour_start|affiliation_faithless}Faithless{colour_end}.]]></entry>
+    <entry id="str_glossary_term_definition_1041"><![CDATA[A special leech that can be used to extract the faith of an individual, turning them Faithless.]]></entry>
 	
 	<!-- Load Screen Stuff -->
 	<entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -3866,7 +3866,10 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[{?string1}%s vs smaller than size {?decimal1}%d]]></entry>
 	
 	<entry id="buff_rule_tooltip_activated_first"><![CDATA[%s when acting First in the Party]]></entry>
+	<entry id="buff_rule_tooltip_activated_first_false"><![CDATA[%s when not acting First in the Party]]></entry>
+	
 	<entry id="buff_rule_tooltip_activated_last"><![CDATA[%s when acting Last in the Party]]></entry>
+	<entry id="buff_rule_tooltip_activated_last_false"><![CDATA[%s when not acting Last in the Party]]></entry>
 	
 	<entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[%+d {colour_start|healhp}Healing{colour_end} Done]]></entry>
 	<entry id="effect_tooltip_heal_percent_format"><![CDATA[{colour_start|healhp}Heal{colour_end} %d%% Max HP]]></entry>
@@ -4251,7 +4254,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 	<entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_SELF_DMG_TT"><![CDATA[On Attack: Self: {colour_start|harmful}Suffer{colour_end} 5 HP]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_DMG_TT1"><![CDATA[On Attack: {colour_start|buff}Buff Self:{colour_end} +25%% DMG while HP below 33%% {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_NEGATE_TT"><![CDATA[If HP below 33%%: Don't Suffer Damage from this Trinket]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% PROT, -15%% {colour_start|stress}Stress{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% PROT, -15%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_YAWP_TT"><![CDATA[Barbaric YAWP!: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_SHARED_TT"><![CDATA[On Ranged Attack Hit: {colour_start|buff}Buff Party:{colour_end} +15%% DMG, +3%% CRT]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_ACC_TT"><![CDATA[{colour_start|debuff}Debuff Party:{colour_end} -5 ACC]]></entry>
@@ -4591,7 +4594,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="str_inventory_title_trinketantiq_1"><![CDATA[Bag of Marbles]]></entry>
 	<entry id="str_inventory_title_trinketantiq_2"><![CDATA[Bloodcourse Medallion]]></entry>
 	<entry id="str_inventory_title_trinketantiq_3"><![CDATA[Carapace Idol]]></entry>
-	<entry id="str_inventory_title_trinketantiq_4"><![CDATA[Fleet Florin]]></entry>
+	<entry id="str_inventory_title_trinketantiq_4"><![CDATA[Corroded Florin]]></entry>
 	<entry id="str_inventory_title_trinketantiq_5"><![CDATA[Half Burnt Candle]]></entry>
 	<entry id="str_inventory_title_trinketarchers_ring"><![CDATA[Archer's Ring]]></entry>
 	<entry id="str_inventory_title_trinketbeast_slayers_ring"><![CDATA[Beast Slayer's Ring]]></entry>
@@ -5029,6 +5032,13 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	
 	<!-- Tooltips (Heroes) -->
 	<entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[Can Only Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ON_PREP_EFFECT_TT"><![CDATA[On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_AFTER_PREP_EFFECT_TT"><![CDATA[Otherwise:]]></entry>
+	<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT1"><![CDATA[{colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT2"><![CDATA[{colour_start|skill_unselectable}(122% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT3"><![CDATA[{colour_start|skill_unselectable}(135% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT4"><![CDATA[{colour_start|skill_unselectable}(147% base){colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT5"><![CDATA[{colour_start|skill_unselectable}(160% base){colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_BUFF_TT"><![CDATA[{colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
@@ -5911,6 +5921,10 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
     <entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[I know it now... I cannot hide any longer!]]></entry>
 	<entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[This warmth... this joy... I feel the Light within me!]]></entry>
     <entry id="quirk_transition_1_pagan_to_1_religious"><![CDATA[My heart and mind- they are at last unburdened by the Light!]]></entry>
+	
+	<entry id="quirk_transition_1_faithless_to_1_faithless"><![CDATA[I feel no difference...]]></entry>
+	<entry id="quirk_transition_1_pagan_to_1_pagan"><![CDATA[I feel no difference...]]></entry>
+	<entry id="quirk_transition_1_religious_to_1_religious"><![CDATA[I feel no difference...]]></entry>
 	<entry id="str_faithless"><![CDATA[Faithless]]></entry>
 	<entry id="str_pagan"><![CDATA[Pagan]]></entry>
 	<entry id="str_religious"><![CDATA[Religious]]></entry>

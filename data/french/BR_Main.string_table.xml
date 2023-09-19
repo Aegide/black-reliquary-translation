@@ -861,7 +861,7 @@ Treasury - Living Extract - Debuffs Healing Received and Blight Resistance]]></e
 Monster Effects: +15% Bleed Resist
 Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
 <entry id="str_glossary_term_1041"><![CDATA[Sangsue spirituelle]]></entry>
-<entry id="str_glossary_term_definition_1041"><![CDATA[Une sangsue spéciale qui peut être utilisée pour retirer la foi d'un individu, le rendant {colour_start|affiliation_faithless}athée{colour_end}.]]></entry>
+<entry id="str_glossary_term_definition_1041"><![CDATA[Une sangsue spéciale qui peut être utilisée pour retirer la foi d'un individu, le rendant athée.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Certains aspects du "Chasseur de la Flamme" pourront changer au cours du développement de Black Reliquary.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -3386,7 +3386,9 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_monsterSize"><![CDATA[{?string1}%s vs taille {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[{?string1}%s vs autre que taille {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_activated_first"><![CDATA[TODO:%s when acting First in the Party]]></entry>
+<entry id="buff_rule_tooltip_activated_first_false"><![CDATA[TODO:%s when not acting First in the Party]]></entry>
 <entry id="buff_rule_tooltip_activated_last"><![CDATA[TODO:%s when acting Last in the Party]]></entry>
+<entry id="buff_rule_tooltip_activated_last_false"><![CDATA[TODO:%s when not acting Last in the Party]]></entry>
 <entry id="buff_stat_tooltip_hp_heal_amount"><![CDATA[Compétences de {colour_start|healhp}soin{colour_end} %+d]]></entry>
 <entry id="effect_tooltip_heal_percent_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d%% Max HP]]></entry>
 <entry id="effect_health_damage_format"><![CDATA[TODO:{colour_start|harmful}Suffer{colour_end} %d HP]]></entry>
@@ -3718,7 +3720,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_SELF_DMG_TT"><![CDATA[On Attack: Self: {colour_start|harmful}Suffer{colour_end} 5 HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_DMG_TT1"><![CDATA[On Attack: {colour_start|buff}Buff Self:{colour_end} +25%% DMG while HP below 33%% {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_NEGATE_TT"><![CDATA[TODO:If HP below 33%%: Don't Suffer Damage from this Trinket]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% PROT, -15%% {colour_start|stress}Stress{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% PROT, -15%% {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_YAWP_TT"><![CDATA[TODO:Barbaric YAWP!: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_SHARED_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Party:{colour_end} +15%% DMG, +3%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_ACC_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Party:{colour_end} -5 ACC]]></entry>
@@ -4011,7 +4013,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinketantiq_1"><![CDATA[Sac de billes]]></entry>
 <entry id="str_inventory_title_trinketantiq_2"><![CDATA[Médaillon de jade]]></entry>
 <entry id="str_inventory_title_trinketantiq_3"><![CDATA[Idole de la carapace]]></entry>
-<entry id="str_inventory_title_trinketantiq_4"><![CDATA[Doublon de la flotte]]></entry>
+<entry id="str_inventory_title_trinketantiq_4"><![CDATA[Florin corrodé]]></entry>
 <entry id="str_inventory_title_trinketantiq_5"><![CDATA[Bougie brûlée]]></entry>
 <entry id="str_inventory_title_trinketarchers_ring"><![CDATA[Anneau d'archer]]></entry>
 <entry id="str_inventory_title_trinketbeast_slayers_ring"><![CDATA[Anneau de tueur de bêtes]]></entry>
@@ -4420,7 +4422,14 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_bark_amber_powder"><![CDATA[TODO:What will they think of next?]]></entry>
 <entry id="str_bark_amber_powder"><![CDATA[TODO:Who'd have guessed this would work in powder?]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[TODO:Can Only Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ON_PREP_EFFECT_TT"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_AFTER_PREP_EFFECT_TT"><![CDATA[TODO:Otherwise:]]></entry>
+<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT1"><![CDATA[TODO:{colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}(122% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}(135% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}(147% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT5"><![CDATA[TODO:{colour_start|skill_unselectable}(160% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[TODO:{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_BUFF_TT"><![CDATA[TODO:{colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_absolution"><![CDATA[Absolution]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_CLEAR_GUARD_GUARDING_TT"><![CDATA[TODO:Breaks {colour_start|guard}Guard{colour_end}]]></entry>
@@ -5151,6 +5160,9 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[TODO:I know it now... I cannot hide any longer!]]></entry>
 <entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[TODO:This warmth... this joy... I feel the Light within me!]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_religious"><![CDATA[TODO:My heart and mind- they are at last unburdened by the Light!]]></entry>
+<entry id="quirk_transition_1_faithless_to_1_faithless"><![CDATA[Aucune différence...]]></entry>
+<entry id="quirk_transition_1_pagan_to_1_pagan"><![CDATA[Aucune différence ...]]></entry>
+<entry id="quirk_transition_1_religious_to_1_religious"><![CDATA[Aucune différence ...]]></entry>
 <entry id="str_faithless"><![CDATA[Athée]]></entry>
 <entry id="str_pagan"><![CDATA[Pagan]]></entry>
 <entry id="str_religious"><![CDATA[Religious]]></entry>
