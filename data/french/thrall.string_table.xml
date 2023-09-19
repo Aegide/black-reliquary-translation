@@ -186,7 +186,7 @@
 <entry id="party_name_2044"><![CDATA[TODO:When the Cows Come Home]]></entry>
 <entry id="party_name_2045"><![CDATA[TODO:Ram Wranglers]]></entry>
 <entry id="party_name_2046"><![CDATA[TODO:ANGER]]></entry>
-<entry id="party_name_2047"><![CDATA[TODO:Frankenstein]]></entry>
+<entry id="party_name_2047"><![CDATA[Frankenstein]]></entry>
 <entry id="party_name_2048"><![CDATA[TODO:Mazerunner]]></entry>
 <entry id="party_name_2049"><![CDATA[TODO:Cow Tipping]]></entry>
 <entry id="party_name_2050"><![CDATA[TODO:Petting Zoo]]></entry>
@@ -202,7 +202,7 @@
 <entry id="party_name_2060"><![CDATA[TODO:Killers and Thugs]]></entry>
 <entry id="thrall+str_bark_deathsdoor"><![CDATA[TODO:No...I will not perish...]]></entry>
 <entry id="thrall+str_critbyhero"><![CDATA[TODO:BLOOD AND GORE!]]></entry>
-<entry id="thrall+str_critbyhero"><![CDATA[TODO:HRRRAAAAAWWWRRR!!!]]></entry>
+<entry id="thrall+str_critbyhero"><![CDATA[HRRRAAAAAWWWRRR !!!]]></entry>
 <entry id="thrall+str_critbyhero"><![CDATA[TODO:I AM UNSTOPPABLE!]]></entry>
 <entry id="thrall+str_critbyhero"><![CDATA[TODO:CRUSHED INTO PULP!]]></entry>
 <entry id="thrall+str_critbyhero"><![CDATA[TODO:YOU CHALLENGE A GOD!]]></entry>
@@ -216,15 +216,15 @@
 <entry id="str_bark_dominus"><![CDATA[TODO:You have no control over me. I will do as I please.]]></entry>
 <entry id="str_inventory_title_trinketthrall_sturdy_faceplate"><![CDATA[Protège-visage robuste]]></entry>
 <entry id="str_inventory_title_trinketthrall_splintered_trident"><![CDATA[Trident fragmenté]]></entry>
-<entry id="str_inventory_title_trinketthrall_stampeding_girdle"><![CDATA[Ceinture d'auroch]]></entry>
+<entry id="str_inventory_title_trinketthrall_stampeding_girdle"><![CDATA[Ceinture du minotaure]]></entry>
 <entry id="str_inventory_title_trinketthrall_impaling_pauldron"><![CDATA[Épaulière perçante]]></entry>
 <entry id="str_inventory_title_trinketthrall_the_masters_lash"><![CDATA[Le fouet du Maître]]></entry>
 <entry id="str_inventory_title_trinketthrall_the_crowd_favorite"><![CDATA[Le préféré de la Foule]]></entry>
 <entry id="str_inventory_title_trinketthrall_seismic_sensor"><![CDATA[Amplificateur sismique]]></entry>
-<entry id="str_inventory_set_title_cc_thrall"><![CDATA[TODO:"MY WILL IS MY OWN!"]]></entry>
+<entry id="str_inventory_set_title_cc_thrall"><![CDATA["MA VOLONTÉ EST MIENNE !"]]></entry>
 <entry id="hero_class_name_thrall"><![CDATA[Gladiateur]]></entry>
 <entry id="combat_skill_name_thrall_maim"><![CDATA[Estropier]]></entry>
-<entry id="combat_skill_name_thrall_gore"><![CDATA[TODO:Gore]]></entry>
+<entry id="combat_skill_name_thrall_gore"><![CDATA[Brise-crâne]]></entry>
 <entry id="combat_skill_name_thrall_indomitable_will"><![CDATA[Indomptable]]></entry>
 <entry id="combat_skill_name_thrall_torment"><![CDATA[Menace]]></entry>
 <entry id="combat_skill_name_thrall_savagery"><![CDATA[Sauvagerie]]></entry>
@@ -233,7 +233,7 @@
 <entry id="combat_skill_name_thrall_holy_punch"><![CDATA[TODO:Holy Punch {colour_start|white}ɾ{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="combat_skill_name_thrall_move"><![CDATA[Déplacement]]></entry>
 <entry id="upgrade_tree_name_thrall.maim"><![CDATA[Estropier]]></entry>
-<entry id="upgrade_tree_name_thrall.gore"><![CDATA[TODO:Gore]]></entry>
+<entry id="upgrade_tree_name_thrall.gore"><![CDATA[Brise-crâne]]></entry>
 <entry id="upgrade_tree_name_thrall.indomitable_will"><![CDATA[Indomptable]]></entry>
 <entry id="upgrade_tree_name_thrall.torment"><![CDATA[Menace]]></entry>
 <entry id="upgrade_tree_name_thrall.savagery"><![CDATA[Sauvagerie]]></entry>
@@ -256,7 +256,7 @@
 <entry id="thrall_armour_4"><![CDATA["Le collier de la Bête"]]></entry>
 <entry id="upgrade_tree_name_thrall.armour"><![CDATA[Casque]]></entry>
 <entry id="str_inventory_title_trinketthrall_the_masters_lash"><![CDATA[Le fouet du Maître]]></entry>
-<entry id="str_inventory_title_trinketthrall_the_crowd_favorite"><![CDATA[Le Préféré de la Foule]]></entry>
+<entry id="str_inventory_title_trinketthrall_the_crowd_favorite"><![CDATA[Le préféré de la Foule]]></entry>
 <entry id="str_inventory_set_title_cc_thrall"><![CDATA["MA VOLONTÉ EST MIENNE !"]]></entry>
 <entry id="action_verbose_body_guild_thrall"><![CDATA[TODO:Born a slave and forced to fight for his master's pleasure, the Thrall is a monster amongst men. Any who futily assault this impenetrable beast will soon find themselves crushed to pulp as the Thrall unleashes a brutal counter-attack as punishment for defying him. However, should the Thrall feel his life is threatened, he will enter an uncontrollable rage. He will deny orders and do as he pleases as he destroys friend and foe alike.]]></entry>
 <entry id="action_verbose_body_blacksmith_thrall"><![CDATA[TODO:The Thrall uses the weapons he is most familiar with, his twin cestuses. In brutal fashion, he crushes and maims any unfortunate enough to cross his path. His body is left bare to display the countless scars inflicted by his opponents and his master.]]></entry>
