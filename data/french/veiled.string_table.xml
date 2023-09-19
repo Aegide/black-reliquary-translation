@@ -1,37 +1,37 @@
 <entry id="hero_class_name_veiled"><![CDATA[Veilleur]]></entry>
-	  
-<entry id="veiled_armour_0"><![CDATA[TODO:Torn Veil]]></entry>
-<entry id="veiled_armour_1"><![CDATA[TODO:Dusty Veil]]></entry>
-<entry id="veiled_armour_2"><![CDATA[TODO:Fine Veil]]></entry>
-<entry id="veiled_armour_3"><![CDATA[TODO:Silken Veil]]></entry>
-<entry id="veiled_armour_4"><![CDATA[TODO:"Futility"]]></entry>
-<entry id="upgrade_tree_name_veiled.armour"><![CDATA[TODO:Veil]]></entry>
-<entry id="veiled_weapon_0"><![CDATA[TODO:Crooked Staff, Chipped Sword Breaker]]></entry>
-<entry id="veiled_weapon_1"><![CDATA[TODO:Mended Staff, Reforged Sword Breaker]]></entry>
-<entry id="veiled_weapon_2"><![CDATA[TODO:Dark Staff, Sharp Sword Breaker]]></entry>
-<entry id="veiled_weapon_3"><![CDATA[TODO:Malevolent Staff, Serrated Sword Breaker]]></entry>
-<entry id="veiled_weapon_4"><![CDATA[TODO:"Misery & Company"]]></entry>
-<entry id="upgrade_tree_name_veiled.weapon"><![CDATA[TODO:Staff and Sword Breaker]]></entry>
-	
-  
-<entry id="combat_skill_name_veiled_veil_unnamed_melee"><![CDATA[TODO:Disfigure]]></entry>
-<entry id="combat_skill_name_veiled_veil_hex"><![CDATA[TODO:Enfeeblement]]></entry>
-<entry id="combat_skill_name_veiled_veil_heal"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Give To The Living]]></entry>
-<entry id="combat_skill_name_veiled_veil_lifesteal"><![CDATA[TODO:Withering Chant]]></entry>
-<entry id="combat_skill_name_veiled_veil_grave_grasp"><![CDATA[TODO:Grave Grasp]]></entry>
-<entry id="combat_skill_name_veiled_veil_dd_dmg"><![CDATA[TODO:Pierce The Veil]]></entry>
-<entry id="combat_skill_name_veiled_veil_dd_heal"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Death Wish]]></entry>
+
+<entry id="veiled_armour_0"><![CDATA[Voile déchiré]]></entry>
+<entry id="veiled_armour_1"><![CDATA[Voile poussiéreux]]></entry>
+<entry id="veiled_armour_2"><![CDATA[Voile fin]]></entry>
+<entry id="veiled_armour_3"><![CDATA[Voile de soie]]></entry>
+<entry id="veiled_armour_4"><![CDATA["Futilité"]]></entry>
+<entry id="upgrade_tree_name_veiled.armour"><![CDATA[Voile]]></entry>
+<entry id="veiled_weapon_0"><![CDATA[Bâton tordu, brise-épée ébréché]]></entry>
+<entry id="veiled_weapon_1"><![CDATA[Bâton réparé, brise-épée reforgé]]></entry>
+<entry id="veiled_weapon_2"><![CDATA[Bâton sombre, brise-épée tranchant]]></entry>
+<entry id="veiled_weapon_3"><![CDATA[Bâton malveillant, brise-épée dentelé]]></entry>
+<entry id="veiled_weapon_4"><![CDATA["Misère et compagnie"]]></entry>
+<entry id="upgrade_tree_name_veiled.weapon"><![CDATA[Bâton et brise-épée]]></entry>
+
+
+<entry id="combat_skill_name_veiled_veil_unnamed_melee"><![CDATA[Défigurer]]></entry>
+<entry id="combat_skill_name_veiled_veil_hex"><![CDATA[Affaiblissement]]></entry>
+<entry id="combat_skill_name_veiled_veil_heal"><![CDATA[{colour_start|white}əəəə{colour_end}
+Donner aux vivants]]></entry>
+<entry id="combat_skill_name_veiled_veil_lifesteal"><![CDATA[Chant du fléau]]></entry>
+<entry id="combat_skill_name_veiled_veil_grave_grasp"><![CDATA[Poigne des morts]]></entry>
+<entry id="combat_skill_name_veiled_veil_dd_dmg"><![CDATA[Percer le voile]]></entry>
+<entry id="combat_skill_name_veiled_veil_dd_heal"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Souhait mortel]]></entry>
 <entry id="combat_skill_name_veiled_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_unnamed_melee"><![CDATA[TODO:Disfigure]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_hex"><![CDATA[TODO:Enfeeblement]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_heal"><![CDATA[TODO:Give To The Living]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_lifesteal"><![CDATA[TODO:Withering Chant]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_grave_grasp"><![CDATA[TODO:Grave Grasp]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_dd_dmg"><![CDATA[TODO:Pierce The Veil]]></entry>
-<entry id="upgrade_tree_name_veiled.veil_dd_heal"><![CDATA[TODO:Death Wish]]></entry>
-<entry id="str_skill_mode_info_fullhp"><![CDATA[TODO: ]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_unnamed_melee"><![CDATA[Défigurer]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_hex"><![CDATA[Affaiblissement]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_heal"><![CDATA[Donner aux vivants]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_lifesteal"><![CDATA[Chant du fléau]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_grave_grasp"><![CDATA[Poigne des morts]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_dd_dmg"><![CDATA[Percer le voile]]></entry>
+<entry id="upgrade_tree_name_veiled.veil_dd_heal"><![CDATA[Souhait mortel]></entry>
+<entry id="str_skill_mode_info_fullhp"><![CDATA[ ]]></entry>
 <entry id="str_skill_mode_info_seventyhp"><![CDATA[TODO:{colour_start|notable}If HP below 70 % {colour_end}]]></entry>
 <entry id="str_skill_mode_info_fourtyhp"><![CDATA[TODO:{colour_start|notable}If HP below 40 % {colour_end}]]></entry>
 <entry id="str_skill_mode_info_tenhp"><![CDATA[TODO:{colour_start|notable}If HP below 10 % {colour_end}]]></entry>
@@ -70,19 +70,19 @@ Death Wish]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +10% {colour_start|deathdoor}Death Blow{colour_end} Resist]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT3"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
-<entry id="str_inventory_title_trinketveiled_common"><![CDATA[TODO:Wreath of Bones]]></entry>
-<entry id="str_inventory_title_trinketveiled_uncommon"><![CDATA[TODO:Necrotic Crown]]></entry>
-<entry id="str_inventory_title_trinketveiled_rare"><![CDATA[TODO:Amber Vessel]]></entry>
-<entry id="str_inventory_title_trinketveiled_very_rare"><![CDATA[TODO:Baleful Vessel]]></entry>
-<entry id="str_inventory_title_trinketveiled_cc_1"><![CDATA[TODO:Bride's Veil]]></entry>
-<entry id="str_inventory_title_trinketveiled_cc_2"><![CDATA[TODO:Mortal's Failure]]></entry>
+<entry id="str_inventory_title_trinketveiled_common"><![CDATA[Couronne d'ossements]]></entry>
+<entry id="str_inventory_title_trinketveiled_uncommon"><![CDATA[Couronne nécrosée]]></entry>
+<entry id="str_inventory_title_trinketveiled_rare"><![CDATA[Vase d'ambre]]></entry>
+<entry id="str_inventory_title_trinketveiled_very_rare"><![CDATA[Vase maléfique]]></entry>
+<entry id="str_inventory_title_trinketveiled_cc_1"><![CDATA[Voile de la mariée]]></entry>
+<entry id="str_inventory_title_trinketveiled_cc_2"><![CDATA[Échec du mortel]]></entry>
 <entry id="str_inventory_title_trinketveiled_contraband"><![CDATA[Crânes de perdition]]></entry>
 <entry id="str_inventory_set_title_cc_veiled"><![CDATA[TODO:"At last, I share her dreadful fate."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_1"><![CDATA[TODO:"It would give its all to feel again."]]></entry>
 <entry id="str_inventory_set_title_veiled_com_2"><![CDATA[TODO:"Fragile, yet indestructable creation."]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_70hp_fx"><![CDATA[TODO: ]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_40hp_fx"><![CDATA[TODO: ]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_10hp_fx"><![CDATA[TODO: ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_70hp_fx"><![CDATA[ ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_40hp_fx"><![CDATA[ ]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_10hp_fx"><![CDATA[ ]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_hex_stun_tooltip_1"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_hex_stun_tooltip_2"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_hex_stun_tooltip_3"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
