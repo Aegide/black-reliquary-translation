@@ -11,32 +11,32 @@
 <entry id="hexer_armour_2"><![CDATA[TODO:Toxic Jacket, Nocturnal Cloak]]></entry>
 <entry id="hexer_armour_3"><![CDATA[TODO:Noxious Jacket, Devouring Cloak]]></entry>
 <entry id="hexer_armour_4"><![CDATA[TODO:"The Virulent & The Thirsty"]]></entry>
-<entry id="str_inventory_title_trinkethexer_feet_on_rope"><![CDATA[TODO:Trotter's Snack]]></entry>
-<entry id="str_inventory_title_trinkethexer_beating_heart"><![CDATA[TODO:Unceasing Vigor]]></entry>
-<entry id="str_inventory_title_trinkethexer_pure_injection"><![CDATA[TODO:Blissful Moment]]></entry>
-<entry id="str_inventory_title_trinkethexer_impure_injection"><![CDATA[TODO:Abyssal Delight]]></entry>
-<entry id="str_inventory_title_trinkethexer_turning_point"><![CDATA[TODO:Figments Of The Past]]></entry>
-<entry id="str_inventory_title_trinkethexer_exquisite_humors"><![CDATA[TODO:Exquisite Meal]]></entry>
+<entry id="str_inventory_title_trinkethexer_feet_on_rope"><![CDATA[Encas itinérant]]></entry>
+<entry id="str_inventory_title_trinkethexer_beating_heart"><![CDATA[Vigueur incessante]]></entry>
+<entry id="str_inventory_title_trinkethexer_pure_injection"><![CDATA[Moment de bonheur]]></entry>
+<entry id="str_inventory_title_trinkethexer_impure_injection"><![CDATA[Délice abyssal]]></entry>
+<entry id="str_inventory_title_trinkethexer_turning_point"><![CDATA[Figures du passé]]></entry>
+<entry id="str_inventory_title_trinkethexer_exquisite_humors"><![CDATA[Repas exquis]]></entry>
 <entry id="str_inventory_title_trinkethexer_parasite"><![CDATA[Parasite zéro]]></entry>
 <entry id="str_inventory_set_title_hexer_cc"><![CDATA[TODO:"Nothing COMPARES to it... Just what made it so delectable?"]]></entry>
-<entry id="combat_skill_name_hexer_hexer_melt"><![CDATA[TODO:Melt]]></entry>
-<entry id="combat_skill_name_hexer_hexer_malicious"><![CDATA[TODO:Malicious]]></entry>
-<entry id="combat_skill_name_hexer_hexer_malform"><![CDATA[TODO:Malform]]></entry>
-<entry id="combat_skill_name_hexer_hexer_excruciating_pain"><![CDATA[TODO:Excruciating Pain]]></entry>
-<entry id="combat_skill_name_hexer_hexer_putrefied_flesh"><![CDATA[TODO:Putrefied Flesh]]></entry>
-<entry id="combat_skill_name_hexer_hexer_eroded_mind"><![CDATA[TODO:Eroded Mind]]></entry>
-<entry id="combat_skill_name_hexer_hexer_ichor_incantation"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Ichor Incantation]]></entry>
+<entry id="combat_skill_name_hexer_hexer_melt"><![CDATA[Liquéfaction]]></entry>
+<entry id="combat_skill_name_hexer_hexer_malicious"><![CDATA[Malice]]></entry>
+<entry id="combat_skill_name_hexer_hexer_malform"><![CDATA[Déformation]]></entry>
+<entry id="combat_skill_name_hexer_hexer_excruciating_pain"><![CDATA[Douleur atroce]]></entry>
+<entry id="combat_skill_name_hexer_hexer_putrefied_flesh"><![CDATA[Chair putréfiée]]></entry>
+<entry id="combat_skill_name_hexer_hexer_eroded_mind"><![CDATA[Érosion mentale]]></entry>
+<entry id="combat_skill_name_hexer_hexer_ichor_incantation"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Incantation d'ichor]]></entry>
 <entry id="combat_skill_name_hexer_move"><![CDATA[Déplacement]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_melt"><![CDATA[TODO:Melt]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_malicious"><![CDATA[TODO:Malicious]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_malform"><![CDATA[TODO:Malform]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_excruciating_pain"><![CDATA[TODO:Excruciating Pain]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_putrefied_flesh"><![CDATA[TODO:Putrefied Flesh]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_eroded_mind"><![CDATA[TODO:Eroded Mind]]></entry>
-<entry id="upgrade_tree_name_hexer.hexer_ichor_incantation"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Ichor Incantation]]></entry>
-<entry id="camping_skill_name_hexer_cannibalize_corpses"><![CDATA[TODO:CANNIBALIZE CORPSES]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_melt"><![CDATA[Liquéfaction]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_malicious"><![CDATA[Malice]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_malform"><![CDATA[Déformation]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_excruciating_pain"><![CDATA[Douleur atroce]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_putrefied_flesh"><![CDATA[Chair putréfiée]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_eroded_mind"><![CDATA[Érosion mentale]]></entry>
+<entry id="upgrade_tree_name_hexer.hexer_ichor_incantation"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Incantation d'ichor]]></entry>
+<entry id="camping_skill_name_hexer_cannibalize_corpses"><![CDATA[Cadavre exquis]]></entry>
 <entry id="camping_skill_name_hexer_serum_5150"><![CDATA[TODO:SERUM 5150]]></entry>
 <entry id="camping_skill_name_hexer_enthroned"><![CDATA[TODO:ENTHRONED]]></entry>
 <entry id="camping_skill_name_hexer_sanguis_metallica"><![CDATA[TODO:SANGUIS METALLICA]]></entry>

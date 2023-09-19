@@ -4093,7 +4093,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinketdodge_stone"><![CDATA[Pierre d'esquive]]></entry>
 <entry id="str_inventory_title_trinketdodgy_sheath"><![CDATA[Fourreau d'esquive]]></entry>
 <entry id="str_inventory_title_trinketdouble_edged_pendant"><![CDATA[Pendentif tranchant]]></entry>
-<entry id="str_inventory_title_trinketdrifters_buckle"><![CDATA[TODO:Scoundrel's Buckle]]></entry>
+<entry id="str_inventory_title_trinketdrifters_buckle"><![CDATA[Boucle de fripouille]]></entry>
 <entry id="str_inventory_title_trinketeldritch_killing_incense"><![CDATA[Encens de clarté]]></entry>
 <entry id="str_inventory_title_trinketeldritch_slayers_ring"><![CDATA[Anneau de tueur d'horreurs]]></entry>
 <entry id="str_inventory_title_trinketevasion_incense"><![CDATA[Encens d'évasion]]></entry>
@@ -4365,10 +4365,10 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinkethungry_friend"><![CDATA[Grenouille adorable]]></entry>
 <entry id="str_inventory_title_trinketplate_of_the_storm_king"><![CDATA[Armure du roi des tempêtes]]></entry>
 <entry id="str_inventory_title_trinketfoul_fruit"><![CDATA[Fruit infect]]></entry>
-<entry id="str_inventory_title_trinketcommon_breakfast"><![CDATA[TODO:Breakfast]]></entry>
-<entry id="str_inventory_title_trinketuncommon_breakfast"><![CDATA[TODO:Breakfast]]></entry>
-<entry id="str_inventory_title_trinketrare_breakfast"><![CDATA[TODO:Breakfast]]></entry>
-<entry id="str_inventory_title_trinketvery_rare_breakfast"><![CDATA[TODO:Breakfast]]></entry>
+<entry id="str_inventory_title_trinketcommon_breakfast"><![CDATA[Petit-déjeuner]]></entry>
+<entry id="str_inventory_title_trinketuncommon_breakfast"><![CDATA[Petit-déjeuner]]></entry>
+<entry id="str_inventory_title_trinketrare_breakfast"><![CDATA[Petit-déjeuner]]></entry>
+<entry id="str_inventory_title_trinketvery_rare_breakfast"><![CDATA[Petit-déjeuner]]></entry>
 <entry id="str_inventory_set_title_jani_trophies"><![CDATA[TODO:"Condemned to this valley, fated to an honest death."]]></entry>
 <entry id="str_inventory_set_title_ench_trophies"><![CDATA[TODO:"A snake's corpse left to the scavengers. As it should be."]]></entry>
 <entry id="str_inventory_set_title_warhawk_trophies"><![CDATA[TODO:"We will show them what true war is."]]></entry>
