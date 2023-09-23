@@ -3297,7 +3297,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_STUN_TT"><![CDATA[TODO:Can't {colour_start|stun}Stun{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_IGNORE_ARMOR_TT"><![CDATA[Perçage d'armure]]></entry>
 <entry id="skill_ignore_protection"><![CDATA[TODO:{colour_start|neon_pink}Banned Feature{colour_end} use Buff-based Armor Piercing Instead]]></entry>
-<entry id="enemy_type_name_RANDOM_TARGET_ATTACK"><![CDATA[TODO:Random Target]]></entry>
+<entry id="enemy_type_name_RANDOM_TARGET_ATTACK"><![CDATA[Cible aléatoire]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_round_format"><![CDATA[%s]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_before_turn_format"><![CDATA[%s (%d tours)]]></entry>
 <entry id="tray_icon_tooltip_buff_duration_after_turn_format"><![CDATA[%s (%d tours)]]></entry>
@@ -4739,7 +4739,7 @@ Les bonus offsensifs sont réduits de moitié ]]></entry>
 <entry id="combat_skill_name_grave_robber_bash"><![CDATA[Coup de pelle]]></entry>
 <entry id="upgrade_tree_name_grave_robber.bash"><![CDATA[Coup de pelle]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_COOLDOWN"><![CDATA[Disparition en récupération]]></entry>
-<entry id="camping_skill_effect_loot_SHOVELONLY"><![CDATA[Produit une pelle]]></entry> 
+<entry id="camping_skill_effect_loot_SHOVELONLY"><![CDATA[Produit une pelle]]></entry>
 <entry id="camping_skill_effect_loot_DISEASEKITONLY"><![CDATA[Produit une trousse médicinale]]></entry>
 <entry id="camping_skill_effect_loot_DISEASEKIT2"><![CDATA[Produit 2 trousses médicinales]]></entry>
 <entry id="camping_skill_effect_loot_T"><![CDATA[Produit une breloque aléatoire]]></entry>
