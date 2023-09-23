@@ -98,7 +98,7 @@ Death Wish]]></entry>
 	
 	<entry id="str_inventory_set_title_cc_veiled"><![CDATA["At last, I share her dreadful fate."]]></entry>
 	<entry id="str_inventory_set_title_veiled_com_1"><![CDATA["It would give its all to feel again."]]></entry>
-	<entry id="str_inventory_set_title_veiled_com_2"><![CDATA["Fragile, yet indestructable creation."]]></entry>
+	<entry id="str_inventory_set_title_veiled_com_2"><![CDATA["Fragile, yet indestructible creation."]]></entry>
 	
 	<!--tooltips-->
 	
@@ -585,7 +585,7 @@ Death Wish]]></entry>
 	<entry id="str_bark_veil_camp_skill_2"><![CDATA[No rest for the wicked.]]></entry>
 	<entry id="str_bark_veil_camp_skill_2"><![CDATA[Rest is for the living. Vengeance is for the undead.]]></entry>
 	
-    <entry id="str_bark_veil_camp_skill_3"><![CDATA[I shall begrudingly let you touch my hand for this ritual.]]></entry>
+    <entry id="str_bark_veil_camp_skill_3"><![CDATA[I shall begrudgingly let you touch my hand for this ritual.]]></entry>
 	<entry id="str_bark_veil_camp_skill_3"><![CDATA[(dark, whispered chanting)]]></entry>
 	<entry id="str_bark_veil_camp_skill_3"><![CDATA[Feel the uncaring cold of death, and shrug it off.]]></entry>
 	
@@ -1185,7 +1185,7 @@ Death Wish]]></entry>
 	
 	<entry id="veiled+str_change_pos_back_color_madness"><![CDATA[Dancing with colour pulls me back.]]></entry>
 	<entry id="veiled+str_change_pos_back_color_madness"><![CDATA[It's so unearthly beautiful! You must see it closer!]]></entry>
-	<entry id="veiled+str_change_pos_back_color_madness"><![CDATA[I can't bear to be without this turqouise!]]></entry>
+	<entry id="veiled+str_change_pos_back_color_madness"><![CDATA[I can't bear to be without this turquoise!]]></entry>
 	
 	<entry id="veiled+str_change_pos_fwd_color_madness"><![CDATA[Yes! Burn my vision! Burn my body!]]></entry>
 	<entry id="veiled+str_change_pos_fwd_color_madness"><![CDATA[The song of colours calls out to me!]]></entry>
@@ -1272,7 +1272,7 @@ Death Wish]]></entry>
 	
 	<!--courageous-->
 	
-	<entry id="veiled+str_virtued_courageous"><![CDATA[The normality of our foes is appaling.]]></entry>
+	<entry id="veiled+str_virtued_courageous"><![CDATA[The normality of our foes is appalling.]]></entry>
 	<entry id="veiled+str_virtued_courageous"><![CDATA[Death walks amongst you. You have no need to be afraid of such simple foes.]]></entry>
 	<entry id="veiled+str_virtued_courageous"><![CDATA[Let us show them how death truly looks like!]]></entry>
 	

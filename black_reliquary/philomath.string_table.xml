@@ -314,7 +314,7 @@
 <entry id="philomath+str_wave_dungeon_warrens"><![CDATA[This odor... I'd rather return to rotten crops!]]></entry>
 <entry id="philomath+str_wave_dungeon_warrens"><![CDATA[How does one navigate this hell?!]]></entry>
 <entry id="philomath+str_wave_dungeon_crypts"><![CDATA[This rubble... Have I treaded it before?]]></entry>
-<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[Endless sarcoghagi in endless catacombs...]]></entry>
+<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[Endless sarcophagi in endless catacombs...]]></entry>
 <entry id="philomath+str_wave_dungeon_cove"><![CDATA[These waters ebb and flow at the same time...]]></entry>
 <entry id="philomath+str_wave_dungeon_cove"><![CDATA[These caves are... Are impossible!]]></entry>
 <entry id="philomath+str_wave_dungeon_farm"><![CDATA[This soil... Familiar, yet alien.]]></entry>
@@ -496,7 +496,7 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="philomath_armour_4"><![CDATA["The Savant"]]></entry>
 <entry id="upgrade_tree_name_philomath.armour"><![CDATA[Skyman's Attire]]></entry>
 
-<entry id="action_verbose_body_guild_philomath"><![CDATA[Once a collegiate young woman, she now bears the invisible puppet strings of the otherwordly. Where others would have broken, her mind prevailed in standing against the forces she recklessly reached for. The horrors of beyond manifest within her, from which she may project great power, so long as she can pay the toll it demands.]]></entry>
+<entry id="action_verbose_body_guild_philomath"><![CDATA[Once a collegiate young woman, she now bears the invisible puppet strings of the otherworldly. Where others would have broken, her mind prevailed in standing against the forces she recklessly reached for. The horrors of beyond manifest within her, from which she may project great power, so long as she can pay the toll it demands.]]></entry>
 <entry id="action_verbose_body_blacksmith_philomath"><![CDATA[The Philomath's mind draws power from books and tomes, exerting her will unto her victims. When these abilities will not suffice, a scalpel-sharp page-cutting knife remains in hand to dispatch overconfident aggressors.]]></entry>
 <entry id="action_verbose_body_camping_trainer_philomath"><![CDATA[A focused mind may achieve more than a tempered body. Exertion of her mental will can relieve or harm those around her, or she may rely on a personal supply of experimental and untested drugs and medicines.]]></entry>
 
@@ -673,7 +673,7 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 
 <entry id="philomath+str_mark_self_regenerator"><![CDATA[The flesh reshapes itself...?]]></entry>
 <entry id="philomath+str_mark_self_regenerator"><![CDATA[I am in good humors.]]></entry>
-<entry id="philomath+str_mark_self_regenerator"><![CDATA[Feeling quite resiliant these days.]]></entry>
+<entry id="philomath+str_mark_self_regenerator"><![CDATA[Feeling quite resilient these days.]]></entry>
 <entry id="philomath+str_attack_self_algophilic"><![CDATA[Such seductive pain...]]></entry>
 <entry id="philomath+str_attack_self_algophilic"><![CDATA[So unhealthy... so gratifying.]]></entry>
 <entry id="philomath+str_attack_self_algophilic"><![CDATA[I shan't be denied this crimson bliss.]]></entry>
@@ -690,7 +690,7 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="philomath+str_mark_self_cheerful"><![CDATA[I do suppose you are all... acceptable.]]></entry>
 <entry id="philomath+str_mark_self_cheerful"><![CDATA[Allow me to relieve you of those burdensome thoughts.]]></entry>
 <entry id="philomath+str_mark_self_cheerful"><![CDATA[You... "impress" me, so to speak.]]></entry>
-<entry id="philomath+str_mark_self_downer"><![CDATA[What loathesome, miscreant louts that beset me.]]></entry>
+<entry id="philomath+str_mark_self_downer"><![CDATA[What loathsome, miscreant louts that beset me.]]></entry>
 <entry id="philomath+str_mark_self_downer"><![CDATA[My talents are not befitting of these cretinous curs...]]></entry>
 <entry id="philomath+str_mark_self_downer"><![CDATA[Miserable, sniveling whelps- so prideful as roosting cocks.]]></entry>
 <entry id="philomath+str_mark_self_downer"><![CDATA[Why did I take the sisyphean task of guiding such dullards?]]></entry>
