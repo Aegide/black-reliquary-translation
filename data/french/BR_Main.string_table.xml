@@ -970,7 +970,8 @@ En combat les sauvages seront sans-pitié, n'espérez pas pouvoir vous reposer.]
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La chaleur oppressante du soleil s'abattra sur vos héros pendant le {colour_start|sun_torch}jour{colour_end}.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder des avantages particuliers à vos ennemis.]]></entry>
+Le voile de la {colour_start|moon_torch}nuit{colour_end} peut accorder
+des avantages particuliers à vos ennemis.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Certains ennemis se comporteront différemment,
 selon le moment de la journée.]]></entry>
@@ -1276,7 +1277,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_silent_pantheon_holy_water_effect"><![CDATA[Le rituel invoque des pouvoirs anciens.]]></entry>
 <entry id="str_curio_silent_pantheon_honing_oil_effect"><![CDATA[L'offrande est réciproque.]]></entry>
 <entry id="str_curio_silent_pantheon_laudanum_effect"><![CDATA[Une hallucination violente vous révèle les dieux.]]></entry>
-<entry id="str_curio_silent_pantheon_firewood_effect"><![CDATA[Les grands esprits veilleront sur vous.]]></entry>
+<entry id="str_curio_silent_pantheon_firewood_effect"><![CDATA[Les Anciens esprits veilleront sur vous.]]></entry>
 <entry id="str_curio_silent_pantheon_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_virile_brew"><![CDATA[Chaudron géant]]></entry>
 <entry id="str_curio_content_virile_brew"><![CDATA[Le récipient contient un breuvage.]]></entry>

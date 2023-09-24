@@ -218,8 +218,8 @@
 <entry id="str_inventory_title_trinketthrall_splintered_trident"><![CDATA[Trident fragmenté]]></entry>
 <entry id="str_inventory_title_trinketthrall_stampeding_girdle"><![CDATA[Ceinture du minotaure]]></entry>
 <entry id="str_inventory_title_trinketthrall_impaling_pauldron"><![CDATA[Épaulière perçante]]></entry>
-<entry id="str_inventory_title_trinketthrall_the_masters_lash"><![CDATA[Le fouet du Maître]]></entry>
-<entry id="str_inventory_title_trinketthrall_the_crowd_favorite"><![CDATA[Le préféré de la Foule]]></entry>
+<entry id="str_inventory_title_trinketthrall_the_masters_lash"><![CDATA[Le fouet du maître]]></entry>
+<entry id="str_inventory_title_trinketthrall_the_crowd_favorite"><![CDATA[Le préféré de la foule]]></entry>
 <entry id="str_inventory_title_trinketthrall_seismic_sensor"><![CDATA[Amplificateur sismique]]></entry>
 <entry id="str_inventory_set_title_cc_thrall"><![CDATA["MA VOLONTÉ EST MIENNE !"]]></entry>
 <entry id="hero_class_name_thrall"><![CDATA[Gladiateur]]></entry>
@@ -270,7 +270,7 @@ DGT +45ʪ / VIT +6 / PRÉ -10
 Comportements dangereux]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_INDOMITABLE_COOLDOWN_TT"><![CDATA[Indomptable en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THRALL_BLEEDCRTDMG_TT"><![CDATA[DGT CRIT +33ʪ vs {colour_start|bleed}Saignement{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_THRALL_CRT_BLEEDSELF_TT"><![CDATA[Critique : Sur soi : {colour_start|bleed}Saignement{colour_end}2 pts/tr sur 2 trs{colour_start|skill_unselectable}(base : 100ʪ){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_THRALL_CRT_BLEEDSELF_TT"><![CDATA[Critique : Sur soi : {colour_start|bleed}Saignement{colour_end} {colour_start|skill_unselectable}(base : 100ʪ){colour_end} 2 pts/tr sur 2 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THRALL_RAGING_GIRDLE_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur soi : {colour_start|enraged}Berserk{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_KNUCKLES_TT"><![CDATA[LEGACY]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_KNUCKLES_TT2"><![CDATA[LEGACY]]></entry>
