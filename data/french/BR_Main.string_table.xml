@@ -6455,8 +6455,8 @@ the Treasury successfully gives buffs
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[I've been through worse.]]></entry>
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[I'm too busy to fall to sickness.]]></entry>
 <entry id="str_quirk_name_tinnitus"><![CDATA[{colour_start|symptom}Acouphène{colour_end}]]></entry>
-<entry id="str_quirk_name_deafness"><![CDATA[Cochlear Rot]]></entry>
-<entry id="str_quirk_name_deafness_tended"><![CDATA[Cochlear Rot (Stabilized)]]></entry>
+<entry id="str_quirk_name_deafness"><![CDATA[Surdité]]></entry>
+<entry id="str_quirk_name_deafness_tended"><![CDATA[Surdité (Stabilisé)]]></entry>
 <entry id="str_mark_self_tinnitus"><![CDATA[WHAT? WHAT DID YOU SAY?]]></entry>
 <entry id="str_mark_self_tinnitus"><![CDATA[SPEAK UP, I CAN'T HEAR YOU!]]></entry>
 <entry id="str_mark_self_tinnitus"><![CDATA[DID ANYONE ELSE HEAR THAT?]]></entry>
