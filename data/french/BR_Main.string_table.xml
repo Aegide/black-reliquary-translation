@@ -565,7 +565,7 @@ While there are some roaming creatures which call the Treasury their home, most 
 
 {colour_start|notable}Choose your fights carefully to bring home as many spoils as you can!{colour_end}]]></entry>
 
-<entry id="tutorial_popup_memories_title"><![CDATA[TODO:Strength in Numbers]]></entry>
+<entry id="tutorial_popup_memories_title"><![CDATA[L'union fais la force]]></entry>
 <entry id="tutorial_popup_memories_description"><![CDATA[TODO:Certain Troglodyte enemies have a special {colour_start|notable}Swarm{colour_end} typing.
 
 If left alone for too long, these meek Trogs will call for reinforcements, bringing a similar ally to their side, {colour_start|notable}doubling its total HP, and granting the unit a second action.{colour_end}
@@ -898,7 +898,8 @@ Les bandages, qui permettent de collecter l'ambre en toute sécurité, seront tr
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Chaque région renferme ses propres défis. Rassemblez votre groupe et vos provisions de manière appropriée.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
+Utilisez vos feux de camp ! Les compétences de campement
+ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -927,7 +928,8 @@ Les cactonides contiennent de nombreux trésors, mais vous devrez vous battre po
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La cupidité est naturelle pour beaucoup. Essayez de la maîtriser.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Utilisez vos feux de camp ! Les compétences de campement ne sont utiles que si elles sont utilisées.]]></entry>
+Utilisez vos feux de camp ! Les compétences de campement
+ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -1452,7 +1454,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_amber_river_bandage_loot"><![CDATA[TODO:Solidified clumps are safely extracted.]]></entry>
 <entry id="str_curio_amber_river_amber_extraction_kit_loot"><![CDATA[TODO:Solid chunks are extracted!]]></entry>
 <entry id="str_curio_amber_river_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
-<entry id="str_curio_title_kvarotz_ooze"><![CDATA[Poteries dégoulinantes]]></entry>
+<entry id="str_curio_title_kvarotz_ooze"><![CDATA[Poterie dégoulinante]]></entry>
 <entry id="str_curio_content_kvarotz_ooze"><![CDATA[Ces vases Kvarotz sont collés ensemble par des sécrétions de troglodytes.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_ooze"><![CDATA[Essayer de les séparer ...]]></entry>
 <entry id="str_curio_kvarotz_ooze_nothing"><![CDATA[TODO:Nothing but dull metal and sticky hands.]]></entry>
@@ -3042,7 +3044,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_cultivator_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦɮɯ{colour_end}Perce-oreille]]></entry>
 <entry id="str_monster_skill_trog_cultivator_tail"><![CDATA[{colour_start|white}ɘɡɡɡʩɣɣɘɘɩɧɱ{colour_end}Queue tranchante]]></entry>
 <entry id="str_monster_skill_trog_cultivator_cultivate"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʋʀ{colour_end}Renaissance]]></entry>
-<entry id="str_monster_skill_trog_tracking_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Stick 'em]]></entry>
+<entry id="str_monster_skill_trog_tracking_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
 <entry id="str_monster_skill_trog_tracking_spear_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Appel des cavernes]]></entry>
 <entry id="str_monster_skill_trog_tracking_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_spear_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
@@ -3051,13 +3053,13 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_egg_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_egg_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_egg_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
-<entry id="str_monster_skill_trog_combo_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Stick 'em]]></entry>
-<entry id="str_monster_skill_trog_combo_club"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Bash 'em]]></entry>
+<entry id="str_monster_skill_trog_combo_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
+<entry id="str_monster_skill_trog_combo_club"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Gourdin primitif]]></entry>
 <entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Whack]]></entry>
 <entry id="str_monster_skill_trog_egg_check"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Egg-valuation]]></entry>
 <entry id="str_monster_skill_trog_egg_bad"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɮɽ{colour_end}Rotten to the Core]]></entry>
 <entry id="str_monster_skill_trog_egg_good"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʏ{colour_end}Eggshell Blast]]></entry>
-<entry id="str_monster_skill_trog_tracking_club"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Bash 'em]]></entry>
+<entry id="str_monster_skill_trog_tracking_club"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Gourdin primitif]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Whack]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Appel des cavernes]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
@@ -6452,7 +6454,7 @@ the Treasury successfully gives buffs
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[It'll take more than that to pull me down.]]></entry>
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[I've been through worse.]]></entry>
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[I'm too busy to fall to sickness.]]></entry>
-<entry id="str_quirk_name_tinnitus"><![CDATA[{colour_start|symptom}Tinnitus{colour_end}]]></entry>
+<entry id="str_quirk_name_tinnitus"><![CDATA[{colour_start|symptom}Acouphène{colour_end}]]></entry>
 <entry id="str_quirk_name_deafness"><![CDATA[Cochlear Rot]]></entry>
 <entry id="str_quirk_name_deafness_tended"><![CDATA[Cochlear Rot (Stabilized)]]></entry>
 <entry id="str_mark_self_tinnitus"><![CDATA[WHAT? WHAT DID YOU SAY?]]></entry>

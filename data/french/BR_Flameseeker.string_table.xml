@@ -612,15 +612,15 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_title_br_intro"><![CDATA[Invité d'honneur]]></entry>
 <entry id="town_event_description_br_intro"><![CDATA["Tout l'équipage est prié d'accueillir notre invité, et de l'aider à se mettre à son aise !"]]></entry>
 
-<entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
+<entry id="town_event_info_br_free_dust"><![CDATA[+50 {colour_start|BR_heirloom}poussière d'ambre{colour_end}]]></entry>
 <entry id="town_event_title_br_free_dust"><![CDATA[L'ambre doit couler]]></entry>
 <entry id="town_event_description_br_free_dust"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
 
-<entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
+<entry id="town_event_info_br_champ_unlock"><![CDATA[+50 {colour_start|BR_heirloom}poussière d'ambre{colour_end}]]></entry>
 <entry id="town_event_title_br_champ_unlock"><![CDATA[L'ambre doit couler]]></entry>
 <entry id="town_event_description_br_champ_unlock"><![CDATA[L'un de nos mécènes a jugé bon de nous laisser un stock de produits particuliers, dans un endroit bien caché.]]></entry>
 
-<entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}Tek antique{colour_end}]]></entry>
+<entry id="town_event_info_br_free_tech"><![CDATA[+50 {colour_start|BR_lost_tek}tek antique{colour_end}]]></entry>
 <entry id="town_event_title_br_free_tech"><![CDATA[Quid pro quo]]></entry>
 <entry id="town_event_description_br_free_tech"><![CDATA[Ceux d'Ostvengr sont aussi généreux que fourbes. Une faveur a été accordée, mais cette faveur devra être remboursée.]]></entry>
 
