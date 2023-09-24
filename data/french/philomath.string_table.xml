@@ -44,17 +44,17 @@
 <entry id="philomath+str_heart_attack_consumed"><![CDATA[Mon corps de décompose, aidez-moi !]]></entry>
 <entry id="philomath+str_heart_attack_consumed"><![CDATA[Je ne sens plus mon corps ...]]></entry>
 <entry id="philomath+str_heart_attack_consumed"><![CDATA[Ils ... ILS ARRIVENT !]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[TODO:I... Did that?]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[J'ai ...  fait ça ?]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:It reels...!]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[TODO:I- I understand now!]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Je ... Je comprends maintenant !]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:Its weakness is clear!]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:Crushed by a superior mind.]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[TODO:I see...]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Je vois ...]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:I feel its power within me...]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:It empowers me... Why?]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:There is... Power in these whispers?]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[TODO:These sickening thoughts... Strengthen me?]]></entry>
-<entry id="philomath+str_combat_knockback"><![CDATA[TODO:]]></entry>
+<entry id="philomath+str_combat_knockback"><![CDATA[]]></entry>
 <entry id="philomath+str_bark_stress_partyhigh"><![CDATA[TODO:Do you feel it creeping into your thoughts?]]></entry>
 <entry id="philomath+str_bark_stress_partyhigh"><![CDATA[TODO:I feel its presence among us...]]></entry>
 <entry id="philomath+str_bark_stress_partyhigh"><![CDATA[TODO:... Be quiet. Just be quiet already.]]></entry>
@@ -275,21 +275,21 @@
 Eldritch Safeguard]]></entry>
 <entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
 Absorbent Mind]]></entry>
-<entry id="combat_skill_name_philomath_malevolent_pact"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Malevolent Pact]]></entry>
+<entry id="combat_skill_name_philomath_malevolent_pact"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Pacte maléfique]]></entry>
 <entry id="upgrade_tree_name_philomath.head_trauma"><![CDATA[Traumatisme crânien]]></entry>
 <entry id="upgrade_tree_name_philomath.page_cutter"><![CDATA[Coupe-papier]]></entry>
 <entry id="upgrade_tree_name_philomath.sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
 <entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[Effondrement]]></entry>
 <entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[TODO:Eldritch Safeguard]]></entry>
 <entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[TODO:Absorbent Mind]]></entry>
-<entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[TODO:Malevolent Pact]]></entry>
+<entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[Pacte maléfique]]></entry>
 <entry id="combat_skill_name_philomath_move"><![CDATA[déplacement]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEADTRAUMA_STRESS_AP_TT"><![CDATA[TODO:+10ʪ Armor Piercing per 10 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_breakdown_tooltip"><![CDATA[TODO:Break {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stress_dot"><![CDATA[TODO:Transfer {colour_start|stress}Horror{colour_end} to Caster]]></entry>
 <entry id="buff_rule_data_tooltip_absorbent_mind"><![CDATA[TODO:Absorbent Mind]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_tooltip"><![CDATA[TODO:Target:]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_tooltip"><![CDATA[Cible :]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_block_tooltip"><![CDATA[TODO:2 Blocks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_guard_tooltip"><![CDATA[TODO:Force {colour_start|guard}Guard{colour_end} by Ally {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_horror_tooltip"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns
@@ -398,17 +398,17 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="philomath+str_disease_treatment_committed"><![CDATA[TODO:Hmph. So you're the best they have?]]></entry>
 <entry id="philomath+str_disease_treatment_committed"><![CDATA[TODO:Allow me to administer that myself. I've used it often enough.]]></entry>
 <entry id="philomath+str_gambling_committed"><![CDATA[Connaissez-vous "le jeu du couteau" ?]]></entry>
-<entry id="philomath+str_gambling_committed"><![CDATA[TODO:Honestly, I've never had the best poker face.]]></entry>
-<entry id="philomath+str_gambling_committed"><![CDATA[TODO:I shall not waste my scant time with small wagers.]]></entry>
-<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[TODO:I assure you, counting cards is not real.]]></entry>
+<entry id="philomath+str_gambling_committed"><![CDATA[Honnêtement, je ne suis pas une bonne menteuse.]]></entry>
+<entry id="philomath+str_gambling_committed"><![CDATA[Je ne perdrai pas mon temps avec des mises dérisoires.]]></entry>
+<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[Mais non, je ne compte pas les cartes.]]></entry>
 <entry id="philomath+str_roster_list_gambling_bark"><![CDATA[TODO:Eighteen? Hit.]]></entry>
-<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[TODO:I suggest you fold, for your own sake.]]></entry>
+<entry id="philomath+str_roster_list_gambling_bark"><![CDATA[Je vous suggère de vous coucher, pour votre bien.]]></entry>
 <entry id="philomath+str_brothel_committed"><![CDATA[TODO:Bantam-weight, coming through.]]></entry>
 <entry id="philomath+str_brothel_committed"><![CDATA[TODO:Ladies, keep a close eye.]]></entry>
 <entry id="philomath+str_brothel_committed"><![CDATA[TODO:Feeling anxious, are we?]]></entry>
 <entry id="philomath+str_roster_list_brothel_bark"><![CDATA[TODO:I've studied more styles than you've ever heard of.]]></entry>
 <entry id="philomath+str_roster_list_brothel_bark"><![CDATA[TODO:Cease your whining, it doesn't hurt that much.]]></entry>
-<entry id="philomath+str_roster_list_brothel_bark"><![CDATA[TODO:Referee, she pulled my hair!]]></entry>
+<entry id="philomath+str_roster_list_brothel_bark"><![CDATA[Arbitre, elle a tiré mes cheveux !]]></entry>
 <entry id="philomath+str_meditation_committed"><![CDATA[TODO:Stand aside and witness a true craftswoman at work.]]></entry>
 <entry id="philomath+str_meditation_committed"><![CDATA[TODO:These methods... appallingly outdated and inefficient.]]></entry>
 <entry id="philomath+str_meditation_committed"><![CDATA[TODO:Fret not, you could never hope to attain my talent.]]></entry>

@@ -92,7 +92,8 @@
 <entry id="town_activity_description_disease_treatment"><![CDATA[Traitement des maladies, et autres afflictions physiques.]]></entry>
 <entry id="town_activity_description_meditation"><![CDATA[Transforme l'ambre brut en poussière d'ambre.
 {colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
-<entry id="town_activity_description_prayer"><![CDATA[Échange la poussière d'ambre contre de la tek antique.
+<entry id="town_activity_description_prayer"><![CDATA[Échange la poussière d'ambre contre de
+la tek antique.
 {colour_start|stress}Stress{colour_end} -10/15/20]]></entry>
 <entry id="town_activity_description_treatment"><![CDATA[Traitement d'attributs, et autres comportements problématiques.]]></entry>
 <entry id="town_activity_description_flagellation"><![CDATA[Les plaisirs de l'ambre.
@@ -426,7 +427,7 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -765,7 +766,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -830,7 +831,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -895,7 +896,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -960,7 +961,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1025,7 +1026,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1090,7 +1091,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1155,7 +1156,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1220,7 +1221,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1285,7 +1286,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1350,7 +1351,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1415,7 +1416,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1480,7 +1481,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1545,7 +1546,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1610,7 +1611,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1675,7 +1676,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1740,7 +1741,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1805,7 +1806,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1870,7 +1871,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -1935,7 +1936,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
@@ -2000,7 +2001,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_flagellation_committed"><![CDATA[TODO:That golden, powdered relief at long last!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:This is a bargain, I assure you!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let the haggling commence!]]></entry>
-<entry id="str_prayer_committed"><![CDATA[TODO:My prices are unmatched.]]></entry>
+<entry id="str_prayer_committed"><![CDATA[Mes prix sont imbattables.]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:The shop is open!]]></entry>
 <entry id="str_prayer_committed"><![CDATA[TODO:Let us exchange.]]></entry>
 <entry id="str_treatment_committed"><![CDATA[TODO:You can try to improve upon perfection.]]></entry>
