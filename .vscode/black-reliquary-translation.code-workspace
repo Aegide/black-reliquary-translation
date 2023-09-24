@@ -29,6 +29,29 @@
 				"addWords": true,
 				"scope": "workspace"
 			}
-		}
+		},
+		"highlight.regexes": {
+			"(TODO:)": [
+				{
+					"overviewRulerColor": "#ffcc00",
+					"backgroundColor": "#ffcc00",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				}
+			],
+		},
+		"highlight.decorations": {
+			"rangeBehavior": 3
+		},
+		"highlight.maxMatches": 1000,
+		"highlight.minDelay": 100,
+		"render-special-chars.except": [
+			"200-350", // DD skills
+			"92-153", // basic letters
+			"⠍ ⠼" // idk
+		],
+		"render-special-chars.borderColor": "",
+		"render-special-chars.color": "",
+		"render-special-chars.backgroundColor": "",
 	}
 }
