@@ -3295,7 +3295,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_firstroundonly"><![CDATA[%s pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_firstroundonly_false"><![CDATA[%s après la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_NEGATE_PREP_ROUND_ACC_TT"><![CDATA[Ignore le malus de {colour_start|prep_round}préparation{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DMGDONE_TT"><![CDATA[DGT -50%% DMG pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DMGDONE_TT"><![CDATA[DGT -50%% pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_DEBUFF_TT"><![CDATA[TODO:Can't {colour_start|debuff}Debuff{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_BLEED_TT"><![CDATA[TODO:Can't {colour_start|bleed}Bleed{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHARED_PREP_ROUND_STUN_TT"><![CDATA[TODO:Can't {colour_start|stun}Stun{colour_end} on {colour_start|prep_round}Prep Round{colour_end}]]></entry>

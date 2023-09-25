@@ -59,7 +59,7 @@ DMG +50% vs {colour_start|amberblighted}Amberblight{colour_end} , Perçage d'arm
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT2"><![CDATA[{colour_start|notable}Vitrification{colour_end} : {colour_start|attacktype}Mystique{colour_end} {colour_start|white}ɘɘɣɣɥɡɡɡɡ{colour_end} PRÉ 95 / DGT -70% / CRIT +2% 
 Ignore le malus de {colour_start|prep_round}préparation{colour_end}, {colour_start|amberblighted}Amberblight{colour_end} la cible, {colour_start|debuff}Chaleur{colour_end} +15%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGE_TRINKET_AMBER_TT3"><![CDATA[{colour_start|notable}Rayonnement ultra-ambré{colour_end} : {colour_start|attacktype}Distance{colour_end} {colour_start|white}ɘɘɣɣɥɡɡɘɘ{colour_end} PRÉ 95 / DGT +25% / CRIT +5% 
-Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% DMG {colour_start|skill_unselectable}(2 trs){colour_end}, {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
+Récupération : 2 trs, Sur soi : DGT -15% , DGT reçus +15% {colour_start|skill_unselectable}(2 trs){colour_end}, {colour_start|debuff}Chaleur{colour_end} +40%]]></entry>
 <entry id="camping_skill_effect_loot_DREDGEOIL"><![CDATA[Produit 3 huiles d'affûtage]]></entry>
 <entry id="str_inventory_title_trinketdredge_poison_scope"><![CDATA[Vision d'horreur]]></entry>
 <entry id="str_inventory_title_trinketdredge_hook_scope"><![CDATA[Lance-grappin]]></entry>
