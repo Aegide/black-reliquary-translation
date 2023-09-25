@@ -3044,7 +3044,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_cultivator_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦɮɯ{colour_end}Perce-oreille]]></entry>
 <entry id="str_monster_skill_trog_cultivator_tail"><![CDATA[{colour_start|white}ɘɡɡɡʩɣɣɘɘɩɧɱ{colour_end}Queue tranchante]]></entry>
 <entry id="str_monster_skill_trog_cultivator_cultivate"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠʋʀ{colour_end}Renaissance]]></entry>
-<entry id="str_monster_skill_trog_tracking_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
+<entry id="str_monster_skill_trog_tracking_spear"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
 <entry id="str_monster_skill_trog_tracking_spear_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Appel des cavernes]]></entry>
 <entry id="str_monster_skill_trog_tracking_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_spear_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
@@ -3053,7 +3053,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_egg_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_egg_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_egg_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
-<entry id="str_monster_skill_trog_combo_spear"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
+<entry id="str_monster_skill_trog_combo_spear"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
 <entry id="str_monster_skill_trog_combo_club"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Gourdin primitif]]></entry>
 <entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Whack]]></entry>
 <entry id="str_monster_skill_trog_egg_check"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Egg-valuation]]></entry>
