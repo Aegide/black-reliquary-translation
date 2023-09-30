@@ -43,7 +43,7 @@
 		"highlight.decorations": {
 			"rangeBehavior": 3
 		},
-		"highlight.maxMatches": 1000,
+		"highlight.maxMatches": 10000,
 		"highlight.minDelay": 100,
 		"render-special-chars.except": [
 			"200-350", // DD skills
