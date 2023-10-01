@@ -48,7 +48,7 @@
 		"render-special-chars.except": [
 			"200-350", // DD skills
 			"92-153", // basic letters
-			"⠍ ⠼" // idk
+			"⠍ ⠼ ⠊ ⠋ ⠌" // idk
 		],
 		"render-special-chars.borderColor": "",
 		"render-special-chars.color": "",
