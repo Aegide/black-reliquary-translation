@@ -99,12 +99,12 @@ Souhait mortel]]></entry>
 <entry id="skill_performer_hp_max"><![CDATA[Valide en-dessous de %d%% PV]]></entry>
 <entry id="skill_performer_hp_min"><![CDATA[Valide au-dessus de %d%% PV]]></entry>
 <entry id="skill_performer_hp_range"><![CDATA[TODO:Valid from %d%% to %d%% HP]]></entry>
-<entry id="effect_tooltip_cure_bleed"><![CDATA[TODO:Cure {colour_start|bleed}Bleed{colour_end}]]></entry>
+<entry id="effect_tooltip_cure_bleed"><![CDATA[Soigne {colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="effect_tooltip_cure_debuff"><![CDATA[TODO:Clear {colour_start|debuff}Debuffs{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_deathblow_chance"><![CDATA[TODO:%+d%% {colour_start|deathblow}Death Blow{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_torch_decrease_percent"><![CDATA[TODO:%+d%% Torch Decrease Modifier]]></entry>
 <entry id="buff_rule_tooltip_is_actor_status"><![CDATA[%s durant %s]]></entry>
-<entry id="buff_rule_data_tooltip_veil_lifesteal"><![CDATA[TODO:Withering Chant]]></entry>
+<entry id="buff_rule_data_tooltip_veil_lifesteal"><![CDATA[Chant du fléau]]></entry>
 <entry id="effect_tooltip_hp_heal_dot_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} %d pts/tn for %d tns]]></entry>
 <entry id="effect_tooltip_hp_heal_party_dot_format"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} Party %d pts/tn for %d tns]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_HEX_COMBAT_1_1"><![CDATA[VIT -4]]></entry>
