@@ -1822,9 +1822,9 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_confirm_embark_not_enough_heroes_answer"><![CDATA[OK]]></entry>
 <entry id="town_confirm_embark_not_enough_heroes_question"><![CDATA[Vous avez moins de quatre héros disponibles pour partir en quête. Il vous faut en recruter davantage au ferry ou annuler des traitements en cours]]></entry>
 <entry id="town_estate_bar_tooltip"><![CDATA[%ss : %d (servent à améliorer le navire)]]></entry>
-<entry id="town_event_description_bonus_recruit_antiquarian"><![CDATA[...la cache récemment découverte a excité les amateurs locaux, et a attiré l'attention d'experts des régions voisines.]]></entry>
+<entry id="town_event_description_bonus_recruit_antiquarian"><![CDATA[... la cache récemment découverte a excité les amateurs locaux, et a attiré l'attention d'experts des régions voisines.]]></entry>
 <entry id="town_event_description_bonus_recruit_bounty_hunter"><![CDATA[Calmes et réservés, ces hommes sont des professionnels, attirés non par l'odeur du sang, mais par le reflet de l'or.]]></entry>
-<entry id="town_event_description_bonus_recruit_crusader"><![CDATA[...inexplicablement, cependant, seuls deux sont venus. Il semble que l'appel sincère de l'abbé ait été entendu, mais avec une cruauté moqueuse.]]></entry>
+<entry id="town_event_description_bonus_recruit_crusader"><![CDATA[... inexplicablement, cependant, seuls deux sont venus. Il semble que l'appel sincère de l'abbé ait été entendu, mais avec une cruauté moqueuse.]]></entry>
 <entry id="town_event_description_bonus_recruit_hellion"><![CDATA[Débauchés et décadents à l'extrême, plusieurs guerriers nomades sont arrivés au Hameau en quête d'une mort glorieuse. Nous ne pouvons qu'espérer qu'ils la trouvent rapidement.]]></entry>
 <entry id="town_event_description_bonus_recruit_leper"><![CDATA[On ne peut qu'admirer ces âmes infortunées. Elles portent leur fardeau avec une grâce et humilité rarement présentes chez les hommes sains.]]></entry>
 <entry id="town_event_description_bonus_recruit_occultist"><![CDATA[Bien que des chants étranges et perturbants caractérisent généralement de tels rassemblements, nous avons été assurés que les rituels en eux-mêmes ne présentent pas de réel danger.]]></entry>
@@ -1841,7 +1841,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_event_description_free_disease"><![CDATA[Le temps et l'argent investis ne le furent cependant pas en vain : le corps médical annonce avoir élaboré avec succès un remarquable antidote.]]></entry>
 <entry id="town_event_description_free_sanitarium"><![CDATA[Les délégations en visite incluent des experts en handicaps physiques et cognitifs, ainsi que plusieurs experts en médecine légale.]]></entry>
 <entry id="town_event_description_free_tavern"><![CDATA[La taverne sera ouverte plus tard que d'habitude tout au long de la fête et nous demandons aux résidents de maintenir un semblant de bienséance en rentrant après minuit.]]></entry>
-<entry id="town_event_description_idle_resolve_level_abomination"><![CDATA[...et c'est durant de telles phases lunaires que de nombreux habitants disent entendre des cris perçants et des hurlements terrifiants.]]></entry>
+<entry id="town_event_description_idle_resolve_level_abomination"><![CDATA[... et c'est durant de telles phases lunaires que de nombreux habitants disent entendre des cris perçants et des hurlements terrifiants.]]></entry>
 <entry id="town_event_description_idle_resolve_level_arbalest"><![CDATA[L'œil le plus aiguisé et la main la plus stable prévaudront durant le tournoi de cette semaine. Le vainqueur gagnera la très convoitée coupe du gardien.]]></entry>
 <entry id="town_event_description_idle_resolve_level_grave_robber"><![CDATA[Plus curieuse, toutefois, est l'absence de toute preuve dans la crypte elle-même. Néanmoins, le coffre a été trouvé ouvert, son contenu clairement manquant.]]></entry>
 <entry id="town_event_description_idle_resolve_level_highwayman"><![CDATA[Au cours de la mêlée, deux hommes ont fui la scène et ont disparu. Ils sont armés, dangereux et désespérés.]]></entry>
@@ -1849,9 +1849,9 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="town_event_description_idle_resolve_level_jester"><![CDATA[La musique en elle-même est horriblement familière et pourtant impossible à replacer. Est-ce l'étrange accordage de l'instrument, ou quelque qualité inhumaine dans le doigté du barde ??]]></entry>
 <entry id="town_event_description_idle_resolve_level_man_at_arms"><![CDATA[Le sergent vétéran fera montre de son régime d'entraînement à la guilde chaque soir de la prochaine semaine. Tous ceux qui s'inquiètent de leur protection sont invités à participer.]]></entry>
 <entry id="town_event_description_idle_resolve_level_plague_doctor"><![CDATA[L'ombre de la maladie et de l'affliction s'est portée sur notre Hameau, accompagnée de la panique.]]></entry>
-<entry id="town_event_description_idle_stress_heal_buff"><![CDATA[…et malgré le fait que cette campagne semble interminable, les récents évènements donnent du courage à l'équipe actuelle. Leur assurance n'a jamais été aussi grande.]]></entry>
+<entry id="town_event_description_idle_stress_heal_buff"><![CDATA[... et malgré le fait que cette campagne semble interminable, les récents évènements donnent du courage à l'équipe actuelle. Leur assurance n'a jamais été aussi grande.]]></entry>
 <entry id="town_event_description_in_activity_buff_stress_heal_buff"><![CDATA[Ce temps agréable est un changement bienvenu, particulièrement pour ceux qui profitent d'une période de convalescence.]]></entry>
-<entry id="town_event_description_in_activity_buff_stress_heal_debuff"><![CDATA[...Comme l'a dit quelqu'un, "Y'a un truc pas net avec ces ombres-là, qui font rien qu'à bouger et qu'à s'tordre comme ça." On recommande aux habitants de ne pas sortir de chez eux avant le lever du soleil.]]></entry>
+<entry id="town_event_description_in_activity_buff_stress_heal_debuff"><![CDATA[... Comme l'a dit quelqu'un, "Y'a un truc pas net avec ces ombres-là, qui font rien qu'à bouger et qu'à s'tordre comme ça." On recommande aux habitants de ne pas sortir de chez eux avant le lever du soleil.]]></entry>
 <entry id="town_event_description_lock_bar_discount_tavern"><![CDATA[Il parait ironique que les individus les plus perturbés par la pénurie actuelle d'alcool et d'hydromel sont ceux-là même dont l'exubérance sans limite de la nuit passée a épuisé les réserves.]]></entry>
 <entry id="town_event_description_lock_brothel_discount_tavern"><![CDATA[Les draps et les taies brillent d'une blancheur intense sur leur fil, leur histoire lascive des derniers jours aisément effacée, au contraire des consciences de ceux qui les ont souillés.]]></entry>
 <entry id="town_event_description_lock_flagellation_discount_abbey"><![CDATA[L'abbé refuse de commenter l'état actuel de la salle de pénitence, sauf pour dire qu'il prévoit une reprise des activités habituelles sous peu.]]></entry>
@@ -2204,7 +2204,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="abomination+str_monster_user_selected_targets_kill_pill"><![CDATA[Quoi qu'il puisse arriver, cela ne pourra pas être pire que ce que j'ai enduré.]]></entry>
 <entry id="antiquarian+str_monster_user_selected_targets_kill_pill"><![CDATA[Je suis donc la dernière antiquité, mais personne ne sera là pour me découvrir...]]></entry>
 <entry id="arbalest+str_monster_user_selected_targets_kill_pill"><![CDATA[Pitié, non ! Je veux vivre !]]></entry>
-<entry id="bounty_hunter+str_monster_user_selected_targets_kill_pill"><![CDATA[...Hum.]]></entry>
+<entry id="bounty_hunter+str_monster_user_selected_targets_kill_pill"><![CDATA[... Hum.]]></entry>
 <entry id="crusader+str_monster_user_selected_targets_kill_pill"><![CDATA[Ordure impie ! Je t'emporterai avec moi !]]></entry>
 <entry id="grave_robber+str_monster_user_selected_targets_kill_pill"><![CDATA[Une dame ne se porte pas volontaire pour le massacre !]]></entry>
 <entry id="hellion+str_monster_user_selected_targets_kill_pill"><![CDATA[Très bien, envoyez-moi en enfer ! AAAKYLORAAAHHH !]]></entry>

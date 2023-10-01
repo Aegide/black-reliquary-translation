@@ -3998,7 +3998,7 @@
 <entry id="man_at_arms+str_comment_ally_missed_irrational"><![CDATA[La vieille règle tacite de ne jamais laisser l'ennemi rater.]]></entry>
 <entry id="arbalest+str_comment_ally_missed_irrational"><![CDATA[Pourquoi applaudissent-ils ?]]></entry>
 <entry id="arbalest+str_comment_ally_missed_irrational"><![CDATA[As-tu déjà vu une couleur tomber du ciel ?]]></entry>
-<entry id="houndmaster+str_comment_ally_missed_irrational"><![CDATA[...ils m'ont donné rendez-vous à l'entrepôt, sur la scène du crime.]]></entry>
+<entry id="houndmaster+str_comment_ally_missed_irrational"><![CDATA[... ils m'ont donné rendez-vous à l'entrepôt, sur la scène du crime.]]></entry>
 <entry id="houndmaster+str_comment_ally_missed_irrational"><![CDATA[...évidemment, je ne pouvais pas en parler au Duc, il était dans le coup !]]></entry>
 <entry id="abomination+str_comment_ally_missed_irrational"><![CDATA[Un iceberg ? Qu'est-ce c'est que ça ?]]></entry>
 <entry id="abomination+str_comment_ally_missed_irrational"><![CDATA[Encore ces maudites flûtes...]]></entry>
@@ -4018,7 +4018,7 @@
 <entry id="hellion+str_block_move_fearful"><![CDATA[(bredouille de manière incompréhensible)]]></entry>
 <entry id="hellion+str_block_move_fearful"><![CDATA[(ignore l'ordre et vous fixe avec horreur)]]></entry>
 <entry id="highwayman+str_block_move_fearful"><![CDATA[Non. J'ai découvert la colline sur laquelle je vais mourir.]]></entry>
-<entry id="highwayman+str_block_move_fearful"><![CDATA[...et Jack est tombé et a cassé sa couronne...]]></entry>
+<entry id="highwayman+str_block_move_fearful"><![CDATA[... et Jack est tombé et a cassé sa couronne...]]></entry>
 <entry id="jester+str_block_move_fearful"><![CDATA[Espèce de pitoyable imbécile ! Quelle utilité à courir dans tous les sens ?!]]></entry>
 <entry id="jester+str_block_move_fearful"><![CDATA[Je ne peux pas, ou je vais me faire dessus.]]></entry>
 <entry id="leper+str_block_move_fearful"><![CDATA[Non. Ma posture défensive est tout ce qu'il me reste.]]></entry>
@@ -4729,7 +4729,7 @@
 <entry id="arbalest+str_block_buff_irrational"><![CDATA[Tu ne peux pas m'attraper !]]></entry>
 <entry id="arbalest+str_block_buff_irrational"><![CDATA[NOON !]]></entry>
 <entry id="houndmaster+str_block_buff_irrational"><![CDATA[Je croule vraiment trop sous la paperasse en ce moment...]]></entry>
-<entry id="houndmaster+str_block_buff_irrational"><![CDATA[...non, non. Je ne prendrai pas part à... quoi que ce soit dont on t'accuse.]]></entry>
+<entry id="houndmaster+str_block_buff_irrational"><![CDATA[... non, non. Je ne prendrai pas part à... quoi que ce soit dont on t'accuse.]]></entry>
 <entry id="houndmaster+str_block_buff_irrational"><![CDATA[C'est au chien de décider. Qu'en dis-tu, ma grande ?]]></entry>
 <entry id="abomination+str_block_buff_irrational"><![CDATA[Une queue en forme de diamant, c'est une corneille ; une queue en forme d'éventail, c'est un corbeau.]]></entry>
 <entry id="abomination+str_block_buff_irrational"><![CDATA[Ne crois jamais un veau qui pleure comme une femme.]]></entry>
@@ -5710,7 +5710,7 @@
 <entry id="str_block_camping_skill_performer_selfish"><![CDATA[Sauf si ça m'est bénéfique, pourquoi se tracasser ?]]></entry>
 <entry id="bounty_hunter+str_block_camping_skill_performer_selfish"><![CDATA[Je suis occupé... à compter mes pièces.]]></entry>
 <entry id="bounty_hunter+str_block_camping_skill_performer_selfish"><![CDATA[J'ai besoin de faire une sieste et mes besoins passent avant tout.]]></entry>
-<entry id="bounty_hunter+str_block_camping_skill_performer_selfish"><![CDATA[...d'après vous, est-ce que j'ai l'air d'être une personne « gentille » ?]]></entry>
+<entry id="bounty_hunter+str_block_camping_skill_performer_selfish"><![CDATA[... d'après vous, est-ce que j'ai l'air d'être une personne « gentille » ?]]></entry>
 <entry id="crusader+str_block_camping_skill_performer_selfish"><![CDATA[Non. Je vais garder mes bénédictions pour le moment où j'en aurai le plus besoin.]]></entry>
 <entry id="crusader+str_block_camping_skill_performer_selfish"><![CDATA[... Mes bénédictions sont uniquement disponibles en cas d'urgence.]]></entry>
 <entry id="crusader+str_block_camping_skill_performer_selfish"><![CDATA[Ce n'est pas nécessaire. D'ailleurs, cet encens n'est pas bon marché.]]></entry>
