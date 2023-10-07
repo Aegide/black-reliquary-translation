@@ -888,7 +888,8 @@ L'union fait leur force.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les troglodytes sont couverts de substances qui peuvent provoquer des maladies. Préparez-vous en conséquence.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-L'encens d'alun sera utile pour se défendre contre les rituels occultes des troglodytes.]]></entry>
+L'encens d'alun sera utile pour se défendre
+contre les rituels occultes des troglodytes.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les pelles ont des usages très variés dans ces galeries remplies de gravats.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -1441,7 +1442,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_tooltip_investigate_wall_burrow"><![CDATA[Regarder à l'intérieur ...]]></entry>
 <entry id="str_curio_wall_burrow_loot"><![CDATA[TODO:Spoils had been tucked away in the den!]]></entry>
 <entry id="str_curio_wall_burrow_summon"><![CDATA[TODO:The Troglodytes were home!]]></entry>
-<entry id="str_curio_wall_burrow_shovel_loot"><![CDATA[TODO:The burrow is investigated from a safe distance.]]></entry>
+<entry id="str_curio_wall_burrow_shovel_loot"><![CDATA[L'entrée du terrier est démolie.]]></entry>
 <entry id="str_curio_wall_burrow_torch_summon_burrow_smoke_out"><![CDATA[TODO:The Troglodytes inside are smoked out!]]></entry>
 <entry id="str_curio_wall_burrow_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_amber_river"><![CDATA[Fontaine d'ambre]]></entry>
@@ -3032,14 +3033,14 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_vulture_stress"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɘɣɣɩɧɮ{colour_end}SCRAW]]></entry>
 <entry id="str_monster_skill_trog_hunter_vomit"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_hunter_vomit_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʡʏʖ{colour_end}Bile insectoïde]]></entry>
-<entry id="str_monster_skill_trog_hunter_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Poignard d'ambre]]></entry>
+<entry id="str_monster_skill_trog_hunter_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Poignard primitif]]></entry>
 <entry id="str_monster_skill_trog_hunter_weak_slash"><![CDATA[{colour_start|white}ɘɘɡɡʥɘɘɣɣɩɨ{colour_end}Roulade]]></entry>
 <entry id="str_monster_skill_trog_slinger_vomit"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧʏ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_slinger_bola"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɦɱɽ{colour_end}Bolas d'ambre]]></entry>
 <entry id="str_monster_skill_trog_slinger_flashbomb"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦɮʓ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_dig"><![CDATA[{colour_start|white}ɪʤɘɘɣɣɩɧʐ{colour_end}Tunnel]]></entry>
 <entry id="str_monster_skill_trog_lurker_bonk"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɽʑ{colour_end}Marteau d'ambre]]></entry>
-<entry id="str_monster_skill_trog_lurker_bleed"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Pic primitif]]></entry>
+<entry id="str_monster_skill_trog_lurker_bleed"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɺʎ{colour_end}Pioche primitive]]></entry>
 <entry id="str_monster_skill_trog_cultivator_regen"><![CDATA[{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɦɭʐ{colour_end}Carapace primordiale]]></entry>
 <entry id="str_monster_skill_trog_cultivator_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦɮɯ{colour_end}Perce-oreille]]></entry>
 <entry id="str_monster_skill_trog_cultivator_tail"><![CDATA[{colour_start|white}ɘɡɡɡʩɣɣɘɘɩɧɱ{colour_end}Queue tranchante]]></entry>
@@ -3073,7 +3074,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_saddleback_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_killerbite_scuttle"><![CDATA[{colour_start|white}ɪʦɘɘɘɣɩɧʚ{colour_end}Écailles sombres]]></entry>
 <entry id="str_monster_skill_killerbite_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɣɣɘɩɧʎ{colour_end}Gouge 'em]]></entry>
-<entry id="str_monster_skill_killerbite_butcher"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʧɣɣɘɘɩɦɺʎ{colour_end}Butcher 'em]]></entry>
+<entry id="str_monster_skill_killerbite_butcher"><![CDATA[{colour_start|white}ɘɘɡɡʧɣɣɘɘɩɦɺʎ{colour_end}Dague primitive]]></entry>
 <entry id="str_monster_skill_killerbite_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Pistage]]></entry>
 <entry id="str_monster_skill_killerbite_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_killerbite_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
