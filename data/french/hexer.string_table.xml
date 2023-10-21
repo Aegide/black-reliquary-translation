@@ -100,7 +100,7 @@ Incantation d'ichor]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_stress"><![CDATA[TODO:On Attack: Other Heroes +3 {colour_start|stress}Stress{colour_end} if not {colour_start|afflicted}Afflicted{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_buffs"><![CDATA[TODO:On Attack: {colour_start|buff}Buff Others:{colour_end} +5%% ACC, +3%% CRIT, -33%% {colour_start|stress}Stress{colour_end} Inflicted On Party if {colour_start|afflicted}Afflicted{colour_end}]]></entry>
 <entry id="camping_skill_name_addinfo_hexer"><![CDATA[Informations supplémentaires]]></entry>
-<entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
+<entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[1 par groupe]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -40% ]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Is banned from the Amber Refinery and Tek Exchange]]></entry>
 <entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|debuff}Debuff{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
