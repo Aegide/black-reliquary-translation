@@ -41,10 +41,10 @@ Souhait mortel]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_3"><![CDATA[Toucher froid de la mort]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_4"><![CDATA[Étudier des parchemins néoromantiques]]></entry>
 
-<entry id="action_verbose_body_guild_veiled"><![CDATA[TODO:Neither dead nor alive, cursed and hiding from prying eyes, the Veiled has learned the same powers that caused his condition. He’s full of hate towards the undead, yet after ages of suffering he is in control of the same strange necromancy. It is not intended for reviving the dead, but for salvaging those not yet departed. His strength grows as he nears death, as the closer he gets to freeing himself from his damnation, the harder it is to keep this energy under control.]]></entry>
-<entry id="action_verbose_body_blacksmith_veiled"><![CDATA[TODO:The only purpose of his veil is to hide his unholy body from anyone’s sight. The staff merely helps the Veiled to control his curse, and force it to submit to his will. His swordbreaker might seem to be for self-defense, yet its purpose is to weaken his foes even further.]]></entry>
-<entry id="action_verbose_body_camping_trainer_veiled"><![CDATA[TODO:Unable to feel the warmth of fire, taste food, or see dreams, the Veiled eschews others’ company and gets absorbed in his ancient, imperishable memories. Solitude either brings him peace, or strengthens his regrets. But if necessary, he will give his life force to anyone who might need it more than him.]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_veiled_ripo_tt"><![CDATA[TODO:{colour_start|riposte}Riposte{colour_end} Disabled]]></entry>
+<entry id="action_verbose_body_guild_veiled"><![CDATA[Ni mort ni vivant, maudit et se cachant des regards indiscrets, le Veilleur a appris des mêmes pouvoirs qui ont causé sa misère. Il est rempli de haine envers les morts-vivants, mais après des siècles de souffrance, il maîtrise désormais l'art de la nécromancie. Non pas pour ressusciter les morts, mais pour sauver ceux qui peuvent encore l'être. Sa force augmente à mesure qu'il approche de sa mort, et plus il se rapproche de sa libération, plus ses pouvoirs deviennent difficiles à contrôler.]]></entry>
+<entry id="action_verbose_body_blacksmith_veiled"><![CDATA[Le seul but de son voile est de cacher son corps monstrueux à la vue de tous. Son bâton l'aide simplement à contrôler sa malédiction, et à la forcer à se soumettre à sa volonté. Son brise-épée pourrait sembler inadapté, mais sa réelle fonction est d'affaiblir ses adversaires.]]></entry>
+<entry id="action_verbose_body_camping_trainer_veiled"><![CDATA[Incapable de sentir la chaleur du feu, de goûter à la nourriture ou de voir des rêves, le Veilleur fuit la compagnie des autres et se perd dans ses lointains souvenirs. La solitude lui apporte la paix, ou renforce ses regrets. Mais s'il le faut, il donnera sa force vitale à quiconque en aurait plus besoin que lui.]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_veiled_ripo_tt"><![CDATA[{colour_start|riposte}Riposte{colour_end} désactivée]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_horror_apply_TT"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|stress}Horror{colour_end} 1 pts/tn for 4 tns {colour_start|skill_unselectable}(80ʪ chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_amberblight_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|amberblighted}Amberblight{colour_end} Target]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self1_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Self:{colour_end} +30ʪ DMG]]></entry>
@@ -60,7 +60,7 @@ Souhait mortel]]></entry>
 	+10 ACC/+5% CRT/+6 SPD]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[TODO:Doesn't suffer from Death's Door Recovery penalty]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Can't go to the Bar]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[TODO:Limited to 1 per Party]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[1 par groupe]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -50% / CRIT mod: -2%]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
@@ -360,18 +360,18 @@ Souhait mortel]]></entry>
 <entry id="veiled+str_prayer_committed"><![CDATA[TODO:They say a smile sells well? That's a shame.]]></entry>
 <entry id="veiled+str_roster_list_prayer_bark"><![CDATA[TODO:May I interest you in a complementary poem?]]></entry>
 <entry id="veiled+str_roster_list_prayer_bark"><![CDATA[TODO:This certainly builds a different type of character.]]></entry>
-<entry id="veiled+str_roster_list_prayer_bark"><![CDATA[TODO:An offer you can't refuse! It is simply to die for!]]></entry>
-<entry id="veiled+str_flagellation_committed"><![CDATA[TODO:You expect me to find bliss here? Nonsense.]]></entry>
-<entry id="veiled+str_flagellation_committed"><![CDATA[TODO:I don't expect much, but if you say so.]]></entry>
-<entry id="veiled+str_flagellation_committed"><![CDATA[TODO:Even knowing my nature, you'd send me in there?]]></entry>
-<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[TODO:I... I can feel it! A sensation, at last! This is...!]]></entry>
-<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[TODO:Is this... Warmth? I had already forgotten what it feels like!]]></entry>
-<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[TODO:It can't replace what's missing- yet, still, a small moment of reprieve.]]></entry>
-<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[TODO:To think that even I could indulge in the Amber! It is truly amazing!]]></entry>
-<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[TODO:A surge of emotions! Hahaha! This is wonderful!]]></entry>
-<entry id="veiled+str_treatment_committed"><![CDATA[TODO:The mind is fallible. It must be preserved until my demise.]]></entry>
-<entry id="veiled+str_treatment_committed"><![CDATA[TODO:Well, I can't help but feel a bit hollow, you see...]]></entry>
-<entry id="veiled+str_treatment_committed"><![CDATA[TODO:Mists, guide me on this journey of rehabilitation.]]></entry>
+<entry id="veiled+str_roster_list_prayer_bark"><![CDATA[Une offre que vous ne pourrez pas refuser ! Elle est à en mourir !]]></entry>
+<entry id="veiled+str_flagellation_committed"><![CDATA[Vous espérez que je trouve la paix ici ? Incompréhensible.]]></entry>
+<entry id="veiled+str_flagellation_committed"><![CDATA[Je ne m'attendais à rien, et je suis quand même déçu.]]></entry>
+<entry id="veiled+str_flagellation_committed"><![CDATA[Même en connaissant ma condition, vous m'envoyez là-dedans...]]></entry>
+<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[Je... le ressens ! Une sensation ! Enfin ! C'est si...]]></entry>
+<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[De... la chaleur ? J'avais oublié ce que cela faisait !]]></entry>
+<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[Cela ne comblera jamais le vide, mais c'est plaisant.]]></entry>
+<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[Et dire que même moi, je pourrais profiter de l'Ambre ! C'est extraordinaire !]]></entry>
+<entry id="veiled+str_roster_list_flagellation_bark"><![CDATA[Un déferlement d'émotions ! Hahaha ! C'est merveilleux !]]></entry>
+<entry id="veiled+str_treatment_committed"><![CDATA[L'esprit est faillible. Il doit être préservé en attendant ma mort.]]></entry>
+<entry id="veiled+str_treatment_committed"><![CDATA[C'est un peu comme si je me sentais vide, voyez-vous...]]></entry>
+<entry id="veiled+str_treatment_committed"><![CDATA[Brumes, guidez-moi dans ce voyage de réhabilitation.]]></entry>
 <entry id="veiled+str_roster_list_treatment_bark"><![CDATA[TODO:So in the end, it all comes down to that day.]]></entry>
 <entry id="veiled+str_roster_list_treatment_bark"><![CDATA[TODO:Existential crisis? Me?]]></entry>
 <entry id="veiled+str_roster_list_treatment_bark"><![CDATA[TODO:It's not just haphephobia.]]></entry>
