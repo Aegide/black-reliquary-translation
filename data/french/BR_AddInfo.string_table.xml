@@ -110,7 +110,7 @@ Comportements dangereux]]></entry>
 +20%  {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end}/{colour_start|stun}Stun{colour_end} Resist]]></entry>
 <entry id="camping_skill_effect_loot_FLAG_BREL_PASSIVE_DD_REC"><![CDATA[Ne subis pas les malus après l'agonie]]></entry>
 <entry id="camping_skill_effect_loot_FLAG_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Can only use Fighting Pit or Amber Den for stress relief, which grants him complete stress heal]]></entry>
-<entry id="camping_skill_effect_loot_FLAG_BREL_PARTY_SELF"><![CDATA[Un par groupe]]></entry>
+<entry id="camping_skill_effect_loot_FLAG_BREL_PARTY_SELF"><![CDATA[1 par groupe]]></entry>
 <entry id="camping_skill_effect_loot_MUSK_BREL_MODE_AMMO"><![CDATA[TODO:ADAPTIVE AMMO
 Modes can be switched using Change Ammo Skill
 Changing Mode is instant and unlimited
