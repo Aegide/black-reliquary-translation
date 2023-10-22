@@ -3452,7 +3452,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_mode"><![CDATA[{colour_start|stress}Stress{colour_end} de transformation %+d%%]]></entry>
 <entry id="buff_stat_tooltip_riposte_duration_percent"><![CDATA[TODO:%+d%% {colour_start|riposte}Riposte{colour_end} Duration Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_IMMUNE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_CLEAR_TT"><![CDATA[TODO:Clears {colour_start|riposte}Riposte{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_CLEAR_TT"><![CDATA[Destruction de {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_IMMUNE_CLEAR_TT"><![CDATA[[TODO:Ignores/Clears {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_WARTABLE_SCOUT_TT"><![CDATA[TODO:+20%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_WARTABLE_TORCH_PLAYER_SURPRISED_TT"><![CDATA[TODO:-50%% Chance Party {colour_start|surprised}Surprised{colour_end}]]></entry>
