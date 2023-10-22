@@ -668,9 +668,10 @@ Il faut y remédier immédiatement !]]></entry>
 <entry id="town_event_info_br_free_provisions"><![CDATA[{colour_start|notable}Provisions gratuites{colour_end}]]></entry>
 
 <entry id="town_event_title_br_captain_owie"><![CDATA[Blessure désagréable]]></entry>
-<entry id="town_event_description_br_captain_owie"><![CDATA[Gardez la tête baissée et travaillez trois fois plus dur. Le capitaine est de mauvaise humeur.]]></entry>
-<entry id="town_event_info_br_captain_owie"><![CDATA[TODO:{colour_start|harmful}-15% {colour_start|virtue}Virtue{colour_end} Chance on next quest{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_CAPTAIN_LEG_BREAK"><![CDATA[TODO:{colour_start|harmful}-15%% {colour_start|virtue}Virtue{colour_end} Chance{colour_end}]]></entry>
+<entry id="town_event_description_br_captain_owie"><![CDATA[Travaillez trois fois plus dur.
+Le Capitaine est de mauvaise humeur.]]></entry>
+<entry id="town_event_info_br_captain_owie"><![CDATA[Chances de {colour_start|virtue}vertu{colour_end} -15% (Quête)]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_CAPTAIN_LEG_BREAK"><![CDATA[Chances de {colour_start|virtue}vertu{colour_end} -15%]]></entry>
 
 <entry id="town_event_title_br_lock_bar_galley_free"><![CDATA[Vin contaminé]]></entry>
 <entry id="town_event_description_br_lock_bar_galley_free"><![CDATA[Plusieurs membres de l'équipage sont tombés malades à cause du vin ! Le bar est fermé jusqu'à nouvel ordre ...]]></entry>
@@ -696,7 +697,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="town_event_title_br_free_clinic"><![CDATA[Cadavre exquis]]></entry>
 <entry id="town_event_description_br_free_clinic"><![CDATA[Erick et Ilya ont découvert un cadavre très particulier, et leurs découvertes aboutissent à des résultats spectaculaires.]]></entry>
 
-<entry id="town_event_title_br_captain_birthday"><![CDATA[Anniversaire du capitaine]]></entry>
+<entry id="town_event_title_br_captain_birthday"><![CDATA[Anniversaire du Capitaine]]></entry>
 <entry id="town_event_description_br_captain_birthday"><![CDATA[C'est un jour très particulier !]]></entry>
 <entry id="town_event_info_br_captain_birthday"><![CDATA[{colour_start|notable}Toutes les activité sont gratuites !{colour_end}]]></entry>
 
