@@ -1,12 +1,12 @@
-<entry id="str_preamble_0"><![CDATA[TODO:Black Reliquary will be a drastically different experience from what you are used to. Abandon what you think you know. The majority of mechanics have been overhauled or re-tuned, as well as dramatic alterations to some heroes. What has most certainly remained the same is that when your heroes die, they stay dead.]]></entry>
-<entry id="str_preamble_1"><![CDATA[TODO:The challenges you face now will ask a lot of you. Your skill, adaptation, and powers of observation will be put to the test. You will know little mercy, but will taste well-earned triumphs in these new lands.]]></entry>
-<entry id="str_preamble_2"><![CDATA[TODO:All-too-familiar faces will mingle with new acquaintances in your new home as you launch your campaign of valor, fortune, and redemption against the emerging darkness of the...]]></entry>
-<entry id="str_open_store_1117860"><![CDATA[TODO:Be sure to check out our Discord and Twitter for more mod updates!
-Unfortunately, we can't get rid of this pop-up, or even make it link to our socials properly.]]></entry>
-<entry id="str_open_store_ans_no"><![CDATA[Oui]]></entry>
-<entry id="str_open_store_ans_yes"><![CDATA[Oui]]></entry>
-<entry id="str_backend_disabled"><![CDATA[TODO:This pop-up was meant to ask about data collection required for The Butcher’s Circus DLC.
-We can't get rid of this pop-up, but Butcher's Circus is not accessible in Black Reliquary.]]></entry>
+<entry id="str_preamble_0"><![CDATA[Black Reliquary sera une aventure radicalement différente. Abandonnez ce que vous croyez savoir. La plupart des mécaniques ont été modifiées, et certains héros ont bénéficié de changements majeurs. Ce qui n'a pas changé, c'est que lorsque vos héros meurent, ils restent morts.]]></entry>
+<entry id="str_preamble_1"><![CDATA[Les défis auxquels vous serez confrontés vous demanderont beaucoup d'efforts. Votre capacité d'adaptation sera mise à l'épreuve. Vous ne connaîtrez que peu de pitié, mais vos victoires n'en seront que plus méritées.]]></entry>
+<entry id="str_preamble_2"><![CDATA[Des visages familiers et de nouvelles têtes se mêleront à votre campagne de bravoure, de fortune et de rédemption contre les ténèbres naissantes du...]]></entry>
+<entry id="str_open_store_1117860"><![CDATA[Rejoignez-nous sur Discord et suivez-nous sur Twitter !
+Malheureusement, nous ne pouvons pas ajouter de lien vers nos réseaux sociaux.]]></entry>
+<entry id="str_open_store_ans_no"><![CDATA[Ok]]></entry>
+<entry id="str_open_store_ans_yes"><![CDATA[Ok]]></entry>
+<entry id="str_backend_disabled"><![CDATA[Ce message concerne uniquement la collecte de données du DLC The Butcher's Circus.
+Black Reliquary ne collecte pas vos données.]]></entry>
 <entry id="estate_title_default_data"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer]]></entry>
 <entry id="str_save_post_click"><![CDATA[Chasseur de la Flamme]]></entry>
@@ -1536,7 +1536,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_waxen_penitent_torch_effect"><![CDATA[Le cierge du pénitent est enfin allumé ...]]></entry>
 <entry id="str_curio_waxen_penitent_medicinal_herbs_effect"><![CDATA[Le corps est consacré, procurant un sentiment de tranquillité.]]></entry>
 <entry id="str_curio_waxen_penitent_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
-<entry id="str_curio_title_confessors_toolkit"><![CDATA[Confessionnal de la Légion]]></entry>
+<entry id="str_curio_title_confessors_toolkit"><![CDATA[Masque de la Légion]]></entry>
 <entry id="str_curio_content_confessors_toolkit"><![CDATA[Une invention préoccupante de la Légion perdue.]]></entry>
 <entry id="str_curio_tooltip_investigate_confessors_toolkit"><![CDATA[Examiner le dispositif.]]></entry>
 <entry id="str_curio_confessors_toolkit_nothing"><![CDATA[Déconcertant, mais sans importance.]]></entry>
@@ -3066,14 +3066,14 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_club_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_club_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
-<entry id="str_monster_skill_saddleback_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɣɣɣɩɨ{colour_end}Slap 'em]]></entry>
+<entry id="str_monster_skill_saddleback_attack"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɣɣɩɨ{colour_end}Griffures]]></entry>
 <entry id="str_monster_skill_saddleback_fill"><![CDATA[{colour_start|white}əəəəɥɘɣɣɣɩɧʐ{colour_end}Récolte fructueuse]]></entry>
 <entry id="str_monster_skill_saddleback_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐɬ{colour_end}Aura d'ambre]]></entry>
 <entry id="str_monster_skill_saddleback_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_saddleback_spear_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_saddleback_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_killerbite_scuttle"><![CDATA[{colour_start|white}ɪʦɘɘɘɣɩɧʚ{colour_end}Écailles sombres]]></entry>
-<entry id="str_monster_skill_killerbite_attack"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɣɣɘɩɧʎ{colour_end}Gouge 'em]]></entry>
+<entry id="str_monster_skill_killerbite_attack"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɣɣɘɩɧʎ{colour_end}Surin primitif]]></entry>
 <entry id="str_monster_skill_killerbite_butcher"><![CDATA[{colour_start|white}ɘɘɡɡʧɣɣɘɘɩɦɺʎ{colour_end}Dague primitive]]></entry>
 <entry id="str_monster_skill_killerbite_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Pistage]]></entry>
 <entry id="str_monster_skill_killerbite_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
