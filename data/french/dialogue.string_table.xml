@@ -5023,11 +5023,11 @@
 <entry id="str_bark_firewood_high"><![CDATA[Nous avons du bois. Profitons d'un bon feu.]]></entry>
 <entry id="str_bark_firewood_high"><![CDATA[Quelle chance que nous ayons du bois à brûler. Cet endroit me glace le sang...]]></entry>
 <entry id="str_bark_firewood_high"><![CDATA[Gardez le bois pour le moment où nous en aurons besoin. De nombreux dangers sont à venir.]]></entry>
-<entry id="str_bark_companionship"><![CDATA[TODO:I am glad to face these dangers with all of you.]]></entry>
-<entry id="str_bark_companionship"><![CDATA[TODO:We must be on our guard. I'll take first watch.]]></entry>
-<entry id="str_bark_companionship"><![CDATA[TODO:If we work together, we can overcome this evil.]]></entry>
-<entry id="str_bark_companionship"><![CDATA[TODO:Can anyone carry a tune?]]></entry>
-<entry id="str_bark_companionship"><![CDATA[TODO:Sleep calls. We'll need our strength.]]></entry>
+<entry id="str_bark_companionship"><![CDATA[C'est un sacré soulagement d'affronter ces dangers avec vous tous.]]></entry>
+<entry id="str_bark_companionship"><![CDATA[Nous devons rester sur nos gardes. Je vais prendre la première ronde.]]></entry>
+<entry id="str_bark_companionship"><![CDATA[Si nous travaillons ensemble, nous pourrons vaincre ce mal.]]></entry>
+<entry id="str_bark_companionship"><![CDATA[Quelqu'un peut-il pousser une chansonnette ?]]></entry>
+<entry id="str_bark_companionship"><![CDATA[Le sommeil nous appelle. Nous aurons besoin de toutes nos forces.]]></entry>
 <entry id="str_bark_encourage"><![CDATA[Calme-toi, camarade. Nous résisterons.]]></entry>
 <entry id="bounty_hunter+str_bark_encourage"><![CDATA[Tu te bats plutôt bien. Alors arrête de gémir.]]></entry>
 <entry id="bounty_hunter+str_bark_encourage"><![CDATA[Garde la tête baissée. C'est comme ça qu'on survit.]]></entry>
