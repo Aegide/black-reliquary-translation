@@ -4317,7 +4317,7 @@
 <entry id="str_comment_move"><![CDATA[Je serais mieux ici.]]></entry>
 <entry id="str_comment_move_fearful"><![CDATA[Terreur ! Folie !]]></entry>
 <entry id="str_comment_move_fearful"><![CDATA[Vous avez entendu !?]]></entry>
-<entry id="str_comment_move_fearful"><![CDATA[Nous devrions peut-être faire une pause et envisager un retour en ville ?]]></entry>
+<entry id="str_comment_move_fearful"><![CDATA[Nous devrions peut-être faire une pause et envisager un retour au navire ?]]></entry>
 <entry id="str_comment_move_paranoid"><![CDATA[Regardez ! Les ombres ! Elles attendent en embuscade !]]></entry>
 <entry id="str_comment_move_paranoid"><![CDATA[Cette pierre ne semble pas être à sa place ! Un piège ?!]]></entry>
 <entry id="str_comment_move_paranoid"><![CDATA[Ne me poussez pas ! Vous essayez de me faire tuer ?!]]></entry>
@@ -4502,7 +4502,7 @@
 <entry id="crusader+str_block_heal_irrational"><![CDATA[Laisse-moi ! Je ne suis même pas blessé !]]></entry>
 <entry id="crusader+str_block_heal_irrational"><![CDATA[T'es-tu lavé les mains ? T'ES-TU LAVÉ LES MAINS ??!!]]></entry>
 <entry id="grave_robber+str_block_heal_irrational"><![CDATA[Oh regarde, Jeanne ! Une invitation au bal !]]></entry>
-<entry id="grave_robber+str_block_heal_irrational"><![CDATA[Quels charmants gants en dentelle ! Certainement les plus beaux de la ville !]]></entry>
+<entry id="grave_robber+str_block_heal_irrational"><![CDATA[Quels charmants gants en dentelle ! Certainement les plus beaux des environs !]]></entry>
 <entry id="grave_robber+str_block_heal_irrational"><![CDATA[Impossible ! Je suis en route pour l'opéra !]]></entry>
 <entry id="hellion+str_block_heal_irrational"><![CDATA[(cri perçant) JE T'ÉTRIPERAI ET TE DÉVORERAI !]]></entry>
 <entry id="hellion+str_block_heal_irrational"><![CDATA[RESTE À L'ÉCART !!! LA FAIM ME SUBMERGE !!!]]></entry>
@@ -5000,7 +5000,7 @@
 <entry id="str_bark_party_great_condition"><![CDATA[Nous sommes la flamme !]]></entry>
 <entry id="str_bark_party_poor_condition"><![CDATA[Nos blessures sont nombreuses, et notre courage ne tient qu'à un fil !]]></entry>
 <entry id="str_bark_party_poor_condition"><![CDATA[Nous nous sommes aventurés trop loin et nous allons bientôt en payer le prix.]]></entry>
-<entry id="str_bark_party_poor_condition"><![CDATA[Nous devons retourner en ville... Pitié, écoutez-moi !]]></entry>
+<entry id="str_bark_party_poor_condition"><![CDATA[Nous devons retourner au navire... Pitié, écoutez-moi !]]></entry>
 <entry id="str_bark_party_poor_condition"><![CDATA[Je vous supplie... nous devons faire marche arrière ! J'en ai trop vu et j'ai trop souffert !]]></entry>
 <entry id="str_bark_party_poor_condition"><![CDATA[Sans espoir. Cette mission est complètement sans espoir.]]></entry>
 <entry id="str_bark_firewood_low"><![CDATA[Nous n'avons plus de bois à brûler. Nous devons nous préparer à poursuivre nos efforts jusqu'à la fin.]]></entry>
@@ -5235,7 +5235,7 @@
 <entry id="str_bark_forage"><![CDATA[Un peu de tabac rend la journée meilleure.]]></entry>
 <entry id="str_bark_gallows_humor"><![CDATA[Combien d'aventuriers faut-il pour mourir dans une fosse ?]]></entry>
 <entry id="str_bark_night_steps"><![CDATA[Je vais flâner dans la nuit. Ne m'attendez pas.]]></entry>
-<entry id="str_bark_pilfer"><![CDATA[J'ai... emprunté... ceci lorsque nous étions en ville.]]></entry>
+<entry id="str_bark_pilfer"><![CDATA[J'ai... emprunté... ceci lorsque nous étions au navire.]]></entry>
 <entry id="str_bark_battle_trance"><![CDATA[(psaume)]]></entry>
 <entry id="str_bark_revel"><![CDATA[Un pichet pour chacun d'entre nous ! On ne vit qu'une fois... il est temps d'en profiter !]]></entry>
 <entry id="str_bark_reject_the_gods"><![CDATA[Je suis uniquement fidèle au culte de la bataille ! Ne faites confiance qu'à ce que vous pouvez tuer !]]></entry>
@@ -5395,7 +5395,7 @@
 <entry id="str_bark_curiomeh"><![CDATA[En avant...]]></entry>
 <entry id="str_stagecoach_idle"><![CDATA[Je peux me charger de n'importe quel adversaire. J'en suis sûr !]]></entry>
 <entry id="str_stagecoach_idle"><![CDATA[Cette route était sombre et éprouvante. Le pire est sûrement derrière nous.]]></entry>
-<entry id="str_stagecoach_idle"><![CDATA[J'ai cru voir quelque chose dans les bois, en venant...]]></entry>
+<entry id="str_stagecoach_idle"><![CDATA[J'ai cru voir quelque chose dans les dunes, en venant...]]></entry>
 <entry id="str_stagecoach_idle"><![CDATA[Eh bien, cet endroit est... décevant.]]></entry>
 <entry id="str_stagecoach_idle"><![CDATA[Je suis prêt y aller !]]></entry>
 <entry id="str_stagecoach_idle"><![CDATA[Allons-y.]]></entry>
