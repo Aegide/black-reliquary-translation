@@ -3386,7 +3386,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_ambush_chance"><![CDATA[TODO:%+d%% Chance of being Ambushed]]></entry>
 <entry id="buff_rule_tooltip_target_hpabove"><![CDATA[TODO:{?string1}%s vs Targets above {?percent1}%d%% Max HP]]></entry>
 <entry id="buff_rule_tooltip_target_hpbelow"><![CDATA[TODO:{?string1}%s vs Targets below {?percent1}%d%% Max HP]]></entry>
-<entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[TODO:%s if any Enemy is %s]]></entry>
+<entry id="buff_rule_tooltip_monster_type_count_min"><![CDATA[%s vs %s]]></entry>
 <entry id="buff_rule_tooltip_monster_type_count_min_false"><![CDATA[TODO:%s if no Enemy is %s]]></entry>
 <entry id="buff_rule_tooltip_monsterSize"><![CDATA[{?string1}%s vs taille {?decimal1}%d]]></entry>
 <entry id="buff_rule_tooltip_monsterSize_false"><![CDATA[{?string1}%s vs autre que taille {?decimal1}%d]]></entry>
