@@ -3470,7 +3470,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SLOW_DISEASE_PROGRESSION_BY_50"><![CDATA[TODO:-50%% {colour_start|symptom}Symptom{colour_end}/ {colour_start|disease}Disease{colour_end} Progression Rate]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SCOUTCHANCE_TT"><![CDATA[TODO:%+d%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_RESIST_TT"><![CDATA[TODO:+5%% All Resists]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_DISEASE_IMMUNE_TT"><![CDATA[TODO:{colour_start|notable}Immune to Symptom/Disease{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_DISEASE_IMMUNE_TT"><![CDATA[{colour_start|notable}Immunité contre les symptômes/maladies{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger malus +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un déplacement +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un étourdissement +20%% par difficulté{colour_end}]]></entry>
