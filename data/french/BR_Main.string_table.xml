@@ -5440,15 +5440,15 @@ the Caverns successfully gives buffs
 <entry id="str_quirk_description_treasury_tactician"><![CDATA[TODO:Interacting with Traps and Obstacles in 
 the Treasury successfully gives buffs
 {colour_start|skill_unselectable}+10% DMG, +3% CRT (2 Battles){colour_end}]]></entry>
-<entry id="str_quirk_description_lounger"><![CDATA[TODO:+5 Idle {colour_start|stress}Stress{colour_end} healed on the Flameseeker]]></entry>	
-<entry id="str_quirk_description_enlightened"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: +8 ACC ]]></entry>
-<entry id="str_quirk_description_clouded_mind"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: -8 ACC ]]></entry>
-<entry id="str_quirk_description_superstitious"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: +5% CRT ]]></entry>
-<entry id="str_quirk_description_skeptic"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: -5% CRT ]]></entry>
-<entry id="str_quirk_description_adherent"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: +10% DMG ]]></entry>
-<entry id="str_quirk_description_dissenter"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: -10% DMG ]]></entry>
-<entry id="str_quirk_description_fencer"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} +10% DMG, +5 ACC]]></entry>
-<entry id="str_quirk_description_bad_reflexes"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} -10% DMG, -5 ACC]]></entry>
+<entry id="str_quirk_description_lounger"><![CDATA[TODO:+5 Idle {colour_start|stress}Stress{colour_end} healed on the Flameseeker]]></entry>
+<entry id="str_quirk_description_enlightened"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ +8]]></entry>
+<entry id="str_quirk_description_clouded_mind"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ -8]]></entry>
+<entry id="str_quirk_description_superstitious"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT +5%]]></entry>
+<entry id="str_quirk_description_skeptic"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT -5%]]></entry>
+<entry id="str_quirk_description_adherent"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT +10%]]></entry>
+<entry id="str_quirk_description_dissenter"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT -10%]]></entry>
+<entry id="str_quirk_description_fencer"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT +10% et PRÉ +5]]></entry>
+<entry id="str_quirk_description_bad_reflexes"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT -10% et PRÉ -5]]></entry>
 <entry id="str_quirk_description_regenerator"><![CDATA[Récupération prodigieuse
 {colour_start|skill_unselectable}Début de tour : Sur soi :
 +10ʪ des PV MAX (5ʪ Chance){colour_end}]]></entry>
