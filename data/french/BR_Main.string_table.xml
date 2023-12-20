@@ -6187,10 +6187,10 @@ Stress +8 (12ʪ de chances){colour_end}]]></entry>
 <entry id="quirk_transition_nausea_w_to_nothing"><![CDATA[It'll take more than that to pull me down.]]></entry>
 <entry id="quirk_transition_nausea_w_to_nothing"><![CDATA[I've been through worse.]]></entry>
 <entry id="quirk_transition_nausea_w_to_nothing"><![CDATA[I'm too busy to fall to sickness.]]></entry>
-<entry id="str_quirk_name_tachycardia_w"><![CDATA[{colour_start|symptom}Tachycardia{colour_end}]]></entry>
-<entry id="str_quirk_name_tachycardia_rp"><![CDATA[{colour_start|symptom}Tachycardia{colour_end}]]></entry>
-<entry id="str_quirk_name_tachycardia_r"><![CDATA[{colour_start|symptom}Tachycardia{colour_end}]]></entry>
-<entry id="str_quirk_name_tachycardia_ss"><![CDATA[{colour_start|symptom}Tachycardia{colour_end}]]></entry>
+<entry id="str_quirk_name_tachycardia_w"><![CDATA[{colour_start|symptom}Tachycardie{colour_end}]]></entry>
+<entry id="str_quirk_name_tachycardia_rp"><![CDATA[{colour_start|symptom}Tachycardie{colour_end}]]></entry>
+<entry id="str_quirk_name_tachycardia_r"><![CDATA[{colour_start|symptom}Tachycardie{colour_end}]]></entry>
+<entry id="str_quirk_name_tachycardia_ss"><![CDATA[{colour_start|symptom}Tachycardie{colour_end}]]></entry>
 <entry id="str_roster_quirk_transition_tachycardia_w"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}The Worries{colour_end}.]]></entry>
 <entry id="str_roster_quirk_transition_worries_tended_t"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
 <entry id="str_roster_quirk_transition_tachycardia_rp"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Red Plague{colour_end}.]]></entry>
