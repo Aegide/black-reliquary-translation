@@ -646,9 +646,9 @@ Il faut y remédier immédiatement !]]></entry>
 <entry id="town_event_description_br_ranged_buff"><![CDATA[Tous les rangers doivent se présenter immédiatement sur le pont supérieur ! Votre adresse au tir doit être évaluée.]]></entry>
 
 <entry id="town_event_title_br_mystic_buff"><![CDATA[Alignement céleste]]></entry>
-<entry id="town_event_description_br_mystic_buff"><![CDATA[Les membres de l'équipage doivent se contenter de chuchoter pendant que nos mystiques se livrent à la méditation.]]></entry>
-<entry id="town_event_info_br_mystic_buff"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +8 ACC on next quest{colour_end}
-{colour_start|attacktype}Mystical{colour_end} {colour_start|notable}Skills: +5% CRT on next quest{colour_end}]]></entry>
+<entry id="town_event_description_br_mystic_buff"><![CDATA[Les membres de l'équipage doivent se contenter de chuchoter pendant que de nombreux se livrent à la méditation.]]></entry>
+<entry id="town_event_info_br_mystic_buff"><![CDATA[{colour_start|notable}Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ +8 (Quête){colour_end}
+{colour_start|notable}Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT +5% (Quête){colour_end}]]></entry>
 
 <entry id="town_event_title_br_religious_buff"><![CDATA[Veillée aux chandelles]]></entry>
 <entry id="town_event_description_br_religious_buff"><![CDATA[Les fidèles sont rassemblés pour une prière solennelle, tout ceux qui cherchent encore une réponse y sont invités.]]></entry>
