@@ -934,11 +934,14 @@ ne sont utiles que si elles sont utilisées.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La trésorerie est la région ayant le plus de {colour_start|BR_heirloom}bijoux{colour_end}.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les cactonides peuvent parfois ingérer des "trésors". Utiliser des vapeurs d'alun pourrait réveiller ces objets.]]></entry>
+Les cactonides peuvent parfois ingérer des "trésors".
+Utiliser des vapeurs d'alun pourrait réveiller ces objets.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La plupart des curios peuvent être abordées de différentes manières, afin d'obtenir des résultats différents.]]></entry>
+La plupart des curios peuvent être abordées de différentes manières,
+afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis,
+vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 D'anciens mécanismes Kvarotz se dissimulent
@@ -3525,7 +3528,7 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_GLASS_SHARDS_TOOLTIP2"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Bleed Chance/+50%% Bleed Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SECOND_PLACE_TROPHY_TT"><![CDATA[TODO:On Miss: Sur soi : {colour_start|stress}Stress{colour_end} +5]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOME_OF_CLEANSING_DIVINE_GRACE_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Soigne {colour_start|stun}étourdissement{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : DGT +15%% et CRT +5%%]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : DGT +15%% et CRIT +5%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : {colour_start|stress}Stress{colour_end} +20%% si {colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_BOOTS_TT"><![CDATA[TODO:On Miss: {colour_start|buff}Buff Self:{colour_end} Bombard: +100%% DMG {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EVASION_INCENSE_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : VIT +2 et ESQUIVE +6]]></entry>
