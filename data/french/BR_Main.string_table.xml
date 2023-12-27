@@ -1781,12 +1781,12 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 {colour_start|skill_unselectable}{colour_start|debuff}Debuff Enemy Party:{colour_end} -30% {colour_start|healhp}Healing{colour_end} Received, -30% {colour_start|blight}Blight{colour_end} Resist{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_extract_treasury"><![CDATA[Essence de croissance]]></entry>
 <entry id="str_inventory_title_estateadrenaline"><![CDATA[Adrénaline]]></entry>
-<entry id="str_inventory_description_estateadrenaline"><![CDATA[TODO:A potent injection that dramatically increases aggression and reaction speed. 
-{colour_start|skill_unselectable}Target: Gain {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(3 tns){colour_end}{colour_end}]]></entry>
+<entry id="str_inventory_description_estateadrenaline"><![CDATA[Une puissante injection qui augmente considérablement l'agressivité et la vitesse de réaction.
+{colour_start|skill_unselectable}Active la {colour_start|riposte}riposte{colour_end} {colour_start|skill_unselectable}(3 trs){colour_end}{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_adrenaline"><![CDATA[Adrénaline]]></entry>
 <entry id="str_inventory_title_supplysnake_scale"><![CDATA[Écaille d'égide]]></entry>
 <entry id="str_inventory_description_supplysnake_scale"><![CDATA[Une mystérieuse écaille venue de ces déserts. Une excellente protection.
-{colour_start|skill_unselectable}Target: Gain 1 Block{colour_end}]]></entry>
+{colour_start|skill_unselectable}1 absorption{colour_end}]]></entry>
 <entry id="str_inventory_title_estateorder_of_honor"><![CDATA[TODO:Chthonic Scrap]]></entry>
 <entry id="str_inventory_description_estateorder_of_honor"><![CDATA[TODO:An empowering rune, imbued by powers long buried.
 {colour_start|skill_unselectable}(Self: +400% Resolve XP){colour_end}]]></entry>
@@ -4627,7 +4627,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_4"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -60%% DMG / -1%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_5"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -60%% DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_COMMAND_TT_ACTIVATE"><![CDATA[{colour_start|buff}Bonus sur cible :{colour_end}
-Active la {colour_start|riposte}Riposte{colour_end}]]></entry>
+Active la {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_rampart"><![CDATA[Rempart]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -25%% DMG / +1%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -25%% DMG / +2%% CRT]]></entry>

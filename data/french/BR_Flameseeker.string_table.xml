@@ -589,7 +589,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="str_altar_of_light_buff_br_laudanum"><![CDATA[TODO:Laudanum provides additional +40% {colour_start|stress}Stress Healing{colour_end} Received {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="str_training_ring_title"><![CDATA[Autel d'espoir]]></entry>
 <entry id="str_training_ring_buff_br_holy_water"><![CDATA[TODO:Alum Censer provides additional +5% DMG to non-religious heroes {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-<entry id="str_training_ring_buff_br_medicinal_herbs"><![CDATA[TODO:Cleansing Salt provides additional +5% PROT to non-pagan heroes {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>	
+<entry id="str_training_ring_buff_br_medicinal_herbs"><![CDATA[TODO:Cleansing Salt provides additional +5% PROT to non-pagan heroes {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="str_library_title"><![CDATA[Guilde des aventuriers]]></entry>
 <entry id="str_library_buff_br_arch_kit"><![CDATA[TODO:Arch kits provides additional +10% {colour_start|scouting}Scouting{colour_end} Chance {colour_start|skill_unselectable}(32 tns){colour_end}]]></entry>
 <entry id="str_library_buff_br_disease_kit"><![CDATA[TODO:Disease kits provides additional -50% {colour_start|symptom}Symptom{colour_end}/{colour_start|disease}Disease{colour_end} Progression Rate {colour_start|skill_unselectable}(32 tns){colour_end}]]></entry>
@@ -600,8 +600,8 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="str_vendor_guild_title"><![CDATA[Guilde des marchands]]></entry>
 <entry id="str_vendor_guild_buff_curio_buff0"><![CDATA[TODO:Heal 15 {colour_start|stress}Stress{colour_end} on interaction with Vendors]]></entry>
 <entry id="str_blood_bank_title"><![CDATA[Fabrique d'adrénaline]]></entry>
-<entry id="str_blood_bank_buff_adrenaline_provision"><![CDATA[TODO:Add 1 Reflex Serum to the Provisioner's stock each week]]></entry>
-<entry id="str_blood_bank_buff_adrenaline_desc"><![CDATA[TODO:Reflex Serum can be purchased for 6 {colour_start|BR_heirloom}Refined Amber Dust{colour_end} and grants a short powerspike, giving the user a {colour_start|riposte}Riposte{colour_end}.]]></entry>
+<entry id="str_blood_bank_buff_adrenaline_provision"><![CDATA[Ajoute 1 {colour_start|notable}adrénaline{colour_end} aux provisions.]]></entry>
+<entry id="str_blood_bank_buff_adrenaline_desc"><![CDATA[L'{colour_start|notable}adrénaline{colour_end} coûte 6 {colour_start|BR_heirloom}poussières d'ambre{colour_end} et active la {colour_start|riposte}riposte{colour_end}.]]></entry>
 
 <entry id="town_event_info_br_districts_unlock"><![CDATA[[ Pont supérieur accessible ]]]></entry>
 <entry id="town_event_title_br_districts_unlock"><![CDATA[Aménagements]]></entry>
@@ -643,7 +643,9 @@ les lames étaient mal entretenues.
 Il faut y remédier immédiatement !]]></entry>
 
 <entry id="town_event_title_br_ranged_buff"><![CDATA[Entraînement au tir]]></entry>
-<entry id="town_event_description_br_ranged_buff"><![CDATA[Tous les compétiteurs doivent se présenter immédiatement sur le pont supérieur ! Votre adresse au tir sera évaluée.]]></entry>
+<entry id="town_event_description_br_ranged_buff"><![CDATA[Tous les tireurs doivent immédiatement
+se présenter sur le pont supérieur !
+Votre adresse au tir sera évaluée.]]></entry>
 
 <entry id="town_event_title_br_mystic_buff"><![CDATA[Alignement céleste]]></entry>
 <entry id="town_event_description_br_mystic_buff"><![CDATA[Les membres de l'équipage doivent se contenter de chuchoter pendant que de nombreux se livrent à la méditation.]]></entry>
