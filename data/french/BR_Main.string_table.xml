@@ -923,11 +923,14 @@ La trésorerie a peu de rencontres normales.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les cactonides peuvent avoir une protection élevée. Assemblez votre groupe de manière appropriée.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La plupart des combats dans la trésorerie sont déclenchés manuellement.]]></entry>
+La plupart des combats dans la trésorerie
+sont déclenchés manuellement.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les cactonides contiennent de nombreux trésors, mais vous devrez vous battre pour les obtenir.]]></entry>
+Les cactonides contiennent de nombreux trésors,
+mais vous devrez vous battre pour les obtenir.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La cupidité est naturelle pour beaucoup. Essayez de la maîtriser.]]></entry>
+La cupidité est naturelle pour beaucoup.
+Essayez de la maîtriser.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Utilisez vos feux de camp ! Les compétences de campement
 ne sont utiles que si elles sont utilisées.]]></entry>
@@ -1012,7 +1015,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_inventory_description_shard"><![CDATA[Soigneusement extrait et réduit en une fine poudre, ce produit de luxe vaut son pesant d'or ...]]></entry>
 <entry id="town_name_heirloom_exchange"><![CDATA[Échange de reliques]]></entry>
 <entry id="town_estate_bar_tooltip_bust"><![CDATA[Matakh : %d (sert à améliorer le navire.)]]></entry>
-<entry id="town_estate_bar_tooltip_crest"><![CDATA[Trophées : %d (servent à améliorer le navire.)]]></entry>
+<entry id="town_estate_bar_tooltip_crest"><![CDATA[Trophée : %d (sert à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_deed"><![CDATA[Ambre : %d (sert à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_portrait"><![CDATA[Bijoux : %d (servent à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_shard"><![CDATA[Poussière d'ambre : %d (sert à réduire le stress.)]]></entry>
