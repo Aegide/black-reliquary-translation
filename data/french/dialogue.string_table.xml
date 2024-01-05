@@ -4984,7 +4984,7 @@
 <entry id="str_bark_hp_selfhigh"><![CDATA[Je me sens fort et puissant. Continuons !]]></entry>
 <entry id="str_bark_hp_selfhigh"><![CDATA[Ma santé est excellente. Aujourd'hui, en tout cas.]]></entry>
 <entry id="str_bark_stress_selflow"><![CDATA[Je suis préparé pour tout ce que nous pourrions rencontrer.]]></entry>
-<entry id="str_bark_stress_selflow"><![CDATA[Tout se déroulent selon notre plan.]]></entry>
+<entry id="str_bark_stress_selflow"><![CDATA[Tout se déroule selon notre plan.]]></entry>
 <entry id="str_bark_stress_selflow"><![CDATA[Je m'en sors bien malgré la folie qui nous entoure.]]></entry>
 <entry id="str_bark_stress_selflow"><![CDATA[Cet endroit est terrifiant... Pourtant, je me sens détendu.]]></entry>
 <entry id="str_bark_stress_selflow"><![CDATA[Ces lieux sont inquiétants, mais il n'y a rien à craindre.]]></entry>
@@ -6025,7 +6025,7 @@
 <entry id="arbalest+str_block_camping_skill_target_irrational"><![CDATA[Bonjour M. Fantôme, ce sera jambon ou saucisse cette fois-ci ?]]></entry>
 <entry id="arbalest+str_block_camping_skill_target_irrational"><![CDATA[Pouvons-nous jouer « Au clair de la lune » à la place ?]]></entry>
 <entry id="houndmaster+str_block_camping_skill_target_irrational"><![CDATA[... sans surprise, le temps d'arriver là-bas, les preuves étaient détruites...]]></entry>
-<entry id="houndmaster+str_block_camping_skill_target_irrational"><![CDATA[J'ai marché au pas pendant tellement d'années, ça fait du bien de simplement s'asseoir dans l'herbe...]]></entry>
+<entry id="houndmaster+str_block_camping_skill_target_irrational"><![CDATA[J'ai marché au pas pendant tellement d'années, ça fait du bien de simplement s'asseoir...]]></entry>
 <entry id="abomination+str_block_camping_skill_target_irrational"><![CDATA[Pas de poisson à vendre aujourd'hui !]]></entry>
 <entry id="abomination+str_block_camping_skill_target_irrational"><![CDATA[Une grande comète rouge hante mes rêves...]]></entry>
 <entry id="abomination+str_block_camping_skill_target_irrational"><![CDATA[J'ai entendu des récits selon lesquels nous vivons sur un immense œuf.]]></entry>

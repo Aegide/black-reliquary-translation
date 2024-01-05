@@ -1113,7 +1113,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_kvarotz_sarcophagus_effect"><![CDATA[TODO:Unspeakable things must have been done to this person...]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_medicinal_herbs_effect"><![CDATA[TODO:The salt is corrupted and erupts into black smoke.]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_shovel_loot"><![CDATA[TODO:The gemstones on it are pried off...]]></entry>
-<entry id="str_curio_kvarotz_sarcophagus_arch_kit_loot"><![CDATA[TODO:This tomb is majestic and encrusted with jewels!]]></entry>
+<entry id="str_curio_kvarotz_sarcophagus_arch_kit_loot"><![CDATA[Cette tombe est incrustée de pierres précieuses !]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_holy_water_effect"><![CDATA[TODO:The protective alum allows for an investigation.]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_archaeologist_compendium_loot"><![CDATA[TODO:A hidden cache in the sarcophagus is revealed!]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
