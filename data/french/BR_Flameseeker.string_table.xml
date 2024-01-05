@@ -659,7 +659,7 @@ Votre adresse au tir sera évaluée.]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_RELIGIOUS_STRESSREC"><![CDATA[TODO:{colour_start|notable}-15%% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end}{colour_end}]]></entry>
 
 <entry id="town_event_title_br_pagan_buff"><![CDATA[Horrible rituel]]></entry>
-<entry id="town_event_description_br_pagan_buff"><![CDATA[Les adeptes se sont rassemblés pour rendre hommage à leurs maîtres.]]></entry>
+<entry id="town_event_description_br_pagan_buff"><![CDATA[Les adeptes se sont rassemblés pour rendre hommage à leur maître.]]></entry>
 
 <entry id="town_event_title_br_expensive_provisions"><![CDATA[Provisions avariées]]></entry>
 <entry id="town_event_description_br_expensive_provisions"><![CDATA[Notre dernier ravitaillement était insuffisant. Demi-rations pour tous jusqu'au prochain ravitaillement.]]></entry>
