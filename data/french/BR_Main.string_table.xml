@@ -1741,7 +1741,7 @@ Il est verrouillé.]]></entry>
 <entry id="item_cant_sell_confirm"><![CDATA[Cet objet ne peut pas être vendu. (Il peut s'agir d'un objet gratuit octroyé par une certaine classe, comme la pelle gratuite offerte par la Pilleuse de tombes.)]]></entry>
 <entry id="str_inventory_title_supplyginseng"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_inventory_description_supplyginseng"><![CDATA[Un mélange de ginseng et de plantes permettant de traiter de nombreux maux.
-{colour_start|skill_unselectable}Cible : Retire marque, saignement, infection, horreur, et malus{colour_end}]]></entry>
+{colour_start|skill_unselectable}Retire marque, saignement, infection, horreur, et malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ginseng"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_inventory_title_supplyholy_water"><![CDATA[Encens d'alun]]></entry>
 <entry id="str_inventory_description_supplyholy_water"><![CDATA[Les fumées de l'alun augmentent les résistances d'un héros.]]></entry>
