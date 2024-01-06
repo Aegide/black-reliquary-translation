@@ -85,7 +85,7 @@
 <entry id="hellion+str_afflicted_fearful"><![CDATA[Je... dois... me concentrer ! Je ne peux pas avoir peur !]]></entry>
 <entry id="hellion+str_afflicted_fearful"><![CDATA[Il ne fait pas si froid. Et pourtant je tremble...]]></entry>
 <entry id="hellion+str_afflicted_fearful"><![CDATA[Tu peux le faire... C'est ton DESTIN !]]></entry>
-<entry id="jester+str_afflicted_fearful"><![CDATA[Euh... Hé héh. Ha. Euh....]]></entry>
+<entry id="jester+str_afflicted_fearful"><![CDATA[Euh... Hé héh. Ha. Euh...]]></entry>
 <entry id="jester+str_afflicted_fearful"><![CDATA[Ha, haaa ! Haaaa ! Aaaaaaaaah !]]></entry>
 <entry id="jester+str_afflicted_fearful"><![CDATA[Bien... Tant pis pour la bravoure.]]></entry>
 <entry id="jester+str_afflicted_fearful"><![CDATA[Un idiot m'a autrefois dit que le courage naît de la peur.]]></entry>
@@ -1499,7 +1499,7 @@
 <entry id="leper+str_change_pos_fwd_irrational"><![CDATA[Le printemps est de retour. Rappelez les galions. De nuit.]]></entry>
 <entry id="leper+str_change_pos_fwd_irrational"><![CDATA[Rage dans l'armurerie. Promo sur les épées. Héritage.]]></entry>
 <entry id="occultist+str_change_pos_fwd_irrational"><![CDATA[MORTEL PRÉSOMPTUEUX. ATTAQUE ET TU SURVIVRAS PEUT-ÊTRE.]]></entry>
-<entry id="occultist+str_change_pos_fwd_irrational"><![CDATA[Argh... ma tête, ça cogne.... ça cogne depuis l'intérieur !]]></entry>
+<entry id="occultist+str_change_pos_fwd_irrational"><![CDATA[Argh... ma tête, ça cogne... ça cogne depuis l'intérieur !]]></entry>
 <entry id="occultist+str_change_pos_fwd_irrational"><![CDATA[Tant de rage... Elle cherche à s'échapper !]]></entry>
 <entry id="plague_doctor+str_change_pos_fwd_irrational"><![CDATA[Tousser, s'étrangler, palper, pousser du doigt...]]></entry>
 <entry id="plague_doctor+str_change_pos_fwd_irrational"><![CDATA[5, 6, 7, 8, boire son sang comme une huître...]]></entry>
@@ -1550,7 +1550,7 @@
 <entry id="leper+str_change_pos_back_irrational"><![CDATA[Le printemps est de retour. Rappelez les galions. De nuit.]]></entry>
 <entry id="leper+str_change_pos_back_irrational"><![CDATA[Rage dans l'armurerie. Promo sur les épées. Héritage.]]></entry>
 <entry id="occultist+str_change_pos_back_irrational"><![CDATA[MORTEL PRÉSOMPTUEUX. ATTAQUE ET TU SURVIVRAS PEUT-ÊTRE.]]></entry>
-<entry id="occultist+str_change_pos_back_irrational"><![CDATA[Argh... ma tête, ça cogne.... ça cogne depuis l'intérieur !]]></entry>
+<entry id="occultist+str_change_pos_back_irrational"><![CDATA[Argh... ma tête, ça cogne... ça cogne depuis l'intérieur !]]></entry>
 <entry id="occultist+str_change_pos_back_irrational"><![CDATA[Tant de rage... Elle cherche à s'échapper !]]></entry>
 <entry id="plague_doctor+str_change_pos_back_irrational"><![CDATA[Tousser, s'étrangler, palper, pousser du doigt...]]></entry>
 <entry id="plague_doctor+str_change_pos_back_irrational"><![CDATA[5, 6, 7, 8, boire son sang comme une huître...]]></entry>
@@ -2472,7 +2472,7 @@
 <entry id="occultist+str_bark_stress_camp_masochistic"><![CDATA[Si je dors maintenant, elle me verra. Je dois résister... je dois...]]></entry>
 <entry id="occultist+str_bark_stress_camp_masochistic"><![CDATA[Cette nourriture a un goût de cendres... mais je dois manger...]]></entry>
 <entry id="plague_doctor+str_bark_stress_camp_masochistic"><![CDATA[Hah ! Je n'ai même pas envie que les blessures guérissent.]]></entry>
-<entry id="plague_doctor+str_bark_stress_camp_masochistic"><![CDATA[Je dois garder ces croûtes pour plus tard.... aïe ! .... ouille !]]></entry>
+<entry id="plague_doctor+str_bark_stress_camp_masochistic"><![CDATA[Je dois garder ces croûtes pour plus tard... aïe ! ... ouille !]]></entry>
 <entry id="plague_doctor+str_bark_stress_camp_masochistic"><![CDATA[... et deux gouttes de sang... Aïe, ça pique !]]></entry>
 <entry id="vestal+str_bark_stress_camp_masochistic"><![CDATA[La douleur est la voie vers la rédemption !]]></entry>
 <entry id="vestal+str_bark_stress_camp_masochistic"><![CDATA[Nous allons mourir aujourd'hui. Consumés par la Flamme de l'espoir.]]></entry>
@@ -3158,7 +3158,7 @@
 <entry id="antiquarian+str_block_combat_retreat_irrational"><![CDATA[Je dois rester jusqu'à la pleine lune pour que mon Amour m'apparaisse !]]></entry>
 <entry id="antiquarian+str_block_combat_retreat_irrational"><![CDATA[Mon corps va lui-même devenir une relique précieuse !]]></entry>
 <entry id="str_comment_self_hit_fearful"><![CDATA[Assez ! Je ne peux pas le supporter !]]></entry>
-<entry id="bounty_hunter+str_comment_self_hit_fearful"><![CDATA[Houla.... Il est trop fort ! On devrait s'enfuir !]]></entry>
+<entry id="bounty_hunter+str_comment_self_hit_fearful"><![CDATA[Houla... Il est trop fort ! On devrait s'enfuir !]]></entry>
 <entry id="bounty_hunter+str_comment_self_hit_fearful"><![CDATA[Oh merde... espèce d'impitoyable salaud !]]></entry>
 <entry id="crusader+str_comment_self_hit_fearful"><![CDATA[HAAAGH ! Espèce de démon obscur ! Laisse-nous !]]></entry>
 <entry id="crusader+str_comment_self_hit_fearful"><![CDATA[AAARGH !... Non... NON ! Nous devons partir ! Il est trop puissant !]]></entry>
@@ -3881,7 +3881,7 @@
 <entry id="hellion+str_comment_ally_hit_irrational"><![CDATA[Ils sont venus pour nous... pour notre douce et délicieuse chair...]]></entry>
 <entry id="highwayman+str_comment_ally_hit_irrational"><![CDATA[QUI SONT CES FANTÔMES ? D'OÙ VENEZ-VOUS ??]]></entry>
 <entry id="highwayman+str_comment_ally_hit_irrational"><![CDATA[Non, merci. J'ai déjà mangé ce matin.]]></entry>
-<entry id="jester+str_comment_ally_hit_irrational"><![CDATA[Hé. Hé-hé. Eh-hmmm....]]></entry>
+<entry id="jester+str_comment_ally_hit_irrational"><![CDATA[Hé. Hé-hé. Eh-hmmm...]]></entry>
 <entry id="jester+str_comment_ally_hit_irrational"><![CDATA[A-HA HA HA HA HA HA HA HA ! ... HAAA !]]></entry>
 <entry id="leper+str_comment_ally_hit_irrational"><![CDATA[Fileter le tissage, patauger dans le froid et dans la jaunisse.]]></entry>
 <entry id="leper+str_comment_ally_hit_irrational"><![CDATA[L'huile de poisson gaspillée sur les remparts. Une substance se répand sur l'Abbaye.]]></entry>
