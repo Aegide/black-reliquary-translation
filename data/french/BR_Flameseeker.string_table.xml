@@ -731,7 +731,8 @@ qu'il a légué au navire.]]></entry>
 <entry id="town_event_description_br_imposter"><![CDATA[Un membre de l'équipage a été assassiné. L'un d'entre nous n'est pas celui qu'il prétend être ...]]></entry>
 
 <entry id="town_event_title_br_free_armor_weapons"><![CDATA[Produits dérivés]]></entry>
-<entry id="town_event_description_br_free_armor_weapons"><![CDATA[Nos amis d'Ostvengr nous ont envoyés un cadeau ! Une boite nommée "Defekt: Nicht Verwenden".]]></entry>
+<entry id="town_event_description_br_free_armor_weapons"><![CDATA[Nos amis d'Ostvengr nous ont envoyés un cadeau ! Une boite nommée :
+"Defekt, Nicht Verwenden".]]></entry>
 
 <entry id="town_event_title_br_free_skills_camp_skills"><![CDATA[Camp d'entraînement]]></entry>
 <entry id="town_event_description_br_free_skills_camp_skills"><![CDATA[Riga et Abbas ont trouvé que les performances de l'équipage laissaient à désirer et proposent des cours intensifs.]]></entry>
