@@ -36,9 +36,9 @@ Souhait mortel]]></entry>
 <entry id="str_skill_mode_info_fourtyhp"><![CDATA[{colour_start|notable}Si PV en dessous de 40 % {colour_end}]]></entry>
 <entry id="str_skill_mode_info_tenhp"><![CDATA[{colour_start|notable}Si PV en dessous de 10 % {colour_end}]]></entry>
 
-<entry id="camping_skill_name_past_life_regression"><![CDATA[Régression dans une vie antérieure]]></entry>
+<entry id="camping_skill_name_past_life_regression"><![CDATA[Méditation profonde]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_2"><![CDATA[Pas de repos pour les morts]]></entry>
-<entry id="camping_skill_name_veil_camp_skill_3"><![CDATA[Toucher froid de la mort]]></entry>
+<entry id="camping_skill_name_veil_camp_skill_3"><![CDATA[Toucher abyssal]]></entry>
 <entry id="camping_skill_name_veil_camp_skill_4"><![CDATA[Parchemins nécromantiques]]></entry>
 
 <entry id="action_verbose_body_guild_veiled"><![CDATA[Ni mort ni vivant, maudit et se cachant des regards indiscrets, le Veilleur a appris des mêmes pouvoirs qui ont causé sa misère. Il est rempli de haine envers les morts-vivants, mais après des siècles de souffrance, il maîtrise désormais l'art de la nécromancie. Non pas pour ressusciter les morts, mais pour sauver ceux qui peuvent encore l'être. Sa force augmente à mesure qu'il approche de sa mort, et plus il se rapproche de sa libération, plus ses pouvoirs deviennent difficiles à contrôler.]]></entry>
