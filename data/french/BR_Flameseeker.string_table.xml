@@ -627,7 +627,7 @@ Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></ent
 <entry id="town_event_info_br_amber_explosion"><![CDATA[TODO:{colour_start|notable}+20% DMG,{colour_end} {colour_start|harmful}+20% Damage Taken on next quest{colour_end}
 {colour_start|harmful}All Activities in Amber Workshop are Locked{colour_end}]]></entry>
 <entry id="town_event_title_br_amber_explosion"><![CDATA[Explosion d'ambre]]></entry>
-<entry id="town_event_description_br_amber_explosion"><![CDATA[Un incident dans la raffinerie a provoqué un miasme de fumées ambrées dans tout le navire. Essayez de prendre de courtes respirations.]]></entry>
+<entry id="town_event_description_br_amber_explosion"><![CDATA[Un incident dans la raffinerie a provoqué un miasme de fumées ambrées dans tout le navire. Évitez d'en respirer.]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_AMBER_EXPLOSION_DMGREC"><![CDATA[TODO:{colour_start|harmful}+20%% Damage Taken{colour_end}]]></entry>
 
 <entry id="town_event_info_br_hero_death"><![CDATA[{colour_start|notable}Activités gratuites : Taverne
