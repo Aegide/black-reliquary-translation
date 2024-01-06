@@ -2880,7 +2880,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
 <entry id="str_monster_skill_golem_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Corpse Collection]]></entry>
-<entry id="str_monster_skill_tathuth_launch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Fracass'Tête]]></entry>
+<entry id="str_monster_skill_tathuth_launch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Fracasse-tête]]></entry>
 <entry id="str_monster_skill_tathuth_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Destruction]]></entry>
 <entry id="str_monster_skill_apihr_melee"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦɘɘɣɣɩɨ{colour_end}Extended Strike]]></entry>
 <entry id="str_monster_skill_apihr_smoke"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Brouillard cadavérique]]></entry>
@@ -3110,7 +3110,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_tongue"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɧʑ{colour_end}Dégustation]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_spit"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɮɯʖ{colour_end}Écholocalisation]]></entry>
-<entry id="str_monster_skill_trog_pterotillus_wing"><![CDATA[{colour_start|white}ɘɘɡɡʨɣɣɘɘɩɨ{colour_end}Cru-Ailes]]></entry>
+<entry id="str_monster_skill_trog_pterotillus_wing"><![CDATA[{colour_start|white}ɘɘɡɡʨɣɣɘɘɩɨ{colour_end}Cru-ailes]]></entry>
 <entry id="str_monster_skill_otekh_bleed"><![CDATA[{colour_start|white}ɘɘɘɡɥɣɘɘɘɩɦʹʎ{colour_end}Empalement sinistre]]></entry>
 <entry id="str_monster_skill_otekh_summon"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɮʀɶ{colour_end}Épicentre des ténèbres]]></entry>
 <entry id="str_monster_skill_otekh_blight"><![CDATA[{colour_start|white}ɡɡɘɘʦɘɣɣɣɩɧʏ{colour_end}Morsure irréelle]]></entry>
