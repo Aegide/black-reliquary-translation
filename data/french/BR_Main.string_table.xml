@@ -5211,7 +5211,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_weak_finish"><![CDATA[Miséricorde]]></entry>
 <entry id="str_quirk_name_eraser"><![CDATA[Ambition]]></entry>
 <entry id="str_quirk_name_coward"><![CDATA[Lâche]]></entry>
-<entry id="str_quirk_name_hot_to_trot"><![CDATA[TODO:Hot to Trot]]></entry>
+<entry id="str_quirk_name_hot_to_trot"><![CDATA[Anticipation]]></entry>
 <entry id="str_quirk_name_germophile"><![CDATA[Germophile]]></entry>
 <entry id="str_quirk_name_germophobe"><![CDATA[Germaphobe]]></entry>
 <entry id="str_quirk_name_bold_bleeder"><![CDATA[Amour du sang]]></entry>
@@ -5250,7 +5250,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_blacksmith"><![CDATA[Forgeron]]></entry>
 <entry id="str_quirk_name_fast_learner"><![CDATA[Apprend vite]]></entry>
 <entry id="str_quirk_name_lounger"><![CDATA[Sociable]]></entry>
-<entry id="str_quirk_name_undaunted"><![CDATA[TODO:Undaunted]]></entry>
+<entry id="str_quirk_name_undaunted"><![CDATA[Intrépide]]></entry>
 <entry id="str_quirk_name_unsubtle"><![CDATA[Bruyant]]></entry>
 <entry id="str_quirk_name_sneaky"><![CDATA[Discrétion]]></entry>
 <entry id="str_quirk_name_imposter_syndrome_BR"><![CDATA[Syndrôme de l'imposteur]]></entry>
