@@ -1427,7 +1427,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_amber_farm_disease"><![CDATA[L'ambre est recouvert d'une substance putride.]]></entry>
 <entry id="str_curio_amber_farm_bandage_loot"><![CDATA[Les bandages protègent vos mains.]]></entry>
 <entry id="str_curio_amber_farm_shovel_loot"><![CDATA[L'ambre a fleuri parmi les cadavres !]]></entry>
-<entry id="str_curio_amber_farm_disease_kit_loot"><![CDATA[Vous pouvez récolter en toute sécurité !]]></entry>
+<entry id="str_curio_amber_farm_disease_kit_loot"><![CDATA[L'ambre est récolté en toute sécurité !]]></entry>
 <entry id="str_curio_amber_farm_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_amber_farm_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_crude_altar"><![CDATA[Autel grossier]]></entry>
@@ -1810,9 +1810,9 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_gemencased_steve"><![CDATA[TODO:Encased Troglodyte]]></entry>
 <entry id="str_inventory_description_gemencased_steve"><![CDATA[TODO:A troglodyte hatchling, frozen in time by the amber.]]></entry>
 <entry id="buff_rule_data_tooltip_encased_steve"><![CDATA[TODO:Encased Troglodyte]]></entry>
-<entry id="str_inventory_title_gembh_big_bounty"><![CDATA[TODO:Kill Confirmation]]></entry>
+<entry id="str_inventory_title_gembh_big_bounty"><![CDATA[Acte de décès]]></entry>
 <entry id="str_inventory_description_gembh_big_bounty"><![CDATA[TODO:A collected piece of a fallen target. Bring back to claim your reward!]]></entry>
-<entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[TODO:Kill Confirmation]]></entry>
+<entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[Acte de décès]]></entry>
 <entry id="str_inventory_title_estatesupply_faithless"><![CDATA[Sangsue spirituelle]]></entry>
 <entry id="str_inventory_description_estatesupply_faithless"><![CDATA[Un parasite qui s'infiltre dans le cœur et l'esprit de son hôte. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_faithless}athée{colour_end}]{colour_end}]]></entry>
 <entry id="str_inventory_title_estatesupply_pagan"><![CDATA[Porte-Vérité]]></entry>
@@ -3214,10 +3214,10 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_skill_spooky_song"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɮʑʔ{colour_end}Deathly Rattle]]></entry>
 <entry id="str_monster_skill_sandstorm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɣɣɣɣɩɦɳʑ{colour_end}Sand Blasting]]></entry>
 <entry id="str_monster_skill_guarding_song"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦʃʙ{colour_end}Sand Castle]]></entry>
-<entry id="str_monster_skill_summon_sand1"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charming Melody]]></entry>
-<entry id="str_monster_skill_summon_sand2"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charming Melody]]></entry>
-<entry id="str_monster_skill_summon_sand3"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charming Melody]]></entry>
-<entry id="str_monster_skill_summon_sand3_afterprep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʟʀ{colour_end}Charming Melody]]></entry>
+<entry id="str_monster_skill_summon_sand1"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
+<entry id="str_monster_skill_summon_sand2"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
+<entry id="str_monster_skill_summon_sand3"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
+<entry id="str_monster_skill_summon_sand3_afterprep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʟʀ{colour_end}Charmante mélodie]]></entry>
 <entry id="str_monster_skill_sand_sb_snakes"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɣɣɣɣɩɦɷʏ{colour_end}Scaled Strike]]></entry>
 <entry id="str_monster_skill_sand_sb_pierce"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɧʹ{colour_end}Shardspear]]></entry>
 <entry id="str_monster_skill_sand_sb_puncture"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʘ{colour_end}Fangs of the Dunes]]></entry>
