@@ -5506,10 +5506,10 @@
 <entry id="str_quest_too_hard"><![CDATA[Je ne peux pas, je ne veux pas !]]></entry>
 <entry id="str_quest_too_easy"><![CDATA[Je ne gâcherai pas mon talent avec une mission si futile.]]></entry>
 <entry id="str_quest_too_easy"><![CDATA[Cette quête est inférieure à mon expérience.]]></entry>
-<entry id="str_quest_too_easy"><![CDATA[Ahah ! Ce n'est pas un truc aussi simple qui améliorera mes compétences !]]></entry>
+<entry id="str_quest_too_easy"><![CDATA[Ahah ! Hors de question de faire une tâche auss simple !]]></entry>
 <entry id="str_quest_too_easy"><![CDATA[Seul le défi me permettra de m'améliorer.]]></entry>
 <entry id="str_quest_too_easy"><![CDATA[Bah, je vaux mieux que ça.]]></entry>
-<entry id="str_quest_too_easy"><![CDATA[Ne m'ennuyez pas avec de telles distractions insignifiantes.]]></entry>
+<entry id="str_quest_too_easy"><![CDATA[Ne m'ennuyez pas avec des choses aussi insignifiantes.]]></entry>
 <entry id="str_quest_too_easy"><![CDATA[Sans défi, comment vais-je m'améliorer ?]]></entry>
 <entry id="str_block_camping_skill_performer_fearful"><![CDATA[Je ne peux pas me concentrer. Nous pourrions être attaqués à tout moment !]]></entry>
 <entry id="bounty_hunter+str_block_camping_skill_performer_fearful"><![CDATA[Ils nous MASSACRERONT ! Nous devrions partir !]]></entry>
