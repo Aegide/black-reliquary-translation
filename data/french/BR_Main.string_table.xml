@@ -174,7 +174,7 @@ Torche :]]></entry>
 <entry id="town_quest_description_explore_cave+2+warrens+explore_cave"><![CDATA[TODO:Navigate the labyrinth of tunnels for supplies, and exterminate some pests while you're at it.]]></entry>
 <entry id="town_quest_description_explore_cave+3+warrens+explore_cave"><![CDATA[TODO:Scour these caverns for materials and chart your route for future excursions.]]></entry>
 <entry id="town_quest_description_explore_trea+1+weald+explore_trea"><![CDATA[TODO:Vast wealth awaits us in the Treasury, but it is not free for the taking.]]></entry>
-<entry id="town_quest_description_explore_trea+2+weald+explore_trea"><![CDATA[TODO:Every chart of the Treasury makes looting its riches a little bit easier.]]></entry>
+<entry id="town_quest_description_explore_trea+2+weald+explore_trea"><![CDATA[Chaque carte de la Trésorerie facilite un peu plus le pillage de ses richesses.]]></entry>
 <entry id="town_quest_description_explore_trea+3+weald+explore_trea"><![CDATA[TODO:Reveal the traps and caches, and we will harvest the fruits of your efforts.]]></entry>
 <entry id="town_quest_description_cleanse_sun+1+cove+battle_sun"><![CDATA[TODO:The Wildlanders do not belong in the valley. We must make a demonstration of them and rebuke their clans from these lands.]]></entry>
 <entry id="town_quest_description_cleanse_sun+2+cove+battle_sun"><![CDATA[Si ces sauvages cherchent le sang et la violence, ils ne seront pas déçus.]]></entry>
@@ -348,7 +348,7 @@ Vos héros ne seront pas en mesure d'achever le Dévoreur, ils auront besoin d'a
 <entry id="str_plot_kill_ygreater_wurm_5_audio_line"><![CDATA[ Léviathan du désert]]></entry>
 <entry id="str_caretaker_goal_plot_kill_zalraune_3"><![CDATA[ Vaincre l'Alrune]]></entry>
 <entry id="town_quest_name_plot_kill_zalraune_3"><![CDATA[Fleurs séduisantes]]></entry>
-<entry id="town_quest_description_plot_kill_zalraune_3"><![CDATA[Un passage important est gardé par une masse cactonide d'un attrait dérangeant ...]]></entry>
+<entry id="town_quest_description_plot_kill_zalraune_3"><![CDATA[Un passage important est gardé par une masse cactonide d'un attrait dérangeant...]]></entry>
 <entry id="str_returned_from_plot_kill_zalraune_3_failure"><![CDATA[{?hero_names}%s n'ont pas résisté à l'Alrune.]]></entry>
 <entry id="str_returned_from_plot_kill_zalraune_3_success"><![CDATA[{?hero_names}%s ont vaincu l'Alrune.]]></entry>
 <entry id="str_embarked_on_plot_kill_zalraune_3"><![CDATA[{?hero_names}%s ont embarqué dans le bosquet de l'Alrune.]]></entry>
@@ -1025,7 +1025,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_item_had_no_effect"><![CDATA[L'objet n'a aucun effet.]]></entry>
 <entry id="curio_tooltip_item_slot"><![CDATA[[OPTIONNEL] Faites glisser un objet ici pour l'utiliser sur cet élément.]]></entry>
 <entry id="curio_tooltip_item_slot_gather_curio"><![CDATA[[Ceci est une curiosité de quête. Aucun objet requis pour l'ouvrir.]]]></entry>
-<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[Ouvrir ...]]></entry>
+<entry id="str_curio_tooltip_investigate_quest_gather"><![CDATA[Ouvrir...]]></entry>
 <entry id="str_curio_title_kvarotz_vase_tutorial"><![CDATA[Vase primitif]]></entry>
 <entry id="str_curio_content_kvarotz_vase_tutorial"><![CDATA[Des restes de poterie datant de la dynastie Kvarotz.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_vase_tutorial"><![CDATA[Regarder à l'intérieur ...]]></entry>
