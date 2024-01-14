@@ -653,7 +653,7 @@ Votre adresse au tir sera évaluée.]]></entry>
 {colour_start|notable}Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT +5% (Quête){colour_end}]]></entry>
 
 <entry id="town_event_title_br_religious_buff"><![CDATA[Veillée aux chandelles]]></entry>
-<entry id="town_event_description_br_religious_buff"><![CDATA[Les fidèles sont rassemblés pour une prière solennelle, tout ceux qui cherchent encore une réponse y sont invités.]]></entry>
+<entry id="town_event_description_br_religious_buff"><![CDATA[Les fidèles se sont rassemblés pour une prière solennelle, tout ceux qui cherchent une réponse y sont invités.]]></entry>
 <entry id="town_event_info_br_religious_buff"><![CDATA[TODO:{colour_start|notable}+15% {colour_start|healhp}Healing{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}
 {colour_start|notable}-15% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end} on next quest{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOWN_EVENT_RELIGIOUS_STRESSREC"><![CDATA[TODO:{colour_start|notable}-15%% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end}{colour_end}]]></entry>
