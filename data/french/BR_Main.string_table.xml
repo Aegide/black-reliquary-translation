@@ -2790,11 +2790,11 @@ On Ranged Hit: Buff Self: +5% CRT (2 tns){colour_end}]]></entry>
 <entry id="str_monster_attack_bite_call"><![CDATA[TODO:The earth trembles underfoot!]]></entry>
 <entry id="str_monster_attack_bite_call"><![CDATA[TODO:Below us, I can hear it!]]></entry>
 <entry id="str_monster_attack_bite_call"><![CDATA[TODO:Something is not right beneath the sand!]]></entry>
-<entry id="str_monster_skill_levantine_janissary_challenge"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʍ{colour_end}To The Death]]></entry>
-<entry id="str_monster_skill_levantine_janissary_slash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʦɘɘɣɣɩɧʎ{colour_end}Duelist's Surge]]></entry>
-<entry id="str_monster_skill_levantine_janissary_gun"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɘɘɩɨ{colour_end}Direct Hit]]></entry>
-<entry id="str_monster_skill_levantine_janissary_summon"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Keep Them Busy]]></entry>
-<entry id="str_monster_skill_levantine_janissary_summon_afterprep"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Keep Them Busy]]></entry>
+<entry id="str_monster_skill_levantine_janissary_challenge"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʍ{colour_end}Jusqu'à la mort]]></entry>
+<entry id="str_monster_skill_levantine_janissary_slash"><![CDATA[{colour_start|white}ɡɡɡɡʦɘɘɣɣɩɧʎ{colour_end}Déferlement tranchant]]></entry>
+<entry id="str_monster_skill_levantine_janissary_gun"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɘɘɩɨ{colour_end}Tir ciblé]]></entry>
+<entry id="str_monster_skill_levantine_janissary_summon"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Occupez-vous d'eux]]></entry>
+<entry id="str_monster_skill_levantine_janissary_summon_afterprep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Occupez-vous d'eux]]></entry>
 <entry id="str_monster_skill_terp_ring"><![CDATA[{colour_start|white}ɘɡɡɡʦɣɣɣɣɩɧʐ{colour_end}Lancer de chakram]]></entry>
 <entry id="str_monster_skill_terp_incarnation"><![CDATA[{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɦʈʐ{colour_end}Samsara : Incarnation]]></entry>
 <entry id="str_monster_skill_terp_life"><![CDATA[{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɦɬʐ{colour_end}Samsara : Vie]]></entry>
@@ -4340,7 +4340,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinketcoat_of_the_great_strategist"><![CDATA[Cape de stratège]]></entry>
 <entry id="str_inventory_title_trinketcrusader_curse"><![CDATA[Malédiction du croisé]]></entry>
 <entry id="str_inventory_title_trinketiris_of_the_plagued"><![CDATA[Iris des pestiférés]]></entry>
-<entry id="str_inventory_title_trinketdecret_of_the_holy_land"><![CDATA[Decree de la Terre sainte]]></entry>
+<entry id="str_inventory_title_trinketdecret_of_the_holy_land"><![CDATA[Décret de la Terre sainte]]></entry>
 <entry id="str_inventory_title_trinketshaws_pocketwatch"><![CDATA[Montre de Shaw]]></entry>
 <entry id="str_inventory_title_trinketthe_loch_shield"><![CDATA[Bouclier du Loch]]></entry>
 <entry id="str_inventory_title_trinketold_shcool_scroll"><![CDATA[Parchemin ancestral]]></entry>
