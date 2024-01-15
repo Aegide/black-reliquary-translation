@@ -1049,7 +1049,7 @@ Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent tem
 <entry id="str_curio_levantine_supplies_tutorial2_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_tablet_tutorial"><![CDATA[Tablette primitive]]></entry>
 <entry id="str_curio_content_kvarotz_tablet_tutorial"><![CDATA[Une dalle de pierre contenant des connaissances obscures Kvarotz.]]></entry>
-<entry id="str_curio_tooltip_investigate_kvarotz_tablet_tutorial"><![CDATA[Étudier les textes ...]]></entry>
+<entry id="str_curio_tooltip_investigate_kvarotz_tablet_tutorial"><![CDATA[Étudier les textes...]]></entry>
 <entry id="str_curio_kvarotz_tablet_tutorial_effect"><![CDATA[La tablette révèle des informations sur ces lieux !]]></entry>
 <entry id="str_curio_kvarotz_tablet_tutorial_shovel_effect"><![CDATA[La tablette explose violemment sur son agresseur !]]></entry>
 <entry id="str_curio_kvarotz_tablet_tutorial_arch_kit_loot"><![CDATA[La tablette révèle les secrets de ces lieux !]]></entry>
@@ -1540,7 +1540,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_waxen_penitent_effect"><![CDATA[Cette statue suscite des pensées puissantes.]]></entry>
 <entry id="str_curio_waxen_penitent_shovel_effect"><![CDATA[Démolir la statue procure un sentiment de malaise.]]></entry>
 <entry id="str_curio_waxen_penitent_holy_water_effect"><![CDATA[Le rituel d'alun renforce le héros !]]></entry>
-<entry id="str_curio_waxen_penitent_torch_effect"><![CDATA[Le cierge du pénitent est enfin allumé ...]]></entry>
+<entry id="str_curio_waxen_penitent_torch_effect"><![CDATA[Le cierge du pénitent est enfin allumé...]]></entry>
 <entry id="str_curio_waxen_penitent_medicinal_herbs_effect"><![CDATA[Le corps est consacré, procurant un sentiment de tranquillité.]]></entry>
 <entry id="str_curio_waxen_penitent_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_confessors_toolkit"><![CDATA[Masque de la Légion]]></entry>
@@ -5540,9 +5540,9 @@ Fin de tour (4ʪ de chances){colour_end}]]></entry>
 <entry id="str_comment_ally_attack_missed_tactless"><![CDATA[TODO:How can we win at this rate?]]></entry>
 <entry id="str_ignore_command_imposter_syndrome_BR"><![CDATA[TODO:I am in over my head!]]></entry>
 <entry id="str_ignore_command_imposter_syndrome_BR"><![CDATA[TODO:I just don't think I'm equal to this task!]]></entry>
-<entry id="str_attack_friendly_ritualist"><![CDATA[TODO:FH'TAGH L'MAT SHENG NEFT'GOL!]]></entry>
+<entry id="str_attack_friendly_ritualist"><![CDATA[FH'TAGH L'MAT SHENG NEFT'GOL!]]></entry>
 <entry id="str_attack_friendly_ritualist"><![CDATA[TODO:YOUR BLOOD IS NAUGHT BUT FUEL!]]></entry>
-<entry id="str_attack_friendly_ritualist"><![CDATA[TODO:T'GARTH NIT FALLOHKA! GHET DUUN!]]></entry>
+<entry id="str_attack_friendly_ritualist"><![CDATA[T'GARTH NIT FALLOHKA! GHET DUUN!]]></entry>
 <entry id="str_mark_self_intercessor"><![CDATA[TODO:Divinity be unto you in spite of your sins.]]></entry>
 <entry id="str_mark_self_intercessor"><![CDATA[TODO:O' Light, I humbly plea to you for your sanctuary.]]></entry>
 <entry id="str_mark_self_intercessor"><![CDATA[TODO:Well be thine blessings, and blessed be thy wellness.]]></entry>
