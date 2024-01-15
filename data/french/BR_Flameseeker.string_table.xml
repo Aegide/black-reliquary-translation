@@ -315,9 +315,9 @@ Refus de partir - 10ʪ
 Accident grave - 15ʪ]]></entry>
 <entry id="upgrade_tree_tooltip_description_tavern.gambling"><![CDATA[Améliore la salle de jeux.
 {colour_start|town_activity_log_positive_result}Effets supplémentaires :{colour_end}
-Gain Gold - 10ʪ
-Gain Trinket - 5ʪ
-Chance to Lose Gold - 20ʪ
+Gain d'or - 10ʪ
+Gain de breloque - 5ʪ
+Perte d'or - 20ʪ
 Refus de partir - 15ʪ]]></entry>
 <entry id="str_empty_hero_slot_action"><![CDATA[Placez un héros ici.]]></entry>
 <entry id="str_empty_hero_slot_bar"><![CDATA[Placez un héros ici.]]></entry>
