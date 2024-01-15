@@ -386,9 +386,9 @@ La Mère des goules n'hésitera pas à dévorer ses enfants si cela lui permet d
 <entry id="str_plot_ghoul_retention_0_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Préparez votre esprit à faire face aux assauts assourdissants de la Mère des goules.]]></entry>
 <entry id="str_plot_ghoul_retention_0_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Si nous tardons, la Mère des goules s'enfuira avec son butin.]]></entry>
+Si nous résistons, la Mère des goules s'enfuira sans son butin.]]></entry>
 <entry id="town_quest_name_plot_ghoul_retention_1"><![CDATA[Biens mal-acquis [{colour_start|moon_torch}Nuit{colour_end}]]]></entry>
-<entry id="town_quest_description_plot_ghoul_retention_1"><![CDATA[Nos éclaireurs ont localisés une grotte remplie de trésors, tous ramassés par la Mère des goules. Débarrassez-vous d'elle et récupérez ce qui nous revient de droit.]]></entry>
+<entry id="town_quest_description_plot_ghoul_retention_1"><![CDATA[Nos éclaireurs ont localisés une grotte remplie de trésors, tous ramassés par la Mère des goules. Résistez-lui et récupérez ce qui nous revient de droit.]]></entry>
 <entry id="str_returned_from_plot_ghoul_retention_1_failure"><![CDATA[{?hero_names}%s ont échoué dans leur expédition contre la Mère des goules.]]></entry>
 <entry id="str_returned_from_plot_ghoul_retention_1_success"><![CDATA[{?hero_names}%s ont récupéré leurs babioles, auprès avoir chassé la Mère des goules.]]></entry>
 <entry id="str_embarked_on_plot_ghoul_retention_1"><![CDATA[{?hero_names}%s sont partis combattre la Mère des goules.]]></entry>
@@ -397,9 +397,9 @@ La Mère des goules n'hésitera pas à dévorer ses enfants si cela lui permet d
 <entry id="str_plot_ghoul_retention_1_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Préparez votre esprit à faire face aux assauts assourdissants de la Mère des goules.]]></entry>
 <entry id="str_plot_ghoul_retention_1_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Si nous tardons, la Mère des goules s'enfuira avec son butin.]]></entry>
+Si nous résistons, la Mère des goules s'enfuira sans son butin.]]></entry>
 <entry id="str_trinket_retention_log_item"><![CDATA[La Mère des goules a récupéré %d breloques ! Nettoyez son antre.]]></entry>
-<entry id="town_quest_trinket_retention_description_format"><![CDATA[Chassez la la Mère des goules pour récupérer %d breloques.]]></entry>
+<entry id="town_quest_trinket_retention_description_format"><![CDATA[Résistez à la Mère des goules pour récupérer %d breloques.]]></entry>
 <entry id="str_caretaker_goal_plot_eclipse_invasion_0"><![CDATA[TODO:Errant Daylight]]></entry>
 <entry id="town_quest_name_plot_eclipse_invasion_0"><![CDATA[TODO:Errant Daylight]]></entry>
 <entry id="town_quest_description_plot_eclipse_invasion_0"><![CDATA[TODO:There is a terrifying entity down in the sands. Since it began pulsing its beacon, the sun has gone dark over the valley. Whatever is causing this, it must be stopped by any means, before someone comes to meddle with powers beyond their grasp.]]></entry>
