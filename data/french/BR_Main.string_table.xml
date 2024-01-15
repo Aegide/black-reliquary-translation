@@ -211,17 +211,17 @@ Torche :]]></entry>
 <entry id="str_returned_from_cleanse_cave_warrens_success"><![CDATA[{?hero_names}%s ont creusé un chemin à travers les Cavernes. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_activate_trea_weald_failure"><![CDATA[{?hero_names}%s n'ont pas collecté tout ce qu'ils voulaient dans la Trésorerie. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_activate_trea_weald_success"><![CDATA[{?hero_names}%s ont collecté tout ce qu'ils pouvaient dans la Trésorerie. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_cove_success"><![CDATA[TODO:{?hero_names}%s slayed a great evil in the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_cove_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[TODO:{?hero_names}%s slayed a great evil in the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_warrens_success"><![CDATA[TODO:{?hero_names}%s slayed a great evil in the Caverns. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_warrens_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Caverns. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_weald_success"><![CDATA[TODO:{?hero_names}%s slayed a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
-<entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[TODO:{?hero_names}%s failed to slay a great evil in the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_cove_success"><![CDATA[{?hero_names}%s ont éliminé un grand fléau dans l'Intérieur Exposé. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_cove_failure"><![CDATA[{?hero_names}%s ont échoué à éliminer un grand fléau dans l'Intérieur Exposé. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_crypts_success"><![CDATA[{?hero_names}%s ont éliminé un grand fléau dans la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_crypts_failure"><![CDATA[{?hero_names}%s ont échoué à éliminer un grand fléau dans la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_warrens_success"><![CDATA[{?hero_names}%s ont éliminé un grand fléau dans les Cavernes. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_warrens_failure"><![CDATA[{?hero_names}%s ont échoué à éliminer un grand fléau dans les Cavernes. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_weald_success"><![CDATA[{?hero_names}%s ont éliminé un grand fléau dans la Trésorerie. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_kill_boss_weald_failure"><![CDATA[{?hero_names}%s ont échoué à éliminer un grand fléau dans la Trésorerie. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_roaming_tooltip_flayer"><![CDATA[TODO:The Flayed prowls here this week. 
 {colour_start|skill_unselectable}(50ʪ Chance to Encounter in Champ){colour_end}]]></entry>
-<entry id="loading_screen_override_flayer"><![CDATA[TODO:Something calls out in the dunes...]]></entry>
+<entry id="loading_screen_override_flayer"><![CDATA[Quelque chose nous appelle depuis les dunes...]]></entry>
 <entry id="str_flayer_tip"><![CDATA[]]></entry>
 <entry id="str_map_ac_treasure_tooltip"><![CDATA[Vendeur]]></entry>
 <entry id="str_map_treasure_tooltip"><![CDATA[Vendeur]]></entry>
