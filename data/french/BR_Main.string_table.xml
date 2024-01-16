@@ -2838,7 +2838,7 @@ On Ranged Hit: Buff Self: +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_hammer_of_faith"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Marteau de foi]]></entry>
 <entry id="str_monster_skill_cleric_blinding_glare"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩʊʓʑ{colour_end}Lumière aveuglante]]></entry>
 <entry id="str_monster_skill_cleric_knights_vow"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Vœu du chevalier]]></entry>
-<entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Gleaning Glare]]></entry>
+<entry id="str_monster_skill_cleric_gleaning_glare"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʊʑ{colour_end}Lumière puissante]]></entry>
 <entry id="str_monster_skill_cleric_stand_behind"><![CDATA[Derrière-moi !]]></entry>
 <entry id="str_monster_skill_pilgrim_stab"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʎ{colour_end}Saigne, Hérétique !]]></entry>
 <entry id="str_monster_skill_pilgrim_weak_stab"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Stumbling Thrust]]></entry>
@@ -5646,7 +5646,7 @@ Stress +5ʪ]]></entry>
 Résist. diverses -10ʪ]]></entry>
 <entry id="str_quirk_description_bad_humors_tended_a"><![CDATA[PV MAX -10ʪ
 Résist. diverses -5ʪ]]></entry>
-<entry id="quirk_transition_anxiety_w_to_worries_a"><![CDATA[TODO:Nous... allons nous en sortir, n'est-ce pas ?]]></entry>
+<entry id="quirk_transition_anxiety_w_to_worries_a"><![CDATA[Nous... allons nous en sortir, n'est-ce pas ?]]></entry>
 <entry id="quirk_transition_worries_tended_a_to_worries_a"><![CDATA[Je... Je ne veux pas mourir ici !]]></entry>
 <entry id="quirk_transition_anxiety_b_to_bad_humors_a"><![CDATA[Nous... allons nous en sortir, n'est-ce pas ?]]></entry>
 <entry id="quirk_transition_bad_humors_tended_a_to_bad_humors_a"><![CDATA[Je me sens si mal...]]></entry>
