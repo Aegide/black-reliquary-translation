@@ -992,15 +992,20 @@ selon le moment de la journée.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Des années de violence ont endurci la peau des sauvages, la rendant plus résistante aux saignements.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Se reposer sur un seul soigneur pourrait se révéler fatal. Une deuxième paire de mains peut faire toute la différence.]]></entry>
+Se reposer sur un seul soigneur pourrait se révéler fatal.
+Une deuxième paire de mains peut faire toute la différence.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 L'intérieur exposé est la région ayant le plus de {colour_start|BR_heirloom}trophées{colour_end}.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La plupart des curios peuvent être abordées de différentes manières, afin d'obtenir des résultats différents.]]></entry>
+La plupart des curios peuvent être abordées de différentes manières,
+afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+Vérifier régulièrement les bonus et les malus,
+de vos alliés et et de vos ennemis,
+vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Pendant la {colour_start|moon_torch}nuit{colour_end}, les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
+Pendant la {colour_start|moon_torch}nuit{colour_end},
+les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivité{colour_end}.]]></entry>
 <entry id="str_cove_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} L'intérieur exposé est désormais accessible.]]></entry>
 <entry id="bonus_currency_name_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
 <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Reliques collectées]]></entry>
