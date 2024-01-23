@@ -440,7 +440,8 @@
 <entry id="retreat_confirm_battle_hero_loss_yes"><![CDATA[Oui]]></entry>
 <entry id="retreat_confirm_raid_answer_no"><![CDATA[Non]]></entry>
 <entry id="retreat_confirm_raid_answer_yes"><![CDATA[Oui]]></entry>
-<entry id="retreat_confirm_raid_question"><![CDATA[Désirez-vous vraiment battre en retraite ? Les héros subiront le stress de la défaite...]]></entry>
+<entry id="retreat_confirm_raid_question"><![CDATA[Désirez-vous vraiment battre en retraite ?
+Les héros subiront le stress de la défaite...]]></entry>
 <entry id="retreat_fail_announcement"><![CDATA[Échec de la retraite !]]></entry>
 <entry id="retreat_raid_party_kill_darkestdungeon_confirm_answer_no"><![CDATA[Non]]></entry>
 <entry id="retreat_raid_party_kill_darkestdungeon_confirm_answer_yes"><![CDATA[Oui]]></entry>
