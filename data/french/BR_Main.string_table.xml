@@ -544,7 +544,7 @@ This elevated state of performance will last until they suffer a large amount of
 Please note that this interaction only works if the trinket is dragged from the player's provision inventory. If the trinket is equipped, you must put it there before interacting.
 (Trinket interactions may appear invalid, but they still function as normal)]]></entry>
 <entry id="tutorial_popup_contagion_title"><![CDATA[Breloques du Parfumeur]]></entry>
-<entry id="tutorial_popup_bandage_description"><![CDATA[TODO:Enemy surprise has been adjusted. It is now a fixed 15% chance. In addition to delaying enemy actions, it now applies a 1 tn {colour_start|move}Stumble{colour_end}, and reduces enemy accuracy by another 50% . 
+<entry id="tutorial_popup_bandage_description"><![CDATA[TODO:Enemy surprise has been adjusted. It is now a fixed 15% chance. In addition to delaying enemy actions, it now applies a 1 tr {colour_start|move}Stumble{colour_end}, and reduces enemy accuracy by another 50% . 
 
 {colour_start|notable}This makes moves that would normally perform during the Prep Round have a 50% less chance of hitting, while other moves have their accuracy reduced to the 5% hit minimum.{colour_end}
 
@@ -672,7 +672,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_17"><![CDATA[Coup fatal]]></entry>
 <entry id="str_glossary_term_definition_17"><![CDATA[Coup subi par un héros à l'agonie et qui le tue définitivement.]]></entry>
 <entry id="str_glossary_term_18"><![CDATA[Agonie]]></entry>
-<entry id="str_glossary_term_definition_18"><![CDATA[TODO:Also known as "Mortality". A hero with 0 HP is at Death's Door. Each subsequent instance of damage taken while at Death's Door has a chance of permanently killing the hero. Additionally, each hit taken while on Death's Door will lower the hero's Deathblow Resist for 32 tns]]></entry>
+<entry id="str_glossary_term_definition_18"><![CDATA[TODO:Also known as "Mortality". A hero with 0 HP is at Death's Door. Each subsequent instance of damage taken while at Death's Door has a chance of permanently killing the hero. Additionally, each hit taken while on Death's Door will lower the hero's Deathblow Resist for 32 trs]]></entry>
 <entry id="str_glossary_term_19"><![CDATA[Malus]]></entry>
 <entry id="str_glossary_term_definition_19"><![CDATA[TODO:A temporary stat decrease.]]></entry>
 <entry id="str_glossary_term_20"><![CDATA[TODO:Debuff/Mark Resistance]]></entry>
@@ -824,7 +824,7 @@ Torch Effects: Buff Hero Party: +5 ACC (1 Battle){colour_end}]]></entry>
 <entry id="str_glossary_term_definition_1027"><![CDATA[TODO:Exposed Interior quests which subject heroes and enemies to the "Mantling Moonlight" torch effects, and are always set to 0 torchlight.
 {colour_start|skill_unselectable}Hero Effects: +3% CRT, +15% Stress Received
 Monster Effects: +5% CRT, Certain Enemies start battle with Furtivité
-Torch Effects: Buff Hero: Ignore Furtivité (1 tn){colour_end}]]></entry>
+Torch Effects: Buff Hero: Ignore Furtivité (1 tr){colour_end}]]></entry>
 <entry id="str_glossary_term_1028"><![CDATA[TODO:Amber Residue]]></entry>
 <entry id="str_glossary_term_definition_1028"><![CDATA[TODO:A consumable item which applies Damage Buff and Damage Received debuff to the hero. Buffs are halved for Religious and doubled for Pagan. Repeated use gives diminishing returns.]]></entry>
 <entry id="str_glossary_term_1029"><![CDATA[Écaille d'égide]]></entry>
@@ -1852,7 +1852,7 @@ Debuff does not stack{colour_end}]]></entry>
 <entry id="str_inventory_description_gemcursed_gem2"><![CDATA[Chaque partie de ce poignard est coupante comme un rasoir !
 TODO:{colour_start|skill_unselectable}{colour_start|debuff}Passively Debuffs Party:{colour_end} 
 Quand l'attaque touche : Bleed Self: 
-3 pts/tn for 1 tn
+3 pts/tr for 1 tr
 (70% Base, +20% per Diff)
 Debuff does not stack{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_cursed_gem2"><![CDATA[{colour_start|cursed_gem}Dague sacrificielle{colour_end}]]></entry>
@@ -3336,7 +3336,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_rule_tooltip_is_stealthed_false"><![CDATA[TODO:%s if not {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stress_dot"><![CDATA[TODO:Transfer {colour_start|stress}Horror{colour_end} to Caster]]></entry>
 <entry id="effect_tooltip_clear_stress_dot"><![CDATA[Retire l'{colour_start|stress}horreur{colour_end}]]></entry>
-<entry id="effect_tooltip_stress_dot_format"><![CDATA[TODO:{colour_start|stress}Horror {colour_end}%+d/tn for %d tns]]></entry>
+<entry id="effect_tooltip_stress_dot_format"><![CDATA[TODO:{colour_start|stress}Horror {colour_end}%+d/tr for %d trs]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent"><![CDATA[{colour_start|stress}Stress{colour_end} %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_camping_eat"><![CDATA[{colour_start|stress}Stress{colour_end} lors des repas de campement %+d%%]]></entry>
 <entry id="buff_stat_tooltip_stress_dmg_received_percent_hunger"><![CDATA[{colour_start|stress}Stress{colour_end} dû à la faim %+d%%]]></entry>
@@ -3499,7 +3499,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SUFFER_HOOD_SUFFER_TRIGGER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|mark}Transfère marque{colour_end} sur soi]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUFFER_HOOD_STRESS_PER_STATUS"><![CDATA[TODO:+1 {colour_start|stress}Stress Healed{colour_end} if {colour_start|bleed}Bleeding{colour_end}/{colour_start|blight}Blighted{colour_end}/{colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LOCK_OF_FURY_TT"><![CDATA[TODO:+15%% {colour_start|stress}Stress{colour_end} Received in Beast mode]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_STEADFAST_PENDANT_REDUCE_YAWP_COOLDOWN"><![CDATA[TODO:Reduces Cooldown on Barbaric Yawp by 1 tn]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_STEADFAST_PENDANT_REDUCE_YAWP_COOLDOWN"><![CDATA[TODO:Reduces Cooldown on Barbaric Yawp by 1 tr]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED"><![CDATA[TODO:{colour_start|notable}On Kill (Except Last Enemy/Riposte):
 Self: Heal 6{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[{colour_start|enraged}Berserk{colour_end} ({colour_start|notable}Rage infernale{colour_end}) : Ennemi tué : Sur soi : {colour_start|stress}Stress{colour_end} -6]]></entry>
@@ -3512,7 +3512,7 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_IGNORE_DD_DEBUFFS"><![CDATA[TODO:Negates {colour_start|deathdoor}Death's Door{colour_end} Debuffs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_CURE_DD"><![CDATA[TODO:On Being Hit On {colour_start|deathdoor}Death's Door{colour_end}: Sur soi : Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LUCKY_DICE_RANDOM_BUFF_TRIGGER"><![CDATA[TODO:On Skill Use: {colour_start|buff}Buff Self:{colour_end} 0-20%% DMG (in Increments of 5)]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TYRANT_FINGERBONE_FINALE_KILL_BLEED_TRIGGER_1"><![CDATA[TODO:On Ranged Skill Hit: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TYRANT_FINGERBONE_FINALE_KILL_BLEED_TRIGGER_1"><![CDATA[TODO:On Ranged Skill Hit: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_RESET_BUFF_FRIENDLY_SKILL_TRIGGER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Retire le {colour_start|buff}bonus{colour_end} de {colour_start|healhp}soin{colour_end} de cette breloque]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_HEAL_BUFF_MELEE_HIT_TRIGGER"><![CDATA[TODO:On Melee Attack Hit: {colour_start|buff}Buff Self:{colour_end} +3 Additional HP {colour_start|healhp}Healed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CC_VEST_SET"><![CDATA[TODO:If in rank 2: Divine Comfort ignores {colour_start|notable}Cooldown{colour_end}]]></entry>
@@ -3533,13 +3533,13 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SILVER_MUSKET_BALL1"><![CDATA[TODO:If {colour_start|musk_ammo1}Standard{colour_end} Ammo Equipped: +7%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SILVER_MUSKET_BALL2"><![CDATA[TODO:If {colour_start|musk_ammo2}Shrapnel{colour_end} Ammo Equipped: +20%% {colour_start|bleed}Bleed{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SILVER_MUSKET_BALL3"><![CDATA[TODO:If {colour_start|musk_ammo3}Concussive{colour_end} Ammo Equipped: +25%% {colour_start|debuff}Debuff{colour_end}{colour_start|neutral}/ {colour_end}{colour_start|mark}Mark{colour_end} Skill Chance]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_GLASS_SHARDS_TOOLTIP"><![CDATA[TODO:Quand le héros est touché : {colour_start|bleed}Bleed{colour_end} Attacker: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_GLASS_SHARDS_TOOLTIP"><![CDATA[TODO:Quand le héros est touché : {colour_start|bleed}Bleed{colour_end} Attacker: 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_GLASS_SHARDS_TOOLTIP2"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Bleed Chance/+50%% Bleed Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SECOND_PLACE_TROPHY_TT"><![CDATA[TODO:On Miss: Sur soi : {colour_start|stress}Stress{colour_end} +5]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOME_OF_CLEANSING_DIVINE_GRACE_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Soigne {colour_start|stun}étourdissement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : DGT +15%% et CRIT +5%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEMONS_CAULDRON_TT1"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|debuff}Malus sur cible{colour_end} : {colour_start|stress}Stress{colour_end} +20%% si {colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_BOOTS_TT"><![CDATA[TODO:On Miss: {colour_start|buff}Buff Self:{colour_end} Bombard: +100%% DMG {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_BOOTS_TT"><![CDATA[TODO:On Miss: {colour_start|buff}Buff Self:{colour_end} Bombard: +100%% DMG {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EVASION_INCENSE_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : VIT +2 et ESQUIVE +6]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MEDICS_BOOTS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur cible : Soigne {colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRITICAL_DICE_TT"><![CDATA[TODO:On Attack Crit: {colour_start|buff}Buff Self:{colour_end} +2%% CRT]]></entry>
@@ -3581,17 +3581,17 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_SPIKED_COLLAR_HR_TT"><![CDATA[TODO:On Hound's Rush Hit: {colour_start|debuff}Debuff Target:{colour_end} +20%% Damage Received {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SPIKED_COLLAR_HH_TT"><![CDATA[TODO:On Hound's Harry Hit: {colour_start|debuff}Debuff Target:{colour_end} -15%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT1"><![CDATA[TODO:On Friendly Skill: Sur soi : {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT2"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Buff Self:{colour_end} +15%% DMG {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT2"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Buff Self:{colour_end} +15%% DMG {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SACRED_SCROLL_TT"><![CDATA[TODO:On Mystical Attack Hit: {colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(3 rds / 120%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT1"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|healhp}Heal{colour_end} 4 pts/tn for 2 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT1"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|healhp}Heal{colour_end} 4 pts/tr for 2 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT15"><![CDATA[TODO:{colour_start|skill_unselectable}(+2 pt per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT2"><![CDATA[TODO:On Friendly Skill: Sur soi : +6 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GUNSLINGER_BUCKLE_TT"><![CDATA[On Ranged Attack Hit: {colour_start|buff}Buff Self:{colour_end} +3 SPD, +3%% CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15%% DMG]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT1"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Party:{colour_end} +5%% CRT if {colour_start|affiliation_pagan}Pagan{colour_end}, +10%% DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT2"><![CDATA[TODO:On Monster Kill: Groupe : +2 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FOCUS_RING_TT"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Debuff Self:{colour_end} -10 ACC {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FOCUS_RING_TT"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Debuff Self:{colour_end} -10 ACC {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RESILIENCE_CHARM_TT"><![CDATA[TODO:+35%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark} Mark{colour_end} Resist]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RAT_CARCASS_DEBUFF_TT1"><![CDATA[TODO:-2 SPD if no Enemy is Corpse]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RAT_CARCASS_DEBUFF_TT2"><![CDATA[TODO:+10%% {colour_start|stress}Stress{colour_end} Received if no Enemy is Corpse]]></entry>
@@ -3599,8 +3599,8 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_CALMING_HERBS_TT_1"><![CDATA[TODO:On Friendly Skill: Target: -6 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CALMING_HERBS_CURE_TT"><![CDATA[TODO:Battlefield Medicine: Cannot Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Anymore]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CALMING_HERBS_TT_2"><![CDATA[TODO:On Friendly Skill: Target and Self: Cure {colour_start|stress}Horror{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLOODY_HERB_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -100%% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FORTUNATE_ARMLET_TT"><![CDATA[TODO:On Attack Miss: {colour_start|buff}Buff Self:{colour_end} +35%% DMG, +25 ACC {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLOODY_HERB_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -100ʪ% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FORTUNATE_ARMLET_TT"><![CDATA[TODO:On Attack Miss: {colour_start|buff}Buff Self:{colour_end} +35%% DMG, +25 ACC {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HARDENED_SCALE_TT_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +30%% PROT, +25%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HARDENED_SCALE_TT_2"><![CDATA[TODO:On Friendly Skill: Sur soi : Remove SPD Buff from Serpent's Sway]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLADE_OF_2ND_TT"><![CDATA[TODO:On Mystical Attack Hit: {colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(3 rds / 110%% base){colour_end}]]></entry>
@@ -3622,14 +3622,14 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_OLD_SCHOOL_SCROLL_TT1"><![CDATA[TODO:Ignores {colour_start|prep_round}Prep Round's{colour_end} ACC Reduction]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OLD_SCHOOL_SCROLL_TT2"><![CDATA[TODO:DODGE set to 0 during {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_SKULL_TT1"><![CDATA[TODO:On Ranged Attack Hit: Buff Self: +30%% {colour_start|healhp}Healing{colour_end} Done, +40%% {colour_start|debuff}Debuff{colour_end} Chance (2 trs)]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_POISONED_ARMOR_TT1"><![CDATA[TODO:Quand le héros est touché : {colour_start|blight}Blight Attacker{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_POISONED_ARMOR_TT2"><![CDATA[TODO:Quand le héros est touché : {colour_start|blight}Blight Self{colour_end}: 1 pts/tn for 3 tns {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_POISONED_ARMOR_TT1"><![CDATA[TODO:Quand le héros est touché : {colour_start|blight}Blight Attacker{colour_end}: 4 pts/tr for 3 trs {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_POISONED_ARMOR_TT2"><![CDATA[TODO:Quand le héros est touché : {colour_start|blight}Blight Self{colour_end}: 1 pts/tr for 3 trs {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEALING_STONE_TT1"><![CDATA[Compétences {colour_start|attacktype}utilitaires{colour_end} : {colour_start|healhp}Soins{colour_end} : 1-2]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FANGS_GAOLANG_TT1"><![CDATA[TODO:Quand l'attaque touche : {colour_start|buff}Buff Self:{colour_end} +10%% DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FANGS_GAOLANG_TT2"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Debuff Self:{colour_end} +7%% Damage Taken]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PIPE_DARIC_TT"><![CDATA[TODO:On Monster Kill: -10 Torch, After Combat: Gain 3-5 Darics]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCCULT_KEY_TT1"><![CDATA[TODO:On Friendly Skill: Refresh Skill Use Limit]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OCCULT_KEY_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -75%% {colour_start|stress}Horror{colour_end} Amount Done {colour_start|skill_unselectable}(1 tn / 100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OCCULT_KEY_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -75%% {colour_start|stress}Horror{colour_end} Amount Done {colour_start|skill_unselectable}(1 tr / 100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RAVENOUS_TT1"><![CDATA[TODO:+15 DODGE when facing Yngolian]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RAVENOUS_TT2"><![CDATA[TODO:+20%% {colour_start|stress}Stress{colour_end} Received when facing Sand Charmer]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SNUFF_PENDANT_TT1"><![CDATA[TODO:If {colour_start|virtue}Virtuous:{colour_end} +10 ACC, +7%% CRT]]></entry>
@@ -3649,19 +3649,19 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_DOOT_TT_3"><![CDATA[TODO:On Ranged Attack Hit: Groupe : Gain {colour_start|symptom}Symptom: Tinnitus{colour_end} {colour_start|skill_unselectable}(3ʪ de chances){colour_end}]]></entry>
 <entry id="doot"><![CDATA[Quelle horrible mélodie !]]></entry>
 <entry id="doot"><![CDATA[Arrêtez ce vacarme !]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_JANI_HELMET_TT"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Debuff Target:{colour_end} Can't be {colour_start|guard}Guarded{colour_end} {colour_start|skill_unselectable}(2 tns / 110%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_JANI_HELMET_TT"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Debuff Target:{colour_end} Can't be {colour_start|guard}Guarded{colour_end} {colour_start|skill_unselectable}(2 trs / 110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JANI_HELMET_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}On AoEs the Debuff is only applied to the first target hit{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JANI_SET_TT"><![CDATA[TODO:{colour_start|riposte}Riposte{colour_end} attacks when hit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENCH_SNAKE_TT"><![CDATA[TODO:On Monster Kill: Sur soi : Gain 1 Block {colour_start|skill_unselectable}(75%% chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_WARHAWK_GAUNTLET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self: {colour_end}{colour_start|attacktype}Ranged{colour_end} Skills: +8 ACC, +4%% CRT {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_WARHAWK_GAUNTLET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self: {colour_end}{colour_start|attacktype}Ranged{colour_end} Skills: +8 ACC, +4%% CRT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TEMPT_SHEARS_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% PROT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TEMPT_FLOWERS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CORE_SAP_TT"><![CDATA[TODO:Quand le héros est touché : {colour_start|debuff}Debuff Target:{colour_end} -4 DODGE, -2 SPD {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CORE_EYE_TT"><![CDATA[TODO:Bonuses are doubled if any enemy is a Cactonid]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DARIC_LOOT_TT1"><![CDATA[TODO:Quand le héros est touché : Sur soi : {colour_start|stress}Incurable Horror{colour_end} 2 pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DARIC_LOOT_TT1"><![CDATA[TODO:Quand le héros est touché : Sur soi : {colour_start|stress}Incurable Horror{colour_end} 2 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DARIC_LOOT_TT2"><![CDATA[TODO:Quand le héros est touché : After Combat: Gain 1-2 Darics]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DARIC_LOOT_TT3"><![CDATA[TODO:Quand le héros est touché : {colour_start|debuff}Debuff Self:{colour_end} +5%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SNAKE_TRINKET_TOOLTIP"><![CDATA[TODO:On Attack Crit: {colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SNAKE_TRINKET_TOOLTIP"><![CDATA[TODO:On Attack Crit: {colour_start|blight}Blight Target:{colour_end} 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FROG_TRINKET_TOOLTIP"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Buff Self:{colour_end} +10%% PROT, +10%% {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(2 rds){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_on_being_hit"><![CDATA[TODO:Quand le héros est touché :]]></entry>
 <entry id="buff_rule_data_tooltip_IMMUNITY_MASK_TT_1"><![CDATA[TODO: If {colour_start|bleed}Bleeding{colour_end}, {colour_start|blight}Blighted{colour_end}, or {colour_start|mark}Marked:{colour_end} {colour_start|debuff}Debuff Self:{colour_end} +15% {colour_start|stress}Stress{colour_end} {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
@@ -3691,10 +3691,10 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADETT3_2"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} -4 DODGE {colour_start|skill_unselectable}(8 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADETT4_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +7%% PROT {colour_start|skill_unselectable}(8 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVE_SHELL_UPGRADETT4_2"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} -5 DODGE {colour_start|skill_unselectable}(8 trs){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_0"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 4 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_1"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 6 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_2"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 8 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_3"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 10 pts/tn for 2 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_0"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 4 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_1"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 6 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_2"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 8 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEAL_3"><![CDATA[TODO:On Monster Kill: Sur soi : Gain {colour_start|healhp}Restoration{colour_end}: 10 pts/tr for 2 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_ADDHEAL"><![CDATA[TODO:{colour_start|skill_unselectable}+50%% Restoration Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEALBUFF_1"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Self:{colour_end} +15%% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SMALL_HEALBUFF_2"><![CDATA[TODO:On Monster Kill: {colour_start|buff}Buff Self:{colour_end} +25%% {colour_start|healhp}Healing{colour_end} Received {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
@@ -3743,7 +3743,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT1"><![CDATA[TODO:On Ranged Attack Hit: Sur soi : {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT2"><![CDATA[TODO:On {colour_start|riposte}Riposte{colour_end} Hit: Sur soi : Clear {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(50ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT1"><![CDATA[TODO:Blackjack: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|bleed}Bleed Target{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|bleed}Bleed Target{colour_end}: 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}(+10%% Bleed Chance/+1 Bleed amount per skill level){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT1"><![CDATA[TODO:Quand l'attaque touche : {colour_start|buff}Buff Self:{colour_end} +20%% DMG, +3 SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT2"><![CDATA[TODO:Quand l'attaque touche : Sur soi : {colour_start|harmful}Suffer{colour_end} 4 HP]]></entry>
@@ -3751,11 +3751,11 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT4"><![CDATA[TODO:On Friendly Skill: Clear all {colour_start|buff}Buffs{colour_end}/{colour_start|debuff}Debuffs{colour_end} from this Trinket]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_TRAY_TT1"><![CDATA[%+d%% dégâts subis]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_NO_HEAL_TT"><![CDATA[TODO:Battlefield Bandage: Can't {colour_start|healhp}Heal{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT1"><![CDATA[TODO:Extends Cooldown On Battle Ballad by 1 tn]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 tns {colour_start|skill_unselectable}(100%% Base) (1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT1"><![CDATA[TODO:Extends Cooldown On Battle Ballad by 1 tr]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 trs {colour_start|skill_unselectable}(100%% Base) (1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Blight Chance, +50%% Blight Amount applied per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}-50%% Blight Amount applied on AoE Skills{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TARGET_TT1"><![CDATA[TODO:Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 tns {colour_start|skill_unselectable}(100%% Base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TARGET_TT1"><![CDATA[TODO:Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 trs {colour_start|skill_unselectable}(100%% Base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TARGET_TT2"><![CDATA[TODO:          {colour_start|skill_unselectable}+20%% Blight Chance, +50%% Blight Amount applied per Difficulty{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TARGET_TT3"><![CDATA[TODO:          {colour_start|skill_unselectable}-50%% Blight Amount applied on AoE Skills{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SNAKE_WINE_TT1"><![CDATA[TODO:On Friendly Skill: Sur soi : Activate {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
@@ -3774,14 +3774,14 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PERFUMER_NEEDLE_TT3"><![CDATA[TODO:-15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_NODODGE_TT"><![CDATA[TODO:Hero Can't Dodge]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_WHEN_HIT_TT"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Buff Self:{colour_end} +25%% {colour_start|blight}Blight{colour_end} Amount Applied]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAGE_SLAM_TT"><![CDATA[TODO:On Rage/Slam Hit: {colour_start|blight}Blight Target{colour_end}: 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[TODO:On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAGE_SLAM_TT"><![CDATA[TODO:On Rage/Slam Hit: {colour_start|blight}Blight Target{colour_end}: 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[TODO:On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Blight Chance/+50%% Blight Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}+20%% Blight Chance/+50%% Blight Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +25%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_SELF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +25%% DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT"><![CDATA[TODO:On Attack Crit: {colour_start|move}Shuffle{colour_end} Self]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT1"><![CDATA[TODO:On Attack Crit: Sur soi : {colour_start|move}Stumble{colour_end} 2 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT1"><![CDATA[TODO:On Attack Crit: Sur soi : {colour_start|move}Stumble{colour_end} 2 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCC_SOAPSTONE_TT"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|stealth}Furtivité{colour_end} {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLOODLUST_TT"><![CDATA[TODO:On Attack: Sur soi : {colour_start|harmful}Suffer{colour_end} 4 HP
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
@@ -3804,7 +3804,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT3"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5 DODGE {colour_start|skill_unselectable}(+50%% Amount per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THE_BIG_PRIZE_TT"><![CDATA[TODO:On Marked For Death Hit: {colour_start|buff}Buff Self:{colour_end} +3 SPD per {colour_start|mark}Marked{colour_end} Enemy]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PILEBUNKER_TT"><![CDATA[TODO:Receive 20%% of Direct DMG Dealt from Attacks]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_COIN_TT"><![CDATA[TODO:{colour_start|skill_unselectable}All buffs from this trinket last 1 tn{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_COIN_TT"><![CDATA[TODO:{colour_start|skill_unselectable}All buffs from this trinket last 1 tr{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_SINNER_STUN_TT"><![CDATA[TODO:Exsanguinate can no longer {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_SINNER_STUN_TT1"><![CDATA[TODO:Exsanguinate: {colour_start|stun}Stun Target{colour_end} {colour_start|skill_unselectable}(110%% Base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEFS_REMORSE_TT1"><![CDATA[TODO:Quand le héros est touché : After Combat: Gain Additional Battle Loot {colour_start|skill_unselectable}(33ʪ de chances){colour_end}]]></entry>
@@ -3817,7 +3817,7 @@ Additional -5%% MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTIGE_CONTRABAND_TT2"><![CDATA[TODO:On Monster Kill: {colour_start|debuff}Debuff Self:{colour_end} +25%% {colour_start|stress}Stress{colour_end} Received {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_VESTIGE_CONTRABAND_TT3"><![CDATA[TODO: Gain 1 {colour_start|cursed_gem}Malignant Vestige{colour_end}
 {colour_start|skill_unselectable}(Limit 4 per Battle){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_RIPOSTE_BRACER_TT1"><![CDATA[TODO:On Skill Use: Sur soi : Activate {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_RIPOSTE_BRACER_TT1"><![CDATA[TODO:On Skill Use: Sur soi : Activate {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RIPOSTE_BRACER_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}Riposte: +10 Acc per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RIPOSTE_BRACER_TT3"><![CDATA[TODO:{colour_start|riposte}Riposte:{colour_end} -15ʪ {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark} Mark{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_EXTRACTION_KIT_TT"><![CDATA[TODO:Can be used on {colour_start|BR_heirloom}Amber{colour_end} Curios for safe and increased result
@@ -3845,7 +3845,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_2"><![CDATA[TODO:-6%% Crits Received if {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(All last 2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GOLEM_QUIRK_TT"><![CDATA[TODO:On Any Skill: Sur soi : Gain Quirk: Automaton's Accursed {colour_start|skill_unselectable}(20ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|guard}Guard{colour_end} Target {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT2"><![CDATA[TODO:On Friendly Skill: Sur soi : {colour_start|healhp}Heal{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(+2 pt per Difficulty){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT2"><![CDATA[TODO:On Friendly Skill: Sur soi : {colour_start|healhp}Heal{colour_end} 4 pts/tr for 3 trs {colour_start|skill_unselectable}(+2 pt per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT3"><![CDATA[TODO:Battlefield Medicine: Can't {colour_start|healhp}Heal{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RUNIC_BLADE_TOOLTIP"><![CDATA[TODO:{colour_start|set_title}The steel was his freedom, both from his shackles and from his throne.{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CHARMER_FLUTE_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Party:{colour_end} +4 SPD, +8 DODGE {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
@@ -3876,9 +3876,9 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_2_TT"><![CDATA[TODO: Gain 1-2 Additional Gems (50% chance)]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_3_TT"><![CDATA[TODO: Gain 2 Additional Gems (50% chance)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_YNG_HAND_CHA_TT"><![CDATA[TODO:Can be Used on any Curio to Turn it into a Gem]]></entry>
-<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 3 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 3 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_HPR_TT"><![CDATA[TODO: {colour_start|debuff}Debuff Enemy Party:{colour_end} -20% {colour_start|blight}Blight{colour_end} Resist]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_HPR_TT"><![CDATA[TODO: {colour_start|debuff}Debuff Enemy Party:{colour_end} -20% {colour_start|blight}Blight{colour_end} Resist]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_MONSTER_KILL_TT"><![CDATA[TODO:On Monster Kill:]]></entry>
@@ -3893,10 +3893,10 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_rule_data_tooltip_DEBUFF_ENEMY_PARTY_TT"><![CDATA[TODO: {colour_start|debuff}Debuff Enemy Party:{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_NECK_TT"><![CDATA[TODO: {colour_start|mark}Mark Everyone{colour_end} {colour_start|skill_unselectable}(4 rds){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_NECK_TT2"><![CDATA[TODO:+20%% DMG vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT1"><![CDATA[TODO: {colour_start|bleed}Bleed Party:{colour_end} 1 pts/tn for 4 tns {colour_start|skill_unselectable}(+100% Amount In Champion/Darkest){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT1"><![CDATA[TODO: {colour_start|bleed}Bleed Party:{colour_end} 1 pts/tr for 4 trs {colour_start|skill_unselectable}(+100% Amount In Champion/Darkest){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_TOOTH_TT3"><![CDATA[TODO:+10ʪ PROT, -8ʪ Crits Received, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT4"><![CDATA[TODO: if {colour_start|bleed}Bleeding{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT1"><![CDATA[TODO: {colour_start|blight}Blight Party:{colour_end} 2 pts/tn for 4 tns {colour_start|skill_unselectable}(+50% Amount per Diff){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT1"><![CDATA[TODO: {colour_start|blight}Blight Party:{colour_end} 2 pts/tr for 4 trs {colour_start|skill_unselectable}(+50% Amount per Diff){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CENSER_TT3"><![CDATA[TODO:+15%% DMG, +8%% CRT, +4 SPD]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CENSER_TT4"><![CDATA[TODO: if {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_DAGGER_TT2"><![CDATA[TODO:+10%% DMG, +3%% CRT]]></entry>
@@ -4415,28 +4415,28 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="musketeer+str_bark_scout"><![CDATA[Je vais faire le tour.]]></entry>
 <entry id="musketeer+str_bark_scout"><![CDATA[Ne touchez pas à ma poudre.]]></entry>
 <entry id="str_bark_find_supplies"><![CDATA[J'avais trouvé ceci...]]></entry>
-<entry id="plague_doctor+str_bark_find_supplies"><![CDATA[TODO:Was keeping this for an experiment later.]]></entry>
-<entry id="plague_doctor+str_bark_find_supplies"><![CDATA[TODO:A good doctor keeps a well-stocked tool kit.]]></entry>
-<entry id="grave_robber+str_bark_find_supplies"><![CDATA[TODO:I was going to just sell this, but...]]></entry>
-<entry id="grave_robber+str_bark_find_supplies"><![CDATA[TODO:I "found" this earlier.]]></entry>
-<entry id="bounty_hunter+str_bark_find_supplies"><![CDATA[TODO:This was on one of their corpses.]]></entry>
-<entry id="bounty_hunter+str_bark_find_supplies"><![CDATA[TODO:... Here.]]></entry>
-<entry id="hellion+str_bark_find_supplies"><![CDATA[TODO:A true warrior is always ready.]]></entry>
-<entry id="hellion+str_bark_find_supplies"><![CDATA[TODO:The wise fighter stays prepared.]]></entry>
-<entry id="houndmaster+str_bark_find_supplies"><![CDATA[TODO:Saw this half tucked into the dirt.]]></entry>
-<entry id="houndmaster+str_bark_find_supplies"><![CDATA[TODO:Don't ask where I got it.]]></entry>
+<entry id="plague_doctor+str_bark_find_supplies"><![CDATA[Je gardais ceci pour une expérience.]]></entry>
+<entry id="plague_doctor+str_bark_find_supplies"><![CDATA[Un bon médecin garde une boîte à outils bien remplie.]]></entry>
+<entry id="grave_robber+str_bark_find_supplies"><![CDATA[J'allais le vendre, mais...]]></entry>
+<entry id="grave_robber+str_bark_find_supplies"><![CDATA[J'ai "trouvé" ceci.]]></entry>
+<entry id="bounty_hunter+str_bark_find_supplies"><![CDATA[C'était sur l'un de leurs cadavres.]]></entry>
+<entry id="bounty_hunter+str_bark_find_supplies"><![CDATA[... Ici.]]></entry>
+<entry id="hellion+str_bark_find_supplies"><![CDATA[Un vrai guerrier est toujours prêt.]]></entry>
+<entry id="hellion+str_bark_find_supplies"><![CDATA[Un combattant avisé reste préparé.]]></entry>
+<entry id="houndmaster+str_bark_find_supplies"><![CDATA[J'ai trouvé ça, caché dans la boue.]]></entry>
+<entry id="houndmaster+str_bark_find_supplies"><![CDATA[Ne me demandez pas où je l'ai trouvé.]]></entry>
 <entry id="str_bark_target_practice"><![CDATA[TODO:Feel the shot as it flies...]]></entry>
 <entry id="str_bark_target_practice"><![CDATA[TODO:Where they're going to be, not where they are.]]></entry>
 <entry id="str_bark_target_practice"><![CDATA[TODO:Steady breathing, keep focused on the target.]]></entry>
 <entry id="str_bark_review_contract"><![CDATA[TODO:There it is, black and white...]]></entry>
 <entry id="str_bark_review_contract"><![CDATA[TODO:Hrmph. Should have negotiated more.]]></entry>
 <entry id="str_bark_review_contract"><![CDATA[TODO:Sure enough, that's one of my duties.]]></entry>
-<entry id="str_bark_champ_ego"><![CDATA[TODO:With a lady like me around, you might stand a chance.]]></entry>
-<entry id="str_bark_champ_ego"><![CDATA[TODO:Enjoy the show, but do try to make yourself useful.]]></entry>
-<entry id="str_bark_champ_ego"><![CDATA[TODO:Don't worry, you don't need to compare yourself to me.]]></entry>
-<entry id="str_bark_amber_powder"><![CDATA[TODO:Fascinating stuff here...]]></entry>
-<entry id="str_bark_amber_powder"><![CDATA[TODO:What will they think of next?]]></entry>
-<entry id="str_bark_amber_powder"><![CDATA[TODO:Who'd have guessed this would work in powder?]]></entry>
+<entry id="str_bark_champ_ego"><![CDATA[Avec une dame comme moi, vous avez peut-être une chance.]]></entry>
+<entry id="str_bark_champ_ego"><![CDATA[Profitez du spectacle, mais essayez d'être utile.]]></entry>
+<entry id="str_bark_champ_ego"><![CDATA[Ne vous inquiétez pas, inutile de vous comparer à moi.]]></entry>
+<entry id="str_bark_amber_powder"><![CDATA[C'est fascinant...]]></entry>
+<entry id="str_bark_amber_powder"><![CDATA[Que vont-ils inventer ensuite...]]></entry>
+<entry id="str_bark_amber_powder"><![CDATA[Qui aurait cru que cela fonctionnerait avec de la poudre ?]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[TODO:Can Only Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ON_PREP_EFFECT_TT"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AFTER_PREP_EFFECT_TT"><![CDATA[TODO:Otherwise:]]></entry>
@@ -4539,11 +4539,11 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE13"><![CDATA[TODO:^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE14"><![CDATA[TODO:^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE15"><![CDATA[TODO:^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE21"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^4 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^5 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^6 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^7 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^8 pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE21"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^4 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE22"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^5 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE23"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^6 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^7 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^8 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_2_SKILL_LINE3"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^+25%% DMG vs Beast]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_RUSH_2_SKILL_LINE4"><![CDATA[TODO:+80% DMG vs {colour_start|mark}Marked{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE11"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
@@ -4551,11 +4551,11 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE13"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE14"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE15"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE21"><![CDATA[TODO:^^^3 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE22"><![CDATA[TODO:^^^3 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE23"><![CDATA[TODO:^^^4 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE24"><![CDATA[TODO:^^^5 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE25"><![CDATA[TODO:^^^6 pts/tn for 3 tns{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE21"><![CDATA[TODO:^^^3 pts/tr for 3 trs{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE22"><![CDATA[TODO:^^^3 pts/tr for 3 trs{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE23"><![CDATA[TODO:^^^4 pts/tr for 3 trs{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE24"><![CDATA[TODO:^^^5 pts/tr for 3 trs{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_HARRY_2_SKILL_LINE25"><![CDATA[TODO:^^^6 pts/tr for 3 trs{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_CRY_1_SKILL_LINE1"><![CDATA[TODO:^Party:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_CRY_2_SKILL_LINE21"><![CDATA[TODO:^Heal 3-4 {colour_start|stress}Stress{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_HOUND_CRY_2_SKILL_LINE22"><![CDATA[TODO:^Heal 3-5 {colour_start|stress}Stress{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -4567,12 +4567,12 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE13"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 6 HP^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE14"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 7 HP^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE15"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 8 HP^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE21"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 4 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE22"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 5 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE23"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 6 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE24"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 7 pts/tn for 2 tns]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE25"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 8 pts/tn for 2 tns]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_LICK_2_SKILL_LINE3"><![CDATA[TODO:^{colour_start|notable}Cooldown 1 tn(s){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE21"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 4 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE22"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 5 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE23"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 6 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE24"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 7 pts/tr for 2 trs]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_LICK_1_SKILL_LINE25"><![CDATA[TODO:^{colour_start|healhp}Heal{colour_end} 8 pts/tr for 2 trs]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_LICK_2_SKILL_LINE3"><![CDATA[TODO:^{colour_start|notable}Cooldown 1 tr(s){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_JACK_1_SKILL_LINE11"><![CDATA[TODO:^{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_JACK_1_SKILL_LINE12"><![CDATA[TODO:^{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_JACK_1_SKILL_LINE13"><![CDATA[TODO:^{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
@@ -4719,8 +4719,8 @@ Active la {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT5"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -20 DODGE / -10ʪ DMG  {colour_start|skill_unselectable}(160ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_STUN_TT"><![CDATA[Sinon :
 {colour_start|stun}Étourdissement{colour_end} {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_CAMP_REJECT_TT"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 5/3 tns if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_CAMP_COMMUNE_TT"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 2/3 tns if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_CAMP_REJECT_TT"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 5/3 trs if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_CAMP_COMMUNE_TT"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 2/3 trs if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHOVEL_BASH_PUSH_STUN_1"><![CDATA[TODO:{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}
 {colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(110%% base){colour_end} if {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHOVEL_BASH_PUSH_STUN_2"><![CDATA[TODO:{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}
@@ -4785,18 +4785,18 @@ Les bonus offsensifs sont réduits de moitié ]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHUFFLE_SINGLE_5"><![CDATA[{colour_start|move}Mélange{colour_end} la cible {colour_start|skill_unselectable}(base : 140%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHUFFLE_SINGLE_6"><![CDATA[{colour_start|move}Mélange{colour_end} la cible {colour_start|skill_unselectable}(base : 150%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_0"><![CDATA[Sur soi :]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_1"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (120%% base){colour_end} 5 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_2"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (130%% base){colour_end} 6 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_3"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (140%% base){colour_end} 7 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_4"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (150%% base){colour_end} 8 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_5"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (160%% base){colour_end} 10 pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_1"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (120%% base){colour_end} 5 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_2"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (130%% base){colour_end} 6 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_3"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (140%% base){colour_end} 7 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_4"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (150%% base){colour_end} 8 pts/tr for 3 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_5"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (160%% base){colour_end} 10 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_DMG_VS_EXPIATED_TT"><![CDATA[TODO:+25%% DMG vs {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_BLEED_TT"><![CDATA[TODO:Self:
-{colour_start|bleed}Bleed{colour_end} 1 pts/tn for Battle]]></entry>
+{colour_start|bleed}Bleed{colour_end} 1 pts/tr for Battle]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_CURE_REMOVE_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Buffs are Removed if Bleed is Cured{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_EXSANGUINATE_COOLDOWN_TT"><![CDATA[TODO:Exsanguinate Cooldown]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_REDEEM_COOLDOWN_TT"><![CDATA[TODO:Redeem Cooldown]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_ENDURE_STRESS_RELIGIOUS_TT"><![CDATA[TODO:-100%% {colour_start|stress}Stress{colour_end} on Self if target is {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_ENDURE_STRESS_RELIGIOUS_TT"><![CDATA[TODO:-100ʪ {colour_start|stress}Stress{colour_end} on Self if target is {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_ENDURE_STRESS_TT_1"><![CDATA[TODO:Heal 8 {colour_start|stress}Stress{colour_end}
 Self:
 +4 {colour_start|stress}Stress{colour_end}]]></entry>
@@ -4875,11 +4875,11 @@ Self:
 <entry id="str_skill_mode_info_musk_no_mode"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_musk_no_mode2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR"><![CDATA[TODO:Available with Any Ammo{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU1"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 3 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU2"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 3 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU3"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 4 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU4"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 5 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
-<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU5"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 6 pts/tn for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU1"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 3 pts/tr for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU2"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 3 pts/tr for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU3"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 4 pts/tr for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU4"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 5 pts/tr for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_PU5"><![CDATA[TODO:{colour_start|healhp}Heal{colour_end} 6 pts/tr for 1 tns​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_NO_MODE_CLEAR_SS1"><![CDATA[TODO: {colour_start|buff}Buff Self:{colour_end} 
 +6 SPD
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
@@ -4919,7 +4919,7 @@ Self:
 <entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_ZERO"><![CDATA[TODO:+25% DMG vs Unholy​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_ZERO"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_EXPI"><![CDATA[TODO:^^{colour_start|expiated}Expiate Target{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_COOL"><![CDATA[TODO:^^{colour_start|notable}Cooldown: 2 tn(s){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_COOL"><![CDATA[TODO:^^{colour_start|notable}Cooldown: 2 tr(s){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_DEBUFF"><![CDATA[TODO:^^{colour_start|debuff}Debuff Target:{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_ZEALOUS_ACC_DEBUFF1"><![CDATA[TODO:^-20% PROT {colour_start|skill_unselectable}(100% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_ZEALOUS_ACC_DEBUFF2"><![CDATA[TODO:^-23% PROT {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -4972,7 +4972,7 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO1_BUFF"><![CDATA[TODO:%+d%% Armor Piercing]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel{colour_end} Ammo]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO2_BLEED"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO2_STAT"><![CDATA[TODO:%d pts/tn for 3 tns
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO2_STAT"><![CDATA[TODO:%d pts/tr for 3 trs
 -35%% DMG]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AIMED_SHOT_AMMO3_DEBUFF"><![CDATA[ {colour_start|debuff}Malus sur cible :{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_AIMED_SHOT_AMMO3_AMOUNT1"><![CDATA[TODO: -20% {colour_start|stun}Stun{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -4994,11 +4994,11 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_STAT2_5"><![CDATA[TODO:-5 ACC {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel{colour_end} Ammo]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO2_DMG"><![CDATA[TODO:Target: {colour_start|harmful}Suffer{colour_end} %d DMG]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE01"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 tns {colour_start|skill_unselectable}(60%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE02"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 tns {colour_start|skill_unselectable}(70%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE03"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 tns {colour_start|skill_unselectable}(80%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE04"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 tns {colour_start|skill_unselectable}(90%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE05"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE01"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 trs {colour_start|skill_unselectable}(60%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE02"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 trs {colour_start|skill_unselectable}(70%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE03"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 trs {colour_start|skill_unselectable}(80%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE04"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 trs {colour_start|skill_unselectable}(90%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_SMOKESCREEN_AMMO1_SHUFFLE05"><![CDATA[TODO:{colour_start|move}Stumble{colour_end} 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_SMOKESCREEN_AMMO3_SHUFFLE1"><![CDATA[TODO:-20% {colour_start|move}Move{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_SMOKESCREEN_AMMO3_SHUFFLE2"><![CDATA[TODO:-25% {colour_start|move}Move{colour_end} Resist {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_SMOKESCREEN_AMMO3_SHUFFLE3"><![CDATA[TODO:-30% {colour_start|move}Move{colour_end} Resist {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -5009,7 +5009,7 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO1_AP"><![CDATA[TODO:%+d%% Armor Piercing]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel{colour_end} Ammo]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_BLEED"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_STAT1"><![CDATA[TODO:%d pts/tn for 3 tns]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_STAT1"><![CDATA[TODO:%d pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_DEBUFF"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_STAT2_1"><![CDATA[TODO:+6%% Crits Received Chance {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BUCKSHOT_AMMO2_STAT2_2"><![CDATA[TODO:+8%% Crits Received Chance {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
@@ -5133,16 +5133,16 @@ et des maladies]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_NEXT_ATTACK_NO_RIPOSTE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SADDLEBACK_AMBERBLIGHT_TT"><![CDATA[TODO:Attacks from Saddleback's Ally apply {colour_start|amberblighted}Amberblight{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GASTROSAUR_RIPOSTE_TT"><![CDATA[TODO:90 Base Acc, 4-8 Base Dmg
-{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+{colour_start|bleed}Bleed Target:{colour_end} 4 pts/tr for 3 trs {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GREATER_WURM_ALLYBUFF_TT"><![CDATA[TODO:Injuring the tongue will {colour_start|mark}create an opportunity{colour_end} for the cannons to fire]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT_1"><![CDATA[TODO:90 Base Acc, 3-6 Base Dmg, 2%% Base Crit
-{colour_start|blight}Blight Target:{colour_end} 3 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+{colour_start|blight}Blight Target:{colour_end} 3 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT1_1"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT_3"><![CDATA[TODO:100 Base Acc, 4-8 Base Dmg, 4%% Base Crit
-{colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+{colour_start|blight}Blight Target:{colour_end} 4 pts/tr for 3 trs {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT1_3"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT_5"><![CDATA[TODO:110 Base Acc, 6-11 Base Dmg, 6%% Base Crit
-{colour_start|blight}Blight Target:{colour_end} 6 pts/tn for 3 tns {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+{colour_start|blight}Blight Target:{colour_end} 6 pts/tr for 3 trs {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_SAV_RIPOSTE_TT1_5"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACT_OPUL_RIPOSTE_TT_1"><![CDATA[TODO:95 Base Acc, Deals No Dmg, Cannot Crit
 Target: +8 {colour_start|stress}Stress{colour_end}]]></entry>
@@ -5158,11 +5158,11 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 7]]></entry>
 On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GIBLETT_RIPOSTE_TT_3"><![CDATA[TODO:93 Base Acc, 7-15 Base Dmg, 4%% Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GIBLETT_RIPOSTE_TT_5"><![CDATA[TODO:103 Base Acc, 10-20 Base Dmg, 6%% Base Crit]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_1"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 tns, 120%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_3"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 tns, 140%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_5"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 tns, 160%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_1"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 trs, 120%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_3"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 trs, 140%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SENTRY_BEE_MARK_TT_5"><![CDATA[TODO:On Death: {colour_start|mark}Mark{colour_end} Killer {colour_start|skill_unselectable}(3 trs, 160%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IGNORE_PROT_TT"><![CDATA[TODO:Attacks Ignore PROT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOKEN_DRUIDBLEED_TT"><![CDATA[TODO:Apply On Hit: {colour_start|bleed}Bleed{colour_end} Target 6/3 tns {colour_start|skill_unselectable}(140%% Base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOKEN_DRUIDBLEED_TT"><![CDATA[TODO:Apply On Hit: {colour_start|bleed}Bleed{colour_end} Target 6/3 trs {colour_start|skill_unselectable}(140%% Base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOKEN_DRUIDBLEED_TT2"><![CDATA[TODO:          {colour_start|skill_unselectable}-50%% Bleed Amount applied on AoE Skills{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="str_quirk_name_1_faithless"><![CDATA[
 																													 						{colour_start|affiliation_faithless}Athée{colour_end}]]></entry>
@@ -5343,35 +5343,35 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_profane"><![CDATA[Profane]]></entry>
 <entry id="str_quirk_name_life_fruit"><![CDATA[Croissance miraculeuse]]></entry>
 <entry id="str_quirk_name_nothing"><![CDATA[]]></entry>
-<entry id="str_quirk_description_alcoholism"><![CDATA[TODO:En ville, ne fait que boire.
-{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities
-Amber Den not affected{colour_end}]]></entry>
-<entry id="str_quirk_description_resolution"><![CDATA[En ville, ne boit jamais.]]></entry>
-<entry id="str_quirk_description_love_interest"><![CDATA[TODO:Will only participate in the Fighting Pit for stress recovery.
-{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}
-{colour_start|skill_unselectable}Amber Den not affected{colour_end}]]></entry>
-<entry id="str_quirk_description_deviant_tastes"><![CDATA[TODO:Banned from the Fight Pit for poor conduct.]]></entry>
-<entry id="str_quirk_description_prize_fighter"><![CDATA[TODO:Is good at winning in the Fighting Pit.
-{colour_start|skill_unselectable}Increase chance of winning gold/trinket to 50% {colour_end}]]></entry>
-<entry id="str_quirk_description_glass_jaw"><![CDATA[TODO:Sustains injury in the Fighting Pit.
-{colour_start|skill_unselectable}Increase chance of gaining debuffs/being KOed to 60% {colour_end}]]></entry>
-<entry id="str_quirk_description_gambler"><![CDATA[TODO:Will only Gamble for stress recovery.
-{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}
-{colour_start|skill_unselectable}Amber Den not affected{colour_end}]]></entry>
-<entry id="str_quirk_description_known_cheat"><![CDATA[TODO:Is not allowed to Gamble for stress recovery.]]></entry>
-<entry id="str_quirk_description_skilled_gambler"><![CDATA[TODO:Increased chance of winning while Gambling.
-{colour_start|skill_unselectable}Increase chance of winning gold/trinket to 35% {colour_end}]]></entry>
-<entry id="str_quirk_description_bad_gambler"><![CDATA[TODO:Increased chance of losing money while Gambling.
-{colour_start|skill_unselectable}Increase chance of losing gold/staying in activity to 45% 
-Can no longer win Trinkets{colour_end}]]></entry>
-<entry id="str_quirk_description_den_addict"><![CDATA[TODO:Will only indulge in amber for stress recovery.
-{colour_start|skill_unselectable}-100% Stress Healing Received from Amber Activities{colour_end}]]></entry>
-<entry id="str_quirk_description_silk_touch"><![CDATA[TODO:Has mastered the process of amber refinement.
-{colour_start|skill_unselectable}+50% Stress Healing Received from Amber Workshop{colour_end}]]></entry>
-<entry id="str_quirk_description_tek_haggler"><![CDATA[TODO:Drives a hard bargain with the Rot Hering Co. 
-{colour_start|skill_unselectable}+50% Stress Healing Received from Tek Exchange{colour_end}]]></entry>
-<entry id="str_quirk_description_fated"><![CDATA[TODO:Chance to turn any Miss or Dodge into a Hit
-{colour_start|skill_unselectable}25% Chance{colour_end}]]></entry>
+<entry id="str_quirk_description_alcoholism"><![CDATA[Au navire, ne fait que boire.
+{colour_start|skill_unselectable}Soins de stress reçus -100ʪ pour la raffinerie et le marché
+(Ne concerne pas le repaire){colour_end}]]></entry>
+<entry id="str_quirk_description_resolution"><![CDATA[Au navire, ne boit jamais.]]></entry>
+<entry id="str_quirk_description_love_interest"><![CDATA[Au navire, ne fait que combattre.
+{colour_start|skill_unselectable}Soins de stress reçus -100ʪ pour la raffinerie et le marché
+(Ne concerne pas le repaire){colour_end}]]></entry>
+<entry id="str_quirk_description_deviant_tastes"><![CDATA[Interdiction d'entrer dans l'arène]]></entry>
+<entry id="str_quirk_description_prize_fighter"><![CDATA[Souvent vainqueur dans l'arène.
+{colour_start|skill_unselectable}Gain d'or ou de breloque (50ʪ){colour_end}]]></entry>
+<entry id="str_quirk_description_glass_jaw"><![CDATA[Se blesse facilement dans l'arène.
+{colour_start|skill_unselectable}Accident grave ou gain de malus (60ʪ){colour_end}]]></entry>
+<entry id="str_quirk_description_gambler"><![CDATA[Au navire, ne fait que jouer.
+{colour_start|skill_unselectable}Soins de stress reçus -100ʪ pour la raffinerie et le marché
+(Ne concerne pas le repaire){colour_end}]]></entry>
+<entry id="str_quirk_description_known_cheat"><![CDATA[Interdiction d'entrer dans la salle de jeux.]]></entry>
+<entry id="str_quirk_description_skilled_gambler"><![CDATA[Souvent vainqueur aux jeux.
+{colour_start|skill_unselectable}Gain d'or ou de breloque (35ʪ){colour_end}]]></entry>
+<entry id="str_quirk_description_bad_gambler"><![CDATA[Perds régulièrement dans la salle de jeux.
+{colour_start|skill_unselectable}Refus de partir ou perte d'or (45ʪ)
+Gain de breloque impossible{colour_end}]]></entry>
+<entry id="str_quirk_description_den_addict"><![CDATA[Fréquente uniquement le repaire pour déstresser.
+{colour_start|skill_unselectable}Soins de stress reçus -100ʪ pour la raffinerie et le marché{colour_end}]]></entry>
+<entry id="str_quirk_description_silk_touch"><![CDATA[Maîtrise le raffinement de l'ambre.
+{colour_start|skill_unselectable}Soins de stress reçus +50ʪ pour la raffinerie{colour_end}]]></entry>
+<entry id="str_quirk_description_tek_haggler"><![CDATA[Maîtrise le commerce de l'ambre.
+{colour_start|skill_unselectable}Soins de stress reçus +50ʪ pour le marché{colour_end}]]></entry>
+<entry id="str_quirk_description_fated"><![CDATA[Chance pour tout coup manqué/esquivé de toucher.
+{colour_start|skill_unselectable}25ʪ de chances{colour_end}]]></entry>
 <entry id="str_quirk_description_archaeomania"><![CDATA[TODO:50% Chance to forcibly interact with Kvarotz related Curios]]></entry>
 <entry id="str_quirk_description_amber_hoarder"><![CDATA[TODO:40% Chance to steal loot from Amber related Curios]]></entry>
 <entry id="str_quirk_description_hagiomania"><![CDATA[TODO:50% Chance to forcibly interact with Lost Legion related Curios]]></entry>
@@ -5379,7 +5379,7 @@ Can no longer win Trinkets{colour_end}]]></entry>
 <entry id="str_quirk_description_necromania"><![CDATA[TODO:30% Chance to forcibly interact with Corpse related Curios]]></entry>
 <entry id="str_quirk_description_compulsive"><![CDATA[TODO:20% Chance to forcibly interact with All Curios]]></entry>
 <entry id="str_quirk_description_amber_symbiosis"><![CDATA[TODO:Gains buffs whenever Amberblight is triggered
-{colour_start|skill_unselectable}+3% DMG, -3% Damage Taken (1 tn){colour_end}]]></entry>
+{colour_start|skill_unselectable}+3% DMG, -3% Damage Taken (1 tr){colour_end}]]></entry>
 <entry id="str_quirk_description_survivor"><![CDATA[TODO:Gain buffs upon using some Provisions{colour_start|skill_unselectable}
 Bandages: +15% Bleed Resist
 Antivenom: +15% Blight Resist
@@ -5490,7 +5490,7 @@ Fin de tour (4ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GOLEM_CURSE_TT"><![CDATA[TODO:Restlessly hunted by Kvarotz Golems
 {colour_start|skill_unselectable}+25%% Kvarotz Golem Encounter Chance (Does not stack){colour_end}]]></entry>
 <entry id="str_quirk_description_life_fruit"><![CDATA[TODO:Gain {colour_start|healhp}Restoration{colour_end} from being Crit Healed
-{colour_start|skill_unselectable}Heal 6 pts/tn for 1 tn{colour_end}]]></entry>
+{colour_start|skill_unselectable}Heal 6 pts/tr for 1 tr{colour_end}]]></entry>
 <entry id="trigger_curio_quirk_archaeomania"><![CDATA[Pensez aux découvertes !]]></entry>
 <entry id="trigger_curio_quirk_archaeomania"><![CDATA[Autant d'histoires à découvrir !]]></entry>
 <entry id="trigger_curio_quirk_amber_hoarder"><![CDATA[Je l'ai vu en premier !]]></entry>
