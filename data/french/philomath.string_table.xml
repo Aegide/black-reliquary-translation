@@ -271,24 +271,24 @@
 <entry id="combat_skill_name_philomath_page_cutter"><![CDATA[Coupe-papier]]></entry>
 <entry id="combat_skill_name_philomath_sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
 <entry id="combat_skill_name_philomath_breakdown"><![CDATA[Effondrement]]></entry>
-<entry id="combat_skill_name_philomath_eldritch_safeguard"><![CDATA[TODO: {colour_start|white}əəəə{colour_end}
-Eldritch Safeguard]]></entry>
-<entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[TODO: {colour_start|white}ɚɛɛɜ{colour_end}
-Absorbent Mind]]></entry>
+<entry id="combat_skill_name_philomath_eldritch_safeguard"><![CDATA[{colour_start|white}əəəə{colour_end}
+Barrière de chair]]></entry>
+<entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
+Concentration]]></entry>
 <entry id="combat_skill_name_philomath_malevolent_pact"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
 Pacte maléfique]]></entry>
 <entry id="upgrade_tree_name_philomath.head_trauma"><![CDATA[Traumatisme crânien]]></entry>
 <entry id="upgrade_tree_name_philomath.page_cutter"><![CDATA[Coupe-papier]]></entry>
 <entry id="upgrade_tree_name_philomath.sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
 <entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[Effondrement]]></entry>
-<entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[TODO:Eldritch Safeguard]]></entry>
-<entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[TODO:Absorbent Mind]]></entry>
+<entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[Barrière de chair]]></entry>
+<entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[Concentration]]></entry>
 <entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[Pacte maléfique]]></entry>
 <entry id="combat_skill_name_philomath_move"><![CDATA[déplacement]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEADTRAUMA_STRESS_AP_TT"><![CDATA[TODO:+10ʪ Armor Piercing per 10 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_breakdown_tooltip"><![CDATA[TODO:Break {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stress_dot"><![CDATA[TODO:Transfer {colour_start|stress}Horror{colour_end} to Caster]]></entry>
-<entry id="buff_rule_data_tooltip_absorbent_mind"><![CDATA[TODO:Absorbent Mind]]></entry>
+<entry id="buff_rule_data_tooltip_absorbent_mind"><![CDATA[Concentration]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_tooltip"><![CDATA[Cible :]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_block_tooltip"><![CDATA[TODO:2 Blocks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_guard_tooltip"><![CDATA[TODO:Force {colour_start|guard}Guard{colour_end} by Ally {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
