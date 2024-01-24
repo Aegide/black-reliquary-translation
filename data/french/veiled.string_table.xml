@@ -59,7 +59,7 @@ Souhait mortel]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD"><![CDATA[TODO:Death's Door Debuffs replaced with:
 	+10 ACC/+5% CRT/+6 SPD]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[TODO:Doesn't suffer from Death's Door Recovery penalty]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[TODO:Can't go to the Bar]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[Ne peut pas aller au bar]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[1 par groupe]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -50% / CRIT mod: -2%]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
