@@ -55,20 +55,20 @@ Souhait mortel]]></entry>
 <entry id="camping_skill_name_addinfo_veil"><![CDATA[Informations supplémentaires]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_HP_TT"><![CDATA[TODO:The Veiled grows stronger the lower his HP is 
 	Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes:{colour_end} +20% {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD"><![CDATA[TODO:Death's Door Debuffs replaced with:
-	+10 ACC/+5% CRT/+6 SPD]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[TODO:Doesn't suffer from Death's Door Recovery penalty]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[{colour_start|buff}Bonus sur groupe :{colour_end} Résist. {colour_start|deathdoor}coups fatals{colour_end} +20ʪ {colour_start|skill_unselectable}(Quête){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD"><![CDATA[Bonus à l'{colour_start|harmful}agonie{colour_end} :
+PRÉ +10 / CRIT +5% / VIT +6]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[Pas de malus à l'{colour_start|harmful}agonie{colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[Ne peut pas aller au bar]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[1 par groupe]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[TODO:ACC base: 85 / DMG mod: -50% / CRIT mod: -2%]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[PRÉ de base : 85 / Mod. de DGT : -50% / Mod. de CRIT : -2%]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -5% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT2"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT3"><![CDATA[TODO:{colour_start|notable}If HP below 40ʪ:{colour_end} Self: {colour_start|healhp}Heal{colour_end} 10% Max HP, 
 	Disable {colour_start|riposte}Riposte{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT4"><![CDATA[TODO:{colour_start|notable}If HP below 10ʪ:{colour_end} Self: {colour_start|healhp}Heal{colour_end} Additional 5% Max HP]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT"><![CDATA[TODO:{colour_start|buff}Buff Self:{colour_end} +10% {colour_start|deathdoor}Death Blow{colour_end} Resist]]></entry>
-<entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT2"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} Résist. {colour_start|deathdoor}coups fatals{colour_end} +20ʪ]]></entry>
+<entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT2"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end} Chances d'infliger {colour_start|deathdoor}coups fatals{colour_end} -10ʪ {colour_start|skill_unselectable}(base : 100ʪ){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_VEIL_BREL_CRIT_TT3"><![CDATA[TODO:+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 <entry id="str_inventory_title_trinketveiled_common"><![CDATA[Couronne d'os]]></entry>
 <entry id="str_inventory_title_trinketveiled_uncommon"><![CDATA[Couronne nécrosée]]></entry>
@@ -98,7 +98,7 @@ Souhait mortel]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_veil_dance_macabre_tooltip"><![CDATA[TODO:Max {colour_start|deathblow}Death Blow{colour_end} resist]]></entry>
 <entry id="skill_performer_hp_max"><![CDATA[Valide en-dessous de %d%% PV]]></entry>
 <entry id="skill_performer_hp_min"><![CDATA[Valide au-dessus de %d%% PV]]></entry>
-<entry id="skill_performer_hp_range"><![CDATA[TODO:Valid from %d%% to %d%% HP]]></entry>
+<entry id="skill_performer_hp_range"><![CDATA[Valide de %d%% à %d%% PV]]></entry>
 <entry id="effect_tooltip_cure_bleed"><![CDATA[Soigne {colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="effect_tooltip_cure_debuff"><![CDATA[TODO:Clear {colour_start|debuff}Debuffs{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_deathblow_chance"><![CDATA[TODO:%+d%% {colour_start|deathblow}Death Blow{colour_end} Chance]]></entry>
@@ -262,7 +262,7 @@ Souhait mortel]]></entry>
 <entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE33"><![CDATA[TODO:^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE34"><![CDATA[TODO:^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE35"><![CDATA[TODO:^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(140% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_.xVEIL_UNNAMED_2_SKILL_LINE2"><![CDATA[TODO:{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde]]></entry>
+<entry id="buff_rule_data_tooltip_.xVEIL_UNNAMED_2_SKILL_LINE2"><![CDATA[{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde1234567890abcdeabcde]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Soyez reconnaissant de pouvoir ressentir cette douleur !]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Fascinant...]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Déchiré en morceaux !]]></entry>
