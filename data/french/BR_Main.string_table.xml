@@ -2859,7 +2859,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_friar_flee_to_masses"><![CDATA[TODO:{colour_start|white}ɪʧɣɣɘɘɩɨ{colour_end}Flee to the Masses]]></entry>
 <entry id="str_monster_skill_deadbolt_shield_charge"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɧɱ{colour_end}Levée de bouclier]]></entry>
 <entry id="str_monster_skill_deadbolt_normal_arrow"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Carreau d'argent]]></entry>
-<entry id="str_monster_skill_deadbolt_gatling_arrow"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Spiritual Salvo]]></entry>
+<entry id="str_monster_skill_deadbolt_gatling_arrow"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷɻ{colour_end}Carreau béni]]></entry>
 <entry id="str_monster_skill_deadbolt_mark"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦʔʑ{colour_end}Condamnation]]></entry>
 <entry id="str_monster_skill_deadbolt_equip"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʁʐ{colour_end}Consécration]]></entry>
 <entry id="str_monster_skill_deadbolt_phalanx"><![CDATA[TODO:Pious Phalanx]]></entry>
@@ -2885,7 +2885,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_golem_evil_empty"><![CDATA[{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Appel du crépuscule]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
 <entry id="str_monster_skill_golem_corpse_eject_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥʫɩʻʁɮ{colour_end}Canon à moelle]]></entry>
-<entry id="str_monster_skill_golem_corpse_suck"><![CDATA[TODO:{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Corpse Collection]]></entry>
+<entry id="str_monster_skill_golem_corpse_suck"><![CDATA[{colour_start|white}ɪɥʫɩʠɬʁ{colour_end}Collection de cadavres]]></entry>
 <entry id="str_monster_skill_tathuth_launch"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Fracasse-tête]]></entry>
 <entry id="str_monster_skill_tathuth_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʻɮʟ{colour_end}Destruction]]></entry>
 <entry id="str_monster_skill_apihr_melee"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦɘɘɣɣɩɨ{colour_end}Extended Strike]]></entry>
@@ -3212,12 +3212,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[TODO:It's never going to stop- kill the heart!]]></entry>
 <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[TODO:Just kill the three!]]></entry>
 <entry id="str_prisoner_damage_cact_cut_full"><![CDATA[TODO:I can't get out! Murder the hosts!]]></entry>
-<entry id="str_monster_skill_fanatic_expiate"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʡɾ{colour_end}Blind Condemnation]]></entry>
-<entry id="str_monster_skill_fanatic_bleed"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɻʎʑ{colour_end}Penance]]></entry>
-<entry id="str_monster_skill_fanatic_weak"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Thrash]]></entry>
+<entry id="str_monster_skill_fanatic_expiate"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʡɾ{colour_end}Condamnation aveugle]]></entry>
+<entry id="str_monster_skill_fanatic_bleed"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɻʎʑ{colour_end}Pénitence]]></entry>
+<entry id="str_monster_skill_fanatic_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Thrash]]></entry>
 <entry id="str_monster_skill_fanatic_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦɬʄ{colour_end}Sanctification]]></entry>
 <entry id="str_monster_skill_spooky_song"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɮʑʔ{colour_end}Deathly Rattle]]></entry>
-<entry id="str_monster_skill_sandstorm"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʩɣɣɣɣɩɦɳʑ{colour_end}Sand Blasting]]></entry>
+<entry id="str_monster_skill_sandstorm"><![CDATA[{colour_start|white}ɠɞɞɟʩɣɣɣɣɩɦɳʑ{colour_end}Tempête de sable]]></entry>
 <entry id="str_monster_skill_guarding_song"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦʃʙ{colour_end}Château de sable]]></entry>
 <entry id="str_monster_skill_summon_sand1"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
 <entry id="str_monster_skill_summon_sand2"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
