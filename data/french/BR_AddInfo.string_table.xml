@@ -183,7 +183,7 @@ Mode persists after combat end]]></entry>
 <entry id="camping_skill_effect_loot_MAA_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} {colour_start|stress}Stress{colour_end} -33%]]></entry>
 <entry id="camping_skill_effect_loot_MUSK_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} CRT +5%]]></entry>
 <entry id="camping_skill_effect_loot_OCC_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} Compétences de {colour_start|healhp}soin{colour_end} +25%]]></entry>
-<entry id="camping_skill_effect_loot_PD_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} Chances d'infliger {colour_start|bleed}Infection{colour_end} +20%]]></entry>
+<entry id="camping_skill_effect_loot_PD_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} Chances d'infliger {colour_start|blight}Infection{colour_end} +20%]]></entry>
 <entry id="camping_skill_effect_loot_SB_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} PROT +15%]]></entry>
 <entry id="camping_skill_effect_loot_VES_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi :{colour_end} Compétences de {colour_start|healhp}soin{colour_end} +25%]]></entry>	
 <entry id="camping_skill_effect_loot_GENERAL_BREL_SUPPLY_KEY"><![CDATA[1 passe-partout]]></entry>
