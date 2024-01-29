@@ -406,11 +406,11 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
-<entry id="str_brothel_committed"><![CDATA[TODO:I'm ready to tussle!]]></entry>
+<entry id="str_brothel_committed"><![CDATA[Je suis prêt à en découdre !]]></entry>
 <entry id="str_brothel_committed"><![CDATA[Tout le monde est le bienvenu !]]></entry>
 <entry id="str_brothel_committed"><![CDATA[Je pensez pas que je me retiendrai !]]></entry>
 <entry id="str_brothel_committed"><![CDATA[Le meilleur des deux sur trois, ok ?]]></entry>
@@ -692,7 +692,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="town_event_info_br_skill_issue"><![CDATA[+30.000 {colour_start|notable}d'or{colour_end}]]></entry>
 
 <entry id="town_event_title_br_free_galley"><![CDATA[Ertefest]]></entry>
-<entry id="town_event_description_br_free_galley"><![CDATA[Une vieille tradition Ostvengr ! Amusez-vous bien, mais soyez responsables - ce serait dommage de tomber.]]></entry>
+<entry id="town_event_description_br_free_galley"><![CDATA[Une vieille tradition Ostvengr ! Amusez-vous bien, mais soyez responsables. Ce serait dommage de tomber.]]></entry>
 
 <entry id="town_event_title_br_free_workshop"><![CDATA[Séminaire sur l'ambre]]></entry>
 <entry id="town_event_description_br_free_workshop"><![CDATA[Les collègues de la pénitente Leonne sont en visite, pour partager leur expertise dans l'étude de l'ambre !]]></entry>
@@ -750,7 +750,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -815,7 +815,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -880,7 +880,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -945,7 +945,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1010,7 +1010,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1075,7 +1075,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1140,7 +1140,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1205,7 +1205,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1270,7 +1270,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1335,7 +1335,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1400,7 +1400,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1465,7 +1465,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1530,7 +1530,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1595,7 +1595,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1660,7 +1660,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1725,7 +1725,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1790,7 +1790,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1855,7 +1855,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1920,7 +1920,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
@@ -1985,7 +1985,7 @@ qu'il a légué au navire.]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Il est "l'or" d'être riche !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[J'aimerais essayer tous ces jeux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Quelques jeux pour animer cette taverne.]]></entry>
-<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "Tim'Bomb" ?]]></entry>
+<entry id="str_gambling_committed"><![CDATA[Est-ce que vous connaissez "7 Merveilles" ?]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La fortune sourit aux audacieux !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[La prochaine sera la bonne !]]></entry>
 <entry id="str_gambling_committed"><![CDATA[Gardez-moi une place !]]></entry>
