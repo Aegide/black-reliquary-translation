@@ -447,12 +447,12 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_alcoholism_gambling_rejection"><![CDATA[Un petit verre, c'est tout ce dont j'ai besoin !]]></entry>
 <entry id="str_alcoholism_brothel_rejection"><![CDATA[Apportez-moi une pinte, et tout ira mieux.]]></entry>
 <entry id="str_alcoholism_brothel_rejection"><![CDATA[Un peu trop sanglant. Que pensez-vous d'un remontant ?]]></entry>
-<entry id="str_alcoholism_meditation_rejection"><![CDATA[TODO:How am I supposed to get any work done without a good drink?]]></entry>
-<entry id="str_alcoholism_prayer_rejection"><![CDATA[TODO:The only exchange I want involves the barkeep!]]></entry>
+<entry id="str_alcoholism_meditation_rejection"><![CDATA[Impossible de travailler sans avoir bu...]]></entry>
+<entry id="str_alcoholism_prayer_rejection"><![CDATA[Le seul échange que je désire concerne la taverne !]]></entry>
 <entry id="str_gambler_bar_rejection"><![CDATA[Les festivités ne m'intéressent pas, je veux parier !]]></entry>
 <entry id="str_gambler_brothel_rejection"><![CDATA[TODO:Give me the thrill of fortune and the risk of ruin!]]></entry>
-<entry id="str_gambler_meditation_rejection"><![CDATA[TODO:Why crunch amber when I could win it?]]></entry>
-<entry id="str_gambler_prayer_rejection"><![CDATA[TODO:The best trades involve cards and dice.]]></entry>
+<entry id="str_gambler_meditation_rejection"><![CDATA[Pourquoi broyer de l'ambre quand je peux en gagner ?]]></entry>
+<entry id="str_gambler_prayer_rejection"><![CDATA[Les meilleurs échanges se font avec des cartes et des dés.]]></entry>
 <entry id="str_love_interest_bar_rejection"><![CDATA[Amenez-moi à l'arène. J'ai un compte à régler.]]></entry>
 <entry id="str_love_interest_gambling_rejection"><![CDATA[Je ne mise que sur mes combats.]]></entry>
 <entry id="str_love_interest_meditation_rejection"><![CDATA[TODO:I've got the blood of a champion in me!]]></entry>
