@@ -214,7 +214,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="action_verbose_body_camping_trainer_hexer"><![CDATA[TODO:The Hexer is insane, malevolent, and solitary. Gorging himself on the fresh kills of past battles keeps him going for more. With his fiendish resilience and control over his blood, disease has no hold on him either, and he can hone it to amplify his curses. And should he come close to falling, the accursed serum he hates so much may prove beneficial.]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[Souffrance, Souffrance, SOUFFRANCE...]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[Je vais AVALER votre âme !]]></entry>
-<entry id="hexer+str_critbyhero"><![CDATA[Gyihi ... Hihihi ... Hahaha !]]></entry>
+<entry id="hexer+str_critbyhero"><![CDATA[Gyihi... Hihihi... Hahaha !]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[MEURT pour ton roi !]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[Un CARNAVAL de CARNAGE !]]></entry>
 <entry id="hexer+str_critbyhero"><![CDATA[Ces entraves ne peuvent contenir mon POUVOIR !]]></entry>
@@ -257,7 +257,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[Gyihihi ! De retour, pour vous jouer un mauvais tour...]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[Je vais te CREVER !]]></entry>
 <entry id="hexer+str_bark_deathsdoorsurvive"><![CDATA[Une VENGEANCE sanglante vous attend.]]></entry>
-<entry id="hexer+str_bark_deathsdoor"><![CDATA[Gyihi ... hi ?]]></entry>
+<entry id="hexer+str_bark_deathsdoor"><![CDATA[Gyihi... hi ?]]></entry>
 <entry id="hexer+str_bark_deathsdoor"><![CDATA[Je ne vois rien... Je ne vois RIEN...]]></entry>
 <entry id="hexer+str_bark_deathsdoor"><![CDATA[C'est... MOI qui souffre ?]]></entry>
 <entry id="hexer+str_bark_deathsdoor_ally"><![CDATA[Gyihi... Tu es désormais mon REPAS.]]></entry>
@@ -306,7 +306,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[TODO:At last! Something to SATE this hunger...!]]></entry>
 <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[TODO:Such a delicious and ripe AROMA. Let me through!]]></entry>
 <entry id="trigger_curio_quirk_rictus_mortis"><![CDATA[TODO:I'm absolutely FAMISHED. Only this will do.]]></entry>
-<entry id="str_mark_self_rictus"><![CDATA[Haha ... Hahaha ...]]></entry>
+<entry id="str_mark_self_rictus"><![CDATA[Haha... Hahaha...]]></entry>
 <entry id="str_mark_self_rictus"><![CDATA[TODO:If you find my grin unsettling, just stop staring.]]></entry>
 <entry id="str_mark_self_rictus"><![CDATA[TODO:Oh, your suffering brings me such joy!]]></entry>
 <entry id="str_mark_self_rictus"><![CDATA[TODO:I'm simply all smiles! Hehehe...]]></entry>
@@ -409,7 +409,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="hexer+str_monster_attack_bite_call"><![CDATA[TODO:Guard your king! I refuse to become a meal to these scaled PESTS.]]></entry>
 <entry id="hexer+str_monster_attack_bite_call"><![CDATA[TODO:Something large stirs UNDERNEATH me? I hope it's palatable.]]></entry>
 <entry id="hexer+str_bark_backingup"><![CDATA[ATTENTION à la cape, bande d'IDIOTS !]]></entry>
-<entry id="hexer+str_bark_backingup"><![CDATA[Grrrr ...]]></entry>
+<entry id="hexer+str_bark_backingup"><![CDATA[Grrrr...]]></entry>
 <entry id="hexer+str_bark_backingup"><![CDATA[TODO:You're making your RULER walk like a fool. I will have your heads for this.]]></entry>
 <entry id="hexer+str_bark_increasingstress"><![CDATA[TODO:So hungry.. So DAMN hungry...]]></entry>
 <entry id="hexer+str_bark_increasingstress"><![CDATA[TODO:This dead SORROW of mine...]]></entry>
@@ -502,7 +502,7 @@ Harmful Act-outs and Reactions]]></entry>
 <entry id="str_block_item_cannibalistic"><![CDATA[TODO:Instead, FEED me freshly chopped kidney.]]></entry>
 <entry id="str_block_item_cannibalistic"><![CDATA[TODO:My blood REFUSES these substances.]]></entry>
 <entry id="str_block_item_cannibalistic"><![CDATA[TODO:This isn't RIPE enough for me.]]></entry>
-<entry id="str_comment_move_cannibalistic"><![CDATA[Faim ... Faim ... Faim !]]></entry>
+<entry id="str_comment_move_cannibalistic"><![CDATA[Faim... Faim... Faim !]]></entry>
 <entry id="str_comment_move_cannibalistic"><![CDATA[TODO:I can't bear these restrains! My eyes ITCH!]]></entry>
 <entry id="str_comment_move_cannibalistic"><![CDATA[TODO:I will RAKE out their eyes and lick the gaping holes... Yes...!]]></entry>
 <entry id="str_comment_curio_interaction_cannibalistic"><![CDATA[TODO:Are there any ROTTING remains here?]]></entry>
