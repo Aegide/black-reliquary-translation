@@ -268,7 +268,7 @@ PRÉ +10 / CRIT +5% / VIT +6]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Déchiré en morceaux !]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Transformé en poussière !]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Le voile se déchire pour toi !]]></entry>
-<entry id="veiled+str_critbyhero"><![CDATA[Retourne auprès de ton créateur !]]]></entry>
+<entry id="veiled+str_critbyhero"><![CDATA[Retourne auprès de ton créateur !]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Une fin si exquise !]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Je vous envie.]]></entry>
 <entry id="veiled+str_critbyhero"><![CDATA[Les ténèbres te prennent !]]></entry>
@@ -499,7 +499,7 @@ PRÉ +10 / CRIT +5% / VIT +6]]></entry>
 <entry id="veiled+str_bark_stress_partylow"><![CDATA[Je crois que nous avons tout sous contrôle.]]></entry>
 <entry id="veiled+str_bark_stress_partylow"><![CDATA[Un esprit fort fait un corps fort.]]></entry>
 
-<entry id="veiled+str_bark_hp_partylow"><![CDATA[Nous sommes proches de nos fins !]]]></entry>
+<entry id="veiled+str_bark_hp_partylow"><![CDATA[Nous sommes proches de nos fins !]]></entry>
 <entry id="veiled+str_bark_hp_partylow"><![CDATA[Aaah, le frisson de la libération !]]></entry>
 <entry id="veiled+str_bark_hp_partylow"><![CDATA[Nous sommes si proches de notre destruction !]]></entry>
 
