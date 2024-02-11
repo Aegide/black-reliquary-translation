@@ -3070,12 +3070,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_egg_killerbite_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_combo_spear"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Lance primitive]]></entry>
 <entry id="str_monster_skill_trog_combo_club"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Gourdin primitif]]></entry>
-<entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Bonk]]></entry>
+<entry id="str_monster_skill_trog_combo_club_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Gourdin vif]]></entry>
 <entry id="str_monster_skill_trog_egg_check"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Egg-valuation]]></entry>
 <entry id="str_monster_skill_trog_egg_bad"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɮɽ{colour_end}Rotten to the Core]]></entry>
 <entry id="str_monster_skill_trog_egg_good"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʏ{colour_end}Eggshell Blast]]></entry>
 <entry id="str_monster_skill_trog_tracking_club"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɘɩɧʓ{colour_end}Gourdin primitif]]></entry>
-<entry id="str_monster_skill_trog_tracking_club_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Bonk]]></entry>
+<entry id="str_monster_skill_trog_tracking_club_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Gourdin vif]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Appel des cavernes]]></entry>
 <entry id="str_monster_skill_trog_tracking_club_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_trog_club_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
@@ -4050,7 +4050,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinketbloodthirst_ring"><![CDATA[Anneau sanguinaire]]></entry>
 <entry id="str_inventory_title_trinketbloody_dice"><![CDATA[Dé sanglant]]></entry>
 <entry id="str_inventory_title_trinketbloody_herb"><![CDATA[Herbe sanglante]]></entry>
-<entry id="str_inventory_title_trinketbook_of_constitution"><![CDATA[Livre de constitution]]></entry>
+<entry id="str_inventory_title_trinketbook_of_constitution"><![CDATA[Livre de médecine]]></entry>
 <entry id="str_inventory_title_trinketbook_of_holiness"><![CDATA[Livre de protection]]></entry>
 <entry id="str_inventory_title_trinketbook_of_holy_healing"><![CDATA[Tome de purification]]></entry>
 <entry id="str_inventory_title_trinketbook_of_intuition"><![CDATA[Livre mystique]]></entry>
