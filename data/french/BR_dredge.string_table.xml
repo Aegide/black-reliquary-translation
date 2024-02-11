@@ -386,12 +386,12 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_change_pos_fwd_irrational"><![CDATA[TODO:I will be painted red by a rainstorm of blood!]]></entry>
 <entry id="dredge+str_change_pos_fwd_irrational"><![CDATA[TODO:A stampede! An unstoppable thirst for death!]]></entry>
 <entry id="dredge+str_change_pos_back_irrational"><![CDATA[TODO:I loom... an impending reaper on high.]]></entry>
-<entry id="dredge+str_change_pos_back_irrational"><![CDATA[TODO:I impose fear from a distance, toying with their minds!]]></entry>
+<entry id="dredge+str_change_pos_back_irrational"><![CDATA[Je suis plus terrifiante de loin !]]></entry>
 <entry id="dredge+str_change_pos_back_irrational"><![CDATA[TODO:My presence is itself a harbinger of the end...]]></entry>
-<entry id="dredge+str_ignore_command_irrational"><![CDATA[TODO:Taste mercy for now, so that I may steal it soon!]]></entry>
+<entry id="dredge+str_ignore_command_irrational"><![CDATA[Goûtez à la pitié, afin que je puisse la récupérer !]]></entry>
 <entry id="dredge+str_ignore_command_irrational"><![CDATA[TODO:There is no plenty without want.]]></entry>
 <entry id="dredge+str_ignore_command_irrational"><![CDATA[TODO:I savor the hunt, watching my prey make its move...]]></entry>
-<entry id="dredge+str_random_command_irrational"><![CDATA[TODO:A tactic beyond your feeble minds!]]></entry>
+<entry id="dredge+str_random_command_irrational"><![CDATA[Une tactique qui dépasse vos faibles esprits !]]></entry>
 <entry id="dredge+str_random_command_irrational"><![CDATA[(charabia incompréhensible)]]></entry>
 <entry id="dredge+str_random_command_irrational"><![CDATA[TODO:Your child-minds cannot slow me!]]></entry>
 <entry id="dredge+str_bark_stress_camp_irrational"><![CDATA[TODO:One of my machine's steam vents is oddly suspicious...]]></entry>
