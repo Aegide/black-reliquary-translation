@@ -531,7 +531,7 @@ Rédemption]]></entry>
 <entry id="str_inventory_description_itemtorch_quest"><![CDATA[Parfaite pour éliminer les nuisibles.]]></entry>
 <entry id="str_inventory_description_quest_itemkey1"><![CDATA[Seule la rage ouvrira le passage.]]></entry>
 <entry id="str_inventory_description_quest_itemkey2"><![CDATA[Est-ce qu'un regret pur peut dégager la voie ?]]></entry>
-<entry id="str_inventory_description_quest_itemkey3"><![CDATA[Persévérez et faites semblant. Je vous guiderai.]]]></entry>
+<entry id="str_inventory_description_quest_itemkey3"><![CDATA[Persévérez et faites semblant. Je vous guiderai.]]></entry>
 <entry id="str_inventory_description_quest_itemkey4"><![CDATA[La voie se révèle lorsque vous considérez vos faiblesses, et non vos forces.]]></entry>
 <entry id="str_inventory_description_quest_itemtorch_quest"><![CDATA[Une torche spéciale, enroulée deux fois dans un tissu et trempée dans des produits sulfureux.]]></entry>
 <entry id="str_inventory_set_title_cc_abom"><![CDATA["Je dois me cacher aux yeux du monde."]]></entry>
@@ -624,7 +624,7 @@ Rédemption]]></entry>
 <entry id="str_monster_skill_choice_cut"><![CDATA[Morceau de choix]]></entry>
 <entry id="str_monster_skill_claw_swipe_berserk"><![CDATA[Déshabillement]]></entry>
 <entry id="str_monster_skill_claw_swipe_normal"><![CDATA[Déshabillement]]></entry>
-<entry id="str_monster_skill_clear_the_court"><![CDATA[Proposition indécente]]]></entry>
+<entry id="str_monster_skill_clear_the_court"><![CDATA[Proposition indécente]]></entry>
 <entry id="str_monster_skill_crimson_harvest"><![CDATA[Moisson pourpre]]></entry>
 <entry id="str_monster_skill_crimson_swarm"><![CDATA[Nuée pourpre]]></entry>
 <entry id="str_monster_skill_crowd_pleaser"><![CDATA[Amour du public]]></entry>
@@ -950,8 +950,8 @@ Rédemption]]></entry>
 <entry id="town_quest_name_plot_crimson_court_1"><![CDATA[Divertissement morbide]]></entry>
 <entry id="town_quest_name_plot_crimson_court_2"><![CDATA[Servi froid]]></entry>
 <entry id="town_quest_name_plot_crimson_court_3"><![CDATA[Une prédatrice enchanteresse]]></entry>
-<entry id="town_quest_name_plot_kill_statue_head_2"><![CDATA[Élimination du Gardien déchu]]]></entry>
-<entry id="town_quest_name_plot_kill_statue_head_3"><![CDATA[Élimination du Gardien déchu]]]></entry>
+<entry id="town_quest_name_plot_kill_statue_head_2"><![CDATA[Élimination du Gardien déchu]]></entry>
+<entry id="town_quest_name_plot_kill_statue_head_3"><![CDATA[Élimination du Gardien déchu]]></entry>
 <entry id="town_quest_progress_plot_crimson_court_0"><![CDATA[Explorer la Cour]]></entry>
 <entry id="town_quest_progress_plot_crimson_court_1"><![CDATA[Éliminez le Baron !]]></entry>
 <entry id="town_quest_progress_plot_crimson_court_2"><![CDATA[Mettez un terme au festin du Vicomte !]]></entry>
