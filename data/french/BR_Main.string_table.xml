@@ -1624,7 +1624,7 @@ Il est verrouillé.]]></entry>
 Il est verrouillé.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_imit"><![CDATA[Qu'y a-t-il à l'intérieur ?]]></entry>
 <entry id="str_curio_cact_imit_summon"><![CDATA[Le coffre attaque !]]></entry>
-<entry id="str_curio_cact_imit_skeleton_key_summon_cact_imitator_key"><![CDATA[La clé est recrachée telle une balle !]]></entry> 
+<entry id="str_curio_cact_imit_skeleton_key_summon_cact_imitator_key"><![CDATA[La clé est recrachée telle une balle !]]></entry>
 <entry id="str_curio_cact_imit_shovel_summon_cact_imitator_shovel"><![CDATA[Le cactonide déguisé est déstabilisé par le coup !]]></entry>
 <entry id="str_curio_cact_imit_holy_water_summon_cact_imit_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_imit_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
@@ -6500,13 +6500,13 @@ Infection (base : 140ʪ) 4 pts/tr sur 3 trs (8ʪ de chances){colour_end}]]></ent
 <entry id="quirk_transition_the_sweats_tr_to_nothing"><![CDATA[Je n'ai pas le temps d'être malade.]]></entry>
 <entry id="str_quirk_name_tinnitus"><![CDATA[{colour_start|symptom}Acouphène{colour_end}]]></entry>
 <entry id="str_quirk_name_deafness"><![CDATA[Surdité]]></entry>
-<entry id="str_quirk_name_deafness_tended"><![CDATA[Surdité (Stabilisé)]]></entry>
-<entry id="str_mark_self_tinnitus"><![CDATA[WHAT? WHAT DID YOU SAY?]]></entry>
-<entry id="str_mark_self_tinnitus"><![CDATA[SPEAK UP, I CAN'T HEAR YOU!]]></entry>
-<entry id="str_mark_self_tinnitus"><![CDATA[DID ANYONE ELSE HEAR THAT?]]></entry>
+<entry id="str_quirk_name_deafness_tended"><![CDATA[Surdité (stable)]]></entry>
+<entry id="str_mark_self_tinnitus"><![CDATA[QUOI ? QU'EST-CE QUE VOUS DITES ?]]></entry>
+<entry id="str_mark_self_tinnitus"><![CDATA[PARLEZ PLUS FORT, JE N'ENTENDS RIEN !]]></entry>
+<entry id="str_mark_self_tinnitus"><![CDATA[QUELQU'UN D'AUTRE A ENTENDU ÇA ?]]></entry>
 <entry id="str_roster_quirk_transition_tinnitus"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s symptoms have worsened, resulting in {colour_start|disease}Cochlear Rot{colour_end}.]]></entry>
 <entry id="str_roster_quirk_transition_deafness_tended"><![CDATA[{colour_start|notable}{?hero_name}%s{colour_end}'s disease has grown more virulent, losing its stabilization.]]></entry>
-<entry id="quirk_transition_tinnitus_to_deafness"><![CDATA[AUGH! MY EARS!]]></entry>
+<entry id="quirk_transition_tinnitus_to_deafness"><![CDATA[ARGH ! MES OREILLES !]]></entry>
 <entry id="quirk_transition_deafness_tended_to_deafness"><![CDATA[MA TÊTE ME FAIT SOUFFRIR.]]></entry>
 <entry id="quirk_transition_deafness_to_deafness_tended"><![CDATA[AÏE ! MON OREILLE !]]></entry>
 <entry id="quirk_transition_deafness_to_deafness_tended"><![CDATA[MES OREILLES N'ARRÊTENT PAS DE BOURDONNER !]]></entry>
