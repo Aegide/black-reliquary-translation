@@ -1735,7 +1735,7 @@ Extrême augmentation : stress, attaques des monstres, butin, crit de joueur]]><
 <entry id="str_treatment_remove_positive_quirk"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a vu l'un de ses attributs traité avec succès. Attribut supprimé : {?quirk_name}%s]]></entry>
 <entry id="str_treatment_remove_negative_quirk"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} {colour_start|notable}{?hero_name}%s{colour_end} a vu l'un de ses attributs traité avec succès. Attribut supprimé : {?quirk_name}%s]]></entry>
 <entry id="str_trinket_found"><![CDATA[Breloque trouvée !]]></entry>
-<entry id="str_trinket_found_ok"><![CDATA[Appeler breloque !]]></entry>
+<entry id="str_trinket_found_ok"><![CDATA[Récupérer breloque !]]></entry>
 <entry id="str_tutorial_alive_perished_mixed"><![CDATA[Vous avez rejoint le Hameau avec {?survivor}%s, mais {fallen_hero}%s a trouvé la mort sur la vieille route.]]></entry>
 <entry id="str_tutorial_all_alive"><![CDATA[Vous avez rejoint le Hameau avec {?hero_names}%s.]]></entry>
 <entry id="str_tutorial_all_perished"><![CDATA[{?hero_names}%s ont péri sur la vieille route, mais vous avez fui au travers de la forêt et avez réussi à atteindre le Hameau.]]></entry>
