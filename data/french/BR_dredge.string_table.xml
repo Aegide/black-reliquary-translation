@@ -207,7 +207,7 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_block_camping_skill_target_paranoid"><![CDATA[Le moment où j'aurai le dos tourné...]]></entry>
 <entry id="dredge+str_block_camping_meal_paranoid"><![CDATA[TODO:These are not the rations I packed!]]></entry>
 <entry id="dredge+str_block_camping_meal_paranoid"><![CDATA[TODO:I'll eat once I've seen you all survive the meal...]]></entry>
-<entry id="dredge+str_block_camping_meal_paranoid"><![CDATA[TODO:Poisoned cheeses, a timeless tactic.]]></entry>
+<entry id="dredge+str_block_camping_meal_paranoid"><![CDATA[Du fromage empoisonné, un grand classique.]]></entry>
 <entry id="dredge+str_afflicted_masochistic"><![CDATA[TODO:My machine and I have yet more battle scars to earn!]]></entry>
 <entry id="dredge+str_afflicted_masochistic"><![CDATA[TODO:Fear not the sword nor pike, they are but a part of glory!]]></entry>
 <entry id="dredge+str_afflicted_masochistic"><![CDATA[TODO:The two of us embrace the brunt of your assault!]]></entry>
@@ -221,10 +221,10 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_random_command_masochistic"><![CDATA[TODO:I care for the risk more than the calculation.]]></entry>
 <entry id="dredge+str_random_command_masochistic"><![CDATA[Laissez-vous aller ! Savourez le danger !]]></entry>
 <entry id="dredge+str_bark_stress_camp_masochistic"><![CDATA[TODO:I'm beginning to wonder if the machine's plating is *too* dense.]]></entry>
-<entry id="dredge+str_bark_stress_camp_masochistic"><![CDATA[TODO:I must admire the brutality of our enemies.]]></entry>
+<entry id="dredge+str_bark_stress_camp_masochistic"><![CDATA[J'admire la brutalité de nos ennemis.]]></entry>
 <entry id="dredge+str_bark_stress_camp_masochistic"><![CDATA[TODO:Today will be majestic. Rife with violence!]]></entry>
 <entry id="dredge+str_mark_self_masochistic"><![CDATA[TODO:Right here, you fiends! I'm waiting!]]></entry>
-<entry id="dredge+str_mark_self_masochistic"><![CDATA[TODO:What, do you need me to beg?]]></entry>
+<entry id="dredge+str_mark_self_masochistic"><![CDATA[Quoi, vous préférez que je vous supplie ?]]></entry>
 <entry id="dredge+str_mark_self_masochistic"><![CDATA[TODO:Let's get to the point, already!]]></entry>
 <entry id="dredge+str_attack_self_masochistic"><![CDATA[On ne fait pas d'omelette sans casser des œufs !]]></entry>
 <entry id="dredge+str_attack_self_masochistic"><![CDATA[Faisons en sorte que le combat soit équitable !]]></entry>
@@ -243,7 +243,7 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_comment_ally_hit_masochistic"><![CDATA[Si vous n'êtes pas en mesure de résister, partez !]]></entry>
 <entry id="dredge+str_block_move_masochistic"><![CDATA[TODO:I'm precisely where I ought to be, thank you.]]></entry>
 <entry id="dredge+str_block_move_masochistic"><![CDATA[TODO:I believe stationary is the best stance for me.]]></entry>
-<entry id="dredge+str_block_move_masochistic"><![CDATA[TODO:Child, you'll miss the view!]]></entry>
+<entry id="dredge+str_block_move_masochistic"><![CDATA[Mon enfant, tu vas rater le spectacle !]]></entry>
 <entry id="dredge+str_block_item_masochistic"><![CDATA[TODO:Save it for the less able-bodied.]]></entry>
 <entry id="dredge+str_block_item_masochistic"><![CDATA[TODO:Do not disrupt my contentment!]]></entry>
 <entry id="dredge+str_block_item_masochistic"><![CDATA[TODO:When I need your care, I will kindly ask.]]></entry>
