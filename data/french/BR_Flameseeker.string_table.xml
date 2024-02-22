@@ -578,9 +578,9 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_granary_buff_free_provision"><![CDATA[Ajoute 6-12 {colour_start|notable}nourritures{colour_end} gratuites aux provisions.]]></entry>
 <entry id="str_buskers_corner_title"><![CDATA[Chandellerie]]></entry>
 <entry id="str_buskers_corner_buff_torch"><![CDATA[Ajoute 3-6 {colour_start|notable}torches{colour_end} gratuites aux provisions.]]></entry>
-<entry id="str_buskers_corner_buff_br_torch"><![CDATA[TODO:Torch is 50-75: +7.5% {colour_start|scouting}Scouting{colour_end} Chance
-Torch is 75-100: +15% {colour_start|scouting}Scouting{colour_end} Chance]]></entry>
-<entry id="str_buskers_corner_buff_not_EI"><![CDATA[TODO:{colour_start|skill_unselectable}Scouting Bonus does not apply to Exposed Interior Torchlight{colour_end}]]></entry>
+<entry id="str_buskers_corner_buff_br_torch"><![CDATA[Torche (50-75) : Chances de {colour_start|scouting}repérage{colour_end} +7.5 ʪ
+Torche (50-75) : Chances de {colour_start|scouting}repérage{colour_end} +15 ʪ]]></entry>
+<entry id="str_buskers_corner_buff_not_EI"><![CDATA[{colour_start|skill_unselectable}Ne fonctionne pas dans l'Intérieur exposé.{colour_end}]]></entry>
 <entry id="str_house_of_the_yellow_hand_title"><![CDATA[Cabinet du chirurgien]]></entry>
 <entry id="str_house_of_the_yellow_hand_buff_br_bandages"><![CDATA[TODO:Bandages additionally {colour_start|healhp}Heal{colour_end} for 10% HP]]></entry>
 <entry id="str_house_of_the_yellow_hand_buff_br_honing_oil"><![CDATA[TODO:Honing Oil provides +40% Armor Piercing {colour_start|skill_unselectable}(3 tns){colour_end} instead of +25% Armor Piercing {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
