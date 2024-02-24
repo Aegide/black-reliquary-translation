@@ -369,9 +369,9 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_block_buff_depressed"><![CDATA[Ce n'est pas suffisant...]]></entry>
 <entry id="dredge+str_block_camping_skill_performer_depressed"><![CDATA[TODO:I simply don't have it in me anymore.]]></entry>
 <entry id="dredge+str_block_camping_skill_performer_depressed"><![CDATA[Pitié, laissez-moi me reposer.]]></entry>
-<entry id="dredge+str_block_camping_skill_performer_depressed"><![CDATA[TODO:My joints are killing me...]]></entry>
+<entry id="dredge+str_block_camping_skill_performer_depressed"><![CDATA[Mes articulations me font si mal...]]></entry>
 <entry id="dredge+str_block_camping_skill_target_depressed"><![CDATA[TODO:Can't this wait?]]></entry>
-<entry id="dredge+str_block_camping_skill_target_depressed"><![CDATA[TODO:Leave me be, I need some sleep.]]></entry>
+<entry id="dredge+str_block_camping_skill_target_depressed"><![CDATA[Laissez-moi, j'ai besoin de sommeil.]]></entry>
 <entry id="dredge+str_block_camping_skill_target_depressed"><![CDATA[TODO:It takes more than that to save a soldier's life.]]></entry>
 <entry id="dredge+str_block_camping_meal_depressed"><![CDATA[TODO:This gruel tastes like mud.]]></entry>
 <entry id="dredge+str_block_camping_meal_depressed"><![CDATA[TODO:I simply don't have the stomach for it.]]></entry>
@@ -398,7 +398,7 @@ DGT subis +15%%]]></entry>
 <entry id="dredge+str_bark_stress_camp_irrational"><![CDATA[TODO:I get it. We have to choose.]]></entry>
 <entry id="dredge+str_bark_stress_camp_irrational"><![CDATA[TODO:More skulls to crush beneath my heel...]]></entry>
 <entry id="dredge+str_mark_self_irrational"><![CDATA[JE SUIS LA FEMME LA PLUS DANGEREUSE DU MONDE !]]></entry>
-<entry id="dredge+str_mark_self_irrational"><![CDATA[TODO:Ten paces at dawn!]]></entry>
+<entry id="dredge+str_mark_self_irrational"><![CDATA[Dix kilomètres à l'aube !]]></entry>
 <entry id="dredge+str_mark_self_irrational"><![CDATA[TODO:Give me your best shot, then I'll give you mine...]]></entry>
 <entry id="dredge+str_attack_self_irrational"><![CDATA[TODO:Even *I* cannot stop myself, see?!]]></entry>
 <entry id="dredge+str_attack_self_irrational"><![CDATA[TODO:My wrath demands blood to be spilt- NOW!]]></entry>
