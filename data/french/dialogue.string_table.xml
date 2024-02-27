@@ -5249,7 +5249,7 @@
 <entry id="str_bark_unspeakable_commune"><![CDATA[G'NATH ELDRATCHANAR F'THGYLL GRY'NDOT !]]></entry>
 <entry id="str_bark_experimental_vapours"><![CDATA[Inhale ceci... tu *devrais* te sentir bien mieux.]]></entry>
 <entry id="str_bark_leeches"><![CDATA[Ces sangsues purifieront ton sang.]]></entry>
-<entry id="str_bark_preventative_medicine"><![CDATA[Cette injection me renforcera contre toute attaque contre mon organisme.]]></entry>
+<entry id="str_bark_preventative_medicine"><![CDATA[Cette injection renforcera ton organisme contre toute attaque.]]></entry>
 <entry id="str_bark_self_medicate"><![CDATA[Cette aiguille m'est destinée. Enfin.]]></entry>
 <entry id="str_bark_bless"><![CDATA[Mes amis, la Lumière brille sur vous !]]></entry>
 <entry id="str_bark_chant"><![CDATA[... Lumière Divine... Grâce la plus pure... gratifie-nous de ta présence.]]></entry>
@@ -5263,7 +5263,7 @@
 <entry id="str_bark_reflection"><![CDATA[Mon épée, ma fidèle alliée, stoïque face à mon image.]]></entry>
 <entry id="str_bark_quarantine"><![CDATA[Restez en arrière, tous. Je ne me sens pas bien.]]></entry>
 <entry id="str_bark_let_the_mask_down"><![CDATA[Ce courant d'air sur mon visage... grisant...]]></entry>
-<entry id="str_bark_field_dressing"><![CDATA[Même les blessures les plus graves peuvent être soignées. Retourne au combat.]]></entry>
+<entry id="str_bark_field_dressing"><![CDATA[Même les blessures les plus graves peuvent être soignées.]]></entry>
 <entry id="str_bark_marching_plan"><![CDATA[Si nous apprenons à nous déplacer de façon ordonnée, nous nous battrons mieux ensemble.]]></entry>
 <entry id="str_bark_restring_crossbow"><![CDATA[Lustré et poli, tu tireras juste maintenant, mon amour.]]></entry>
 <entry id="str_bark_triage"><![CDATA[Boucle-la et laisse-moi m'occuper de ces blessures.]]></entry>
