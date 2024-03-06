@@ -419,14 +419,14 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="philomath+str_prayer_committed"><![CDATA[Je sais être... convaincante.]]></entry>
 <entry id="philomath+str_prayer_committed"><![CDATA[Je vous autorise à tenter de négocier.]]></entry>
 <entry id="philomath+str_prayer_committed"><![CDATA[Les prix sont négociables.]]></entry>
-<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[TODO:Your bargaining needs work.]]></entry>
+<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[Votre talent de négociateur est à parfaire.]]></entry>
 <entry id="philomath+str_roster_list_prayer_bark"><![CDATA[Ne m'insultez pas avec cette proposition.]]></entry>
-<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[TODO:At long last, we come to terms.]]></entry>
+<entry id="philomath+str_roster_list_prayer_bark"><![CDATA[Enfin, nous sommes d'accord.]]></entry>
 <entry id="philomath+str_flagellation_committed"><![CDATA[Les cauchemars... disparaissent.]]></entry>
 <entry id="philomath+str_flagellation_committed"><![CDATA[Enfin, une voix de moins dans ma tête.]]></entry>
 <entry id="philomath+str_flagellation_committed"><![CDATA[Dans mes poumons, mes veines, ma gorge, tout est parfait.]]></entry>
 <entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[TODO:My sweet Janet, I'll bring some home for you.]]></entry>
-<entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[TODO:*peaceful snoring*]]></entry>
+<entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[*Ronflement paisible*]]></entry>
 <entry id="philomath+str_roster_list_flagellation_bark"><![CDATA[TODO:Here, mix it with this tonic and see how it feels.]]></entry>
 <entry id="str_roster_list_consumed_bark"><![CDATA[Empêchez-moi de dormir. EMPÊCHEZ-MOI DE DORMIR !]]></entry>
 <entry id="str_roster_list_consumed_bark"><![CDATA[Plus de laudanum, MAINTENANT !]]></entry>
@@ -444,7 +444,7 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="philomath+str_roster_list_disease_treatment_bark"><![CDATA[TODO:What are you doing? Place that needle over a flame!]]></entry>
 <entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:The answer is out there waiting for me!]]></entry>
 <entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:I could not be more awake!]]></entry>
-<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:This curse will not lift itself.]]></entry>
+<entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[Cette malédiction ne va pas se dissiper toute seule.]]></entry>
 <entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:There is knowledge to be found out there!]]></entry>
 <entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:I can only sit idle for so long.]]></entry>
 <entry id="philomath+str_roster_list_low_stress_bark"><![CDATA[TODO:My mind is clear and prepared]]></entry>
@@ -495,7 +495,7 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="str_bark_educate"><![CDATA[TODO:Allow me to be your interpreter for the abyssal beings.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[TODO:Stifle your incessant whines, it's a minor wound.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[TODO:This is going to sting. Do not move a muscle.]]></entry>
-<entry id="philomath+str_bark_first_aid"><![CDATA[TODO:Human flesh is so much simpler...]]></entry>
+<entry id="philomath+str_bark_first_aid"><![CDATA[La chair humaine est si simple...]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:It is all so predictable when I can concentrate.]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:I shall chart our path. You would be spotted instantly.]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:A task so routine by this point.]]></entry>
