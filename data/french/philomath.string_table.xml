@@ -458,8 +458,8 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:It reaches into me! Please, not again!]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:It will not be silenced, please, show mercy!]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:It will not be silenced, please, show mercy!]]></entry>
-<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:I am tired... So, so tired...]]></entry>
-<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:I am tired... So, so tired...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Je suis fatiguée... Tellement fatiguée...]]></entry>
+<entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[Je suis fatiguée... Tellement fatiguée...]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:Get away. I cannot stay awake any longer...]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:Get away. I cannot stay awake any longer...]]></entry>
 <entry id="philomath+str_roster_list_high_stress_bark"><![CDATA[TODO:I will not be able to resist its grasp!]]></entry>
@@ -493,8 +493,8 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="str_bark_educate"><![CDATA[TODO:Perhaps I can enlighten your pitiable minds.]]></entry>
 <entry id="str_bark_educate"><![CDATA[TODO:I will share half-truths. You are not ready to know them in full.]]></entry>
 <entry id="str_bark_educate"><![CDATA[TODO:Allow me to be your interpreter for the abyssal beings.]]></entry>
-<entry id="philomath+str_bark_first_aid"><![CDATA[TODO:Stifle your incessant whines, it's a minor wound.]]></entry>
-<entry id="philomath+str_bark_first_aid"><![CDATA[TODO:This is going to sting. Do not move a muscle.]]></entry>
+<entry id="philomath+str_bark_first_aid"><![CDATA[Cessez vos gémissements, il s'agit d'une blessure mineure.]]></entry>
+<entry id="philomath+str_bark_first_aid"><![CDATA[Cela va piquer. Ne bougez pas.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[La chair humaine est si simple...]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:It is all so predictable when I can concentrate.]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:I shall chart our path. You would be spotted instantly.]]></entry>
