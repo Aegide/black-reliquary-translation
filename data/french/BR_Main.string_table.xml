@@ -914,7 +914,7 @@ et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les illusions sont légion. Agissez avec précaution.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les curios de la trésorerie peuvent avoir des effets inattendus,
+Les curios de la Trésorerie peuvent avoir des effets inattendus,
 avec certains objets.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 De nombreux cactonides seront prêts à contre-attaquer.
@@ -924,7 +924,7 @@ La trésorerie a peu de rencontres normales.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les cactonides peuvent avoir une protection élevée. Assemblez votre groupe de manière appropriée.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La plupart des combats dans la trésorerie
+La plupart des combats dans la Trésorerie
 sont déclenchés manuellement.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les cactonides contiennent de nombreux trésors,
@@ -946,7 +946,7 @@ manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis,
 vous permettra de maîtriser la situation.]]></entry>
-<entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La trésorerie est désormais accessible.]]></entry>
+<entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La Trésorerie est désormais accessible.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 D'anciens mécanismes Kvarotz se dissimulent
 encore dans l'ombre.]]></entry>
@@ -3558,7 +3558,7 @@ ESQUIVE -10 et VIT -6 si {colour_start|stun}étourd.{colour_end} {colour_start|s
 <entry id="buff_stat_tooltip_upgrade_discount_CAMOUFLAGE_CLOAK_TT"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|stealth}Furtivité{colour_end} {colour_start|skill_unselectable}(1 tr / 60ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOXIC_SATCHEL_DEBUFF_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Malus sur cible :{colour_end} -15ʪ PROT, -3ʪ CRT while {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SCOUNDREL_BUCKLE_DEBUFF_TT"><![CDATA[TODO:On Melee/Riposte Hit: {colour_start|debuff}Malus sur cible :{colour_end} -5 DODGE {colour_start|skill_unselectable}(90ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GAMBLERS_CHARM_TT"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|healhp}Soin{colour_end} : 8 {colour_start|skill_unselectable}(60ʪ de chances){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GAMBLERS_CHARM_TT"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|healhp}Soins{colour_end} : 8 {colour_start|skill_unselectable}(60ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GAMBLERS_CHARM_TT1"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|harmful}Subis{colour_end} 8 dégâts {colour_start|skill_unselectable}(40ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHIMMERING_CLOAK_TT"><![CDATA[Quand le héros est touché : {colour_start|buff}Bonus sur soi : {colour_end} ESQUIVE +5 {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TENACITY_RING_TT"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Bonus sur soi :{colour_end} +5ʪ {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(8 trs){colour_end}]]></entry>
@@ -5174,10 +5174,10 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 																													 						{colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[Le chant des Anciens... est maintenant silencieux...]]></entry>
 <entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[Une illusion... Tout cela n'était qu'une illusion ?]]></entry>
-<entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[TODO:All that I have held faith in- IT IS ALL A LIE!]]></entry>
-<entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[TODO:I know it now... I cannot hide any longer!]]></entry>
-<entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[TODO:This warmth... this joy... I feel the Light within me!]]></entry>
-<entry id="quirk_transition_1_pagan_to_1_religious"><![CDATA[TODO:My heart and mind- they are at last unburdened by the Light!]]></entry>
+<entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[Tout ce en quoi j'ai eu foi... UN MENSONGE !]]></entry>
+<entry id="quirk_transition_1_faithless_to_1_pagan"><![CDATA[Je le sais désormais... Je ne peux plus me cacher !]]></entry>
+<entry id="quirk_transition_1_faithless_to_1_religious"><![CDATA[Cette chaleur... Cette joie... Je sens en moi la Lumière !]]></entry>
+<entry id="quirk_transition_1_pagan_to_1_religious"><![CDATA[Mon cœur et mon esprit, enfin libérés par la Lumière !]]></entry>
 <entry id="quirk_transition_1_faithless_to_1_faithless"><![CDATA[Aucune différence...]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_pagan"><![CDATA[Aucune différence...]]></entry>
 <entry id="quirk_transition_1_religious_to_1_religious"><![CDATA[Aucune différence...]]></entry>
