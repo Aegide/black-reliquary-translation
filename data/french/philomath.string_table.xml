@@ -269,8 +269,8 @@
 <entry id="buff_stat_tooltip_upgrade_discount_philo_camping_tooltip"><![CDATA[TODO:{colour_start|mark}Skill will be usable upon Nightmare Update.{colour_end}]]></entry>
 <entry id="combat_skill_name_philomath_head_trauma"><![CDATA[Traumatisme crânien]]></entry>
 <entry id="combat_skill_name_philomath_page_cutter"><![CDATA[Coupe-papier]]></entry>
-<entry id="combat_skill_name_philomath_sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
-<entry id="combat_skill_name_philomath_breakdown"><![CDATA[Effondrement]]></entry>
+<entry id="combat_skill_name_philomath_sunder"><![CDATA[Lance abyssale]]></entry>
+<entry id="combat_skill_name_philomath_breakdown"><![CDATA[Fracture psychique]]></entry>
 <entry id="combat_skill_name_philomath_eldritch_safeguard"><![CDATA[{colour_start|white}əəəə{colour_end}
 Barrière de chair]]></entry>
 <entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[{colour_start|white}ɚɛɛɜ{colour_end}
@@ -279,12 +279,12 @@ Concentration]]></entry>
 Pacte maléfique]]></entry>
 <entry id="upgrade_tree_name_philomath.head_trauma"><![CDATA[Traumatisme crânien]]></entry>
 <entry id="upgrade_tree_name_philomath.page_cutter"><![CDATA[Coupe-papier]]></entry>
-<entry id="upgrade_tree_name_philomath.sunder"><![CDATA[TODO:Sundering Flesh]]></entry>
-<entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[Effondrement]]></entry>
+<entry id="upgrade_tree_name_philomath.sunder"><![CDATA[Lance abyssale]]></entry>
+<entry id="upgrade_tree_name_philomath.breakdown"><![CDATA[Fracture psychique]]></entry>
 <entry id="upgrade_tree_name_philomath.eldritch_safeguard"><![CDATA[Barrière de chair]]></entry>
 <entry id="upgrade_tree_name_philomath.absorbent_mind"><![CDATA[Concentration]]></entry>
 <entry id="upgrade_tree_name_philomath.malevolent_pact"><![CDATA[Pacte maléfique]]></entry>
-<entry id="combat_skill_name_philomath_move"><![CDATA[déplacement]]></entry>
+<entry id="combat_skill_name_philomath_move"><![CDATA[Déplacement]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEADTRAUMA_STRESS_AP_TT"><![CDATA[TODO:+10ʪ Armor Piercing per 10 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_breakdown_tooltip"><![CDATA[TODO:Break {colour_start|riposte}Riposte{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stress_dot"><![CDATA[TODO:Transfer {colour_start|stress}Horror{colour_end} to Caster]]></entry>
