@@ -563,7 +563,7 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_gold_stack_building2_buff_stacking1"><![CDATA[Taille des piles de dariques augmentée de 5.]]></entry>
 <entry id="str_illuminators_guild_title"><![CDATA[Joaillerie]]></entry>
 <entry id="str_illuminators_guild_buff_stacking4"><![CDATA[Taille des piles de gemmes augmentée de 1.]]></entry>
-<entry id="str_illuminators_guild_buff_stacking5"><![CDATA[Taille des piles de {colour_start|cursed_gem}vestiges malveillants{colour_end} augmentée de 1.]]></entry>
+<entry id="str_illuminators_guild_buff_stacking5"><![CDATA[Taille des piles de {colour_start|cursed_gem}vestiges{colour_end} augmentée de 1.]]></entry>
 <entry id="str_illuminators_guild_buff_stacking6"><![CDATA[ ]]></entry>
 <entry id="str_illuminators_guild_buff_stacking7"><![CDATA[ ]]></entry>
 <entry id="str_illuminators_guild_buff_stacking8"><![CDATA[ ]]></entry>

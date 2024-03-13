@@ -245,10 +245,10 @@
 <entry id="philomath+str_wave_dungeon_town"><![CDATA[TODO:When did we return? Did we?]]></entry>
 <entry id="str_inventory_title_trinketnightshade_concoction"><![CDATA[Infusion de belladone]]></entry>
 <entry id="str_inventory_title_trinketmood_tonic"><![CDATA[Psychorégulateur]]></entry>
-<entry id="str_inventory_title_trinketguide_to_influence"><![CDATA[TODO:Guide to Influence 4th Ed.]]></entry>
-<entry id="str_inventory_title_trinketedged_altercations"><![CDATA[TODO:Edged Altercations Vol. II]]></entry>
-<entry id="str_inventory_title_trinketbook_of_no_language"><![CDATA[TODO:The Book of No Language]]></entry>
-<entry id="str_inventory_title_trinketunsent_love_letters"><![CDATA[TODO:Unsent Love Letters]]></entry>
+<entry id="str_inventory_title_trinketguide_to_influence"><![CDATA[Comédie dramatique]]></entry>
+<entry id="str_inventory_title_trinketedged_altercations"><![CDATA[Poèmes tranchants]]></entry>
+<entry id="str_inventory_title_trinketbook_of_no_language"><![CDATA[Livre sans Langage]]></entry>
+<entry id="str_inventory_title_trinketunsent_love_letters"><![CDATA[Lettres d'amour inachevées]]></entry>
 <entry id="str_inventory_title_trinketunhealthy_habits"><![CDATA[Mauvaises habitudes]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_heartattack_heal_tooltip"><![CDATA[TODO:+100%% Heart Attack {colour_start|stress}Stress{colour_end} Recovery]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PHILO_UNCOMMON_SELF_HORROR_TOOLTIP"><![CDATA[TODO:On Friendly Skill: Self: {colour_start|stress}Horror{colour_end} 2 pts/tn for 3 tns]]></entry>

@@ -553,7 +553,7 @@ Certain enemy factions, specifically those found in low light are immune to bein
 <entry id="tutorial_popup_crimson_curse_blood_lust_description"><![CDATA[TODO:{colour_start|cursed_gem}Malignant Vestiges{colour_end} are a unique type of loot dropped mostly from Cactonid enemies. These exceedingly valuable treasures bring various penalties while in your inventory, so consider the effects carefully! 
 These effects do not stack. Each vestige downside is only applied once while in your inventory.
 Cactonid fights are guaranteed to drop at least one vestige, and the {colour_start|cursed_gem}"Maligned"{colour_end} cactonids, summoned by performing an alum ritual near a cactonid, grant even more of them.]]></entry>
-<entry id="tutorial_popup_crimson_curse_blood_lust_title"><![CDATA[Vestiges malveillants]]></entry>
+<entry id="tutorial_popup_crimson_curse_blood_lust_title"><![CDATA[Vestiges]]></entry>
 <entry id="tutorial_popup_crimson_curse_craving_description"><![CDATA[TODO:Yngolian drops {colour_start|yngolian1}Celestial{colour_end} trinkets. These special trinkets can be used in place of a standard torch to activate the Yngolian's Beacon, and in doing so will upgrade the trinket! [Remember that evolving trinkets must be placed in the inventory before they can be used on curios.]]]></entry>
 <entry id="tutorial_popup_crimson_curse_craving_title"><![CDATA[TODO:Boon from Beyond]]></entry>
 <entry id="tutorial_popup_thing_title"><![CDATA[Cactonides]]></entry>
