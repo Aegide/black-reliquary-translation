@@ -4447,10 +4447,10 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}(135% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}(147% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT5"><![CDATA[TODO:{colour_start|skill_unselectable}(160% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[TODO:{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_BUFF_TT"><![CDATA[TODO:{colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_TT"><![CDATA[{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_BUFF_TT"><![CDATA[{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_absolution"><![CDATA[Absolution]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ABOM_CLEAR_GUARD_GUARDING_TT"><![CDATA[TODO:Breaks {colour_start|guard}Guard{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ABOM_CLEAR_GUARD_GUARDING_TT"><![CDATA[Destruction de {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT"><![CDATA[TODO: +90ʪ DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT1"><![CDATA[TODO: +9ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT2"><![CDATA[TODO: +10ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
@@ -5024,7 +5024,7 @@ Self:
 <entry id="buff_rule_data_tooltip_MUSK_BUCKSHOT_AMMO3_STUN4"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_BUCKSHOT_AMMO3_STUN5"><![CDATA[TODO:{colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(130% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO1"><![CDATA[TODO:{colour_start|musk_ammo1}Standard{colour_end} Ammo]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO1_GBREAK"><![CDATA[TODO:Breaks {colour_start|guard}Guard{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO1_GBREAK"><![CDATA[Destruction de {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO2"><![CDATA[TODO:{colour_start|musk_ammo2}Shrapnel{colour_end} Ammo]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO2_DMG"><![CDATA[TODO:%+d%% DMG^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_BOMBARD_AMMO3_DEBUFF"><![CDATA[{colour_start|debuff}Malus sur cible :{colour_end}]]></entry>
