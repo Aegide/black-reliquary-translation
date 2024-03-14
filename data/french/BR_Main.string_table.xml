@@ -5171,7 +5171,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_1_religious"><![CDATA[
 																													 						{colour_start|affiliation_religious}Religieux{colour_end}]]></entry>
 <entry id="str_quirk_name_1_pagan"><![CDATA[
-																													 						{colour_start|affiliation_pagan}Payen{colour_end}]]></entry>
+																													 						{colour_start|affiliation_pagan}Païen{colour_end}]]></entry>
 <entry id="quirk_transition_1_pagan_to_1_faithless"><![CDATA[Le chant des Anciens... est maintenant silencieux...]]></entry>
 <entry id="quirk_transition_1_religious_to_1_faithless"><![CDATA[Une illusion... Tout cela n'était qu'une illusion ?]]></entry>
 <entry id="quirk_transition_1_religious_to_1_pagan"><![CDATA[Tout ce en quoi j'ai eu foi... UN MENSONGE !]]></entry>
@@ -5408,7 +5408,7 @@ Buff Party: +5% DMG/+2 SPD if Non-Religious
 <entry id="str_quirk_description_intercessor"><![CDATA[Extrêmement pieux
 {colour_start|skill_unselectable}Début de tour : Bonus de groupe :
 PROT +10ʪ et chances de crits reçus -3ʪ
-si non-Payen (10ʪ de chances){colour_end}]]></entry>
+si non-Païen (10ʪ de chances){colour_end}]]></entry>
 <entry id="str_quirk_description_overzealous"><![CDATA[Condamne les hérétiques
 {colour_start|skill_unselectable}Début de tour : Malus de groupe :
 DGT -5ʪ et VIT -2
@@ -5416,7 +5416,7 @@ si non-Religieux (15ʪ de chances){colour_end}]]></entry>
 <entry id="str_quirk_description_profane"><![CDATA[Déteste les prêtres
 {colour_start|skill_unselectable}Début de tour : Malus de groupe :
 Dégâts reçus +5ʪ et stress +10ʪ
-si non-Payen (15ʪ de chances){colour_end}]]></entry>
+si non-Païen (15ʪ de chances){colour_end}]]></entry>
 <entry id="str_quirk_description_catacombs_explorer"><![CDATA[TODO:Interacting with Traps and Obstacles in 
 the Catacombs successfully gives buffs
 {colour_start|skill_unselectable}+4 DODGE, +2 SPD (2 combats){colour_end}]]></entry>
