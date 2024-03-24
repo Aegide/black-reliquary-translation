@@ -490,13 +490,13 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="str_bark_foretelling"><![CDATA[TODO:Through eldritch premonition, I know what lies ahead.]]></entry>
 <entry id="str_bark_foretelling"><![CDATA[TODO:"It" has murmured to me about our path.]]></entry>
 <entry id="str_bark_foretelling"><![CDATA[TODO:I have foreseen vital information. It is horrific.]]></entry>
-<entry id="str_bark_educate"><![CDATA[TODO:Perhaps I can enlighten your pitiable minds.]]></entry>
-<entry id="str_bark_educate"><![CDATA[TODO:I will share half-truths. You are not ready to know them in full.]]></entry>
-<entry id="str_bark_educate"><![CDATA[TODO:Allow me to be your interpreter for the abyssal beings.]]></entry>
+<entry id="str_bark_educate"><![CDATA[Puis-je éclairer vos misérables esprits ?]]></entry>
+<entry id="str_bark_educate"><![CDATA[Je vais partager des demi-vérités. Vous n'êtes pas encore prêt.]]></entry>
+<entry id="str_bark_educate"><![CDATA[Permettez-moi d'être votre guide parmi les abysses.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[Cessez vos gémissements, il s'agit d'une blessure mineure.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[Cela va piquer. Ne bougez pas.]]></entry>
 <entry id="philomath+str_bark_first_aid"><![CDATA[La chair humaine est si simple...]]></entry>
-<entry id="philomath+str_bark_scout"><![CDATA[TODO:It is all so predictable when I can concentrate.]]></entry>
+<entry id="philomath+str_bark_scout"><![CDATA[Tout est si prévisible lorsque je peux me concentrer.]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:I shall chart our path. You would be spotted instantly.]]></entry>
 <entry id="philomath+str_bark_scout"><![CDATA[TODO:A task so routine by this point.]]></entry>
 <entry id="philomath+str_bark_find_supplies"><![CDATA[TODO:Its location was easy to deduce.]]></entry>
