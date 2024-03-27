@@ -553,11 +553,11 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Si vous cherchez ma pitié, vous ne trouverez que mon dégoût.]]></entry>
 <entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Un fardeau inutile, comme prévu.]]></entry>
 <entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Les mots me manquent...]]></entry>
-<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[TODO:Yet another who is inapt to fill a soldier's boots.]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Encore un qui est inapte à remplir son rôle.]]></entry>
 <entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Votre incompétence est une anomalie statistique.]]></entry>
-<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[TODO:Are you not capable of feeling shame?]]></entry>
-<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[TODO:Was I... not suited for this undertaking?]]></entry>
-<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[Je... mon... mon esprit est vide !]]></entry>
+<entry id="philomath+str_comment_ally_attack_missed_tactless"><![CDATA[Malheureusement, le ridicule ne tue pas.]]></entry>
+<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[N'étais-je pas faite pour cette mission ?]]></entry>
+<entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[Je... mon... mon esprit est vide...]]></entry>
 <entry id="philomath+str_ignore_command_imposter_syndrome_BR"><![CDATA[Je n'arrive pas à me concentrer !]]></entry>
 <entry id="philomath+quirk_transition_ghoul_fever_to_ghoul_plague"><![CDATA[Cette puanteur... Une nécrose ?]]></entry>
 <entry id="philomath+quirk_transition_ghoul_plague_tended_to_ghoul_plague"><![CDATA[TODO:What... what else whispers to me now?]]></entry>
@@ -565,6 +565,6 @@ Harmful Act-outs and Reactions give {colour_start|stress}Horror{colour_end} inst
 <entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:This foul taste lingers on my lips.]]></entry>
 <entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:Still clammy, but the itching has dulled.]]></entry>
 <entry id="philomath+quirk_transition_ghoul_plague_to_ghoul_plague_tended"><![CDATA[TODO:She'll not accept me like this, I must be cured.]]></entry>
-<entry id="philo+quirk_transition_1_faithless_to_1_religious"><![CDATA[TODO:This burning light- I cannot escape it!]]></entry>
-<entry id="philo+quirk_transition_1_pagan_to_1_religious"><![CDATA[TODO:No! This light- it rends my very being!]]></entry>
-<entry id="philo+quirk_transition_1_faithless_to_1_pagan"><![CDATA[TODO:This form submits to Its will!]]></entry>
+<entry id="philo+quirk_transition_1_faithless_to_1_religious"><![CDATA[Cette lumière brûlante, je ne peux y échapper !]]></entry>
+<entry id="philo+quirk_transition_1_pagan_to_1_religious"><![CDATA[Cette lumière... Elle déchire mon être !]]></entry>
+<entry id="philo+quirk_transition_1_faithless_to_1_pagan"><![CDATA[Cette forme se soumet à sa volonté !]]></entry>
