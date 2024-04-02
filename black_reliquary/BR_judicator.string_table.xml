@@ -9,6 +9,7 @@
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_EXPIATED_BLEED"><![CDATA[{colour_start|bleed}Bleed{colour_end} if {colour_start|expiated}Expiated{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_EXPIATED_BLEED_AMT"><![CDATA[%d pts/tn for 3 tns]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERBLIGHTED_STUN"><![CDATA[{colour_start|stun}Stun{colour_end} for 2 tns if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_AMB_KILLER_TRAY_COOLDOWN_TT"><![CDATA[Fury of the Ancients on Cooldown]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_AMBERBLIGHTED_PULL"><![CDATA[{colour_start|move}Pull{colour_end} 2 if {colour_start|amberblighted}Amberblighted{colour_end} {colour_start|skill_unselectable}(%d%% base){colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_MELEE_AMBER_DMG_TT"><![CDATA[%+d%% DMG vs {colour_start|amberblighted}Amberblighted{colour_end}]]></entry>
 		<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_JUDI_NAIL_CANT_PUSHPREP"><![CDATA[After {colour_start|prep_round}Prep Round:{colour_end}
@@ -23,8 +24,8 @@
 		<entry id="buff_rule_data_tooltip_judi_condemn"><![CDATA[Calcified Condemnation]]></entry>
 		<entry id="buff_rule_data_tooltip_judi_guard"><![CDATA[Glassworks]]></entry>
 		
-		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -60%]]></entry>
-		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT1"><![CDATA[-10% DMG, +10% Damage Taken {colour_start|skill_unselectable}(1rd) (100% base){colour_end}]]></entry>
+		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -60% / CRIT mod: +6%]]></entry>
+		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT1"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% DMG, +10% Damage Taken {colour_start|skill_unselectable}(1rd) (100% base){colour_end}]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_RIPO_EFFECT_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_1"><![CDATA[-20% DMG Taken from {colour_start|expiated}Expiated{colour_end} Enemies]]></entry>
 		<entry id="camping_skill_effect_loot_JUDI_BREL_PASSIVE_TT_2"><![CDATA[+20% PROT while {colour_start|expiated}Expiated{colour_end}]]></entry>
@@ -42,7 +43,8 @@
 		<entry id="buff_stat_tooltip_upgrade_discount_AMBERPAGE_DEBUFF_SYMBIOSIS_TT"><![CDATA[On Friendly Skill: {colour_start|debuff}Debuff Target:{colour_end} -15%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Resist if has Amber Symbiosis]]></entry>
 		
 		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT2"><![CDATA[On Monster Kill: After Combat: Gain 1 Soul Leech {colour_start|skill_unselectable}(10ʪ Chance, Limit of 3 per Quest){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT3"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +4 SPD, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT3"><![CDATA[On Glassworks: {colour_start|buff}Buff Target/Self:{colour_end} +3 SPD, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_JUDI_LEECH_TT4"><![CDATA[On Calcified Condemnation: {colour_start|buff}Buff Self:{colour_end} +6 SPD, +16 ACC if {colour_start|affiliation_faithless}Faithless{colour_end}]]></entry>
 		
 		<entry id="buff_rule_data_tooltip_amber_symbiosis"><![CDATA[Amber Symbiosis]]></entry>
 		
