@@ -147,7 +147,7 @@ Harmful Act-outs and Reactions]]></entry>
 	Mode persists after combat end]]></entry>
 	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT1"><![CDATA[Living Ammo - Additional Skill Effects:]]></entry>
 	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT2"><![CDATA[{colour_start|notable}Standard Shot{colour_end}: -20% DMG, Self: {colour_start|healhp}Heal{colour_end} 8(+2/level) HP]]></entry>
-	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[{colour_start|notable}Smokescreen{colour_end}: +30(+10/level)% {colour_start|blight}Blight{colour_end} Amount Received {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT3"><![CDATA[{colour_start|notable}Smokescreen{colour_end}: +30(+5/level)% {colour_start|blight}Blight{colour_end} Amount Received {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
 	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT4"><![CDATA[{colour_start|notable}Buckshot{colour_end}: -100% {colour_start|healhp}Healing{colour_end} Received, -100% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Cure Received Chance {colour_start|skill_unselectable}(110(+10/level)% base){colour_end}]]></entry>
 	<entry id="camping_skill_effect_loot_MUSK_BREL_TRINKET_AMMO_TT5"><![CDATA[{colour_start|notable}Bombard{colour_end}: {colour_start|blight}Blight{colour_end} 2/3 tns (+1pt/tn per 2 levels) {colour_start|skill_unselectable}(100(+10/level)% base){colour_end}]]></entry>
 
@@ -162,24 +162,24 @@ Harmful Act-outs and Reactions]]></entry>
 
 
 	<!-- All classes riposte-->
-	<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-	<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -75% / CRIT mod: -4%]]></entry>
-	<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -4%]]></entry>
-	<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -2%]]></entry>
-	<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -4%]]></entry>
-	<entry id="camping_skill_effect_loot_GR_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
-	<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: -6%]]></entry>
-	<entry id="camping_skill_effect_loot_HWM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40%]]></entry>
-	<entry id="camping_skill_effect_loot_HM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-	<entry id="camping_skill_effect_loot_JES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-	<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -65% / CRIT mod: -6%]]></entry>
-	<entry id="camping_skill_effect_loot_MAA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -33%]]></entry>
-	<entry id="camping_skill_effect_loot_MUSK_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -50%]]></entry>
-	<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40%]]></entry>
-	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: -2%]]></entry>
-	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -70% / CRIT mod: -4%]]></entry>
-	<entry id="camping_skill_effect_loot_VES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -4%]]></entry>
+	<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60%]]></entry>
+	<entry id="camping_skill_effect_loot_ANTI_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -75% / CRIT mod: +2%]]></entry>
+	<entry id="camping_skill_effect_loot_ARB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: +2%]]></entry>
+	<entry id="camping_skill_effect_loot_BOUNTY_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: +4%]]></entry>
+	<entry id="camping_skill_effect_loot_CRUS_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60%]]></entry>
+	<entry id="camping_skill_effect_loot_FLA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60% / CRIT mod: +2%]]></entry>
+	<entry id="camping_skill_effect_loot_GR_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: +6%]]></entry>
+	<entry id="camping_skill_effect_loot_HEL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -60%]]></entry>
+	<entry id="camping_skill_effect_loot_HWM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: 6%]]></entry>
+	<entry id="camping_skill_effect_loot_HM_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: +4%]]></entry>
+	<entry id="camping_skill_effect_loot_JES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: +4%]]></entry>
+	<entry id="camping_skill_effect_loot_LEP_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -65%]]></entry>
+	<entry id="camping_skill_effect_loot_MAA_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -33% / CRIT mod: +6%]]></entry>
+	<entry id="camping_skill_effect_loot_MUSK_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 90 / DMG mod: -50% / CRIT mod: +6%]]></entry>
+	<entry id="camping_skill_effect_loot_OCC_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: +6%]]></entry>
+	<entry id="camping_skill_effect_loot_PD_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -40% / CRIT mod: +4%]]></entry>
+	<entry id="camping_skill_effect_loot_SB_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 80 / DMG mod: -70% / CRIT mod: +2%]]></entry>
+	<entry id="camping_skill_effect_loot_VES_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: +2%]]></entry>
 
 
 	<entry id="camping_skill_effect_loot_ABO_BREL_RIPO_TT"><![CDATA[In Beast mode: +25% DMG]]></entry>
