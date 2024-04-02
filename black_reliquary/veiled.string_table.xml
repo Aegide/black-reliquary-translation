@@ -59,6 +59,8 @@ Death Wish]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_self2_TT"><![CDATA[On Kill: {colour_start|buff}Buff Party:{colour_end} +3 SPD]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_kill_others_TT"><![CDATA[On Kill: Self: {colour_start|deathdoor}Suffer{colour_end} 4 HP]]></entry>
 	
+	<entry id="buff_stat_tooltip_upgrade_discount_veilDDSELFDMGTT"><![CDATA[Doesn't {colour_start|deathdoor}Suffer{colour_end} DMG from Skills]]></entry>
+	
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_ENRAGED"><![CDATA[On Friendly Skill: Target: Become {colour_start|enraged}Enraged{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_VEIL_TRINKET_APPLY_FRANTIC"><![CDATA[On Friendly Skill: Target: Become {colour_start|frantic}Frantic{colour_end}]]></entry>
 	
@@ -70,13 +72,13 @@ Death Wish]]></entry>
 	Several of his skills gain additional effects when at or below 70ʪ, 40ʪ, and 10% Max HP]]></entry>
 	<entry id="camping_skill_effect_loot_VEIL_BREL_DEATH_TT"><![CDATA[{colour_start|buff}Buff Other Heroes:{colour_end} +20% {colour_start|deathdoor}Death Blow{colour_end} Resist {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>	
 	<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD"><![CDATA[Death's Door Debuffs replaced with:
-	+10 ACC/+5% CRT/+6 SPD]]></entry>
+	+10 ACC/+5% CRT/+6 SPD/Doesn't {colour_start|harmful}Suffer{colour_end} DMG from Skills]]></entry>
 	<entry id="camping_skill_effect_loot_VEIL_BREL_PASSIVE_DD_REC"><![CDATA[Doesn't suffer from Death's Door Recovery penalty]]></entry>
 	<entry id="camping_skill_effect_loot_VEIL_BREL_ACTIVITY_BLOCK"><![CDATA[Can't go to the Bar]]></entry>
 	<entry id="camping_skill_effect_loot_VEIL_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
 	
 	
-	<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: +4ʪ]]></entry>
 
 	<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -5% {colour_start|deathdoor}Death Blow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 	<entry id="camping_skill_effect_loot_VEIL_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} chance per Difficulty]]></entry>
@@ -300,11 +302,11 @@ Death Wish]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE13"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -9 ACC {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE14"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -10 ACC {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE15"><![CDATA[{colour_start|notable}If HP below 70%%: {colour_end}{colour_start|debuff}Debuff Target:{colour_end} -12 ACC {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE21"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -6 SPD {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE22"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -7 SPD {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE23"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -8 SPD {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE24"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -9 SPD {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE25"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -10 SPD {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE21"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -4 SPD {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE22"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -5 SPD {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE23"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -6 SPD {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE24"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -7 SPD {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_VEIL_GRAVE_2_SKILL_LINE25"><![CDATA[^{colour_start|debuff}Debuff Target:{colour_end} -8 SPD {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE31"><![CDATA[^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(100% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE32"><![CDATA[^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(110% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_VEIL_GRAVE_2_SKILL_LINE33"><![CDATA[^^{colour_start|notable}If HP below 10ʪ:{colour_end} {colour_start|debuff}Debuff Target:{colour_end} -14% {colour_start|harmful}Deathblow{colour_end} Chance {colour_start|skill_unselectable}(120% base){colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -392,7 +394,7 @@ Death Wish]]></entry>
     <entry id="veiled+str_roster_list_high_stress_bark"><![CDATA[The mind is so much weaker than the body...]]></entry>
 	<entry id="veiled+str_roster_list_high_stress_bark"><![CDATA[What am I even trying to do?]]></entry>
 	<entry id="veiled+str_roster_list_high_stress_bark"><![CDATA[Even now, the memories of that day haunt me...]]></entry>
-	<entry id="veiled+str_roster_list_high_stress_bark"><![CDATA[Merely existing is such a torture.]]]></entry>
+	<entry id="veiled+str_roster_list_high_stress_bark"><![CDATA[Merely existing is such a torture.]]></entry>
 	
 	<entry id="str_incompatible_party_member_veiled_limit"><![CDATA[One living corpse is enough.]]></entry>
 	<entry id="veiled+str_incompatible_party_member_veiled_limit"><![CDATA[Someone has to watch over your buried hirelings, don't you think so?]]></entry>
@@ -971,7 +973,7 @@ Death Wish]]></entry>
 	<entry id="veiled+str_random_command_abusive"><![CDATA[Try to keep up, fleshbags.]]></entry>
 	<entry id="veiled+str_random_command_abusive"><![CDATA[My logic is simply above your simple minds.]]></entry>
 	<entry id="str_roster_list_abusive_bark"><![CDATA[I can't bear to walk among these simpletons.]]></entry>
-	<entry id="str_roster_list_abusive_bark"><![CDATA[This Hamlet is full of the unwashed, uneducated masses.]]></entry>
+	<entry id="str_roster_list_abusive_bark"><![CDATA[This airship is full of the unwashed, uneducated masses.]]></entry>
 	<entry id="str_roster_list_abusive_bark"><![CDATA[This place is awful. I'd rather die in a ditch.]]></entry>
 	
 	<!--selfish-->
