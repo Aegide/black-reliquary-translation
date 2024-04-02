@@ -64,7 +64,7 @@ Ichor Incantation]]></entry>
 
 	
 	
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_DMG_TT"><![CDATA[+10%% DMG per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_DMG_TT"><![CDATA[+15%% DMG per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_ICHOR_CURE_MARK"><![CDATA[Clear Party {colour_start|debuff}Debuffs{colour_end} and {colour_start|mark}Marks{colour_end}]]></entry>
 
 	
@@ -90,8 +90,8 @@ Ichor Incantation]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_feet_shuffle_target"><![CDATA[On Ranged Attack Hit: {colour_start|move}Shuffle{colour_end} Target {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_beating_heart_bleed"><![CDATA[On Being Hit: {colour_start|bleed}Bleed{colour_end} 2 pts/tn for 2 tns
 	{colour_start|skill_unselectable}(+1 pt per Difficulty){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[-25%% {colour_start|stress}Stress{colour_end} Received if has less than 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[-5 ACC per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt1"><![CDATA[On {colour_start|hexer_vial}Corruption Vial{colour_end} Consumption: Other Heroes: Heal 1 {colour_start|stress}Stress{colour_end} per {colour_start|hexer_vial}Vial{colour_end} Consumed]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_pure_injection_tt2"><![CDATA[+3 SPD if has less than 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt1"><![CDATA[+30%% DMG if has 3 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt2"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|stun}Stun{colour_end} Chance]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_impure_injection_tt3"><![CDATA[+25%% {colour_start|healhp}Healing{colour_end} Received per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
@@ -123,15 +123,20 @@ Ichor Incantation]]></entry>
 	<entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="enemy_type_name_HEXER_3_VIAL"><![CDATA[Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 	<entry id="enemy_type_name_HEXER_ICHOR"><![CDATA[Clear {colour_start|mark}Marks{colour_end}, {colour_start|debuff}Debuffs{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_FLESH_DEBUFF_1"><![CDATA[-12%% DMG, -2%% CRT]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_FLESH_DEBUFF_2"><![CDATA[-12%% DMG, -3%% CRT]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_FLESH_DEBUFF_3"><![CDATA[-12%% DMG, -4%% CRT]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_FLESH_DEBUFF_4"><![CDATA[-12%% DMG, -5%% CRT]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_FLESH_DEBUFF_5"><![CDATA[-12%% DMG, -6%% CRT]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_HEXER_HEART_DODGE_TT"><![CDATA[+6 DODGE per {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_stress"><![CDATA[On Attack: Other Heroes +3 {colour_start|stress}Stress{colour_end} if not {colour_start|afflicted}Afflicted{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_buffs"><![CDATA[On Attack: {colour_start|buff}Buff Others:{colour_end} +5%% ACC, +3%% CRIT, -33%% {colour_start|stress}Stress{colour_end} Inflicted On Party if {colour_start|afflicted}Afflicted{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_hexer_meal_buffs"><![CDATA[On Attack: {colour_start|buff}Buff Others:{colour_end} +5 ACC, +3%% CRIT, -33%% {colour_start|stress}Stress{colour_end} Inflicted On Party if {colour_start|afflicted}Afflicted{colour_end}]]></entry>
 
 	<!-- Addinfo -->
 	<entry id="camping_skill_name_addinfo_hexer"><![CDATA[Additional Information]]></entry>
 	
 	<entry id="camping_skill_effect_loot_HEX_BREL_PARTY_SELF"><![CDATA[Limited to 1 per Party]]></entry>
-	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% ]]></entry>
+	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -40% / CRIT mod: +6ʪ]]></entry>
 	<entry id="camping_skill_effect_loot_HEX_BREL_ACTIVITY_BLOCK"><![CDATA[Is banned from the Amber Refinery and Tek Exchange]]></entry>
 
 	<entry id="camping_skill_effect_loot_HEX_BREL_RIPO_TT"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -10% {colour_start|debuff}Debuff{colour_end} Resist {colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
@@ -173,7 +178,7 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE33"><![CDATA[^^-26%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(130%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE34"><![CDATA[^^-30%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(140%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MELT_2_SKILL_LINE35"><![CDATA[^^-33%% {colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist {colour_start|skill_unselectable}(150%% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-	<entry id="buff_rule_data_tooltip_HEXER_MELT_2_SKILL_LINE4"><![CDATA[ +10% DMG per {colour_start|hexer_vial}Corruption Vial {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+	<entry id="buff_rule_data_tooltip_HEXER_MELT_2_SKILL_LINE4"><![CDATA[ +15% DMG per {colour_start|hexer_vial}Corruption Vial {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE1"><![CDATA[^^{colour_start|notable}Free Action{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MAL_1_SKILL_LINE21"><![CDATA[^^{colour_start|harmful}Suffer{colour_end} 6 HP]]></entry>
@@ -218,16 +223,16 @@ Harmful Act-outs and Reactions]]></entry>
 	<entry id="buff_rule_data_tooltip_HEXER_PAIN_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^-7%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^-8%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[^^-11%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE21"><![CDATA[^^^^^^^^^^-2%% CRT {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE22"><![CDATA[^^^^^^^^^^-3%% CRT {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE23"><![CDATA[^^^^^^^^^^-4%% CRT {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE24"><![CDATA[^^^^^^^^^^-5%% CRT {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_1_SKILL_LINE25"><![CDATA[^^^^^^^^^^-6%% CRT {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE31"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE32"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(110%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[^^-13%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[^^-14%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[^^-15%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE33"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE34"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(130%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_FLESH_2_SKILL_LINE35"><![CDATA[^^-12%% DMG {colour_start|skill_unselectable}(140%% base){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_HEXER_FLESH_2_SKILL_LINE4"><![CDATA[  Gain 1 {colour_start|hexer_vial}Corruption Vial  {colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 
 	<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HEXER_MIND_1_SKILL_LINE1"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^Steal {colour_start|healhp}Restoration{colour_end}/ {colour_start|stealth}Stealth{colour_end}^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -377,14 +382,14 @@ Harmful Act-outs and Reactions]]></entry>
 	
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt1"><![CDATA[Unusual hungers and delight in misery...]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (4%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 3 Stress (5%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 3 Stress (4%% Chance){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_tt5"><![CDATA[{colour_start|skill_unselectable}+2 SPD, +2%% CRT per Vial Consumed{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt1"><![CDATA[A maniacal grin shows teeth stained crimson...]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (15%% Chance){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (8%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt2"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (10%% Chance){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt3"><![CDATA[{colour_start|skill_unselectable}On Turn Start: Party: Receive 4 Stress (5%% Chance){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt4"><![CDATA[{colour_start|skill_unselectable}On Hexer Corruption Vial Consumption: Buff Self:{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_rictus_mortis_tt5"><![CDATA[{colour_start|skill_unselectable}+3 SPD, +4%% CRT per Vial Consumed{colour_end}]]></entry>
 	
@@ -442,7 +447,7 @@ Harmful Act-outs and Reactions]]></entry>
 
 	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[So HUNGRY. Send me out so I can eat.]]></entry>
 	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Let me out of this ship, that I may GORGE myself on fresh kill.]]></entry>
-	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Your king is STARVING. I demand a royal entourage and a trip into the Weald.]]></entry>
+	<entry id="hexer+str_roster_list_low_stress_bark"><![CDATA[Your king is STARVING. I demand a royal entourage and a trip into the Treasury.]]></entry>
     <entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Hehehe... Hihihihi...]]></entry>
 	<entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[I'm SLAVERING here. I need to slake myself on blood and flesh.]]></entry>
 	<entry id="hexer+str_roster_list_medium_stress_bark"><![CDATA[Ooooh, so hungry, so so so SO HUNGRY!]]></entry>
