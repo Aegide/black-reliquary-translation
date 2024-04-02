@@ -3121,7 +3121,7 @@
     <entry id="houndmaster+str_block_combat_retreat_masochistic"><![CDATA[But these wounds are so...disappointing.]]></entry>
     <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[This is my kind of bloodbath!]]></entry>
     <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[This slaughter suits us both!]]></entry>
-    <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[And what? Return to the dull hamlet?]]></entry>
+    <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[And what? Return to the Flameseeker?]]></entry>
     <entry id="musketeer+str_block_combat_retreat_masochistic"><![CDATA[And flee pleasure? What madness is this?]]></entry>
     <entry id="musketeer+str_block_combat_retreat_masochistic"><![CDATA[I will teach you all how to savour this sweet misery!]]></entry>
     <entry id="antiquarian+str_block_combat_retreat_masochistic"><![CDATA[This arena of agony pleases me too much to leave it!]]></entry>
@@ -3374,7 +3374,7 @@
     <entry id="hellion+str_comment_self_missed_paranoid"><![CDATA[One solid blow like that and I am off to see the ancestors!]]></entry>
     <entry id="hellion+str_comment_self_missed_paranoid"><![CDATA[It has vengeance in its eyes! How have I wronged thee?!]]></entry>
     <entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[This is no coincidence! They have been hunting me!]]></entry>
-    <entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[I recognize this one! From a dark alley in town!]]></entry>
+    <entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[I recognize this one! From a dark alley back home!]]></entry>
     <entry id="jester+str_comment_self_missed_paranoid"><![CDATA[I am done for! That one has it out for me!]]></entry>
     <entry id="jester+str_comment_self_missed_paranoid"><![CDATA[I think this one rather dislikes me!]]></entry>
     <entry id="leper+str_comment_self_missed_paranoid"><![CDATA[They turn against me. They know I am weak.]]></entry>
@@ -4324,7 +4324,7 @@
     <entry id="str_comment_move_paranoid"><![CDATA[Look! The shadows! They wait in ambush!]]></entry>
     <entry id="str_comment_move_paranoid"><![CDATA[That stone seems out of place! A trap?!]]></entry>
     <entry id="str_comment_move_paranoid"><![CDATA[Don't push me! You aim to get me killed?!]]></entry>
-    <entry id="str_comment_move_selfish"><![CDATA[I will not give my life for this errand! If tides turn, you shall find me back at the Hamlet.]]></entry>
+    <entry id="str_comment_move_selfish"><![CDATA[I will not give my life for this errand! If tides turn, you shall find me back aboard the ship.]]></entry>
     <entry id="str_comment_move_selfish"><![CDATA[You should all be flanking and protecting ME.]]></entry>
     <entry id="str_comment_move_selfish"><![CDATA[My pack chafes! Someone carry it.]]></entry>
     <entry id="str_comment_move_masochistic"><![CDATA[This very quest will bring the pain we all deserve! We crave!]]></entry>
@@ -5173,7 +5173,7 @@
     <entry id="abomination+str_bark_pep_talk"><![CDATA[I can sense the strength within you.]]></entry>
     <entry id="abomination+str_bark_pep_talk"><![CDATA[Find your core, hold fast to your convictions!]]></entry>
     <entry id="musketeer+str_bark_pep_talk"><![CDATA[This is only a bit of excitement, think of the tales they'll tell!]]></entry>
-    <entry id="musketeer+str_bark_pep_talk"><![CDATA[Think of how they'll cheer and toast us back in the Hamlet!]]></entry>
+    <entry id="musketeer+str_bark_pep_talk"><![CDATA[Think of how they'll cheer and toast us back on the Flameseeker!]]></entry>
     <entry id="musketeer+str_bark_pep_talk"><![CDATA[This is the glory we have been hunting!]]></entry>
     <entry id="antiquarian+str_bark_pep_talk"><![CDATA[Just imagine those cool, thick pieces of gold tumbling into your hands!]]></entry>
     <entry id="antiquarian+str_bark_pep_talk"><![CDATA[Fear is just a bedtime tale we scare ourselves with.]]></entry>
@@ -5449,7 +5449,7 @@
     <entry id="str_roster_list_fearful_bark"><![CDATA[The next mission could mean my doom! I-I'm not ready.]]></entry>
     <entry id="str_roster_list_fearful_bark"><![CDATA[No...please don't send me.]]></entry>
     <entry id="str_roster_list_fearful_bark"><![CDATA[Surely someone else can go, instead?]]></entry>
-    <entry id="str_roster_list_paranoid_bark"><![CDATA[The beasts have followed us back to town! Look! The shadow!]]></entry>
+    <entry id="str_roster_list_paranoid_bark"><![CDATA[The beasts have followed us back! Look! The shadow!]]></entry>
     <entry id="str_roster_list_paranoid_bark"><![CDATA[The others plot to kill me!]]></entry>
     <entry id="str_roster_list_paranoid_bark"><![CDATA[Do NOT cast your gaze upon me! I know your foul intent!]]></entry>
     <entry id="str_roster_list_depressed_bark"><![CDATA[Why did I come to this hellish place...]]></entry>
@@ -6132,7 +6132,6 @@
     <entry id="arbalest+str_block_camping_meal_depressed"><![CDATA[Just let me lie down.]]></entry>
     <entry id="houndmaster+str_block_camping_meal_depressed"><![CDATA[I won't eat if the hound has no will to eat.]]></entry>
     <entry id="houndmaster+str_block_camping_meal_depressed"><![CDATA[We have no will for it.]]></entry>
-    <entry id="abomination+str_block_camping_meal_depressed"><![CDATA[I am full... are any children missing from the hamlet?]]></entry>
     <entry id="abomination+str_block_camping_meal_depressed"><![CDATA[Perhaps starvation is the key to purging this taint.]]></entry>
     <entry id="abomination+str_block_camping_meal_depressed"><![CDATA[When I am hungry it is easier to fight it.]]></entry>
     <entry id="musketeer+str_block_camping_meal_depressed"><![CDATA[What strength have I to regain?]]></entry>
@@ -6182,7 +6181,7 @@
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[So this is the glory I was promised?]]></entry>
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[The mind reels! My psyche splinters and cracks!]]></entry>
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[I need...help. Please.]]></entry>
-    <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Nightmares surround this doomed hamlet!]]></entry>
+    <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Nightmares surround this doomed desert!]]></entry>
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[I would rest these bones in a cool dark grave.]]></entry>
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Feather pillows! Hot baths! Ale and victuals!]]></entry>
     <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[I paint all I see with the horrors burned into these eyes.]]></entry>

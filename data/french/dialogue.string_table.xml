@@ -3118,7 +3118,7 @@
 <entry id="houndmaster+str_block_combat_retreat_masochistic"><![CDATA[Mais ces blessures sont tellement... décevantes.]]></entry>
 <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[C'est mon genre de bain de sang !]]></entry>
 <entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[Ce massacre nous convient à tous les deux !]]></entry>
-<entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[Et ensuite quoi ? Retourner au hameau ? Pour y faire quoi ?]]></entry>
+<entry id="abomination+str_block_combat_retreat_masochistic"><![CDATA[Et ensuite quoi ? Retourner au navire ? Pour y faire quoi ?]]></entry>
 <entry id="musketeer+str_block_combat_retreat_masochistic"><![CDATA[Et fuir ce plaisir ? Quelle folie est-ce là ?]]></entry>
 <entry id="musketeer+str_block_combat_retreat_masochistic"><![CDATA[Je vais tous vous apprendre à savourer cette douce détresse !]]></entry>
 <entry id="antiquarian+str_block_combat_retreat_masochistic"><![CDATA[Cette arène de douleur me plait trop ! Je ne la quitterai pas !]]></entry>
@@ -3371,7 +3371,7 @@
 <entry id="hellion+str_comment_self_missed_paranoid"><![CDATA[Un autre gros coup comme celui-là et je m'en vais voir les ancêtres !]]></entry>
 <entry id="hellion+str_comment_self_missed_paranoid"><![CDATA[Il a la vengeance dans les yeux ! Qu'ai-je bien pu lui faire ?!]]></entry>
 <entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[Ce n'est pas une coïncidence ! Ils me pourchassent !]]></entry>
-<entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[Je le reconnais ! Il était dans cette sombre allée en ville !]]></entry>
+<entry id="highwayman+str_comment_self_missed_paranoid"><![CDATA[Je le reconnais ! Il était dans cette sombre allée !]]></entry>
 <entry id="jester+str_comment_self_missed_paranoid"><![CDATA[Je suis fini ! Il veut ma mort !]]></entry>
 <entry id="jester+str_comment_self_missed_paranoid"><![CDATA[Je pense que ce monstre ne m'aime pas !]]></entry>
 <entry id="leper+str_comment_self_missed_paranoid"><![CDATA[Ils se retournent contre moi. Ils savent que je suis faible.]]></entry>
@@ -4321,7 +4321,7 @@
 <entry id="str_comment_move_paranoid"><![CDATA[Regardez ! Les ombres ! Elles attendent en embuscade !]]></entry>
 <entry id="str_comment_move_paranoid"><![CDATA[Cette pierre ne semble pas être à sa place ! Un piège ?!]]></entry>
 <entry id="str_comment_move_paranoid"><![CDATA[Ne me poussez pas ! Vous essayez de me faire tuer ?!]]></entry>
-<entry id="str_comment_move_selfish"><![CDATA[Je ne donnerai pas ma vie pour cette mission ! Si la tendance s'inverse, je serais au Hameau.]]></entry>
+<entry id="str_comment_move_selfish"><![CDATA[Je ne donnerai pas ma vie pour cette mission !]]></entry>
 <entry id="str_comment_move_selfish"><![CDATA[Vous devriez tous être autour de MOI et ME protéger.]]></entry>
 <entry id="str_comment_move_selfish"><![CDATA[Mon sac m'irrite ! Que quelqu'un le porte.]]></entry>
 <entry id="str_comment_move_masochistic"><![CDATA[Cette quête apportera la souffrance que nous méritons tous ! Nous en avons grand besoin !]]></entry>
@@ -5170,7 +5170,7 @@
 <entry id="abomination+str_bark_pep_talk"><![CDATA[Je peux sentir la force qui t'habite.]]></entry>
 <entry id="abomination+str_bark_pep_talk"><![CDATA[Cherche en toi, accroche-toi à tes convictions.]]></entry>
 <entry id="musketeer+str_bark_pep_talk"><![CDATA[C'est juste un peu d'aventure, pense à ce que dira la légende !]]></entry>
-<entry id="musketeer+str_bark_pep_talk"><![CDATA[Pense comment ils vont nous acclamer et nous célébrer au hameau !]]></entry>
+<entry id="musketeer+str_bark_pep_talk"><![CDATA[Pense comment ils vont nous acclamer et nous célébrer au navire !]]></entry>
 <entry id="musketeer+str_bark_pep_talk"><![CDATA[C'est la gloire que nous avons poursuivie !]]></entry>
 <entry id="antiquarian+str_bark_pep_talk"><![CDATA[Imagine ces épais morceaux d'or, frais et scintillants dans tes mains !]]></entry>
 <entry id="antiquarian+str_bark_pep_talk"><![CDATA[La peur n'est qu'un conte avec lequel nous nous effrayons.]]></entry>
@@ -5445,7 +5445,7 @@
 <entry id="str_roster_list_fearful_bark"><![CDATA[La prochaine mission pourrait être ma mort ! Je refuse.]]></entry>
 <entry id="str_roster_list_fearful_bark"><![CDATA[Non... pitié, je ne veux pas y aller.]]></entry>
 <entry id="str_roster_list_fearful_bark"><![CDATA[Quelqu'un d'autre peut sûrement y aller à ma place, non ?]]></entry>
-<entry id="str_roster_list_paranoid_bark"><![CDATA[Les bêtes nous ont suivis jusqu'à la ville ! Regardez ! L'ombre !]]></entry>
+<entry id="str_roster_list_paranoid_bark"><![CDATA[Les bêtes nous ont suivis ! Regardez ! L'ombre !]]></entry>
 <entry id="str_roster_list_paranoid_bark"><![CDATA[Les autres complotent pour me tuer !]]></entry>
 <entry id="str_roster_list_paranoid_bark"><![CDATA[Ne lancez PAS ce regard sur moi ! Je connais vos ignobles intentions !]]></entry>
 <entry id="str_roster_list_depressed_bark"><![CDATA[Pourquoi suis-je venu dans cet endroit infernal...]]></entry>
@@ -6128,7 +6128,6 @@
 <entry id="arbalest+str_block_camping_meal_depressed"><![CDATA[Laissez-moi juste m'allonger.]]></entry>
 <entry id="houndmaster+str_block_camping_meal_depressed"><![CDATA[Le chien ne veux pas manger, donc moi non plus.]]></entry>
 <entry id="houndmaster+str_block_camping_meal_depressed"><![CDATA[Nous n'en avons pas la volonté.]]></entry>
-<entry id="abomination+str_block_camping_meal_depressed"><![CDATA[Je suis repu... un enfant a-t-il disparu du hameau ?]]></entry>
 <entry id="abomination+str_block_camping_meal_depressed"><![CDATA[Peut-être que la famine est la clé pour éliminer cette infection.]]></entry>
 <entry id="abomination+str_block_camping_meal_depressed"><![CDATA[Lorsque j'ai faim, je le combats plus facilement.]]></entry>
 <entry id="musketeer+str_block_camping_meal_depressed"><![CDATA[Quelle force ai-je à regagner ?]]></entry>
@@ -6178,7 +6177,7 @@
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[C'est donc cela la gloire qu'on m'avait promise ?]]></entry>
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[L'esprit se rebelle ! Mon âme craque et se fendille !]]></entry>
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[J'ai besoin... d'aide. Par pitié.]]></entry>
-<entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Les cauchemars encerclent ce hameau maudit !]]></entry>
+<entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Les cauchemars encerclent ce désert maudit !]]></entry>
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Je ferais bien reposer ces os dans une tombe froide et sombre.]]></entry>
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Des oreillers en plume ! Des bains chauds ! De la bière et de la nourriture !]]></entry>
 <entry id="str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[Je peins tout ce que je vois au travers des horreurs qui ont brûlé mes yeux.]]></entry>
