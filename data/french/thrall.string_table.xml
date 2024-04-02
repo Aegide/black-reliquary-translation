@@ -262,7 +262,7 @@
 <entry id="action_verbose_body_blacksmith_thrall"><![CDATA[Le Gladiateur utilise les armes qui lui sont les plus familières, sa paire de cestes. Impitoyable, il écrase et mutile tous ceux qui ont la malchance de croiser son chemin. Son corps porte les innombrables cicatrices infligées par son maître et ses adversaires.]]></entry>
 <entry id="action_verbose_body_camping_trainer_thrall"><![CDATA[Le Gladiateur a passé une grande partie de sa vie en l'isolement. Il sait uniquement s'occuper de lui-même. Il fera des choses pour son propre bénéfice qui pourraient être néfastes pour l'ensemble du groupe. Si nécessaire, le groupe peut décider de l'enchaîner loin du camp, là où il ne pourra nuire à personne.]]></entry>
 <entry id="camping_skill_name_addinfo_thrall"><![CDATA[Informations supplémentaires]]></entry>
-<entry id="camping_skill_effect_loot_THRALL_BREL_RIPO_STATS_TT"><![CDATA[PRÉ de base : 75 / Mod. de DGT : -50% / Mod. de CRIT : -2%]]></entry>
+<entry id="camping_skill_effect_loot_THRALL_BREL_RIPO_STATS_TT"><![CDATA[PRÉ de base : 75 / Mod. de DGT : -60% / Mod. de CRIT : 4%]]></entry>
 <entry id="camping_skill_effect_loot_THRALL_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Bonus sur soi{colour_end} : DGT +20%]]></entry>
 <entry id="camping_skill_effect_loot_THRALL_PASSIVE_STRESS"><![CDATA[En combat : Dégâts subis : {colour_start|stress}Stress{colour_end} +3]]></entry>
 <entry id="camping_skill_effect_loot_THRALL_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Fureur (100ʪ){colour_end}

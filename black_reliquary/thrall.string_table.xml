@@ -327,7 +327,7 @@
 	
 	<entry id="camping_skill_name_addinfo_thrall"><![CDATA[Additional Information]]></entry>
 	
-	<entry id="camping_skill_effect_loot_THRALL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -50% / CRIT mod: -2%]]></entry>
+	<entry id="camping_skill_effect_loot_THRALL_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 75 / DMG mod: -60% / CRIT mod: +4%]]></entry>
 	
 	<entry id="camping_skill_effect_loot_THRALL_BREL_CRIT_TT"><![CDATA[{colour_start|buff}Buff Self:{colour_end} +20% DMG]]></entry>
 	<entry id="camping_skill_effect_loot_THRALL_PASSIVE_STRESS"><![CDATA[While In Combat: On Taking Damage: +3 {colour_start|stress}Stress{colour_end}]]></entry>
