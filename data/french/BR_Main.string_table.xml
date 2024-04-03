@@ -1,6 +1,6 @@
-<entry id="str_preamble_0"><![CDATA[Black Reliquary sera une aventure radicalement différente. Abandonnez ce que vous croyez savoir. La plupart des mécaniques ont été modifiées, et certains héros ont bénéficié de changements majeurs. Ce qui n'a pas changé, c'est que lorsque vos héros meurent, ils restent morts.]]></entry>
-<entry id="str_preamble_1"><![CDATA[Les défis auxquels vous serez confrontés vous demanderont beaucoup d'efforts. Votre capacité d'adaptation sera mise à l'épreuve. Vous ne connaîtrez que peu de pitié, mais vos victoires n'en seront que plus méritées.]]></entry>
-<entry id="str_preamble_2"><![CDATA[Des visages familiers et de nouvelles têtes se mêleront à votre campagne de bravoure, de fortune et de rédemption contre les ténèbres naissantes du...]]></entry>
+<entry id="str_preamble_0"><![CDATA[Black Reliquary sera une aventure radicalement différente. Abandonnez ce que vous croyez savoir. La plupart des mécaniques ont été lourdement modifiées. Ce qui n'a pas changé, c'est la mortalité de vos héros.]]></entry>
+<entry id="str_preamble_1"><![CDATA[Votre capacité d'adaptation sera mise à l'épreuve. Vous ne connaîtrez que peu de pitié, mais vos victoires n'en seront que plus méritées.]]></entry>
+<entry id="str_preamble_2"><![CDATA[Des visages familiers et de nouvelles têtes se mêleront à votre campagne contre les ténèbres naissantes du...]]></entry>
 <entry id="str_open_store_1117860"><![CDATA[Rejoignez-nous sur Discord et suivez-nous sur Twitter !
 Malheureusement, nous ne pouvons pas ajouter de lien vers nos réseaux sociaux.]]></entry>
 <entry id="str_open_store_ans_no"><![CDATA[Ok]]></entry>
@@ -11,7 +11,7 @@ Black Reliquary ne collecte pas vos données.]]></entry>
 <entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer]]></entry>
 <entry id="str_save_post_click"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="fe_flow_mode_base_confirm"><![CDATA[Reliquaire]]></entry>
-<entry id="str_game_mode_select_base_tooltip"><![CDATA[La campagne reliquaire représente les paramètres "originaux" du jeu. Si vous connaissez déjà Darkest Dungeon, vos compétences seront mises à l'épreuve.]]></entry>
+<entry id="str_game_mode_select_base_tooltip"><![CDATA[La campagne reliquaire représente les paramètres "originaux" du jeu. La difficulté est similaire à celle de Lune de sang, mais sans limite de temps ou de morts.]]></entry>
 <entry id="str_mods_installed"><![CDATA[Mods installés]]></entry>
 <entry id="str_ugc_show_panel_tooltip"><![CDATA[Activer / Voir les mods]]></entry>
 <entry id="str_ugc_sub_title"><![CDATA[Faites glisser les mods pour établir l'ordre de priorité.
@@ -49,7 +49,7 @@ Torche : ( 0 )]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOON_TORCH_STEALTH_TT"><![CDATA[Certains ennemis auront {colour_start|stealth}furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUN_TORCH_AMBUSH_TT"><![CDATA[Embuscade impossible]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_SHARED_TORCH_EFFECTS_TT"><![CDATA[{colour_start|neutral}Effet de torche :{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +5{colour_end} {colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TORCH_SUN_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}PRÉ +4{colour_end} {colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_MOON_TORCH_EFFECTS_TT"><![CDATA[{colour_start|buff}Bonus sur cible{colour_end} : {colour_start|notable}Ignore la {colour_end}{colour_start|stealth}furtivité{colour_end} {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TORCH_ECLIPSE_TORCH_EFFECTS_TT"><![CDATA[{colour_start|notable}Soigne {colour_end}{colour_start|bleed}saignement{colour_end}{colour_start|notable}
 {colour_end}{colour_start|stress}Stress{colour_end} {colour_start|harmful}+4{colour_end}]]></entry>
@@ -94,7 +94,7 @@ Torche :]]></entry>
 {colour_start|stress}Stress{colour_end} -5{colour_end}]]></entry>
 <entry id="dungeon_name_cove"><![CDATA[Intérieur exposé]]></entry>
 <entry id="dungeon_name_crypts"><![CDATA[Nécropole]]></entry>
-<entry id="dungeon_name_darkestdungeon"><![CDATA[]]></entry>
+<entry id="dungeon_name_darkestdungeon"><![CDATA[Reliquaire noir]]></entry>
 <entry id="dungeon_name_town"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="dungeon_name_tutorial"><![CDATA[]]></entry>
 <entry id="dungeon_name_warrens"><![CDATA[Cavernes]]></entry>
@@ -105,6 +105,7 @@ Torche :]]></entry>
 <entry id="str_embarked_on_cleanse_cata_crypts"><![CDATA[TODO:{?hero_names}%s embarked to slay evil in the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_cleanse_cave_warrens"><![CDATA[TODO:{?hero_names}%s embarked to slay evil in the Caverns. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_activate_trea_weald"><![CDATA[TODO:{?hero_names}%s plundered the riches of the Treasury. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_embarked_on_cleanse_BR_darkestdungeon"><![CDATA[TODO:{?hero_names}%s embarked to test content in the Black Reliquary. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_explore_sun_cove"><![CDATA[TODO:{?hero_names}%s set forth to explore the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_explore_moon_cove"><![CDATA[TODO:{?hero_names}%s set forth to explore the Exposed Interior. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_embarked_on_explore_cata_crypts"><![CDATA[TODO:{?hero_names}%s set forth to explore the Catacombs. ({?difficulty}%s {?length}%s)]]></entry>
@@ -161,6 +162,7 @@ Torche :]]></entry>
 <entry id="town_quest_name_activate_trea+1+weald+activate_trea"><![CDATA[Saisie]]></entry>
 <entry id="town_quest_name_activate_trea+2+weald+activate_trea"><![CDATA[Incinération]]></entry>
 <entry id="town_quest_name_activate_trea+3+weald+activate_trea"><![CDATA[Pillage]]></entry>
+<entry id="town_quest_name_cleanse_BR+1+darkestdungeon+battle_BR"><![CDATA[Test]]></entry>
 <entry id="town_quest_description_explore_sun+1+cove+explore_sun"><![CDATA[Ces ruines Kvarotz sont noyées dans les sables. Identifiez ce qui est navigable.]]></entry>
 <entry id="town_quest_description_explore_sun+2+cove+explore_sun"><![CDATA[Fouillez ces ruines dans le sable et rapportez tout ce qui pourrait nous être utile.]]></entry>
 <entry id="town_quest_description_explore_sun+3+cove+explore_sun"><![CDATA[Les vestiges des édifices Kvarotz abritent certainement des informations qui pourraient nous servir.]]></entry>
@@ -191,6 +193,7 @@ Torche :]]></entry>
 <entry id="town_quest_description_activate_trea+1+weald+activate_trea"><![CDATA[Il est temps de récolter les fruits de nos efforts cartographiques.]]></entry>
 <entry id="town_quest_description_activate_trea+2+weald+activate_trea"><![CDATA[Nous retournons dans les couloirs de la richesse, afin de collecter ce que nous avons mérité.]]></entry>
 <entry id="town_quest_description_activate_trea+3+weald+activate_trea"><![CDATA[De petits gisements de richesses ont été repérés et cartographiés. Il suffit de s'en emparer.]]></entry>
+<entry id="town_quest_description_cleanse_BR+1+darkestdungeon+battle_BR"><![CDATA[TODO:Test the Black Reliquary Monsters.]]></entry>
 <entry id="str_returned_from_explore_cata_crypts_failure"><![CDATA[{?hero_names}%s n'ont pas pu terminer l'exploration de la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_explore_cata_crypts_success"><![CDATA[{?hero_names}%s ont réussi à explorer la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_explore_sun_cove_failure"><![CDATA[{?hero_names}%s n'ont pas pu terminer l'exploration de l'Intérieur Exposé. ({?difficulty}%s {?length}%s)]]></entry>
@@ -201,6 +204,8 @@ Torche :]]></entry>
 <entry id="str_returned_from_explore_cave_warrens_success"><![CDATA[{?hero_names}%s se sont plongés dans les Cavernes avec succès. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_explore_trea_weald_failure"><![CDATA[{?hero_names}%s n'ont pas réussi à explorer la Trésorerie. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_explore_trea_weald_success"><![CDATA[{?hero_names}%s se sont plongés dans la Trésorerie avec succès. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_cleanse_BR_darkestdungeon_failure"><![CDATA[TODO:{?hero_names}%s failed to brave the Black Reliquary. ({?difficulty}%s {?length}%s)]]></entry>
+<entry id="str_returned_from_cleanse_BR_darkestdungeon_success"><![CDATA[TODO:{?hero_names}%s successfully delved into the Black Reliquary. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_cleanse_cata_crypts_failure"><![CDATA[{?hero_names}%s ont été repoussés par la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_cleanse_cata_crypts_success"><![CDATA[{?hero_names}%s ont dégagé une nouvelle section de la Nécropole. ({?difficulty}%s {?length}%s)]]></entry>
 <entry id="str_returned_from_cleanse_sun_cove_failure"><![CDATA[{?hero_names}%s n'ont pas pu supporter l'Intérieur Exposé. ({?difficulty}%s {?length}%s)]]></entry>
@@ -226,6 +231,7 @@ Torche :]]></entry>
 <entry id="str_map_ac_treasure_tooltip"><![CDATA[Vendeur]]></entry>
 <entry id="str_map_treasure_tooltip"><![CDATA[Vendeur]]></entry>
 <entry id="str_map_ac_hidden_door_tooltip"><![CDATA[Labo du Parfumeur]]></entry>
+<entry id="town_quest_quest_select_darkest_dungeon_confirm"><![CDATA[TODO:If a Black Reliquary quest is abandoned, not all heroes are guaranteed to survive. Someone must sacrifice themselves to hold off the fiends during retreat.]]></entry>
 <entry id="town_quest_name_plot_catacombs_tutorial"><![CDATA[La première expédition]]></entry>
 <entry id="town_quest_description_plot_catacombs_tutorial"><![CDATA[TODO:We venture into the valley for the first time. The catacombs of the Kvarotz are a dangerous place in their own right, but the Levantine have made it their new dig site.]]></entry>
 <entry id="str_returned_from_plot_catacombs_tutorial_failure"><![CDATA[TODO:{?hero_names}%s retreated from our very first endeavor. This does not bode well.]]></entry>
@@ -293,8 +299,8 @@ D'énormes serpents peuvent frapper depuis des endroits inattendus.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les différentes munitions de la Matrone ont des propriétés particulières.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-La Matrone peut faire appel à ses soldats
-pour animer le combat.]]></entry>
+Les caisses de munitions sont indestructibles,
+mais elles sont déplaçables.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les attaques de la Matrone sont variées et peuvent facilement toucher votre équipe.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -342,7 +348,7 @@ Le Chasseur de la Flamme déversera sa puissance de feu, au moment opportun.]]><
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La peau du Dévoreur est bien trop résistante pour être attaquée directement.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Chaque bête, quelle que soit sa taille, a un point faible. Il faut juste le {colour_start|mark}révéler{colour_end}.]]></entry>
+Chaque bête, quelle que soit sa taille, a un point faible.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Vos héros ne seront pas en mesure d'achever le Dévoreur, ils auront besoin d'aide.]]></entry>
 <entry id="str_plot_kill_ygreater_wurm_5_audio_line"><![CDATA[ Léviathan du désert]]></entry>
@@ -427,9 +433,8 @@ Disease kit provision items can be used to remove the symptoms, or lessen the ef
 <entry id="tutorial_popup_antivenom_title"><![CDATA[Symptômes/Maladies]]></entry>
 <entry id="tutorial_popup_supplies_description"><![CDATA[TODO:Your hero is {colour_start|expiated}Expiated{colour_end}!
 
-New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, and {colour_start|enraged}Enraged{colour_end}. 
-{colour_start|amberblighted}Amberblight{colour_end} debuffs target's damage received or dealt based on their last action, {colour_start|expiated}Expiation{colour_end} damages the target on their next three attacks while healing the opposing party on the first one, and {colour_start|enraged}Enrage{colour_end} provides target with health and buffs upon killing their enemies. 
-There are more statuses like that, which are applied by some specific enemy factions. Hover over the status icon on an affected target for more information.]]></entry>
+ New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, {colour_start|leeching}Leeching{colour_end}, {colour_start|frantic}Frantic{colour_end}, and {colour_start|enraged}Enraged{colour_end}.
+ These new statuses are all identifiable by their effect on top of the character, with details shown by hovering over the special icon above the health bar.]]></entry>
 <entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[Nouveaux statuts]]></entry>
 <entry id="tutorial_popup_supplies_title"><![CDATA[Nouveaux statuts]]></entry>
 <entry id="tutorial_popup_camping_description"><![CDATA[TODO:Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
@@ -483,15 +488,18 @@ La {colour_start|notable}clinique{colour_end} pourra vous aider à retirer les {
 This can result in both {colour_start|notable}positive{colour_end} and {colour_start|harmful}negative{colour_end} quirks based on the specific factions that are fought.]]></entry>
 <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[TODO:Heroes can only have {colour_start|notable}4 Camping skills active{colour_end} at a time. Toggle the skills on and off by clicking on them.]]></entry>
 <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[TODO:Remap Camping Skills]]></entry>
-<entry id="tutorial_popup_map_combat_skills_description"><![CDATA[TODO:Most abilities on heroes have seen some adjustments made to their stats and designs. Some of these changes are minute, and some are significant. Several abilities have also been replaced entirely. 
-Area of Effect abilities now have a {colour_start|notable}Negative Crit Multiplier{colour_end}:
-2 Target AoEs: -40% CRT
-3 Target AoEs: -60% CRT
-4 Target AoEs: -70% CRT]]></entry>
+<entry id="tutorial_popup_map_combat_skills_description"><![CDATA[TODO:Most abilities on heroes have seen some adjustments made to their stats and designs. Some of these changes are minute, and some are significant. Several abilities have also been replaced entirely.
+
+	Area of Effect abilities and ripostes now have a {colour_start|notable}Negative Crit Multiplier{colour_end}:
+	2 Target AoEs: -40% CRT
+	3 Target AoEs: -60% CRT
+	4 Target AoEs: -70% CRT
+	Ripostes: -50% CRT]]></entry>
 <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Nouvelles compétences et CRIT]]></entry>
 <entry id="tutorial_popup_map_nav_description"><![CDATA[TODO:Your heroes all carry different beliefs in their hearts.
-Some are devout to the {colour_start|affiliation_religious}Light{colour_end}, some worship the {colour_start|affiliation_pagan}pagan{colour_end} deities, and some {colour_start|affiliation_faithless}reject the gods entirely{colour_end}. 
-Each type of affiliation has different advantages and disadvantages in combat, and while some heroes cannot fall into certain faiths, they can only be one of the three.]]></entry>
+ Some are devout to the {colour_start|affiliation_religious}Light{colour_end}, some worship the {colour_start|affiliation_pagan}pagan{colour_end} deities, and some {colour_start|affiliation_faithless}reject the gods entirely{colour_end}.
+ Each type of affiliation has different advantages and disadvantages in combat, and while some heroes cannot fall into certain faiths, they can only be one of the three.
+ A hero's Affiliation is on a per-character basis, not based upon their class.]]></entry>
 <entry id="tutorial_popup_map_nav_title"><![CDATA[Affiliations]]></entry>
 <entry id="tutorial_popup_new_game_plus_description"><![CDATA[TODO:Some of the items you find will have special "Oddity" frame. This means that the item can be carried back to Flameseeker and used during one of your future expeditions, if you wish for item to be used on a different hero.]]></entry>
 <entry id="tutorial_popup_new_game_plus_title"><![CDATA[TODO:Oddities of the Reliquary]]></entry>
@@ -528,7 +536,7 @@ Heroes can relieve {colour_start|stressNOT1}stress{colour_end} by taking part in
 Or they can produce and interact with {colour_start|BR_heirloom}Refined Amber Dust{colour_end} in the {colour_start|notable}Amber Workshop{colour_end}.
 Both the {colour_start|notable}Amber Refinery{colour_end} and {colour_start|notable}Tek Exchange{colour_end} in the {colour_start|notable}Amber Workshop{colour_end} heal a very small amount of stress and {colour_start|notable}do not remove afflictions{colour_end}.
 Committing a hero to an activity {colour_start|notable}locks them in that activity{colour_end} until the {colour_start|notable}next Week{colour_end}. You'll have to take a different hero with you on your next quest.]]></entry>
-<entry id="tutorial_popup_stress_relief_title"><![CDATA[Réduction de stress]]></entry>
+<entry id="tutorial_popup_stress_relief_title"><![CDATA[TODO:Overhauled Activities]]></entry>
 <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
 <entry id="tutorial_popup_torch_description"><![CDATA[TODO:The {colour_start|notable}light{colour_end} is fading! The current {colour_start|notable}torch level affects which enemies you may run into{colour_end}. The darker it gets, the more likely it is to run into challenging enemies which offer up greater rewards for defeating. {colour_start|town_activity_log_positive_result}[RIGHT-CLICK]{colour_end} on a torch from inventory to boost the light back up.
 Likewise, certain enemies will also only appear in bright light, although they do not give more loot.]]></entry>
@@ -544,11 +552,11 @@ This elevated state of performance will last until they suffer a large amount of
 Please note that this interaction only works if the trinket is dragged from the player's provision inventory. If the trinket is equipped, you must put it there before interacting.
 (Trinket interactions may appear invalid, but they still function as normal)]]></entry>
 <entry id="tutorial_popup_contagion_title"><![CDATA[Breloques du Parfumeur]]></entry>
-<entry id="tutorial_popup_bandage_description"><![CDATA[TODO:Enemy surprise has been adjusted. It is now a fixed 15% chance. In addition to delaying enemy actions, it now applies a 1 tr {colour_start|move}Stumble{colour_end}, and reduces enemy accuracy by another 50% . 
+<entry id="tutorial_popup_bandage_description"><![CDATA[Enemy surprise has been adjusted. There is now a fixed 15% chance for enemies to be surprised.
 
-{colour_start|notable}This makes moves that would normally perform during the Prep Round have a 50% less chance of hitting, while other moves have their accuracy reduced to the 5% hit minimum.{colour_end}
+ {colour_start|notable}In addition to delaying enemy actions, it now applies a 1 tn {colour_start|move}Stumble{colour_end}, and reduces enemy accuracy by an additional 45ʪ.{colour_end}
 
-Certain enemy factions, specifically those found in low light are immune to being surprised.]]></entry>
+ Certain enemy factions, specifically those found in low light are immune to being surprised.]]></entry>
 <entry id="tutorial_popup_bandage_title"><![CDATA[Surprise]]></entry>
 <entry id="tutorial_popup_crimson_curse_blood_lust_description"><![CDATA[TODO:{colour_start|cursed_gem}Malignant Vestiges{colour_end} are a unique type of loot dropped mostly from Cactonid enemies. These exceedingly valuable treasures bring various penalties while in your inventory, so consider the effects carefully! 
 These effects do not stack. Each vestige downside is only applied once while in your inventory.
@@ -616,15 +624,19 @@ Stamping out these pests as quickly as possible can keep the fight under control
 {colour_start|white}ʇ{colour_end} - Cure {colour_start|debuff}Debuff{colour_end}
 {colour_start|white}ʈ{colour_end} - Cure {colour_start|mark}Mark{colour_end}
 {colour_start|white}ʉ{colour_end} - Cure {colour_start|stun}Stun{colour_end}
+{colour_start|white}̥{colour_end} - Cure {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}
 {colour_start|white}ʊ{colour_end} - {colour_start|stealth}Sortie de furtivité{colour_end}
 {colour_start|white}ɷ{colour_end} - Bonus DMG vs {colour_start|mark}Marked{colour_end}
 {colour_start|white}ɸ{colour_end} - Bonus DMG vs {colour_start|bleed}Bleeding{colour_end}
 {colour_start|white}ɹ{colour_end} - Bonus DMG vs {colour_start|blight}Blighted{colour_end}
+{colour_start|white}̦{colour_end} - Bonus DMG vs {colour_start|stun}Stunned{colour_end}
 {colour_start|white}ɺ{colour_end} - Bonus DMG vs {colour_start|amberblighted}Amberblighted{colour_end}
 {colour_start|white}ɻ{colour_end} - Bonus DMG vs {colour_start|expiated}Expiated{colour_end}
+{colour_start|white}̤{colour_end} - Bonus {colour_start|stress}Stress{colour_end} vs {colour_start|amberblighted}Amberblighted{colour_end}
+{colour_start|white}̣{colour_end} - Rank Marked
 {colour_start|white}ʌ{colour_end} - Rank Marked by Enchantress
 {colour_start|white}ʍ{colour_end} - Target is subjected to Janissary's Duel
-{colour_start|white}ʸ{colour_end} - Target is branded as the Steelpath's {colour_start|prey}Prey{colour_end} 
+{colour_start|white}ʸ{colour_end} - Target is branded as the Steelpath's {colour_start|prey}Prey{colour_end}
 {colour_start|white}ʶ{colour_end} - Rank Marked by Alraune
 {colour_start|white}ʺ{colour_end} - Target is Captured and Removed from Party
 {colour_start|white}̢{colour_end} - Rank Marked by The Flayed
@@ -819,7 +831,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_definition_1026"><![CDATA[TODO:Exposed Interior quests which subject heroes and enemies to the "Debilitating Daylight" torch effects, and are always set to 100 torchlight. 
 {colour_start|skill_unselectable}Hero Effects: -8 DODGE, -4 SPD, Can't be Ambushed
 Monster Effects: -4 DODGE
-Torch Effects: Buff Hero Party: +5 ACC (1 Battle){colour_end}]]></entry>
+Torch Effects: Buff Hero Party: +4 ACC (1 Battle){colour_end}]]></entry>
 <entry id="str_glossary_term_1027"><![CDATA[TODO:Night Quest]]></entry>
 <entry id="str_glossary_term_definition_1027"><![CDATA[TODO:Exposed Interior quests which subject heroes and enemies to the "Mantling Moonlight" torch effects, and are always set to 0 torchlight.
 {colour_start|skill_unselectable}Hero Effects: +3% CRT, +15% Stress Received
@@ -839,12 +851,12 @@ Torch Effects: Buff Hero: Ignore Furtivité (1 tr){colour_end}]]></entry>
 <entry id="str_glossary_term_definition_1037"><![CDATA[TODO:When a Leeched hero performs a friendly skill, they blight themselves and apply restoration to the enemy party.]]></entry>
 <entry id="str_glossary_term_2002"><![CDATA[Restauration]]></entry>
 <entry id="str_glossary_term_definition_2002"><![CDATA[TODO:An effect that restores health at the beginning of a hero's turn.]]></entry>
-<entry id="str_glossary_term_1030"><![CDATA[TODO:Extracts]]></entry>
-<entry id="str_glossary_term_definition_1030"><![CDATA[TODO:Items obtained using Perfumer's Needle, which can be used to debuff the enemy party. Type of Extract found depends on the Region you're in:
-Catacombs - Decrepit Extract - Debuffs PROT and Crit Received
+<entry id="str_glossary_term_1030"><![CDATA[Essences]]></entry>
+<entry id="str_glossary_term_definition_1030"><![CDATA[TODO:Items obtained using Perfumer's Needle, which can be used to apply effects to the enemy party. Type of Extract found depends on the Region you're in:
+{colour_start|skill_unselectable}Catacombs - Decrepit Extract - Debuffs PROT and Crit Received
 Exposed Interior - Rabid Extract - Debuffs ACC and CRT
 Caverns - Ancient Extract - Debuffs status chance
-Treasury - Living Extract - Debuffs Healing Received and Blight Resistance]]></entry>
+Treasury - Living Extract - Debuffs Healing Received and Blight Resistance{colour_end}]]></entry>
 <entry id="str_glossary_term_1031"><![CDATA[Fièvre goule]]></entry>
 <entry id="str_glossary_term_definition_1031"><![CDATA[TODO:Symptom which can be contracted via the Sérum nécrologique. If not treated, evolves into Peste goule. This disease prevents hero from getting any other diseases.]]></entry>
 <entry id="str_glossary_term_1032"><![CDATA[Peste goule]]></entry>
@@ -864,6 +876,9 @@ Torch Effects: Target: Cure Bleed, +4 Stress{colour_end}]]></entry>
 <entry id="str_glossary_term_definition_1041"><![CDATA[Une sangsue spéciale qui peut être utilisée pour retirer la foi d'un individu, le rendant athée.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Certains aspects du "Chasseur de la Flamme" pourront changer au cours du développement de Black Reliquary.]]></entry>
+<entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
+Les boss seront impitoyables.
+Préparez-vous le mieux possible !]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Black Reliquary est en cours de développement.]]></entry>
 <entry id="str_town_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -1016,11 +1031,13 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_inventory_title_heirloomdeed"><![CDATA[{colour_start|BR_heirloom}Ambre{colour_end}]]></entry>
 <entry id="str_inventory_title_heirloomportrait"><![CDATA[{colour_start|BR_heirloom}Bijoux{colour_end}]]></entry>
 <entry id="str_inventory_title_shard"><![CDATA[{colour_start|BR_heirloom}Poussière d'ambre{colour_end}]]></entry>
+<entry id="str_inventory_title_heirloomtwilight_neuron"><![CDATA[TODO:{colour_start|affiliation_religious}Ascended Neuron{colour_end}]]></entry>
 <entry id="str_inventory_description_heirloombust"><![CDATA[La monnaie de l'empire Kvarotz, composée d'électrum.]]></entry>
 <entry id="str_inventory_description_heirloomcrest"><![CDATA[Un symbole de force et de respect parmi les sauvages.]]></entry>
 <entry id="str_inventory_description_heirloomdeed"><![CDATA[Une substance mystique qui proviens du Reliquaire.]]></entry>
 <entry id="str_inventory_description_heirloomportrait"><![CDATA[Ce magnifique bijou a quelque chose d'étrange...]]></entry>
 <entry id="str_inventory_description_shard"><![CDATA[Soigneusement extrait et réduit en une fine poudre, ce produit de luxe vaut son pesant d'or...]]></entry>
+<entry id="str_inventory_description_heirloomtwilight_neuron"><![CDATA[TODO:Placeholder description, but do try and guess...]]></entry>
 <entry id="town_name_heirloom_exchange"><![CDATA[Échange de reliques]]></entry>
 <entry id="town_estate_bar_tooltip_bust"><![CDATA[Matakh : %d (sert à améliorer le navire.)]]></entry>
 <entry id="town_estate_bar_tooltip_crest"><![CDATA[Trophée : %d (sert à améliorer le navire.)]]></entry>
@@ -1055,7 +1072,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_levantine_supplies_tutorial2_skeleton_key_loot"><![CDATA[Un coffret secret est ouvert !]]></entry>
 <entry id="str_curio_levantine_supplies_tutorial2_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_tablet_tutorial"><![CDATA[Tablette primitive]]></entry>
-<entry id="str_curio_content_kvarotz_tablet_tutorial"><![CDATA[Une dalle de pierre contenant des connaissances obscures Kvarotz.]]></entry>
+<entry id="str_curio_content_kvarotz_tablet_tutorial"><![CDATA[Une dalle de pierre contenant des informations sur les alentours.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_tablet_tutorial"><![CDATA[Étudier les textes...]]></entry>
 <entry id="str_curio_kvarotz_tablet_tutorial_effect"><![CDATA[La tablette révèle des informations sur ces lieux !]]></entry>
 <entry id="str_curio_kvarotz_tablet_tutorial_shovel_effect"><![CDATA[La tablette explose violemment sur son agresseur !]]></entry>
@@ -1071,7 +1088,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_kvarotz_vase_archaeologist_compendium_loot"><![CDATA[TODO:The vase has Daric embedded onto its base!]]></entry>
 <entry id="str_curio_kvarotz_vase_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_tablet"><![CDATA[Tablette primitive]]></entry>
-<entry id="str_curio_content_kvarotz_tablet"><![CDATA[Une dalle de pierre contenant des connaissances obscures Kvarotz.]]></entry>
+<entry id="str_curio_content_kvarotz_tablet"><![CDATA[Une dalle de pierre contenant des informations sur les alentours.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_tablet"><![CDATA[Étudier les textes...]]></entry>
 <entry id="str_curio_kvarotz_tablet_nothing"><![CDATA[Les inscriptions sont incompréhensibles.]]></entry>
 <entry id="str_curio_kvarotz_tablet_scout"><![CDATA[La dalle est une carte !]]></entry>
@@ -1110,7 +1127,7 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_kvarotz_cannon_effect"><![CDATA[La poudre à canon est récupérée.]]></entry>
 <entry id="str_curio_kvarotz_cannon_disease"><![CDATA[Le héros se blesse la main sur l'électrum rouillé.]]></entry>
 <entry id="str_curio_kvarotz_cannon_honing_oil_effect"><![CDATA[L'électrum du canon réagit étrangement...]]></entry>
-<entry id="str_curio_kvarotz_cannon_arch_kit_loot"><![CDATA[Le canon est recouvert de pierres précieuses !]]></entry>
+<entry id="str_curio_kvarotz_cannon_arch_kit_loot"><![CDATA[Le canon est décoré de trésors !]]></entry>
 <entry id="str_curio_kvarotz_cannon_torch_summon"><![CDATA[Le coup de canon attire l'attention !]]></entry>
 <entry id="str_curio_kvarotz_cannon_archaeologist_compendium_loot"><![CDATA[Un compartiment secret est révélé !]]></entry>
 <entry id="str_curio_kvarotz_cannon_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
@@ -1119,12 +1136,12 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_tooltip_investigate_kvarotz_sarcophagus"><![CDATA[Un coup d'œil ne ferait pas de mal...]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_loot"><![CDATA[TODO:This one was laid to rest with riches!]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_effect"><![CDATA[TODO:Unspeakable things must have been done to this person...]]></entry>
-<entry id="str_curio_kvarotz_sarcophagus_medicinal_herbs_effect"><![CDATA[TODO:The salt is corrupted and erupts into black smoke.]]></entry>
+<entry id="str_curio_kvarotz_sarcophagus_torch_effect"><![CDATA[TODO:The smoke from the burnt mummy is vile!]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_shovel_loot"><![CDATA[TODO:The gemstones on it are pried off...]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_arch_kit_loot"><![CDATA[Cette tombe est incrustée de pierres précieuses !]]></entry>
-<entry id="str_curio_kvarotz_sarcophagus_holy_water_effect"><![CDATA[TODO:The protective alum allows for an investigation.]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_archaeologist_compendium_loot"><![CDATA[TODO:A hidden cache in the sarcophagus is revealed!]]></entry>
 <entry id="str_curio_kvarotz_sarcophagus_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_kvarotz_sarcophagus_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_kvarotz_mummy"><![CDATA[Cercueil sculpté]]></entry>
 <entry id="str_curio_content_kvarotz_mummy"><![CDATA[Un cercueil pour un membre de la haute société Kvarotz.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_mummy"><![CDATA[Un peu de pillage n'a jamais fait de mal à personne...]]></entry>
@@ -1132,10 +1149,11 @@ les torches permettent temporairement d'ignorer la {colour_start|stealth}furtivi
 <entry id="str_curio_kvarotz_mummy_effect"><![CDATA[L'occupant semble avoir été momifié vivant !]]></entry>
 <entry id="str_curio_kvarotz_mummy_disease"><![CDATA[Des vapeurs ignobles se dégagent du corps.]]></entry>
 <entry id="str_curio_kvarotz_mummy_nothing"><![CDATA[Rien qu'un cadavre...]]></entry>
-<entry id="str_curio_kvarotz_mummy_shovel_loot"><![CDATA[Le cercueil est ouvert efficacement.]]></entry>
+<entry id="str_curio_kvarotz_mummy_arch_kit_loot"><![CDATA[TODO:Treasure was stuffed inside the victim!]]></entry>
 <entry id="str_curio_kvarotz_mummy_bandage_loot"><![CDATA[Les bandages protègent contre les instruments de torture !]]></entry>
 <entry id="str_curio_kvarotz_mummy_archaeologist_compendium_loot"><![CDATA[Une petite boîte était cachée dans la momie !]]></entry>
 <entry id="str_curio_kvarotz_mummy_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_kvarotz_mummy_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_levantine_supplies"><![CDATA[Matériel levantin]]></entry>
 <entry id="str_curio_content_levantine_supplies"><![CDATA[Quelques équipements levantins abandonnés.]]></entry>
 <entry id="str_curio_tooltip_investigate_levantine_supplies"><![CDATA[Cela pourrait s'avérer utile...]]></entry>
@@ -1225,6 +1243,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_cactonid_antivenom_loot"><![CDATA[L'antidote protège contre sa toxicité.]]></entry>
 <entry id="str_curio_corpse_cactonid_disease_kit_loot"><![CDATA[Le héros est protégé contre cette boue immonde.]]></entry>
 <entry id="str_curio_corpse_cactonid_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_corpse_cactonid_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_corpse_legion"><![CDATA[Têtes de la Légion]]></entry>
 <entry id="str_curio_content_corpse_legion"><![CDATA[Les têtes coupées de la Légion sont exposées de manière terrifiante.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_legion"><![CDATA[Qu'est-ce qui pourrait se cacher derrière ?]]></entry>
@@ -1236,6 +1255,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_legion_medicinal_herbs_effect"><![CDATA[Les restes sanctifiés procurent un sentiment de bien-être.]]></entry>
 <entry id="str_curio_corpse_legion_laudanum_purge"><![CDATA[Le héros affronte ses peurs avec courage.]]></entry>
 <entry id="str_curio_corpse_legion_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_corpse_legion_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_corpse_levantine"><![CDATA[Cadavre levantin]]></entry>
 <entry id="str_curio_content_corpse_levantine"><![CDATA[Ce soldat a été victime d'une cruauté sans nom.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_levantine"><![CDATA[Il doit bien rester quelque chose...]]></entry>
@@ -1248,6 +1268,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_levantine_bandage_loot"><![CDATA[Du métal brille parmi la chair !]]></entry>
 <entry id="str_curio_corpse_levantine_disease_kit_loot"><![CDATA[Le héros est protégé contre cette chair desséchée.]]></entry>
 <entry id="str_curio_corpse_levantine_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_corpse_levantine_book_of_constitution_loot"><![CDATA[The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_corpse_sandwurm"><![CDATA[Cadavre de ver]]></entry>
 <entry id="str_curio_content_corpse_sandwurm"><![CDATA[Ce ver est désormais un trophée des sauvages.]]></entry>
 <entry id="str_curio_tooltip_investigate_corpse_sandwurm"><![CDATA[Quelque chose se trouve à l'intérieur ?]]></entry>
@@ -1261,15 +1282,18 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_corpse_sandwurm_disease_kit_loot"><![CDATA[Le héros est protégé contre ces entrailles infectes.]]></entry>
 <entry id="str_curio_corpse_sandwurm_amber_extraction_kit_loot"><![CDATA[L'ambre est retiré avec précaution de son gosier.]]></entry>
 <entry id="str_curio_corpse_sandwurm_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_corpse_sandwurm_book_of_constitution_loot"><![CDATA[The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_elephant_skull"><![CDATA[Crâne colossal]]></entry>
 <entry id="str_curio_content_elephant_skull"><![CDATA[Une étrange aura se dégage de ce crâne.]]></entry>
 <entry id="str_curio_tooltip_investigate_elephant_skull"><![CDATA[Examiner les os...]]></entry>
 <entry id="str_curio_elephant_skull_nothing"><![CDATA[Rien de plus que des ossements.]]></entry>
+<entry id="str_curio_elephant_skull_loot"><![CDATA[TODO:An armlet is hidden inside the skull!]]></entry>
 <entry id="str_curio_elephant_skull_effect"><![CDATA[Le crâne vous offre une vision.]]></entry>
 <entry id="str_curio_elephant_skull_holy_water_effect"><![CDATA[Le rituel éveille quelque chose chez le héros.]]></entry>
 <entry id="str_curio_elephant_skull_shovel_loot"><![CDATA[Le crâne dissimule des trésors !]]></entry>
 <entry id="str_curio_elephant_skull_arch_kit_effect"><![CDATA[D'horribles vérités sont révélées sur son origine.]]></entry>
 <entry id="str_curio_elephant_skull_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_elephant_skull_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_steelpath_cache"><![CDATA[Cache d'armes]]></entry>
 <entry id="str_curio_content_steelpath_cache"><![CDATA[Un assortiment d'armes et d'outils. ]]></entry>
 <entry id="str_curio_tooltip_investigate_steelpath_cache"><![CDATA[Fouiller parmi les lames...]]></entry>
@@ -1280,7 +1304,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_steelpath_cache_honing_oil_effect"><![CDATA[Cette arme est aiguisée comme un rasoir.]]></entry>
 <entry id="str_curio_steelpath_cache_laudanum_effect"><![CDATA[Ce moment de réflexion apporte un sentiment de confiance.]]></entry>
 <entry id="str_curio_steelpath_cache_arch_kit_effect"><![CDATA[Des dépouilles reposent juste sous le sable.]]></entry>
-<entry id="str_curio_steelpath_cache_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_steelpath_cache_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_silent_pantheon"><![CDATA[Panthéon silencieux]]></entry>
 <entry id="str_curio_content_silent_pantheon"><![CDATA[Effigies païennes fabriquées à partir de ferraille Kvarotz.]]></entry>
 <entry id="str_curio_tooltip_investigate_silent_pantheon"><![CDATA[Que nous réservent ces statues ?]]></entry>
@@ -1296,7 +1320,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_silent_pantheon_honing_oil_effect"><![CDATA[L'offrande est réciproque.]]></entry>
 <entry id="str_curio_silent_pantheon_laudanum_effect"><![CDATA[Une hallucination violente vous révèle les dieux.]]></entry>
 <entry id="str_curio_silent_pantheon_firewood_effect"><![CDATA[Les Anciens esprits veilleront sur vous.]]></entry>
-<entry id="str_curio_silent_pantheon_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_silent_pantheon_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_virile_brew"><![CDATA[Chaudron géant]]></entry>
 <entry id="str_curio_content_virile_brew"><![CDATA[Le récipient contient un breuvage.]]></entry>
 <entry id="str_curio_tooltip_investigate_virile_brew"><![CDATA[Mettre la main dedans ?]]></entry>
@@ -1307,7 +1331,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_virile_brew_torch_effect"><![CDATA[Le contenu est brûlé et dégage une odeur nauséabonde..]]></entry>
 <entry id="str_curio_virile_brew_antivenom_loot"><![CDATA[La soupe est débarrassée de ses toxines.]]></entry>
 <entry id="str_curio_virile_brew_disease_kit_effect"><![CDATA[Avec quelques épices, c'est un véritable délice.]]></entry>
-<entry id="str_curio_virile_brew_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_virile_brew_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_warhawk_tribute"><![CDATA[Sacrifice sauvage]]></entry>
 <entry id="str_curio_content_warhawk_tribute"><![CDATA[Un sacrifice d'une grande brutalité, fait en l'honneur de la matrone.]]></entry>
 <entry id="str_curio_tooltip_investigate_warhawk_tribute"><![CDATA[Inspecter le corps de cet homme...]]></entry>
@@ -1318,7 +1342,8 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_warhawk_tribute_holy_water_effect"><![CDATA[L'alun réveille une entité maléfique.]]></entry>
 <entry id="str_curio_warhawk_tribute_bandage_loot"><![CDATA[Des mains protégées fouillent l'autel dentelé.]]></entry>
 <entry id="str_curio_warhawk_tribute_disease_kit_loot"><![CDATA[Le héros est protégé contre cette chair sanguinolente.]]></entry>
-<entry id="str_curio_warhawk_tribute_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_warhawk_tribute_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_warhawk_tribute_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_pillory"><![CDATA[Prisonnier abandonné]]></entry>
 <entry id="str_curio_content_pillory"><![CDATA[Cet homme a été laissé à l'abandon.]]></entry>
 <entry id="str_curio_tooltip_investigate_pillory"><![CDATA[Peut-il être aidé ?]]></entry>
@@ -1327,18 +1352,18 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_pillory_torch_effect"><![CDATA[La victime est brûlée vive.]]></entry>
 <entry id="str_curio_pillory_skeleton_key_effect"><![CDATA[Les chaînes sont enlevées, l'homme est libéré.]]></entry>
 <entry id="str_curio_pillory_shovel_summon_pillory_watch"><![CDATA[Le bruit des chaînes brisées attire l'attention !]]></entry>
-<entry id="str_curio_pillory_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_pillory_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_arch_vendor"><![CDATA[Archéologue étranger]]></entry>
 <entry id="str_curio_content_arch_vendor"><![CDATA[VENDEUR : L'archéologue souhaiterait inspecter l'une de vos reliques.]]></entry>
 <entry id="str_curio_arch_vendor_bust_loot"><![CDATA["Imaginez rendre la monnaie avec ça..."]]></entry>
 <entry id="str_curio_arch_vendor_portrait_loot"><![CDATA["Un matériau aussi fascinant qu'exotique."]]></entry>
 <entry id="str_curio_arch_vendor_deed_loot"><![CDATA["Attention avec ça. Ces choses sont bien plus complexes qu'il n'y paraît."]]></entry>
 <entry id="str_curio_arch_vendor_crest_loot"><![CDATA["Un aperçu plus détaillé de leurs coutumes !"]]></entry>
-<entry id="str_curio_arch_vendor_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_arch_vendor_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_thrall_vendor"><![CDATA[Esclave sauvage]]></entry>
 <entry id="str_curio_content_thrall_vendor"><![CDATA[VENDEUR : Le verrou a besoin d'une trophée pour être ouvert...]]></entry>
 <entry id="str_curio_thrall_vendor_crest_loot"><![CDATA[L'homme est libéré de ses chaînes !]]></entry>
-<entry id="str_curio_thrall_vendor_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_thrall_vendor_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_perfumer_interior"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_interior"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_interior"><![CDATA[TODO:Discover his learnings of the Wildlanders.]]></entry>
@@ -1355,7 +1380,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_interior_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_perfumer_interior_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_perfumer_interior_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_perfumer_catacombs"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_catacombs"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_catacombs"><![CDATA[TODO:Request that he share his findings of the Kvarotz.]]></entry>
@@ -1372,7 +1397,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_catacombs_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_perfumer_catacombs_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_perfumer_catacombs_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_perfumer_caverns"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_caverns"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_caverns"><![CDATA[TODO:Inquire as to his studies of the Troglodytes.]]></entry>
@@ -1389,7 +1414,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_caverns_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_perfumer_caverns_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_perfumer_caverns_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_perfumer_treasury"><![CDATA[Le Parfumeur]]></entry>
 <entry id="str_curio_content_perfumer_treasury"><![CDATA[TODO:This alchemist is offering a trinket which he claims can be evolved at a later time.]]></entry>
 <entry id="str_curio_tooltip_investigate_perfumer_treasury"><![CDATA[TODO:Assimilate his understandings of the Cactonids.]]></entry>
@@ -1406,7 +1431,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_perfumer_treasury_trea_cact_lvl0_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_treasury_trea_cact_lvl1_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
 <entry id="str_curio_perfumer_treasury_trea_cact_lvl2_loot"><![CDATA[TODO:The scholar upgrades your trinket!]]></entry>
-<entry id="str_curio_perfumer_treasury_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_perfumer_treasury_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_stronger_amber_relic"><![CDATA[Relique d'ambre]]></entry>
 <entry id="str_curio_content_stronger_amber_relic"><![CDATA[Cette pierre est presque intégralement recouverte d'ambre.]]></entry>
 <entry id="str_curio_tooltip_investigate_stronger_amber_relic"><![CDATA[Tenter d'en récolter...]]></entry>
@@ -1416,7 +1441,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_stronger_amber_relic_shovel_effect"><![CDATA[L'ambre se fragmente sous l'effet du choc !]]></entry>
 <entry id="str_curio_stronger_amber_relic_bandage_loot"><![CDATA[Une récolte aisée pour des mains protégées.]]></entry>
 <entry id="str_curio_stronger_amber_relic_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
-<entry id="str_curio_stronger_amber_relic_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_stronger_amber_relic_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_primitive_cave_painting"><![CDATA[Sculpture rupestre]]></entry>
 <entry id="str_curio_content_primitive_cave_painting"><![CDATA[Cette gravure primitive représente une sombre prophétie.]]></entry>
 <entry id="str_curio_tooltip_investigate_primitive_cave_painting"><![CDATA[Inspecter l'art troglodyte.]]></entry>
@@ -1425,7 +1450,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_primitive_cave_painting_arch_kit_effect"><![CDATA[Une vérité dérangeante est révélée...]]></entry>
 <entry id="str_curio_primitive_cave_painting_shovel_effect"><![CDATA[Il vaut mieux détruire certaines choses.]]></entry>
 <entry id="str_curio_primitive_cave_painting_laudanum_purge"><![CDATA[Votre volonté est bercée par ces horreurs.]]></entry>
-<entry id="str_curio_primitive_cave_painting_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_primitive_cave_painting_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_amber_farm"><![CDATA[Plantation d'ambre]]></entry>
 <entry id="str_curio_content_amber_farm"><![CDATA[Des cadavres en décomposition sont utilisés comme "engrais".]]></entry>
 <entry id="str_curio_tooltip_investigate_amber_farm"><![CDATA[Que cachent ces corps...]]></entry>
@@ -1436,7 +1461,8 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_amber_farm_shovel_loot"><![CDATA[L'ambre a fleuri parmi les cadavres !]]></entry>
 <entry id="str_curio_amber_farm_disease_kit_loot"><![CDATA[L'ambre est récolté en toute sécurité !]]></entry>
 <entry id="str_curio_amber_farm_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
-<entry id="str_curio_amber_farm_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_amber_farm_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_amber_farm_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_crude_altar"><![CDATA[Autel grossier]]></entry>
 <entry id="str_curio_content_crude_altar"><![CDATA[Une effigie d'ambre trône sur un autel macabre.]]></entry>
 <entry id="str_curio_tooltip_investigate_crude_altar"><![CDATA[Inspecter l'autel...]]></entry>
@@ -1450,7 +1476,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_crude_altar_deed_effect"><![CDATA[L'offrande semble apaiser l'effigie.]]></entry>
 <entry id="str_curio_crude_altar_amber_extraction_kit_loot"><![CDATA[L'ambre est récolté délicatement.]]></entry>
 <entry id="str_curio_crude_altar_laudanum_effect"><![CDATA[La peur est affrontée et surmontée.]]></entry>
-<entry id="str_curio_crude_altar_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_crude_altar_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_wall_burrow"><![CDATA[Terrier sordide]]></entry>
 <entry id="str_curio_content_wall_burrow"><![CDATA[La résidence personnelle d'un troglodyte, recouverte des crânes des intrus.]]></entry>
 <entry id="str_curio_tooltip_investigate_wall_burrow"><![CDATA[Regarder à l'intérieur...]]></entry>
@@ -1458,7 +1484,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_wall_burrow_summon"><![CDATA[TODO:The Troglodytes were home!]]></entry>
 <entry id="str_curio_wall_burrow_shovel_loot"><![CDATA[L'entrée du terrier est démolie.]]></entry>
 <entry id="str_curio_wall_burrow_torch_summon_burrow_smoke_out"><![CDATA[TODO:The Troglodytes inside are smoked out!]]></entry>
-<entry id="str_curio_wall_burrow_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_wall_burrow_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_amber_river"><![CDATA[Fontaine d'ambre]]></entry>
 <entry id="str_curio_content_amber_river"><![CDATA[L'ambre pur s'écoule comme du verre en fusion.]]></entry>
 <entry id="str_curio_tooltip_investigate_amber_river"><![CDATA[TODO:Perhaps there is something inside?]]></entry>
@@ -1468,7 +1494,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_amber_river_medicinal_herbs_effect"><![CDATA[TODO:The liquified amber has a vibrant reaction!]]></entry>
 <entry id="str_curio_amber_river_bandage_loot"><![CDATA[TODO:Solidified clumps are safely extracted.]]></entry>
 <entry id="str_curio_amber_river_amber_extraction_kit_loot"><![CDATA[TODO:Solid chunks are extracted!]]></entry>
-<entry id="str_curio_amber_river_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_amber_river_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_kvarotz_ooze"><![CDATA[Poterie dégoulinante]]></entry>
 <entry id="str_curio_content_kvarotz_ooze"><![CDATA[Ces vases Kvarotz sont collés ensemble par des sécrétions de troglodytes.]]></entry>
 <entry id="str_curio_tooltip_investigate_kvarotz_ooze"><![CDATA[Essayer de les séparer...]]></entry>
@@ -1481,7 +1507,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_kvarotz_ooze_torch_disease"><![CDATA[TODO:The fumes are sickening!]]></entry>
 <entry id="str_curio_kvarotz_ooze_antivenom_effect"><![CDATA[TODO:The sludge is neutralized as you search!]]></entry>
 <entry id="str_curio_kvarotz_ooze_archaeologist_compendium_loot"><![CDATA[TODO:A hidden container inside of the cache is revealed!]]></entry>
-<entry id="str_curio_kvarotz_ooze_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_kvarotz_ooze_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_trog_bone_pile"><![CDATA[Sac mortuaire]]></entry>
 <entry id="str_curio_content_trog_bone_pile"><![CDATA[Les bandages portent le sceau du Chasseur de la Flamme.]]></entry>
 <entry id="str_curio_tooltip_investigate_trog_bone_pile"><![CDATA[Examiner les restes.]]></entry>
@@ -1494,7 +1520,8 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_trog_bone_pile_arch_kit_effect"><![CDATA[Le cadavre est trop "frais" pour être étudié.]]></entry>
 <entry id="str_curio_trog_bone_pile_torch_effect"><![CDATA[La crémation est la seule solution.]]></entry>
 <entry id="str_curio_trog_bone_pile_shovel_effect"><![CDATA[Une tombe décente est creusée.]]></entry>
-<entry id="str_curio_trog_bone_pile_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_trog_bone_pile_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_trog_bone_pile_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_abandoned_research"><![CDATA[Carcasse de scaphe]]></entry>
 <entry id="str_curio_content_abandoned_research"><![CDATA[Les restes froids d'un scaphe tombé au combat.]]></entry>
 <entry id="str_curio_tooltip_investigate_abandoned_research"><![CDATA[Regarder à l'intérieur du cockpit.]]></entry>
@@ -1506,7 +1533,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_abandoned_research_shovel_loot"><![CDATA[TODO:The dismantled husk reveals salvage!]]></entry>
 <entry id="str_curio_abandoned_research_arch_kit_effect"><![CDATA[TODO:A booklet of charts is discovered!]]></entry>
 <entry id="str_curio_abandoned_research_skeleton_key_loot"><![CDATA[TODO:A special compartment is unlocked!]]></entry>
-<entry id="str_curio_abandoned_research_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_abandoned_research_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_vril_statue"><![CDATA[Bannière de ver]]></entry>
 <entry id="str_curio_content_vril_statue"><![CDATA[Un autel a été façonné à partir d'une ancienne mâchoire de ver.]]></entry>
 <entry id="str_curio_tooltip_investigate_vril_statue"><![CDATA[Quels secrets renferme-t-elle ?]]></entry>
@@ -1516,7 +1543,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_vril_statue_holy_water_effect"><![CDATA[Le rituel apaise l'autel !]]></entry>
 <entry id="str_curio_vril_statue_medicinal_herbs_purge"><![CDATA[TODO:Consecrating the shrine brings renewed resolve!]]></entry>
 <entry id="str_curio_vril_statue_laudanum_effect"><![CDATA[La peur est affrontée et surmontée.]]></entry>
-<entry id="str_curio_vril_statue_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_vril_statue_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_purveyor"><![CDATA[Marchand troglodyte]]></entry>
 <entry id="str_curio_content_purveyor"><![CDATA[VENDEUR : Cet élégant troglodyte vous montre avec insistance son sac de pierres précieuses.]]></entry>
 <entry id="str_curio_purveyor_ruby_loot"><![CDATA[TODO:He's completely overwhelmed!]]></entry>
@@ -1530,7 +1557,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_purveyor_glass_dagger_loot"><![CDATA[TODO:He adores how smooth it is!]]></entry>
 <entry id="str_curio_purveyor_glass_hook_loot"><![CDATA[TODO:He loves how they jingle together!]]></entry>
 <entry id="str_curio_purveyor_encased_steve_loot"><![CDATA[He's confident it will wake up some day!]]></entry>
-<entry id="str_curio_purveyor_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_purveyor_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_poacher"><![CDATA[Le Récolteur]]></entry>
 <entry id="str_curio_content_poacher"><![CDATA[VENDEUR: L'homme semble s'être volontairement recouvert de bave et demande si vous possédez de l'ambre.]]></entry>
 <entry id="str_curio_poacher_deed_loot"><![CDATA[TODO:The poacher happily accepts your raw amber.]]></entry>
@@ -1539,7 +1566,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_poacher__loot"><![CDATA[TODO:He hastily tucks the refined dust into a personal satchel.]]></entry>
 <entry id="str_curio_poacher_dune_lily_loot"><![CDATA[TODO:The poacher delicately lifts the flower from the hero's hands.]]></entry>
 <entry id="str_curio_poacher_encased_steve_loot"><![CDATA[He greedily snatches up the larval specimen!]]></entry>
-<entry id="str_curio_poacher_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_poacher_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_waxen_penitent"><![CDATA[Pénitent de cire]]></entry>
 <entry id="str_curio_content_waxen_penitent"><![CDATA[Cette personne semble être décédée dans cette pose...]]></entry>
 <entry id="str_curio_tooltip_investigate_waxen_penitent"><![CDATA[Inspecter le cadavre.]]></entry>
@@ -1549,7 +1576,8 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_waxen_penitent_holy_water_effect"><![CDATA[Le rituel d'alun renforce le héros !]]></entry>
 <entry id="str_curio_waxen_penitent_torch_effect"><![CDATA[Le cierge du pénitent est enfin allumé...]]></entry>
 <entry id="str_curio_waxen_penitent_medicinal_herbs_effect"><![CDATA[Le corps est consacré, procurant un sentiment de tranquillité.]]></entry>
-<entry id="str_curio_waxen_penitent_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_waxen_penitent_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_waxen_penitent_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_confessors_toolkit"><![CDATA[Masque de la Légion]]></entry>
 <entry id="str_curio_content_confessors_toolkit"><![CDATA[Une invention préoccupante de la Légion perdue.]]></entry>
 <entry id="str_curio_tooltip_investigate_confessors_toolkit"><![CDATA[Examiner le dispositif.]]></entry>
@@ -1559,7 +1587,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_confessors_toolkit_honing_oil_effect"><![CDATA[Ces outils sont étonnamment tranchants !]]></entry>
 <entry id="str_curio_confessors_toolkit_skeleton_key_purge"><![CDATA[Le compartiment de torture s'ouvre délicatement.]]></entry>
 <entry id="str_curio_confessors_toolkit_laudanum_effect"><![CDATA[Le héros affronte ses peurs avec courage.]]></entry>
-<entry id="str_curio_confessors_toolkit_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_confessors_toolkit_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cact_hemo"><![CDATA[Cactus]]></entry>
 <entry id="str_curio_content_cact_hemo"><![CDATA[Une masse végétale immobile.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_hemo"><![CDATA[TODO:Perhaps something is inside?]]></entry>
@@ -1567,7 +1595,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_hemo_antivenom_summon_cact_hemo_lowres"><![CDATA[La membrane est dissoute !]]></entry>
 <entry id="str_curio_cact_hemo_shovel_effect"><![CDATA[TODO:A burst of acidic juices sprays the hero!]]></entry>
 <entry id="str_curio_cact_hemo_holy_water_summon_cact_hemo_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_hemo_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_hemo_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cact_necro"><![CDATA[Squelette décrépit]]></entry>
 <entry id="str_curio_content_cact_necro"><![CDATA[De minuscules fleurs pourpres bourgeonnent sur certaines parties du squelette.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_necro"><![CDATA[TODO:Check the pockets.]]></entry>
@@ -1575,7 +1603,8 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_necro_shovel_summon_cact_necro_dmg"><![CDATA[TODO:Bones snap and thrash around!]]></entry>
 <entry id="str_curio_cact_necro_medicinal_herbs_effect"><![CDATA[Les ossements sont consacrés.]]></entry>
 <entry id="str_curio_cact_necro_holy_water_summon_cact_necro_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_necro_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_necro_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_necro_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_cact_opul"><![CDATA[Montagne d'or]]></entry>
 <entry id="str_curio_content_cact_opul"><![CDATA[TODO:This pile of gleaming treasure is yours for the taking.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_opul"><![CDATA[TODO:Grab the coins.]]></entry>
@@ -1584,7 +1613,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_opul_disease_kit_summon_cact_opul_flow"><![CDATA[TODO:Flowers violently bloom from the pile!]]></entry>
 <entry id="str_curio_cact_opul_dog_treats_summon_cact_opul_dog"><![CDATA[TODO:The hungry cactonids appreciate your treat!]]></entry> 
 <entry id="str_curio_cact_opul_arch_kit_loot"><![CDATA[TODO:Riches are carefully pilfered!]]></entry>
-<entry id="str_curio_cact_opul_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_opul_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_quest_cache"><![CDATA[Cachette envahie]]></entry>
 <entry id="str_curio_content_quest_cache"><![CDATA[Un trésor inaccessible, recouvert d'une végétation dense. [QUÊTE]]]></entry>
 <entry id="str_curio_tooltip_investigate_quest_cache_with_quest_item"><![CDATA[Requiert l'utilisation d'un OBJET DE QUÊTE depuis l'inventaire]]></entry>
@@ -1603,7 +1632,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_vertev_torch_summon_cact_vertev_smoke"><![CDATA[TODO:The cactonids are overwhelmed by the smoke!]]></entry> 
 <entry id="str_curio_cact_vertev_honing_oil_effect"><![CDATA[TODO:The bottle is flung back at the hero by the vines!]]></entry>
 <entry id="str_curio_cact_vertev_holy_water_summon_cact_vertev_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_vertev_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_vertev_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cact_savage"><![CDATA[TODO:Unnerving Sac]]></entry>
 <entry id="str_curio_content_cact_savage"><![CDATA[TODO:Eerie protrusions and liquids cover the plant.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_savage"><![CDATA[Collecter le nectar.]]></entry>
@@ -1611,14 +1640,15 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[TODO:The swarm is enraged!]]></entry> 
 <entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[TODO:The eldritch nectar is frighteningly tasty!]]></entry>
 <entry id="str_curio_cact_savage_holy_water_summon_cact_savage_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_savage_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_savage_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cact_homi"><![CDATA[Cadavre envahi]]></entry>
 <entry id="str_curio_content_cact_homi"><![CDATA[Un cadavre a été englouti par la végétation.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_homi"><![CDATA[Chercher des trésors.]]></entry>
 <entry id="str_curio_cact_homi_summon"><![CDATA[Le corps s'anime subitement !]]></entry>
 <entry id="str_curio_cact_homi_holy_water_summon_cact_homi_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_homi_antivenom_summon_cact_homi_healingrec"><![CDATA[Le corps émet un brouillard herbicide !]]></entry>
-<entry id="str_curio_cact_homi_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_homi_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_homi_book_of_constitution_loot"><![CDATA[TODO:The corpse has been scavenged for supplies.]]></entry>
 <entry id="str_curio_title_cact_imit"><![CDATA[Reliquaire de pierre]]></entry>
 <entry id="str_curio_content_cact_imit"><![CDATA[Un ancien coffre en pierre.
 Il est verrouillé.]]></entry>
@@ -1627,7 +1657,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_imit_skeleton_key_summon_cact_imitator_key"><![CDATA[La clé est recrachée telle une balle !]]></entry>
 <entry id="str_curio_cact_imit_shovel_summon_cact_imitator_shovel"><![CDATA[Le cactonide déguisé est déstabilisé par le coup !]]></entry>
 <entry id="str_curio_cact_imit_holy_water_summon_cact_imit_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
-<entry id="str_curio_cact_imit_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cact_imit_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_dune_lilies"><![CDATA[Lys des dunes]]></entry>
 <entry id="str_curio_content_dune_lilies"><![CDATA[De magnifiques fleurs. Elles semblent fragiles...]]></entry>
 <entry id="str_curio_tooltip_investigate_dune_lilies"><![CDATA[Une telle beauté doit être cueillie...]]></entry>
@@ -1639,7 +1669,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_dune_lilies_bandage_loot"><![CDATA[Les bandages vous protègent des épines !]]></entry>
 <entry id="str_curio_dune_lilies_honing_oil_effect"><![CDATA[Les pétales se flétrissent et émettent des fumées nocives !]]></entry>
 <entry id="str_curio_dune_lilies_amber_extraction_kit_loot"><![CDATA[La fleur est délicatement retirée.]]></entry>
-<entry id="str_curio_dune_lilies_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_dune_lilies_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_poison_peddler"><![CDATA[L'Alchimiste]]></entry>
 <entry id="str_curio_content_poison_peddler"><![CDATA[VENDEUR : Elle vous propose de préparer des breuvages en échange d'ingrédients.]]></entry>
 <entry id="str_curio_poison_peddler_portrait_effect"><![CDATA[Un tonique vert, acide et pétillant !]]></entry>
@@ -1650,7 +1680,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_poison_peddler_laudanum_effect"><![CDATA[Une liqueur, sucrée et relaxante !]]></entry>
 <entry id="str_curio_poison_peddler_antivenom_effect"><![CDATA[Un incroyable détoxifiant !]]></entry>
 <entry id="str_curio_poison_peddler_honing_oil_effect"><![CDATA["Parfait pour une salade..."]]></entry>
-<entry id="str_curio_poison_peddler_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_poison_peddler_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cursed_gem_buyer"><![CDATA[Guerrières légendaires]]></entry>
 <entry id="str_curio_content_cursed_gem_buyer"><![CDATA[VENDEUR : Elle et sa disciple sont venues chercher des trésors maudits.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem5_loot"><![CDATA[Elles contemplent l'orbe et vous récompensent généreusement.]]></entry>
@@ -1659,7 +1689,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem2_loot"><![CDATA[Elles inspectent la dague et vous offrent des trésors.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem1_loot"><![CDATA[Elles inspectent la tablette et vous offrent des trésors.]]></entry>
 <entry id="str_curio_cursed_gem_buyer_cursed_gem0_loot"><![CDATA[Elles inspectent l'idole et vous offrent des trésors.]]></entry>
-<entry id="str_curio_cursed_gem_buyer_yngolian_hand_5_loot"><![CDATA[The key unlocks a celestial vault.]]></entry>
+<entry id="str_curio_cursed_gem_buyer_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_yngolian_altar"><![CDATA[Balise de l'Yhngolia]]></entry>
 <entry id="str_curio_content_yngolian_altar"><![CDATA[Une force surnaturelle émane de cet objet, réclamant de la lumière.]]></entry>
 <entry id="str_curio_tooltip_investigate_yngolian_altar"><![CDATA[Il a soif de lumière...]]></entry>
@@ -1752,7 +1782,7 @@ Il est verrouillé.]]></entry>
 {colour_start|skill_unselectable}Retire marque, saignement, infection, horreur, et malus{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ginseng"><![CDATA[Poudre de ginseng]]></entry>
 <entry id="str_inventory_title_supplyholy_water"><![CDATA[Encens d'alun]]></entry>
-<entry id="str_inventory_description_supplyholy_water"><![CDATA[Les fumées de l'alun augmentent les résistances d'un héros.]]></entry>
+<entry id="str_inventory_description_supplyholy_water"><![CDATA[Les fumées de l'alun augmentent les résistances d'un héros. Utilisé dans de nombreux rites païens.]]></entry>
 <entry id="buff_rule_data_tooltip_holy_water"><![CDATA[Encens d'alun]]></entry>
 <entry id="str_inventory_title_supplymedicinal_herbs"><![CDATA[Sel purifiant]]></entry>
 <entry id="str_inventory_description_supplymedicinal_herbs"><![CDATA[Bénis par la Lumière, ces sels peuvent soigner certains troubles.]]></entry>
@@ -1826,6 +1856,10 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_description_estatesupply_pagan"><![CDATA[Les porteurs de ce masque occulte sont envahis de terribles connaissances. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_pagan}païen{colour_end}]{colour_end}]]></entry>
 <entry id="str_inventory_title_estatesupply_religious"><![CDATA[Halo brisé]]></entry>
 <entry id="str_inventory_description_estatesupply_religious"><![CDATA[Ceux qui accueillent les vestiges brisés de ce symbole sacré sont remplis d'un espoir débordant. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_religious}païen{colour_end}]{colour_end}]]></entry>
+<entry id="str_inventory_title_estate_currencyxp_brain"><![CDATA[TODO:The Uni-Brain]]></entry>
+<entry id="str_inventory_description_estate_currencyxp_brain"><![CDATA[TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end}
++100% Resolve XP
+Buff does not Stack{colour_end}]]></entry>
 <entry id="str_inventory_title_gemdaric"><![CDATA[Darique Kvarotz]]></entry>
 <entry id="str_inventory_description_gemdaric"><![CDATA[Richesses extravagantes utilisées par la haute bourgeoisie Kvarotz.]]></entry>
 <entry id="buff_rule_data_tooltip_daric"><![CDATA[Darique Kvarotz]]></entry>
@@ -1902,6 +1936,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="enemy_type_name_troglodyte"><![CDATA[Troglodyte]]></entry>
 <entry id="enemy_type_name_cactonid"><![CDATA[Cactonide]]></entry>
 <entry id="enemy_type_name_wildlife"><![CDATA[Créature]]></entry>
+<entry id="enemy_type_name_twilight"><![CDATA[Crépuscule]]></entry>
 <entry id="enemy_type_name_ammo_box"><![CDATA[Caisse]]></entry>
 <entry id="enemy_type_name_apprentice"><![CDATA[]]></entry>
 <entry id="enemy_type_name_veteran"><![CDATA[]]></entry>
@@ -1915,6 +1950,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="enemy_type_name_stoneworkq"><![CDATA[Maçonnerie ?]]></entry>
 <entry id="enemy_type_name_br_enemy"><![CDATA[]]></entry>
 <entry id="enemy_type_name_monke"><![CDATA[{colour_start|white}̠{colour_end}]]></entry>
+<entry id="enemy_type_name_large_enemy"><![CDATA[]]></entry>
 <entry id="enemy_type_name_corpses_tt"><![CDATA[Retire les cadavres^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
 <entry id="str_monstername_attack_dummy_A"><![CDATA[]]></entry>
@@ -1941,17 +1977,11 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_grunt_F"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_levantine_grunt_J"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_levantine_grunt_T"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_levantine_grunt_X"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_levantine_grunt_Y"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_levantine_grunt_Z"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_levantine_sniper_A"><![CDATA[Archer levantin]]></entry>
 <entry id="str_monstername_levantine_sniper_B"><![CDATA[Archer levantin]]></entry>
 <entry id="str_monstername_levantine_sniper_J"><![CDATA[Archer levantin]]></entry>
 <entry id="str_monstername_levantine_sniper_C"><![CDATA[Archer levantin]]></entry>
 <entry id="str_monstername_levantine_sniper_D"><![CDATA[Archer levantin]]></entry>
-<entry id="str_monstername_levantine_sniper_X"><![CDATA[Archer levantin]]></entry>
-<entry id="str_monstername_levantine_sniper_Y"><![CDATA[Archer levantin]]></entry>
-<entry id="str_monstername_levantine_sniper_Z"><![CDATA[Archer levantin]]></entry>
 <entry id="str_monstername_levantine_commander_A"><![CDATA[Commandant levantin]]></entry>
 <entry id="str_monstername_levantine_commander_B"><![CDATA[Commandant levantin]]></entry>
 <entry id="str_monstername_levantine_commander_J"><![CDATA[Commandant levantin]]></entry>
@@ -1959,17 +1989,11 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_commander_D"><![CDATA[Commandant levantin]]></entry>
 <entry id="str_monstername_levantine_commander_E"><![CDATA[Commandant levantin]]></entry>
 <entry id="str_monstername_levantine_commander_F"><![CDATA[Commandant levantin]]></entry>
-<entry id="str_monstername_levantine_commander_X"><![CDATA[Commandant levantin]]></entry>
-<entry id="str_monstername_levantine_commander_Y"><![CDATA[Commandant levantin]]></entry>
-<entry id="str_monstername_levantine_commander_Z"><![CDATA[Commandant levantin]]></entry>
 <entry id="str_monstername_levantine_firewalker_A"><![CDATA[Incendiaire levantin]]></entry>
 <entry id="str_monstername_levantine_firewalker_B"><![CDATA[Incendiaire levantin]]></entry>
 <entry id="str_monstername_levantine_firewalker_C"><![CDATA[Incendiaire levantin]]></entry>
 <entry id="str_monstername_levantine_firewalker_D"><![CDATA[Incendiaire levantin]]></entry>
 <entry id="str_monstername_levantine_firewalker_T"><![CDATA[Incendiaire levantin]]></entry>
-<entry id="str_monstername_levantine_firewalker_X"><![CDATA[Incendiaire levantin]]></entry>
-<entry id="str_monstername_levantine_firewalker_Y"><![CDATA[Incendiaire levantin]]></entry>
-<entry id="str_monstername_levantine_firewalker_Z"><![CDATA[Incendiaire levantin]]></entry>
 <entry id="str_monstername_levantine_champion_A"><![CDATA[Champion levantin]]></entry>
 <entry id="str_monstername_levantine_champion_B"><![CDATA[Champion levantin]]></entry>
 <entry id="str_monstername_levantine_champion_C"><![CDATA[Champion levantin]]></entry>
@@ -1978,9 +2002,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_champion_F"><![CDATA[Champion levantin]]></entry>
 <entry id="str_monstername_levantine_champion_J"><![CDATA[Champion levantin]]></entry>
 <entry id="str_monstername_levantine_champion_T"><![CDATA[Champion levantin]]></entry>
-<entry id="str_monstername_levantine_champion_X"><![CDATA[Champion levantin]]></entry>
-<entry id="str_monstername_levantine_champion_Y"><![CDATA[Champion levantin]]></entry>
-<entry id="str_monstername_levantine_champion_Z"><![CDATA[Champion levantin]]></entry>
 <entry id="str_monstername_levantine_enchantress_A"><![CDATA[Enchanteresse levantine]]></entry>
 <entry id="str_monstername_levantine_enchantress_B"><![CDATA[Enchanteresse levantine]]></entry>
 <entry id="str_monstername_levantine_enchantress_C"><![CDATA[Enchanteresse levantine]]></entry>
@@ -2017,9 +2038,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_terp_D"><![CDATA[Danseur levantin]]></entry>
 <entry id="str_monstername_levantine_terp_E"><![CDATA[Danseur levantin]]></entry>
 <entry id="str_monstername_levantine_terp_F"><![CDATA[Danseur levantin]]></entry>
-<entry id="str_monstername_levantine_terp_X"><![CDATA[Danseur levantin]]></entry>
-<entry id="str_monstername_levantine_terp_Y"><![CDATA[Danseur levantin]]></entry>
-<entry id="str_monstername_levantine_terp_Z"><![CDATA[Danseur levantin]]></entry>
 <entry id="str_monstername_levantine_rak_human_A"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_human_B"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_human_J"><![CDATA[Rakshasa levantin]]></entry>
@@ -2027,9 +2045,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_rak_human_D"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_human_E"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_human_F"><![CDATA[Rakshasa levantin]]></entry>
-<entry id="str_monstername_levantine_rak_human_X"><![CDATA[Rakshasa levantin]]></entry>
-<entry id="str_monstername_levantine_rak_human_Y"><![CDATA[Rakshasa levantin]]></entry>
-<entry id="str_monstername_levantine_rak_human_Z"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_beast_A"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_beast_B"><![CDATA[Rakshasa levantin]]></entry>
 <entry id="str_monstername_levantine_rak_beast_J"><![CDATA[Rakshasa levantin]]></entry>
@@ -2038,28 +2053,20 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_levantine_appraiser_B"><![CDATA[Nécromancienne levantine]]></entry>
 <entry id="str_monstername_levantine_appraiser_C"><![CDATA[Nécromancienne levantine]]></entry>
 <entry id="str_monstername_levantine_appraiser_D"><![CDATA[Nécromancienne levantine]]></entry>
-<entry id="str_monstername_levantine_appraiser_Y"><![CDATA[Nécromancienne levantine]]></entry>
-<entry id="str_monstername_levantine_appraiser_Z"><![CDATA[Nécromancienne levantine]]></entry>
-<entry id="str_monstername_skeleton_common_E"><![CDATA[Manant osseux]]></entry>
-<entry id="str_monstername_skeleton_common_F"><![CDATA[Conscrit osseux]]></entry>
-<entry id="str_monstername_skeleton_common_G"><![CDATA[Milicien osseux]]></entry>
+<entry id="str_monstername_skeleton_common_A"><![CDATA[Manant osseux]]></entry>
+<entry id="str_monstername_skeleton_common_B"><![CDATA[Conscrit osseux]]></entry>
+<entry id="str_monstername_skeleton_common_C"><![CDATA[Milicien osseux]]></entry>
 <entry id="str_monstername_levantine_pursuer_A"><![CDATA[Fauconnier levantin]]></entry>
 <entry id="str_monstername_levantine_pursuer_B"><![CDATA[Fauconnier levantin]]></entry>
 <entry id="str_monstername_levantine_pursuer_J"><![CDATA[Fauconnier levantin]]></entry>
 <entry id="str_monstername_levantine_pursuer_C"><![CDATA[Fauconnier levantin]]></entry>
 <entry id="str_monstername_levantine_pursuer_D"><![CDATA[Fauconnier levantin]]></entry>
-<entry id="str_monstername_levantine_pursuer_X"><![CDATA[Fauconnier levantin]]></entry>
-<entry id="str_monstername_levantine_pursuer_Y"><![CDATA[Fauconnier levantin]]></entry>
-<entry id="str_monstername_levantine_pursuer_Z"><![CDATA[Fauconnier levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_A"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_B"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_J"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_C"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_D"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_levantine_thaumaturge_T"><![CDATA[Thaumaturge levantin]]></entry>
-<entry id="str_monstername_levantine_thaumaturge_X"><![CDATA[Thaumaturge levantin]]></entry>
-<entry id="str_monstername_levantine_thaumaturge_Y"><![CDATA[Thaumaturge levantin]]></entry>
-<entry id="str_monstername_levantine_thaumaturge_Z"><![CDATA[Thaumaturge levantin]]></entry>
 <entry id="str_monstername_snake_cobra_A"><![CDATA[Cobra]]></entry>
 <entry id="str_monstername_snake_cobra_B"><![CDATA[Grand cobra]]></entry>
 <entry id="str_monstername_snake_cobra_C"><![CDATA[Cobra terrifiant]]></entry>
@@ -2071,51 +2078,28 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_snake_big_adder_A"><![CDATA[Vipère mortelle]]></entry>
 <entry id="str_monstername_snake_big_adder_B"><![CDATA[Vipère sinistre]]></entry>
 <entry id="str_monstername_snake_big_adder_C"><![CDATA[Vipère cauchemardesque]]></entry>
-<entry id="str_monstername_snake_cobra_X"><![CDATA[Cobra]]></entry>
-<entry id="str_monstername_snake_cobra_Y"><![CDATA[Grand cobra]]></entry>
-<entry id="str_monstername_snake_cobra_Z"><![CDATA[Cobra terrifiant]]></entry>
-<entry id="str_monstername_snake_rattler_X"><![CDATA[Crotale]]></entry>
-<entry id="str_monstername_snake_rattler_Y"><![CDATA[Crotale agacé]]></entry>
-<entry id="str_monstername_snake_big_adder_X"><![CDATA[Vipère mortelle]]></entry>
-<entry id="str_monstername_snake_big_adder_Y"><![CDATA[Vipère sinistre]]></entry>
-<entry id="str_monstername_snake_big_adder_Z"><![CDATA[Vipère cauchemardesque]]></entry>
-<entry id="str_monstername_snake_rattler_Z"><![CDATA[Crotale enragé]]></entry>
 <entry id="str_monstername_lost_cleric_A"><![CDATA[Paladin (Légion)]]></entry>
 <entry id="str_monstername_lost_cleric_B"><![CDATA[Paladin (Légion)]]></entry>
 <entry id="str_monstername_lost_cleric_C"><![CDATA[Paladin (Légion)]]></entry>
 <entry id="str_monstername_lost_cleric_D"><![CDATA[Paladin (Légion)]]></entry>
-<entry id="str_monstername_lost_cleric_X"><![CDATA[Paladin (Légion)]]></entry>
-<entry id="str_monstername_lost_cleric_Y"><![CDATA[Paladin (Légion)]]></entry>
-<entry id="str_monstername_lost_cleric_Z"><![CDATA[Paladin (Légion)]]></entry>
+<entry id="str_monstername_lost_cleric_T"><![CDATA[Paladin (Légion)]]></entry>
 <entry id="str_monstername_lost_friar_A"><![CDATA[Prêtre (Légion)]]></entry>
 <entry id="str_monstername_lost_friar_B"><![CDATA[Prêtre (Légion)]]></entry>
 <entry id="str_monstername_lost_friar_C"><![CDATA[Prêtre (Légion)]]></entry>
 <entry id="str_monstername_lost_friar_D"><![CDATA[Prêtre (Légion)]]></entry>
 <entry id="str_monstername_lost_friar_T"><![CDATA[Prêtre (Légion)]]></entry>
-<entry id="str_monstername_lost_friar_X"><![CDATA[Prêtre (Légion)]]></entry>
-<entry id="str_monstername_lost_friar_Y"><![CDATA[Prêtre (Légion)]]></entry>
-<entry id="str_monstername_lost_friar_Z"><![CDATA[Prêtre (Légion)]]></entry>
 <entry id="str_monstername_lost_pilgrim_A"><![CDATA[Mendiant (Légion)]]></entry>
 <entry id="str_monstername_lost_pilgrim_B"><![CDATA[Mendiant (Légion)]]></entry>
 <entry id="str_monstername_lost_pilgrim_C"><![CDATA[Mendiant (Légion)]]></entry>
 <entry id="str_monstername_lost_pilgrim_D"><![CDATA[Mendiant (Légion)]]></entry>
-<entry id="str_monstername_lost_pilgrim_X"><![CDATA[Mendiant (Légion)]]></entry>
-<entry id="str_monstername_lost_pilgrim_Y"><![CDATA[Mendiant (Légion)]]></entry>
-<entry id="str_monstername_lost_pilgrim_Z"><![CDATA[Mendiant (Légion)]]></entry>
 <entry id="str_monstername_lost_deadbolt_A"><![CDATA[Arbalétrier (Légion)]]></entry>
 <entry id="str_monstername_lost_deadbolt_B"><![CDATA[Arbalétrier (Légion)]]></entry>
 <entry id="str_monstername_lost_deadbolt_C"><![CDATA[Arbalétrier (Légion)]]></entry>
 <entry id="str_monstername_lost_deadbolt_D"><![CDATA[Arbalétrier (Légion)]]></entry>
-<entry id="str_monstername_lost_deadbolt_X"><![CDATA[Arbalétrier (Légion)]]></entry>
-<entry id="str_monstername_lost_deadbolt_Y"><![CDATA[Arbalétrier (Légion)]]></entry>
-<entry id="str_monstername_lost_deadbolt_Z"><![CDATA[Arbalétrier (Légion)]]></entry>
 <entry id="str_monstername_lost_judicator_A"><![CDATA[Juge (Légion)]]></entry>
 <entry id="str_monstername_lost_judicator_B"><![CDATA[Juge (Légion)]]></entry>
 <entry id="str_monstername_lost_judicator_C"><![CDATA[Juge (Légion)]]></entry>
 <entry id="str_monstername_lost_judicator_D"><![CDATA[Juge (Légion)]]></entry>
-<entry id="str_monstername_lost_judicator_X"><![CDATA[Juge (Légion)]]></entry>
-<entry id="str_monstername_lost_judicator_Y"><![CDATA[Juge (Légion)]]></entry>
-<entry id="str_monstername_lost_judicator_Z"><![CDATA[Juge (Légion)]]></entry>
 <entry id="str_monstername_kvarotz_mekhrub_A"><![CDATA[Soldat Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_mekhrub_B"><![CDATA[Soldat Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_mekhrub_C"><![CDATA[Soldat Kvarotz]]></entry>
@@ -2139,6 +2123,8 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_A"><![CDATA[Artisan Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_B"><![CDATA[Artisan Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_C"><![CDATA[Artisan Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_gagahl_D"><![CDATA[Artisan Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_gagahl_E"><![CDATA[Artisan Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_F"><![CDATA[Artisan Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_G"><![CDATA[Artisan Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_gagahl_H"><![CDATA[Artisan Kvarotz]]></entry>
@@ -2151,6 +2137,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_A"><![CDATA[Bombe Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_B"><![CDATA[Bombe Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_C"><![CDATA[Bombe Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_tathuth_D"><![CDATA[Bombe Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_E"><![CDATA[Bombe Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_F"><![CDATA[Bombe Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_tathuth_G"><![CDATA[Bombe Kvarotz]]></entry>
@@ -2172,30 +2159,22 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_grunt_D"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_kvarotz_grunt_E"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_kvarotz_grunt_F"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_kvarotz_grunt_X"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_kvarotz_grunt_Y"><![CDATA[Soldat levantin]]></entry>
-<entry id="str_monstername_kvarotz_grunt_Z"><![CDATA[Soldat levantin]]></entry>
 <entry id="str_monstername_kvarotz_hellion_A"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_hellion_B"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_hellion_C"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_hellion_D"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_hellion_E"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_hellion_F"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_kvarotz_hellion_X"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_kvarotz_hellion_Y"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_kvarotz_hellion_Z"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_kvarotz_lurker_A"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_kvarotz_lurker_B"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_kvarotz_lurker_C"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_kvarotz_lurker_D"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_kvarotz_lurker_E"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_kvarotz_lurker_F"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_kvarotz_lurker_X"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_kvarotz_lurker_Y"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_kvarotz_lurker_Z"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_wildlander_hellion_A"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_B"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_C"><![CDATA[Furie sauvage]]></entry>
+<entry id="str_monstername_wildlander_hellion_D"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_N"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_O"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_P"><![CDATA[Furie sauvage]]></entry>
@@ -2203,9 +2182,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_hellion_E"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_F"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_hellion_W"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_wildlander_hellion_X"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_wildlander_hellion_Y"><![CDATA[Furie sauvage]]></entry>
-<entry id="str_monstername_wildlander_hellion_Z"><![CDATA[Furie sauvage]]></entry>
 <entry id="str_monstername_wildlander_dogpack_A"><![CDATA[Hyène sauvage]]></entry>
 <entry id="str_monstername_wildlander_dogpack_B"><![CDATA[Hyène sauvage]]></entry>
 <entry id="str_monstername_wildlander_dogpack_C"><![CDATA[Hyène sauvage]]></entry>
@@ -2215,21 +2191,17 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_dogpack_P"><![CDATA[Hyène sauvage]]></entry>
 <entry id="str_monstername_wildlander_dogpack_E"><![CDATA[Hyène sauvage]]></entry>
 <entry id="str_monstername_wildlander_dogpack_F"><![CDATA[Hyène sauvage]]></entry>
-<entry id="str_monstername_wildlander_dogpack_X"><![CDATA[Hyène sauvage]]></entry>
-<entry id="str_monstername_wildlander_dogpack_Y"><![CDATA[Hyène sauvage]]></entry>
-<entry id="str_monstername_wildlander_dogpack_Z"><![CDATA[Hyène sauvage]]></entry>
 <entry id="str_monstername_wildlander_dog_A"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_B"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_C"><![CDATA[Hyène errante]]></entry>
+<entry id="str_monstername_wildlander_dog_D"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_N"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_O"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dog_P"><![CDATA[Hyène errante]]></entry>
-<entry id="str_monstername_wildlander_dog_X"><![CDATA[Hyène errante]]></entry>
-<entry id="str_monstername_wildlander_dog_Y"><![CDATA[Hyène errante]]></entry>
-<entry id="str_monstername_wildlander_dog_Z"><![CDATA[Hyène errante]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_A"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_B"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_C"><![CDATA[TODO:Wildlander Steelhound]]></entry>
+<entry id="str_monstername_wildlander_dogsteel_D"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_N"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_O"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_P"><![CDATA[TODO:Wildlander Steelhound]]></entry>
@@ -2240,6 +2212,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_bombard_A"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_B"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_C"><![CDATA[Bombardière sauvage]]></entry>
+<entry id="str_monstername_wildlander_bombard_D"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_N"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_O"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_P"><![CDATA[Bombardière sauvage]]></entry>
@@ -2247,9 +2220,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_bombard_E"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_F"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_W"><![CDATA[Bombardière sauvage]]></entry>
-<entry id="str_monstername_wildlander_bombard_X"><![CDATA[Bombardière sauvage]]></entry>
-<entry id="str_monstername_wildlander_bombard_Y"><![CDATA[Bombardière sauvage]]></entry>
-<entry id="str_monstername_wildlander_bombard_Z"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_A"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_B"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_C"><![CDATA[Chasseur sauvage]]></entry>
@@ -2268,16 +2238,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_reaver_N"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_O"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_P"><![CDATA[Ravageuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_reaver_X"><![CDATA[Ravageuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_reaver_Y"><![CDATA[Ravageuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_reaver_Z"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_B"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_C"><![CDATA[Harponneuse sauvage]]></entry>
+<entry id="str_monstername_wildlander_raptor_D"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_N"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_O"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_raptor_P"><![CDATA[Harponneuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_raptor_Y"><![CDATA[Harponneuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_raptor_Z"><![CDATA[Harponneuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_flayer_pre_D"><![CDATA[TODO:The Flayed]]></entry>
 <entry id="str_monstername_wildlander_flayer_post_D"><![CDATA[TODO:The Flayed]]></entry>
 <entry id="str_monstername_wildlander_flayer_D"><![CDATA[TODO:The Flayed]]></entry>
@@ -2294,40 +2260,27 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_scav_N"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_O"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_scav_P"><![CDATA[Pilleuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_scav_X"><![CDATA[Pilleuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_scav_Y"><![CDATA[Pilleuse sauvage]]></entry>
-<entry id="str_monstername_wildlander_scav_Z"><![CDATA[Pilleuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_steelpath_C"><![CDATA[Matrone de fer]]></entry>
 <entry id="str_monstername_wildlander_druid_A"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_B"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_C"><![CDATA[Druidesse sauvage]]></entry>
+<entry id="str_monstername_wildlander_druid_D"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_N"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_O"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_wildlander_druid_P"><![CDATA[Druidesse sauvage]]></entry>
-<entry id="str_monstername_wildlander_druid_X"><![CDATA[Druidesse sauvage]]></entry>
-<entry id="str_monstername_wildlander_druid_Y"><![CDATA[Druidesse sauvage]]></entry>
-<entry id="str_monstername_wildlander_druid_Z"><![CDATA[Druidesse sauvage]]></entry>
 <entry id="str_monstername_ghoul_painweaver_A"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_B"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_C"><![CDATA[Groule]]></entry>
+<entry id="str_monstername_ghoul_painweaver_D"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_F"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_G"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_H"><![CDATA[Groule]]></entry>
-<entry id="str_monstername_ghoul_painweaver_X"><![CDATA[Groule]]></entry>
-<entry id="str_monstername_ghoul_painweaver_Y"><![CDATA[Groule]]></entry>
-<entry id="str_monstername_ghoul_painweaver_Z"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_spellblighter_A"><![CDATA[Goule occulte]]></entry>
 <entry id="str_monstername_ghoul_spellblighter_B"><![CDATA[Goule occulte]]></entry>
 <entry id="str_monstername_ghoul_spellblighter_C"><![CDATA[Goule occulte]]></entry>
-<entry id="str_monstername_ghoul_spellblighter_X"><![CDATA[Goule occulte]]></entry>
-<entry id="str_monstername_ghoul_spellblighter_Y"><![CDATA[Goule occulte]]></entry>
-<entry id="str_monstername_ghoul_spellblighter_Z"><![CDATA[Goule occulte]]></entry>
-<entry id="str_monstername_ghoul_D"><![CDATA[Goule]]></entry>
-<entry id="str_monstername_ghoul_E"><![CDATA[Goule]]></entry>
-<entry id="str_monstername_ghoul_F"><![CDATA[Goule]]></entry>
-<entry id="str_monstername_ghoul_X"><![CDATA[Goule]]></entry>
-<entry id="str_monstername_ghoul_Y"><![CDATA[Goule]]></entry>
-<entry id="str_monstername_ghoul_Z"><![CDATA[Goule]]></entry>
+<entry id="str_monstername_ghoul_A"><![CDATA[Goule]]></entry>
+<entry id="str_monstername_ghoul_B"><![CDATA[Goule]]></entry>
+<entry id="str_monstername_ghoul_C"><![CDATA[Goule]]></entry>
 <entry id="str_monstername_ghoul_mother_B"><![CDATA[Mère des goules]]></entry>
 <entry id="str_monstername_ghoul_mother_C"><![CDATA[Mère des goules]]></entry>
 <entry id="str_monstername_anti_loot_A"><![CDATA[Mère des goules]]></entry>
@@ -2338,14 +2291,9 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="mother_run_bark"><![CDATA[TODO:That foul fiend still walks...]]></entry>
 <entry id="str_monstername_ghoul_giblett_small_B"><![CDATA[TODO:Ghoul Maw]]></entry>
 <entry id="str_monstername_ghoul_giblett_small_C"><![CDATA[TODO:Ghoul Maw]]></entry>
-<entry id="str_monstername_ghoul_giblett_small_Y"><![CDATA[TODO:Ghoul Maw]]></entry>
-<entry id="str_monstername_ghoul_giblett_small_Z"><![CDATA[TODO:Ghoul Maw]]></entry>
 <entry id="str_monstername_ghoul_miser_A"><![CDATA[TODO:Ghoul Miser]]></entry>
 <entry id="str_monstername_ghoul_miser_B"><![CDATA[TODO:Ghoul Miser]]></entry>
 <entry id="str_monstername_ghoul_miser_C"><![CDATA[TODO:Ghoul Miser]]></entry>
-<entry id="str_monstername_ghoul_miser_X"><![CDATA[TODO:Ghoul Miser]]></entry>
-<entry id="str_monstername_ghoul_miser_Y"><![CDATA[TODO:Ghoul Miser]]></entry>
-<entry id="str_monstername_ghoul_miser_Z"><![CDATA[TODO:Ghoul Miser]]></entry>
 <entry id="str_monstername_ghoul_giblett_large_B"><![CDATA[TODO:Ghoul Maw (Bloated)]]></entry>
 <entry id="str_monstername_ghoul_giblett_large_C"><![CDATA[TODO:Ghoul Maw (Bloated)]]></entry>
 <entry id="str_monstername_horned_toad_A"><![CDATA[Crapaud cornu]]></entry>
@@ -2354,27 +2302,18 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_horned_toad_D"><![CDATA[Crapaud cornu]]></entry>
 <entry id="str_monstername_horned_toad_E"><![CDATA[Crapaud cornu]]></entry>
 <entry id="str_monstername_horned_toad_F"><![CDATA[Crapaud cornu]]></entry>
-<entry id="str_monstername_horned_toad_X"><![CDATA[Crapaud cornu]]></entry>
-<entry id="str_monstername_horned_toad_Y"><![CDATA[Crapaud cornu]]></entry>
-<entry id="str_monstername_horned_toad_Z"><![CDATA[Crapaud cornu]]></entry>
 <entry id="str_monstername_carrion_bee_A"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_carrion_bee_B"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_carrion_bee_C"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_carrion_bee_E"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_carrion_bee_F"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_carrion_bee_G"><![CDATA[Carnassier]]></entry>
-<entry id="str_monstername_carrion_bee_X"><![CDATA[Carnassier]]></entry>
-<entry id="str_monstername_carrion_bee_Y"><![CDATA[Carnassier]]></entry>
-<entry id="str_monstername_carrion_bee_Z"><![CDATA[Carnassier]]></entry>
 <entry id="str_monstername_sentry_bee_A"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_sentry_bee_B"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_sentry_bee_C"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_sentry_bee_E"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_sentry_bee_F"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_sentry_bee_G"><![CDATA[Observateur]]></entry>
-<entry id="str_monstername_sentry_bee_X"><![CDATA[Observateur]]></entry>
-<entry id="str_monstername_sentry_bee_Y"><![CDATA[Observateur]]></entry>
-<entry id="str_monstername_sentry_bee_Z"><![CDATA[Observateur]]></entry>
 <entry id="str_monstername_vulture_A"><![CDATA[Vautour]]></entry>
 <entry id="str_monstername_vulture_B"><![CDATA[Vautour]]></entry>
 <entry id="str_monstername_vulture_C"><![CDATA[Vautour]]></entry>
@@ -2387,45 +2326,27 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_trog_hunter_D"><![CDATA[Chasseur troglodyte]]></entry>
 <entry id="str_monstername_trog_hunter_E"><![CDATA[Chasseur troglodyte]]></entry>
 <entry id="str_monstername_trog_hunter_F"><![CDATA[Chasseur troglodyte]]></entry>
-<entry id="str_monstername_trog_hunter_X"><![CDATA[Chasseur troglodyte]]></entry>
-<entry id="str_monstername_trog_hunter_Y"><![CDATA[Chasseur troglodyte]]></entry>
-<entry id="str_monstername_trog_hunter_Z"><![CDATA[Chasseur troglodyte]]></entry>
 <entry id="str_monstername_trog_slinger_A"><![CDATA[Frondeur troglodyte]]></entry>
 <entry id="str_monstername_trog_slinger_B"><![CDATA[Frondeur troglodyte]]></entry>
 <entry id="str_monstername_trog_slinger_C"><![CDATA[Frondeur troglodyte]]></entry>
-<entry id="str_monstername_trog_slinger_X"><![CDATA[Frondeur troglodyte]]></entry>
-<entry id="str_monstername_trog_slinger_Y"><![CDATA[Frondeur troglodyte]]></entry>
-<entry id="str_monstername_trog_slinger_Z"><![CDATA[Frondeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_A"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_B"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_C"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_D"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_E"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_lurker_F"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_trog_lurker_X"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_trog_lurker_Y"><![CDATA[Rôdeur troglodyte]]></entry>
-<entry id="str_monstername_trog_lurker_Z"><![CDATA[Rôdeur troglodyte]]></entry>
 <entry id="str_monstername_trog_saddleback_A"><![CDATA[Ouvrier troglodyte]]></entry>
 <entry id="str_monstername_trog_saddleback_B"><![CDATA[Ouvrier troglodyte]]></entry>
 <entry id="str_monstername_trog_saddleback_C"><![CDATA[Ouvrier troglodyte]]></entry>
-<entry id="str_monstername_trog_saddleback_X"><![CDATA[Ouvrier troglodyte]]></entry>
-<entry id="str_monstername_trog_saddleback_Y"><![CDATA[Ouvrier troglodyte]]></entry>
-<entry id="str_monstername_trog_saddleback_Z"><![CDATA[Ouvrier troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_A"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_B"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_C"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_D"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_E"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_killerbite_F"><![CDATA[Assassin troglodyte]]></entry>
-<entry id="str_monstername_trog_killerbite_X"><![CDATA[Assassin troglodyte]]></entry>
-<entry id="str_monstername_trog_killerbite_Y"><![CDATA[Assassin troglodyte]]></entry>
-<entry id="str_monstername_trog_killerbite_Z"><![CDATA[Assassin troglodyte]]></entry>
 <entry id="str_monstername_trog_cultivator_A"><![CDATA[Cultiste troglodyte]]></entry>
 <entry id="str_monstername_trog_cultivator_B"><![CDATA[Cultiste troglodyte]]></entry>
 <entry id="str_monstername_trog_cultivator_C"><![CDATA[Cultiste troglodyte]]></entry>
-<entry id="str_monstername_trog_cultivator_X"><![CDATA[Cultiste troglodyte]]></entry>
-<entry id="str_monstername_trog_cultivator_Y"><![CDATA[Cultiste troglodyte]]></entry>
-<entry id="str_monstername_trog_cultivator_Z"><![CDATA[Cultiste troglodyte]]></entry>
 <entry id="str_monstername_trog_cultivated_corpse_A"><![CDATA[Cadavre ambré]]></entry>
 <entry id="str_monstername_trog_cultivated_corpse_B"><![CDATA[Cadavre ambré]]></entry>
 <entry id="str_monstername_trog_cultivated_corpse_C"><![CDATA[Cadavre ambré]]></entry>
@@ -2437,29 +2358,18 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_trog_pack_spear_E"><![CDATA[Lancier troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_spear_F"><![CDATA[Lancier troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_spear_G"><![CDATA[Lancier troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_spear_X"><![CDATA[Lancier troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_spear_Y"><![CDATA[Lancier troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_spear_Z"><![CDATA[Lancier troglodyte]]></entry>
 <entry id="str_monstername_trog_egg_B"><![CDATA[Nourrice troglodyte]]></entry>
 <entry id="str_monstername_trog_egg_C"><![CDATA[Nourrice troglodyte]]></entry>
 <entry id="str_monstername_trog_egg_G"><![CDATA[Nourrice troglodyte]]></entry>
-<entry id="str_monstername_trog_egg_Y"><![CDATA[Nourrice troglodyte]]></entry>
-<entry id="str_monstername_trog_egg_Z"><![CDATA[Nourrice troglodyte]]></entry>
 <entry id="str_monstername_trog_pterotillus_A"><![CDATA[Ptérotillus troglodyte]]></entry>
 <entry id="str_monstername_trog_pterotillus_B"><![CDATA[Ptérotillus troglodyte]]></entry>
 <entry id="str_monstername_trog_pterotillus_C"><![CDATA[Ptérotillus troglodyte]]></entry>
-<entry id="str_monstername_trog_pterotillus_X"><![CDATA[Ptérotillus troglodyte]]></entry>
-<entry id="str_monstername_trog_pterotillus_Y"><![CDATA[Ptérotillus troglodyte]]></entry>
-<entry id="str_monstername_trog_pterotillus_Z"><![CDATA[Ptérotillus troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_A"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_B"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_C"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_D"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_E"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_club_F"><![CDATA[Brute troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_club_X"><![CDATA[Brute troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_club_Y"><![CDATA[Brute troglodyte]]></entry>
-<entry id="str_monstername_trog_pack_club_Z"><![CDATA[Brute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_combo_es_B"><![CDATA[Meute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_combo_es_C"><![CDATA[Meute troglodyte]]></entry>
 <entry id="str_monstername_trog_pack_combo_ec_B"><![CDATA[Meute troglodyte]]></entry>
@@ -2488,6 +2398,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_trog_pack_combo_ssd_C"><![CDATA[Meute troglodyte]]></entry>
 <entry id="str_monstername_trog_gastrosaur_B"><![CDATA[Gastrosaure troglodyte]]></entry>
 <entry id="str_monstername_trog_greater_wurm_C"><![CDATA[Dévoreur des sables]]></entry>
+<entry id="str_monstername_trog_greater_wurm_I"><![CDATA[Dévoreur des sables]]></entry>
 <entry id="str_monstername_trog_greater_mouth_C"><![CDATA[Langue du Dévoreur]]></entry>
 <entry id="str_monstername_trog_wurm_A"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_B"><![CDATA[Ver des sables]]></entry>
@@ -2495,9 +2406,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_trog_wurm_D"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_E"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_F"><![CDATA[Ver des sables]]></entry>
-<entry id="str_monstername_trog_wurm_X"><![CDATA[Ver des sables]]></entry>
-<entry id="str_monstername_trog_wurm_Y"><![CDATA[Ver des sables]]></entry>
-<entry id="str_monstername_trog_wurm_Z"><![CDATA[Ver des sables]]></entry>
 <entry id="str_monstername_trog_wurm_dirt_A"><![CDATA[Tas de terre]]></entry>
 <entry id="str_monstername_trog_wurm_dirt_B"><![CDATA[Tas de terre]]></entry>
 <entry id="str_monstername_trog_wurm_dirt_C"><![CDATA[Tas de terre]]></entry>
@@ -2508,9 +2416,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_lost_missionary_A"><![CDATA[Missionnaire (Légion)]]></entry>
 <entry id="str_monstername_lost_missionary_B"><![CDATA[Missionnaire (Légion)]]></entry>
 <entry id="str_monstername_lost_missionary_C"><![CDATA[Missionnaire (Légion)]]></entry>
-<entry id="str_monstername_lost_missionary_X"><![CDATA[Missionnaire (Légion)]]></entry>
-<entry id="str_monstername_lost_missionary_Y"><![CDATA[Missionnaire (Légion)]]></entry>
-<entry id="str_monstername_lost_missionary_Z"><![CDATA[Missionnaire (Légion)]]></entry>
 <entry id="str_monstername_cact_hemophyll_A"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_B"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_C"><![CDATA[Globule cactonide]]></entry>
@@ -2523,9 +2428,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_hemophyll_E"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_F"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_G"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_cact_hemophyll_X"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_cact_hemophyll_Y"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_cact_hemophyll_Z"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_A"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_B"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_C"><![CDATA[Globule cactonide]]></entry>
@@ -2535,9 +2437,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_E"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_F"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_kvarotz_hemophyll_G"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_kvarotz_hemophyll_X"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_kvarotz_hemophyll_Y"><![CDATA[Globule cactonide]]></entry>
-<entry id="str_monstername_kvarotz_hemophyll_Z"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_flow_A"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_flow_B"><![CDATA[Globule cactonide]]></entry>
 <entry id="str_monstername_cact_hemophyll_flow_C"><![CDATA[Globule cactonide]]></entry>
@@ -2550,9 +2449,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_hominid_H"><![CDATA[Changeforme maudit]]></entry>
 <entry id="str_monstername_cact_hominid_I"><![CDATA[Changeforme maudit]]></entry>
 <entry id="str_monstername_cact_hominid_J"><![CDATA[Changeforme maudit]]></entry>
-<entry id="str_monstername_cact_hominid_X"><![CDATA[Changeforme cactonide]]></entry>
-<entry id="str_monstername_cact_hominid_Y"><![CDATA[Changeforme cactonide]]></entry>
-<entry id="str_monstername_cact_hominid_Z"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_hominid_flow_A"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_hominid_flow_B"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_hominid_flow_C"><![CDATA[Changeforme cactonide]]></entry>
@@ -2565,9 +2461,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_savage_H"><![CDATA[Changeforme maudit]]></entry>
 <entry id="str_monstername_cact_savage_I"><![CDATA[Changeforme maudit]]></entry>
 <entry id="str_monstername_cact_savage_J"><![CDATA[Changeforme maudit]]></entry>
-<entry id="str_monstername_cact_savage_X"><![CDATA[Changeforme cactonide]]></entry>
-<entry id="str_monstername_cact_savage_Y"><![CDATA[Changeforme cactonide]]></entry>
-<entry id="str_monstername_cact_savage_Z"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_savage_flow_A"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_savage_flow_B"><![CDATA[Changeforme cactonide]]></entry>
 <entry id="str_monstername_cact_savage_flow_C"><![CDATA[Changeforme cactonide]]></entry>
@@ -2583,9 +2476,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_vertev_H"><![CDATA[Vertiphile maudit]]></entry>
 <entry id="str_monstername_cact_vertev_I"><![CDATA[Vertiphile maudit]]></entry>
 <entry id="str_monstername_cact_vertev_J"><![CDATA[Vertiphile maudit]]></entry>
-<entry id="str_monstername_cact_vertev_X"><![CDATA[Vertiphile cactonide]]></entry>
-<entry id="str_monstername_cact_vertev_Y"><![CDATA[Vertiphile cactonide]]></entry>
-<entry id="str_monstername_cact_vertev_Z"><![CDATA[Vertiphile cactonide]]></entry>
 <entry id="str_monstername_cact_vertev_flow_A"><![CDATA[Vertiphile cactonide]]></entry>
 <entry id="str_monstername_cact_vertev_flow_B"><![CDATA[Vertiphile cactonide]]></entry>
 <entry id="str_monstername_cact_vertev_flow_C"><![CDATA[Vertiphile cactonide]]></entry>
@@ -2613,9 +2503,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_opulean_S"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_T"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_U"><![CDATA[Aspiciaque cactonide]]></entry>
-<entry id="str_monstername_cact_opulean_X"><![CDATA[Aspiciaque cactonide]]></entry>
-<entry id="str_monstername_cact_opulean_Y"><![CDATA[Aspiciaque cactonide]]></entry>
-<entry id="str_monstername_cact_opulean_Z"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_flow_A"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_flow_B"><![CDATA[Aspiciaque cactonide]]></entry>
 <entry id="str_monstername_cact_opulean_flow_C"><![CDATA[Aspiciaque cactonide]]></entry>
@@ -2628,9 +2515,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_necrobiote_H"><![CDATA[Marionnettiste maudit]]></entry>
 <entry id="str_monstername_cact_necrobiote_I"><![CDATA[Marionnettiste maudit]]></entry>
 <entry id="str_monstername_cact_necrobiote_J"><![CDATA[Marionnettiste maudit]]></entry>
-<entry id="str_monstername_cact_necrobiote_X"><![CDATA[Marionnettiste cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_Y"><![CDATA[Marionnettiste cactonide]]></entry>
-<entry id="str_monstername_cact_necrobiote_Z"><![CDATA[Marionnettiste cactonide]]></entry>
 <entry id="str_monstername_cact_necrobiote_flow_A"><![CDATA[Marionnettiste cactonide]]></entry>
 <entry id="str_monstername_cact_necrobiote_flow_B"><![CDATA[Marionnettiste cactonide]]></entry>
 <entry id="str_monstername_cact_necrobiote_flow_C"><![CDATA[Marionnettiste cactonide]]></entry>
@@ -2649,59 +2533,30 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_cact_imitator_S"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_T"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_U"><![CDATA[Mimique cactonide]]></entry>
-<entry id="str_monstername_cact_imitator_X"><![CDATA[Mimique cactonide]]></entry>
-<entry id="str_monstername_cact_imitator_Y"><![CDATA[Mimique cactonide]]></entry>
-<entry id="str_monstername_cact_imitator_Z"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_flow_A"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_flow_B"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_cact_imitator_flow_C"><![CDATA[Mimique cactonide]]></entry>
 <entry id="str_monstername_carrion_hive_A"><![CDATA[Reine carnassière]]></entry>
 <entry id="str_monstername_carrion_hive_B"><![CDATA[Reine carnassière]]></entry>
 <entry id="str_monstername_carrion_hive_C"><![CDATA[Reine carnassière]]></entry>
-<entry id="str_monstername_carrion_hive_X"><![CDATA[Reine carnassière]]></entry>
-<entry id="str_monstername_carrion_hive_Y"><![CDATA[Reine carnassière]]></entry>
-<entry id="str_monstername_carrion_hive_Z"><![CDATA[Reine carnassière]]></entry>
 <entry id="str_monstername_scorpion_nest_A"><![CDATA[TODO:Scorpion Nest]]></entry>
 <entry id="str_monstername_scorpion_nest_B"><![CDATA[TODO:Scorpion Nest]]></entry>
 <entry id="str_monstername_scorpion_nest_C"><![CDATA[TODO:Scorpion Nest]]></entry>
 <entry id="str_monstername_snail_urchin_A"><![CDATA[Escargot renforcé]]></entry>
 <entry id="str_monstername_snail_urchin_B"><![CDATA[Escargot plaqué]]></entry>
 <entry id="str_monstername_snail_urchin_C"><![CDATA[Escargot blindé]]></entry>
-<entry id="str_monstername_snail_urchin_E"><![CDATA[Escargot renforcé]]></entry>
-<entry id="str_monstername_snail_urchin_F"><![CDATA[Escargot plaqué]]></entry>
-<entry id="str_monstername_snail_urchin_G"><![CDATA[Escargot blindé]]></entry>
-<entry id="str_monstername_snail_urchin_H"><![CDATA[Escargot blindé]]></entry>
-<entry id="str_monstername_snail_urchin_X"><![CDATA[Escargot renforcé]]></entry>
-<entry id="str_monstername_snail_urchin_Y"><![CDATA[Escargot plaqué]]></entry>
-<entry id="str_monstername_snail_urchin_Z"><![CDATA[Escargot blindé]]></entry>
-<entry id="str_monstername_spider_spitter_E"><![CDATA[Cracheuse]]></entry>
-<entry id="str_monstername_spider_spitter_F"><![CDATA[Cracheuse géante]]></entry>
-<entry id="str_monstername_spider_spitter_G"><![CDATA[Cracheuse ancienne]]></entry>
-<entry id="str_monstername_spider_spitter_H"><![CDATA[Cracheuse ancienne]]></entry>
-<entry id="str_monstername_spider_spitter_X"><![CDATA[Cracheuse]]></entry>
-<entry id="str_monstername_spider_spitter_Y"><![CDATA[Cracheuse géante]]></entry>
-<entry id="str_monstername_spider_spitter_Z"><![CDATA[Cracheuse ancienne]]></entry>
-<entry id="str_monstername_spider_webber_E"><![CDATA[Tisseuse]]></entry>
-<entry id="str_monstername_spider_webber_F"><![CDATA[Tisseuse géante]]></entry>
-<entry id="str_monstername_spider_webber_G"><![CDATA[Tisseuse ancienne]]></entry>
-<entry id="str_monstername_spider_webber_H"><![CDATA[Tisseuse ancienne]]></entry>
-<entry id="str_monstername_spider_webber_X"><![CDATA[Tisseuse]]></entry>
-<entry id="str_monstername_spider_webber_Y"><![CDATA[Tisseuse géante]]></entry>
-<entry id="str_monstername_spider_webber_Z"><![CDATA[Tisseuse ancienne]]></entry>
-<entry id="str_monstername_maggot_E"><![CDATA[Larves]]></entry>
-<entry id="str_monstername_maggot_F"><![CDATA[Larves grouillantes]]></entry>
-<entry id="str_monstername_maggot_G"><![CDATA[Larves bulbeuses]]></entry>
-<entry id="str_monstername_maggot_H"><![CDATA[Larves bulbeuses]]></entry>
-<entry id="str_monstername_maggot_X"><![CDATA[Larves]]></entry>
-<entry id="str_monstername_maggot_Y"><![CDATA[Larves grouillantes]]></entry>
-<entry id="str_monstername_maggot_Z"><![CDATA[Larves bulbeuses]]></entry>
-<entry id="str_monstername_carrion_eater_E"><![CDATA[Mange-charogne]]></entry>
-<entry id="str_monstername_carrion_eater_F"><![CDATA[Mange-cadavre]]></entry>
-<entry id="str_monstername_carrion_eater_G"><![CDATA[Dévoreur de chair]]></entry>
-<entry id="str_monstername_carrion_eater_H"><![CDATA[Dévoreur de chair]]></entry>
-<entry id="str_monstername_carrion_eater_X"><![CDATA[Mange-charogne]]></entry>
-<entry id="str_monstername_carrion_eater_Y"><![CDATA[Mange-cadavre]]></entry>
-<entry id="str_monstername_carrion_eater_Z"><![CDATA[Dévoreur de chair]]></entry>
+<entry id="str_monstername_spider_spitter_A"><![CDATA[Cracheuse]]></entry>
+<entry id="str_monstername_spider_spitter_B"><![CDATA[Cracheuse géante]]></entry>
+<entry id="str_monstername_spider_spitter_C"><![CDATA[Cracheuse ancienne]]></entry>
+<entry id="str_monstername_spider_webber_A"><![CDATA[Tisseuse]]></entry>
+<entry id="str_monstername_spider_webber_B"><![CDATA[Tisseuse géante]]></entry>
+<entry id="str_monstername_spider_webber_C"><![CDATA[Tisseuse ancienne]]></entry>
+<entry id="str_monstername_maggot_A"><![CDATA[Larves]]></entry>
+<entry id="str_monstername_maggot_B"><![CDATA[Larves grouillantes]]></entry>
+<entry id="str_monstername_maggot_C"><![CDATA[Larves bulbeuses]]></entry>
+<entry id="str_monstername_carrion_eater_A"><![CDATA[Mange-charogne]]></entry>
+<entry id="str_monstername_carrion_eater_B"><![CDATA[Mange-cadavre]]></entry>
+<entry id="str_monstername_carrion_eater_C"><![CDATA[Dévoreur de chair]]></entry>
 <entry id="str_monstername_cact_wall_guard_C"><![CDATA[TODO:Thicket Guardian]]></entry>
 <entry id="str_monstername_cact_wall_melee_C"><![CDATA[TODO:Thicket Maws]]></entry>
 <entry id="str_monstername_cact_wall_spike_C"><![CDATA[TODO:Thicket Spire]]></entry>
@@ -2717,15 +2572,9 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_lost_fanatic_B"><![CDATA[TODO:Legion Punisher]]></entry>
 <entry id="str_monstername_lost_fanatic_C"><![CDATA[TODO:Legion Punisher]]></entry>
 <entry id="str_monstername_lost_fanatic_D"><![CDATA[TODO:Legion Punisher]]></entry>
-<entry id="str_monstername_lost_fanatic_X"><![CDATA[TODO:Legion Punisher]]></entry>
-<entry id="str_monstername_lost_fanatic_Y"><![CDATA[TODO:Legion Punisher]]></entry>
-<entry id="str_monstername_lost_fanatic_Z"><![CDATA[TODO:Legion Punisher]]></entry>
 <entry id="str_monstername_sand_charmer_A"><![CDATA[Charmeur des sables]]></entry>
 <entry id="str_monstername_sand_charmer_B"><![CDATA[Charmeur des sables]]></entry>
 <entry id="str_monstername_sand_charmer_C"><![CDATA[Charmeur des sables]]></entry>
-<entry id="str_monstername_sand_charmer_X"><![CDATA[Charmeur des sables]]></entry>
-<entry id="str_monstername_sand_charmer_Y"><![CDATA[Charmeur des sables]]></entry>
-<entry id="str_monstername_sand_charmer_Z"><![CDATA[Charmeur des sables]]></entry>
 <entry id="str_monstername_sand_sb_A"><![CDATA[Brise-bouclier envoûtée]]></entry>
 <entry id="str_monstername_sand_sb_B"><![CDATA[Brise-bouclier envoûtée]]></entry>
 <entry id="str_monstername_sand_sb_C"><![CDATA[Brise-bouclier envoûtée]]></entry>
@@ -2749,6 +2598,33 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_yngolian_small_H"><![CDATA[Cellule Y]]></entry>
 <entry id="str_monstername_kvarotz_crewmate_A"><![CDATA[Membre de l'équipage]]></entry>
 <entry id="str_monstername_crewmate_A"><![CDATA[Membre de l'équipage]]></entry>
+<entry id="str_monstername_wildlander_hecatomb_A"><![CDATA[Hécatombe sauvage]]></entry>
+<entry id="str_monstername_wildlander_hecatomb_B"><![CDATA[Hécatombe sauvage]]></entry>
+<entry id="str_monstername_wildlander_hecatomb_C"><![CDATA[Hécatombe sauvage]]></entry>
+<entry id="str_monstername_wildlander_hecatomb_D"><![CDATA[Hécatombe sauvage]]></entry>
+<entry id="str_monstername_wildlander_bear_A"><![CDATA[TODO:Wildlander Powderclaw]]></entry>
+<entry id="str_monstername_wildlander_bear_B"><![CDATA[TODO:Wildlander Powderclaw]]></entry>
+<entry id="str_monstername_wildlander_bear_C"><![CDATA[TODO:Wildlander Powderclaw]]></entry>
+<entry id="str_monstername_wildlander_bear_D"><![CDATA[TODO:Wildlander Powderclaw]]></entry>
+<entry id="str_monstername_baboon_C"><![CDATA[TODO:Bristleback Baboon]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_C"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_D"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_G"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_H"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_K"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_wildlander_ripperkin_L"><![CDATA[TODO:Wildlander Ripperkin]]></entry>
+<entry id="str_monstername_levantine_sarcophagus_C"><![CDATA[Sarcophage levantin]]></entry>
+<entry id="str_monstername_levantine_sarcophagus_G"><![CDATA[Sarcophage levantin]]></entry>
+<entry id="str_monstername_levantine_sarcophagus_K"><![CDATA[Sarcophage levantin]]></entry>
+<entry id="str_monstername_trog_prodigy_C"><![CDATA[Larve troglodyte]]></entry>
+<entry id="str_monstername_trog_prodigy_perfect_C"><![CDATA[Prodige troglodyte]]></entry>
+<entry id="str_monstername_trog_prodigy_flawed_C"><![CDATA[Aberration troglodyte]]></entry>
+<entry id="str_monstername_kvarotz_weld_A"><![CDATA[Kvarotz T'Hanur]]></entry>
+<entry id="str_monstername_kvarotz_weld_B"><![CDATA[Kvarotz T'Hanur]]></entry>
+<entry id="str_monstername_kvarotz_weld_C"><![CDATA[Kvarotz T'Hanur]]></entry>
+<entry id="str_monstername_lost_seneschal_C"><![CDATA[Sénéchal (Légion)]]></entry>
+<entry id="str_monstername_kvarotz_acolyte_C"><![CDATA[Acolyte Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_offering_C"><![CDATA[Offrande]]></entry>
 <entry id="monster_panel_skills"><![CDATA[Cibles                         Compétences]]></entry>
 <entry id="str_monster_skill_levantine_champ_punch"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʑ{colour_end}Brise-côtes]]></entry>
 <entry id="str_monster_skill_levantine_champ_headbutt"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʓ{colour_end}Impact crânien]]></entry>
@@ -2759,7 +2635,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_levantine_champ_crushing_1"><![CDATA[TODO:Crushing Advance]]></entry>
 <entry id="str_monster_skill_levantine_champ_crushing_2"><![CDATA[TODO:Crushing Advance]]></entry>
 <entry id="str_monster_skill_levantine_grunt_slash"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Frappe maîtrisée]]></entry>
-<entry id="str_monster_skill_levantine_grunt_slash_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Frappe maîtrisée]]></entry>
+<entry id="str_monster_skill_levantine_grunt_slash_stealth"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɨ{colour_end}Frappe aveugle]]></entry>
 <entry id="str_monster_skill_levantine_grunt_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Frappe stratégique]]></entry>
 <entry id="str_monster_skill_levantine_grunt_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɘɘɩɦʐʗ{colour_end}Derrière-moi !]]></entry>
 <entry id="str_monster_skill_levantine_grunt_solid_advance"><![CDATA[{colour_start|white}ɪʥɘɘɣɣɩɧʐ{colour_end}Avancée stratégique]]></entry>
@@ -2814,11 +2690,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_rak_human_arrogance"><![CDATA[TODO:Air of Arrogance]]></entry>
 <entry id="str_monster_skill_rak_beast_attack"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɨ{colour_end}Griffure]]></entry>
 <entry id="str_monster_skill_rak_beast_shout"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦɮʑ{colour_end}Rugissement spirituel]]></entry>
-<entry id="str_monster_skill_appraiser_flash"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɮʑ{colour_end}Poudre aveuglante]]></entry>
-<entry id="str_monster_skill_appraiser_buff"><![CDATA[{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɧʐ{colour_end}Vapeurs fortifiantes]]></entry>
+<entry id="str_monster_skill_appraiser_flash"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʊɮʑ{colour_end}Poudre aveuglante]]></entry>
+<entry id="str_monster_skill_appraiser_blight"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɦʏɮ{colour_end}Vapeurs putrides]]></entry>
+<entry id="str_monster_skill_appraiser_buff"><![CDATA[{colour_start|white}ɚɛɛɜɥɘɘɣɣɩɧʐ{colour_end}Vapeurs fortifiantes]]></entry>
 <entry id="str_monster_skill_appraiser_stealth"><![CDATA[{colour_start|white}ɪʨɣɣɣɣɩɧʚ{colour_end}Voile mortuaire]]></entry>
 <entry id="str_monster_skill_appraiser_heal"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦɬɭ{colour_end}Vapeurs vivifiantes]]></entry>
-<entry id="str_monster_skill_appraiser_res"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʠʀ{colour_end}Protecteur osseux]]></entry>
+<entry id="str_monster_skill_appraiser_res"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʋʠʀ{colour_end}Protecteur osseux]]></entry>
 <entry id="str_monster_skill_pursuer_mark"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʔʑ{colour_end}Œil de faucon]]></entry>
 <entry id="str_monster_skill_pursuer_pursue"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩɦɷʎ{colour_end}Assaut aérien]]></entry>
 <entry id="str_monster_skill_pursuer_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Katana]]></entry>
@@ -2871,7 +2748,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_judicator_faith"><![CDATA[TODO:Prove your Faith!]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_necrotic_hack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Frappe nécrosée]]></entry>
 <entry id="str_monster_skill_kvarotz_mekhrub_clumsy_hack"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɘɣɩɨ{colour_end}Frappe maladroite]]></entry>
-<entry id="str_monster_skill_kvarotz_mekhrub_eternal_vigil"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Sentinelle éternelle]]></entry>
+<entry id="str_monster_skill_kvarotz_mekhrub_eternal_vigil"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Sentinelle éternelle]]></entry>
 <entry id="str_monster_skill_naroz_necrotic_hack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧʑ{colour_end}Frappe nécrosée]]></entry>
 <entry id="str_monster_skill_naroz_clumsy_hack"><![CDATA[{colour_start|white}ɘɘɡɡʩɘɘɘɣɩɨ{colour_end}Frappe maladroite]]></entry>
 <entry id="str_monster_skill_gagahl_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɲ{colour_end}Grappin propulsé]]></entry>
@@ -2880,8 +2757,8 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_gagahl_prep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʁ{colour_end}Éveil]]></entry>
 <entry id="str_monster_skill_golem_godsplitter_full"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Godsplitter]]></entry>
 <entry id="str_monster_skill_golem_godsplitter_empty"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Godsplitter]]></entry>
-<entry id="str_monster_skill_golem_godsplitter_stealth1"><![CDATA[TODO:Godsplitter]]></entry>
-<entry id="str_monster_skill_golem_godsplitter_stealth2"><![CDATA[TODO:Godsplitter]]></entry>
+<entry id="str_monster_skill_golem_godsplitter_stealth1"><![CDATA[TODO:Blindsplitter]]></entry>
+<entry id="str_monster_skill_golem_godsplitter_stealth2"><![CDATA[TODO:Blindsplitter]]></entry>
 <entry id="str_monster_skill_golem_evil_full"><![CDATA[{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Appel du crépuscule]]></entry>
 <entry id="str_monster_skill_golem_evil_full_afterprep"><![CDATA[{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Appel du crépuscule]]></entry>
 <entry id="str_monster_skill_golem_evil_empty"><![CDATA[{colour_start|white}ɪɥʫɩʀɮɶ{colour_end}Appel du crépuscule]]></entry>
@@ -2903,7 +2780,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_totakh_corpse_suck"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩʠɬʐ{colour_end}Munition morbide]]></entry>
 <entry id="str_monster_skill_totakh_prep"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɧɮ{colour_end}Présage funeste]]></entry>
 <entry id="str_monster_skill_boneman_attack"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Frappe impie]]></entry>
-<entry id="str_monster_skill_boneman_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩɦʐʗ{colour_end}Gardien des vivants]]></entry>
+<entry id="str_monster_skill_boneman_guard"><![CDATA[{colour_start|white}əəəəɥɣɣɣɣɩʋʐʗ{colour_end}Gardien des vivants]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
 <entry id="str_monster_skill_wildlander_if_it_bleeds_stealth"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɧʎ{colour_end}Que ça saigne]]></entry>
 <entry id="str_monster_skill_wildlander_breakthru"><![CDATA[{colour_start|white}ɘɠɞɟʦɘɣɣɣɩɧʑ{colour_end}Massacre]]></entry>
@@ -3035,12 +2912,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit5"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Régurgiter]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit6"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Régurgiter]]></entry>
 <entry id="str_monster_skill_hornedtoad_vomit7"><![CDATA[{colour_start|white}ɘɘɠɟɥʫɩɦʀʏ{colour_end}Régurgiter]]></entry>
-<entry id="str_monster_skill_carrion_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
-<entry id="str_monster_skill_carrion_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʐʑɮ{colour_end}Bourdonnement]]></entry>
-<entry id="str_monster_skill_carrion_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɦʐʏ{colour_end}Dard venimeux]]></entry>
-<entry id="str_monster_skill_sentry_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʎ{colour_end}Mandibules]]></entry>
-<entry id="str_monster_skill_sentry_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
-<entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
+<entry id="str_monster_skill_carrion_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʎ{colour_end}Mandibules]]></entry>
+<entry id="str_monster_skill_carrion_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦʑɮ{colour_end}Bourdonnement]]></entry>
+<entry id="str_monster_skill_carrion_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɧʏ{colour_end}Dard venimeux]]></entry>
+<entry id="str_monster_skill_sentry_bite"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɷʎ{colour_end}Mandibules]]></entry>
+<entry id="str_monster_skill_sentry_buzz"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
+<entry id="str_monster_skill_sentry_buzz_prep"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɘɩʊɯʔ{colour_end}Œil de l'essaim]]></entry>
 <entry id="str_monster_skill_sentry_sting"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Dard venimeux]]></entry>
 <entry id="str_monster_skill_vulture_eat"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɭʐ{colour_end}CORPSE PICK]]></entry>
 <entry id="str_monster_skill_vulture_pursue"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɷʎ{colour_end}PURSUE]]></entry>
@@ -3115,7 +2992,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_wurm_stun"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩʓʻʁ{colour_end}Earthen Eruption]]></entry>
 <entry id="str_monster_skill_wurm_consume"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥʫɩɧʎ{colour_end}It Feasts]]></entry>
 <entry id="str_monster_skill_wurm_shuffle"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʫɩɧɳ{colour_end}Terrasonic Slam]]></entry>
-<entry id="str_monster_skill_trog_pterotillus_tongue"><![CDATA[{colour_start|white}ɘɘɡɡɥɘɘɣɣɩɧʑ{colour_end}Dégustation]]></entry>
+<entry id="str_monster_skill_trog_pterotillus_tongue"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɧʑ{colour_end}Dégustation]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_spit"><![CDATA[{colour_start|white}ɡɡɡɘɥɘɘɣɣɩɦʏʖ{colour_end}Bile insectoïde]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_screech"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɮɯʖ{colour_end}Écholocalisation]]></entry>
 <entry id="str_monster_skill_trog_pterotillus_wing"><![CDATA[{colour_start|white}ɘɘɡɡʨɣɣɘɘɩɨ{colour_end}Cru-ailes]]></entry>
@@ -3133,6 +3010,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_greater_wurm_cannon"><![CDATA[FEU À VOLONTÉ !]]></entry>
 <entry id="str_monster_skill_greater_wurm_slam"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʲɩɦʓɱ{colour_end}Earthcrash]]></entry>
 <entry id="str_monster_skill_greater_wurm_scream"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɧɮ{colour_end}Colossus Scream]]></entry>
+<entry id="str_monster_skill_greater_wurm_vomit"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥʲɩɧʏ{colour_end}Acidic Monsoon]]></entry>
 <entry id="str_monster_skill_greater_tongue_lash"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɘɘɘɩɧʏ{colour_end}Lingual Whip]]></entry>
 <entry id="str_monster_skill_greater_tongue_latch"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɘɘɘɩɧɲ{colour_end}It Hungers]]></entry>
 <entry id="str_monster_skill_missionary_martyr"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦɻʑ{colour_end}Purification]]></entry>
@@ -3159,10 +3037,10 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_cact_homonid_heal_clone"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦɬɭ{colour_end}Croissance de combat]]></entry>
 <entry id="str_monster_skill_cact_homonid_flash_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʊɮʑ{colour_end}Grenade de spores]]></entry>
 <entry id="str_monster_skill_cact_homonid_melee"><![CDATA[{colour_start|white}ɘɘɡɡʩɣɣɘɘɩɨ{colour_end}Fouet liane]]></entry>
-<entry id="str_monster_skill_cact_sav_eject"><![CDATA[{colour_start|white}ɪɥɣɣɘɘɩɦʐʕ{colour_end}Frénésie]]></entry>
-<entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɦʐʏ{colour_end}Crachat]]></entry>
-<entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɦʐɬ{colour_end}La Faim]]></entry>
-<entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦʐʎ{colour_end}Mandibules]]></entry>
+<entry id="str_monster_skill_cact_sav_eject"><![CDATA[{colour_start|white}ɪɥɣɣɘɘɩɧʕ{colour_end}Frénésie]]></entry>
+<entry id="str_monster_skill_cact_sav_webber_clone"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɘɘɩɧʏ{colour_end}Crachat]]></entry>
+<entry id="str_monster_skill_cact_sav_thirst_clone"><![CDATA[{colour_start|white}ɘɘɡɡʤɘɘɣɣɩɧɬ{colour_end}La Faim]]></entry>
+<entry id="str_monster_skill_cact_sav_bite_clone"><![CDATA[{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɹʎ{colour_end}Mandibules]]></entry>
 <entry id="str_monster_skill_cact_vetev_shuffle"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮɴ{colour_end}Liquide psychotrope]]></entry>
 <entry id="str_monster_skill_cact_vertev_lick"><![CDATA[{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮʖ{colour_end}Léchouille]]></entry>
 <entry id="str_monster_skill_cact_vetev_pull"><![CDATA[{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Prise ferme]]></entry>
@@ -3202,7 +3080,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_alraune_grab_setup2"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɧʶ{colour_end}Looking for Love]]></entry>
 <entry id="str_monster_skill_alraune_grab"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɧʺ{colour_end}Matchmaker]]></entry>
 <entry id="str_monster_skill_alraune_punch"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Impose]]></entry>
-<entry id="str_monster_skill_alraune_punch_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Impose]]></entry>
+<entry id="str_monster_skill_alraune_punch_stealth"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʫɩɧʓ{colour_end}Flex]]></entry>
 <entry id="str_monster_skill_alraune_pull"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥʫɩɦɲʑ{colour_end}Welcoming Embrace]]></entry>
 <entry id="str_monster_skill_alraune_petals"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɦʡʵ{colour_end}Flirt with Death]]></entry>
 <entry id="str_monster_skill_boquet_pollen"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧʑ{colour_end}Sickly Scent]]></entry>
@@ -3226,7 +3104,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_summon_sand3"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
 <entry id="str_monster_skill_summon_sand3_afterprep"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʟʀ{colour_end}Charmante mélodie]]></entry>
 <entry id="str_monster_skill_sand_sb_snakes"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɣɣɣɣɩɦɷʏ{colour_end}Scaled Strike]]></entry>
-<entry id="str_monster_skill_sand_sb_pierce"><![CDATA[TODO:{colour_start|white}ɘɘɡɡɥɣɣɣɣɩɧʹ{colour_end}Shardspear]]></entry>
+<entry id="str_monster_skill_sand_sb_pierce"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɣɣɣɣɩɧʹ{colour_end}Shardspear]]></entry>
 <entry id="str_monster_skill_sand_sb_puncture"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɣɣɣɣɩɦʊʘ{colour_end}Fangs of the Dunes]]></entry>
 <entry id="str_monster_skill_sand_bh_collect"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɘɩɧɷ{colour_end}Sand Collect]]></entry>
 <entry id="str_monster_skill_sand_bh_pull"><![CDATA[TODO:{colour_start|white}ɡɡɘɘɥɣɣɣɣɩɧɲ{colour_end}Glass Grasp]]></entry>
@@ -3236,16 +3114,59 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_sand_occ_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɧɬ{colour_end}Dune Reconstruction]]></entry>
 <entry id="str_monster_skill_sand_occ_stygian"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʚʐ{colour_end}Desert's Embrace]]></entry>
 <entry id="str_monster_skill_sand_occ_mark"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɮʔʑ{colour_end}Sands Take You]]></entry>
-<entry id="str_monster_skill_yng_space_1"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Alignement cosmique]]></entry>
-<entry id="str_monster_skill_yng_space_2"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Alignement cosmique]]></entry>
-<entry id="str_monster_skill_yng_space_3"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Alignement cosmique]]></entry>
-<entry id="str_monster_skill_yng_space_4"><![CDATA[{colour_start|white}ɪɥʫɩɦɮʀ{colour_end}Alignement cosmique]]></entry>
+<entry id="str_monster_skill_yng_space_1"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Alignement cosmique]]></entry>
+<entry id="str_monster_skill_yng_space_2"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Alignement cosmique]]></entry>
+<entry id="str_monster_skill_yng_space_3"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Alignement cosmique]]></entry>
+<entry id="str_monster_skill_yng_space_4"><![CDATA[{colour_start|white}ɪɥʫɩɧʀ{colour_end}Alignement cosmique]]></entry>
 <entry id="str_monster_skill_yng_gravity"><![CDATA[{colour_start|white}ɡɡɡɡɥʫɩɦʷʑ{colour_end}Gravité erronée]]></entry>
 <entry id="str_monster_skill_yng_meteor"><![CDATA[{colour_start|white}ɘɘɡɡɥʫɩɨ{colour_end}Créateur de cratères]]></entry>
-<entry id="str_monster_skill_yng_laser"><![CDATA[{colour_start|white}ɘɠɞɟɥʫɩʹʻɮ{colour_end}Hurlement du néant]]></entry>
+<entry id="str_monster_skill_yng_laser"><![CDATA[{colour_start|white}ɘɠɞɟɥʫɩʹʻɯ{colour_end}Hurlement du néant]]></entry>
 <entry id="str_monster_skill_yng_arm"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦʐʁ{colour_end}Radiation]]></entry>
 <entry id="str_monster_skill_yng_explode"><![CDATA[{colour_start|white}ɠɞɞɟɥɣɣɣɣɩʏʑʟ{colour_end}Réalité déchirée]]></entry>
 <entry id="str_monster_skill_crewmate_run"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʟ{colour_end}Fuite]]></entry>
+<entry id="str_monster_skill_hecatomb_invo"><![CDATA[TODO:{colour_start|white}ɘɠɞɟɥɣɣɘɘɩɦɮʑ{colour_end}Wrath of the Doomed]]></entry>
+<entry id="str_monster_skill_hecatomb_invo_prep"><![CDATA[TODO:{colour_start|white}ɘɠɞɟɥɣɣɘɘɩɦɮʑ{colour_end}Wrath of the Doomed]]></entry>
+<entry id="str_monster_skill_hecatomb_prepare"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦʆʐ{colour_end}Prepare Offering]]></entry>
+<entry id="str_monster_skill_hecatomb_kill"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥɣɣɣɣɩʟɬʐ{colour_end}For the Pantheon!]]></entry>
+<entry id="str_monster_skill_hecatomb_kill_self"><![CDATA[TODO:{colour_start|white}ɚɛɛɜɥɣɣɣɣɩɮɬʐ{colour_end}For the Pantheon!]]></entry>
+<entry id="str_monster_skill_hecatomb_headbutt"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Horn Ram]]></entry>
+<entry id="str_monster_skill_hecatomb_pierce"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɘɘɩɦɯʑ{colour_end}Sacrificial Curse]]></entry>
+<entry id="str_monster_skill_bear_mark_rank"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʬɩɧ̣{colour_end}Cannonade]]></entry>
+<entry id="str_monster_skill_bear_shoot_mark"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥʫɩɧʓ{colour_end}Incoming!]]></entry>
+<entry id="str_monster_skill_bear_maul"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɦʑʎ{colour_end}Bestial Slash]]></entry>
+<entry id="str_monster_skill_bear_trample"><![CDATA[TODO:{colour_start|white}ɘɠɞɟʥʯɩɨ{colour_end}Force of Nature]]></entry>
+<entry id="str_monster_skill_baboon_eat"><![CDATA[TODO:{colour_start|white}əəəɘɥɘɘɣɣɩʟʐɬ{colour_end}Munch]]></entry>
+<entry id="str_monster_skill_baboon_swing"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥɘɘɣɣɩɧɱ{colour_end}Wrecking Ball]]></entry>
+<entry id="str_monster_skill_baboon_throw"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɘɣɣɣɩɦʏʓ{colour_end}Primate Pitch]]></entry>
+<entry id="str_monster_skill_baboon_splash"><![CDATA[TODO:{colour_start|white}ɘɘɠɟʨɣɣɣɘɩɦʏʑ{colour_end}Baboom]]></entry>
+<entry id="str_monster_skill_baboon_howl"><![CDATA[TODO:{colour_start|white}ɠɞɞɟɥɘɣɣɣɩɮʐʑ{colour_end}Feeding Frenzy]]></entry>
+<entry id="str_monster_skill_ripper_devour_ally2"><![CDATA[TODO:{colour_start|white}əəɘɘɥʭɩʟɬʁ{colour_end}Fueled by Blood]]></entry>
+<entry id="str_monster_skill_ripper_devour_ally1"><![CDATA[TODO:{colour_start|white}əəɘɘɥʭɩʟɬʁ{colour_end}Fueled by Blood]]></entry>
+<entry id="str_monster_skill_ripper_devour_corpses"><![CDATA[TODO:{colour_start|white}ɪɥʭɩʋʠʐ{colour_end}Deathly Morsel]]></entry>
+<entry id="str_monster_skill_ripper_treat"><![CDATA[TODO:{colour_start|white}ɪɥʫɩɧʐ{colour_end}Feed the Beast]]></entry>
+<entry id="str_monster_skill_ripper_saw"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥʰɩɦʡʎ{colour_end}Mandiblades]]></entry>
+<entry id="str_monster_skill_ripper_tail"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʨʰɩɧɱ{colour_end}Tenderize]]></entry>
+<entry id="str_monster_skill_sarco_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩʟɬʐ{colour_end}Give to the Levantine]]></entry>
+<entry id="str_monster_skill_sarco_grasp"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦʟʑ{colour_end}Dune of the Dead]]></entry>
+<entry id="str_monster_skill_sarco_grasp_stress"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʟʑɮ{colour_end}Dune of the Dead]]></entry>
+<entry id="str_monster_skill_sarco_melee"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʩɣɘɘɘɩɨ{colour_end}Crypt Creeper]]></entry>
+<entry id="str_monster_skill_sarco_spirits"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɘɣɣɩʡɯʑ{colour_end}Cursebearer]]></entry>
+<entry id="str_monster_skill_sarco_veil"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɬɮʓ{colour_end}Abominable Undeath]]></entry>
+<entry id="str_monster_skill_trog_prodigy_bond"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɣɣɩɦʗʐ{colour_end}Synaptic Bond]]></entry>
+<entry id="str_monster_skill_trog_prodigy_gnaw"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɧɮ{colour_end}Gestate]]></entry>
+<entry id="str_monster_skill_trog_prodigy_transform_perfect"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʁ{colour_end}Miraculous Emergence]]></entry>
+<entry id="str_monster_skill_trog_prodigy_transform_flawed"><![CDATA[TODO:{colour_start|white}ɪɥɣɣɣɣɩɦɬʁ{colour_end}Premature Expulsion]]></entry>
+<entry id="str_monster_skill_trog_prodigy_perfect_stress"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩɦɮ̤{colour_end}Sinister Perfection]]></entry>
+<entry id="str_monster_skill_trog_prodigy_perfect_amber"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʡɽɺ{colour_end}Petrifaction]]></entry>
+<entry id="str_monster_skill_trog_prodigy_flawed_swipe"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩʟʎɮ{colour_end}Malformed Rage]]></entry>
+<entry id="str_monster_skill_trog_prodigy_flawed_spray"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɣɣɣɣɩʟʏɮ{colour_end}Plagued Throes]]></entry>
+<entry id="str_monster_skill_weld"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦʙʐ{colour_end}Immortal Machines]]></entry>
+<entry id="str_monster_skill_hot_stab"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɘɣɣɣɩɧʑ{colour_end}Scalding Skewer]]></entry>
+<entry id="str_monster_skill_smokescreen"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɦʑʖ{colour_end}Suffocate]]></entry>
+<entry id="str_monster_skill_sen_bash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥʯɩɨ{colour_end}Mass]]></entry> 
+<entry id="str_monster_skill_sen_hurge"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɱ{colour_end}Begone!]]></entry>
+<entry id="str_monster_skill_sen_hew"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɻ{colour_end}Part the Tide]]></entry>
+<entry id="str_monster_skill_sen_holy_fervor"><![CDATA[TODO:{colour_start|white}ɚɛɛɜʬɩʙʕɵ{colour_end}Call Upon Thee]]></entry>
 <entry id="effect_tooltip_kill_enemy_type"><![CDATA[%s]]></entry>
 <entry id="enemy_type_name_corpses_tt"><![CDATA[Retire les cadavres^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_max"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -3269,16 +3190,18 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="buff_rule_tooltip_meleeonly"><![CDATA[Compétences {colour_start|attacktype}de mêlée{colour_end} : %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly"><![CDATA[Compétences {colour_start|attacktype}à distance{colour_end} : %s]]></entry>
 <entry id="buff_rule_tooltip_rangedonly_false"><![CDATA[Hors {colour_start|attacktype}distance{colour_end} : %s]]></entry>
+<entry id="buff_rule_tooltip_skill_false"><![CDATA[Pas %s : %s]]></entry>
 <entry id="camping_skill_effect_stress_heal_amount"><![CDATA[{colour_start|stressNOT1}Stress{colour_end} -%d]]></entry>
 <entry id="effect_tooltip_stress_heal_format"><![CDATA[{colour_start|stress}Stress{colour_end} -%d]]></entry>
 <entry id="str_spiritual"><![CDATA[{colour_start|attacktype}Mystique{colour_end}]]></entry>
 <entry id="str_scavenge"><![CDATA[TODO:{colour_start|attacktype}Utility{colour_end}]]></entry>
 <entry id="buff_rule_tooltip_meleeonly_false"><![CDATA[Hors {colour_start|attacktype}mêlée{colour_end} : %s]]></entry>
+<entry id="buff_rule_tooltip_attacking_monster_type_false"><![CDATA[%s quand pas attaqué par %s]]></entry>
 <entry id="effect_clear_guarded"><![CDATA[Destruction de {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="effect_clear_guarding"><![CDATA[Destruction de {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="skill_ignore_guard"><![CDATA[Ignore la {colour_start|guard}garde{colour_end}]]></entry>
 <entry id="str_ui_guard_break"><![CDATA[Garde brisée !]]></entry>
-<entry id="buff_stat_tooltip_stress_from_idle_in_town"><![CDATA[TODO:%+d stress when idle in town for a week]]></entry>
+<entry id="buff_stat_tooltip_stress_from_idle_in_town"><![CDATA[TODO:%+d stress when idle in Flameseeker for a week]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RESTO_STEAL_IMMUNE"><![CDATA[TODO:{colour_start|healhp}Restoration{colour_end} Can't be Stolen]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_attack_rating"><![CDATA[TODO:%+d ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_defense_rating"><![CDATA[TODO:%+d DODGE]]></entry>
@@ -3294,9 +3217,12 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_crit_chance"><![CDATA[TODO:%+d%% CRT]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_speed_rating"><![CDATA[TODO:%+d SPD]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_protection_rating"><![CDATA[TODO:%+d%% PROT]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_target_health_damage"><![CDATA[Target: {colour_start|harmful}Suffer{colour_end} %d HP]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_health_damage"><![CDATA[{colour_start|harmful}Suffer{colour_end} %d HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_stress_dmg_percent"><![CDATA[TODO:%+d%% {colour_start|stress}Stress{colour_end} Inflicted On Party]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_debuff_performer_group_other"><![CDATA[TODO:{colour_start|debuff}Debuff Others:{colour_end}
 ]]></entry>
+<entry id="buff_stat_tooltip_torchlight_burn_percent"><![CDATA[TODO:%+d%% Torch Burn Rate]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_heal_dot_amount_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_hp_dot_bleed_amount_percent"><![CDATA[TODO:%+d%% {colour_start|bleed}Bleed{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hp_heal_dot_amount_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
