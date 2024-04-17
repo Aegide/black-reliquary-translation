@@ -2144,6 +2144,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_kvarotz_apihr_A"><![CDATA[Encensoir Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_apihr_B"><![CDATA[Encensoir Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_apihr_C"><![CDATA[Encensoir Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_apihr_D"><![CDATA[Encensoir Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_apihr_E"><![CDATA[Encensoir Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_apihr_F"><![CDATA[Encensoir Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_apihr_G"><![CDATA[Encensoir Kvarotz]]></entry>
@@ -2223,6 +2224,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_harrier_A"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_B"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_C"><![CDATA[Chasseur sauvage]]></entry>
+<entry id="str_monstername_wildlander_harrier_D"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_N"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_O"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_P"><![CDATA[Chasseur sauvage]]></entry>
@@ -3228,6 +3230,8 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hp_heal_dot_amount_percent"><![CDATA[TODO:%+d%% {colour_start|healhp}Restoration{colour_end} Amount Applied]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_hp_dot_bleed_amount_percent"><![CDATA[TODO:%+d%% {colour_start|bleed}Bleed{colour_end} Amount Applied]]></entry>
 <entry id="buff_rule_data_tooltip_prep_round"><![CDATA[TODO: on {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_PREPARATION_TT_NEW"><![CDATA[TODO:ACC is Halved on {colour_start|prep_round}Prep Round{colour_end}
+Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT_NEW"><![CDATA[TODO:ACC is Halved on {colour_start|prep_round}Prep Round{colour_end}
 {colour_start|surprised}Surprised:{colour_end} ACC reduced by an additional 45ʪ{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_SURPRISE_PREPARATION_TT_NEW"><![CDATA[TODO:Ignore Prep Round ACC Reduction Moves: ACC Reduced by 50ʪ
@@ -3900,7 +3904,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT1"><![CDATA[TODO:On Combat Start: {colour_start|buff}Buff Party:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[TODO:+8 ACC, +4 SPD, +30ʪ {colour_start|healhp}Healing{colour_end} Received, -20ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_BACKPACK_TT3"><![CDATA[TODO: when no Trinkets are Equipped {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HOUR_SHEAL_TT"><![CDATA[{TODO:colour_start|stress}Stress Healing{colour_end} Received Disabled!]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HOUR_SHEAL_TT"><![CDATA[TODO:{colour_start|stress}Stress Healing{colour_end} Received Disabled!]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HOUR_TT1"><![CDATA[TODO: Party: {colour_start|healhp}Heal{colour_end} 40ʪ Max HP, Heal 20 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HOUR_TT2"><![CDATA[TODO: {colour_start|debuff}Debuff Party:{colour_end} -90ʪ {colour_start|healhp}Healing{colour_end} Received, {colour_start|stress}Stress Heal{colour_end} Received Disabled {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HOUR_TT3"><![CDATA[TODO: {colour_start|debuff}Debuff Party:{colour_end} +150ʪ {colour_start|stress}Stress{colour_end} Received From Retreating {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
@@ -3986,7 +3990,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="str_inventory_title_trinkettwilight_map"><![CDATA[Cape crépusculaire]]></entry>
 <entry id="str_inventory_title_trinkettwilight_print"><![CDATA[Tablette crépusculaire]]></entry>
 <entry id="str_inventory_title_trinkettwilight_crown"><![CDATA[Couronne crépusculaire]]></entry>
-<entry id="str_inventory_title_trinkettwilight_crown"><![CDATA[Sablier crépusculaire]]></entry>
+<entry id="str_inventory_title_trinkettwilight_hour"><![CDATA[Sablier crépusculaire]]></entry>
 <entry id="str_inventory_title_trinketfortifying_garlic"><![CDATA[Ail putride]]></entry>
 <entry id="str_inventory_title_trinketresolve_stone"><![CDATA[Pierre de progression]]></entry>
 <entry id="str_inventory_title_trinketderesolve_stone"><![CDATA[Pierre de régression]]></entry>
