@@ -69,16 +69,16 @@
 <entry id="philomath+str_heart_attack_consumed"><![CDATA[It... It takes me!]]></entry>
 
 
-<entry id="philomath+str_critbyhero"><![CDATA[I... Did that?]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[It reels...!]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[I- I understand now!]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[So effortlessly predicted.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[See it reel and stagger.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Only I can understand.]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[Its weakness is clear!]]></entry>
 <entry id="philomath+str_critbyhero"><![CDATA[Crushed by a superior mind.]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[I see...]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[I feel its power within me...]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[It empowers me... Why?]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[There is... Power in these whispers?]]></entry>
-<entry id="philomath+str_critbyhero"><![CDATA[These sickening thoughts... Strengthen me?]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[Your form betrays you.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[I drink from Its leaden cup.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[It empowers me, and I accept its toll.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[There is destruction in these whispers.]]></entry>
+<entry id="philomath+str_critbyhero"><![CDATA[These sickening thoughts... such comfort.]]></entry>
 
 <entry id="philomath+str_combat_knockback"><![CDATA[]]></entry>
 
@@ -165,17 +165,6 @@
 <entry id="philomath+str_bark_curiomeh"><![CDATA[Such a waste of my time...]]></entry>
 <entry id="philomath+str_bark_curiomeh"><![CDATA[How dull.]]></entry>
 <entry id="philomath+str_bark_curiomeh"><![CDATA[Not a single grain of knowledge to find.]]></entry>
-
-
-<entry id="philomath+str_bark_cerebral_numbing"><![CDATA[You seem tense. I will soften your thoughts.]]></entry>
-<entry id="philomath+str_bark_cerebral_numbing"><![CDATA[Relax yourse- Nevermind, I will do it for you.]]></entry>
-
-<entry id="philomath+str_bark_eldritch_restoration"><![CDATA[Cease your sniveling. This will repair you.]]></entry>
-<entry id="philomath+str_bark_eldritch_restoration"><![CDATA[Tireless studies have taught me this technique.]]></entry>
-
-<entry id="philomath+str_bark_criticism"><![CDATA[You have room to improve... But Im sure you will.]]></entry>
-<entry id="philomath+str_bark_criticism"><![CDATA[You could be doing better. You have it in you.]]></entry>
-
 
 <entry id="philomath+str_bark_increasingstress"><![CDATA[Losing focus...]]></entry>
 <entry id="philomath+str_bark_increasingstress"><![CDATA[It is speaking.]]></entry>
@@ -305,27 +294,6 @@
 <entry id="philomath+str_stress_heal_self_disease_vampire_blood_lust"><![CDATA[If only she could feel this with me!]]></entry>
 
 
-<entry id="philomath+str_wave_spawn_mash"><![CDATA[Am I asleep? How is any of this happening?!]]></entry>
-<entry id="philomath+str_wave_spawn_mash"><![CDATA[Is there no end to them?]]></entry>
-<entry id="philomath+str_wave_curio_room"><![CDATA[Need to catch my breath...]]></entry>
-<entry id="philomath+str_wave_curio_room"><![CDATA[It appears calm here... Finally.]]></entry>
-<entry id="philomath+str_wave_dungeon_weald"><![CDATA[A forest? How are we...?]]></entry>
-<entry id="philomath+str_wave_dungeon_weald"><![CDATA[Wait, how did we get here from the farm?]]></entry>
-<entry id="philomath+str_wave_dungeon_warrens"><![CDATA[This odor... I'd rather return to rotten crops!]]></entry>
-<entry id="philomath+str_wave_dungeon_warrens"><![CDATA[How does one navigate this hell?!]]></entry>
-<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[This rubble... Have I treaded it before?]]></entry>
-<entry id="philomath+str_wave_dungeon_crypts"><![CDATA[Endless sarcophagi in endless catacombs...]]></entry>
-<entry id="philomath+str_wave_dungeon_cove"><![CDATA[These waters ebb and flow at the same time...]]></entry>
-<entry id="philomath+str_wave_dungeon_cove"><![CDATA[These caves are... Are impossible!]]></entry>
-<entry id="philomath+str_wave_dungeon_farm"><![CDATA[This soil... Familiar, yet alien.]]></entry>
-<entry id="philomath+str_wave_dungeon_farm"><![CDATA[Close to reality, yet still so distant...]]></entry>
-<entry id="philomath+str_boss_miller_sadness"><![CDATA[His sorrow... Does he truly remember?]]></entry>
-<entry id="philomath+str_boss_miller_sadness"><![CDATA[Is this man not entirely gone?]]></entry>
-<entry id="philomath+str_wave_dungeon_darkestdungeon"><![CDATA[I am... Home...]]></entry>
-<entry id="philomath+str_wave_dungeon_town"><![CDATA[These streets... They are not...]]></entry>
-<entry id="philomath+str_wave_dungeon_town"><![CDATA[When did we return? Did we?]]></entry>
-
-
 <entry id="str_inventory_title_trinketnightshade_concoction"><![CDATA[Nightshade Concoction]]></entry>
 <entry id="str_inventory_title_trinketmood_tonic"><![CDATA[Mood Tonic]]></entry>
 <entry id="str_inventory_title_trinketguide_to_influence"><![CDATA[Guide to Influence 4th Ed.]]></entry>
@@ -361,13 +329,10 @@
 
 <entry id="buff_stat_tooltip_upgrade_discount_PHILO_TRINKET_EDGED_TT"><![CDATA[+10 DODGE if in Pos 1 or 2]]></entry>
 
-
-
 <entry id="str_inventory_set_title_cc_philomath"><![CDATA["To see my mind unviolated again..."]]></entry>
 
 <entry id="buff_rule_data_tooltip_somnium"><![CDATA[Somnium]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_camping_tooltip"><![CDATA[{colour_start|mark}Skill will be usable upon Nightmare Update.{colour_end}]]></entry>
-
 
 <entry id="combat_skill_name_philomath_head_trauma"><![CDATA[Head Trauma]]></entry>
 <entry id="combat_skill_name_philomath_page_cutter"><![CDATA[Page Cutter]]></entry>
@@ -375,8 +340,7 @@
 <entry id="combat_skill_name_philomath_breakdown"><![CDATA[Breakdown]]></entry>
 <entry id="combat_skill_name_philomath_eldritch_safeguard"><![CDATA[ {colour_start|white}əəəə{colour_end}
 Eldritch Safeguard]]></entry>
-<entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
-Absorbent Mind]]></entry>
+<entry id="combat_skill_name_philomath_absorbent_mind"><![CDATA[Absorbent Mind]]></entry>
 <entry id="combat_skill_name_philomath_malevolent_pact"><![CDATA[ {colour_start|white}ɚɛɛɜ{colour_end}
 Malevolent Pact]]></entry>
 
@@ -404,11 +368,11 @@ Malevolent Pact]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_horror_tooltip"><![CDATA[{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns
 {colour_start|buff}Buff Others:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_horror_tooltip2"><![CDATA[{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_1"><![CDATA[+25%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_2"><![CDATA[+27%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_3"><![CDATA[+30%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_4"><![CDATA[+32%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_5"><![CDATA[+35%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_1"><![CDATA[+15%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_2"><![CDATA[+17%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_3"><![CDATA[+20%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_4"><![CDATA[+22%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_buff_tooltip_5"><![CDATA[+25%% {colour_start|bleed}Bleed{colour_end} / {colour_start|blight}Blight{colour_end} Resist while {colour_start|guard}Guarding{colour_end}]]></entry>
 
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_other_tooltip"><![CDATA[Other Heroes:]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_other_horror_tooltip"><![CDATA[{colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
@@ -437,7 +401,7 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 {colour_start|stress}Horror{colour_end} 4 pts/tn for 3 tns]]></entry>
 <entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT1"><![CDATA[+15% {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT2"><![CDATA[+13% {colour_start|stress}Stress{colour_end} Received]]></entry>
-<entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT3"><![CDATA[+10% {colour_start|stress}Stress{colour_end} Received]]></entry>
+<entry id="buff_rule_data_tooltip_PHILO_DEBUFF_STRESS_TT3"><![CDATA[+10% {colour_start|stress}Stress{colour_end} Received if not {colour_start|affiliation_pagan}Pagan{colour_end}]]></entry>
 
 
 	<entry id="enemy_type_name_PHILO_ABSORBENT_MIND_SHEAL_12_TT"><![CDATA[Heal 3-4 {colour_start|stress}Stress{colour_end}]]></entry>
@@ -454,16 +418,16 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_1"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
 +10ʪ DMG, +4 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_2"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
-+12ʪ DMG, +5 ACC]]></entry>
++11ʪ DMG, +5 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_3"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
-+15ʪ DMG, +6 ACC]]></entry>
++12ʪ DMG, +6 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_4"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
-+17ʪ DMG, +7 ACC]]></entry>
++13ʪ DMG, +7 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_5"><![CDATA[{colour_start|buff}Buff Party:{colour_end}
-+20ʪ DMG, +8 ACC]]></entry>
++15ʪ DMG, +8 ACC]]></entry>
 
 <entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT1"><![CDATA[On Friendly Skill: {colour_start|blight}Blight Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +6%% CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5%% CRT, +2 SPD]]></entry>
 
 
 <entry id="camping_skill_name_unburden_mind"><![CDATA[UNBURDEN MIND]]></entry>
@@ -619,7 +583,7 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <!-- BR STUFF -->
 <entry id="camping_skill_effect_loot_PHILO_BREL_ACTIVITY_BLOCK"><![CDATA[On too many medications to go to the Bar]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_CRIT_TT"><![CDATA[+5% CRT]]></entry>
-<entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: -4ʪ]]></entry>
+<entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_STATS_TT"><![CDATA[ACC base: 85 / DMG mod: -50% / CRIT mod: +2ʪ]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_TT1"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} +4% Crits Received Chance {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_RIPO_TT2"><![CDATA[+20% {colour_start|debuff}Debuff{colour_end} Chance per Difficulty]]></entry>
 <entry id="camping_skill_effect_loot_PHILO_BREL_AFFLICT_TT"><![CDATA[{colour_start|afflicted}Consumed (100ʪ):{colour_end}
