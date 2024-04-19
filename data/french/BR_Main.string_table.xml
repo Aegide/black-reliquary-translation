@@ -3176,6 +3176,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_death_effect_effect"><![CDATA[TODO:died due to unfortunate circumstances.]]></entry>
 <entry id="buff_bsrc_flashback_result"><![CDATA[Bonus supplémentaires]]></entry>
 <entry id="buff_bsrc_flashback_start"><![CDATA[TODO:Expiated]]></entry>
+<entry id="buff_bsrc_guard"><![CDATA[Diver.]]></entry>
 <entry id="buff_bsrc_quest_failure"><![CDATA[TODO:Amberblighted]]></entry>
 <entry id="buff_bsrc_battle_modifier"><![CDATA[TODO:Battle Modifier]]></entry>
 <entry id="buff_bsrc_town"><![CDATA[Chasseur de la Flamme]]></entry>
@@ -3611,7 +3612,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT3"><![CDATA[TODO:On Attack: Party: {colour_start|stress}Stress{colour_end} Heal 5]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT4"><![CDATA[TODO:On Attack: Self: {colour_start|stress}Horror{colour_end} 3 pts/tn for 10 tns]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT5"><![CDATA[TODO:On Melee Attack Hit: Target: {colour_start|move}Push{colour_end} 3 {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT6"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} 3 {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT6"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} +15%% Crits Received {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT7"><![CDATA[TODO:On Mystical Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_transform"><![CDATA[Transformation]]></entry>
 <entry id="buff_rule_data_tooltip_abom_transform"><![CDATA[Transformation]]></entry>
@@ -3858,7 +3859,8 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entr
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_1_TT"><![CDATA[TODO: Gain 1 Additional Gem (50% chance)]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_2_TT"><![CDATA[TODO: Gain 1-2 Additional Gems (50% chance)]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_GEM_3_TT"><![CDATA[TODO: Gain 2 Additional Gems (50% chance)]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNG_HAND_CHA_TT"><![CDATA[TODO:Can be Used on any Curio to Turn it into a Gem]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_YNG_HAND_CHA_TT"><![CDATA[TODO:Can be Used on any Curio to Turn it into a Gem
+{colour_start|skill_unselectable}Must be used from Inventory{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT1"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT2"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 3 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_CELL_KILL_TT3"><![CDATA[TODO: {colour_start|blight}Blight{colour_end} Enemy Party 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100% base){colour_end}]]></entry>
@@ -5613,10 +5615,8 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 +15ʪ Stress]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HYSTERICAL_BLINDNESS_TENDED"><![CDATA[TODO:-3 ACC per 25 Stress (Caps at 75)
 +5ʪ Stress]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BAD_HUMOURS"><![CDATA[TODO:-20ʪ MAX HP
--10ʪ All Resists]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BAD_HUMOURS_TENDED"><![CDATA[TODO:-10ʪ MAX HP
--5ʪ All Resists]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BAD_HUMOURS"><![CDATA[TODO:-10ʪ All Resists]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BAD_HUMOURS_TENDED"><![CDATA[TODO:-5ʪ All Resists]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VERTIGO"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Shuffle Self (10ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THE_FITS"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Use Random Skill (8ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WASTING_SICKNESS"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Self: Receive Random Symptom (6ʪ Chance){colour_end}]]></entry>
