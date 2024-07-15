@@ -1,4 +1,4 @@
-# clear;sh bin/localization.sh
+# ./bin/localization.sh
 
 echo " "
 echo ">> CLEANING"
