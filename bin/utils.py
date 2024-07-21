@@ -19,6 +19,8 @@ TRANSLATION_DESTINATION_PATH = Path("build")
 REVIEW_PATH = Path("review")
 
 MONO_LINE_PATTERN = r'<entry id="[\w\|\+\-.\[\]( )]+"><!\[CDATA\[[^>]*?\]\]><\/entry>\n'
+CAPTURE_GROUP_START = r'<entry id="'
+CAPTURE_GROUP_END = r'"><![CDATA['
 
 
 def fake_translation():
@@ -99,13 +101,50 @@ def review_everything():
     for filename in listdir(TRANSLATION_DESTINATION_PATH):
         # print(f"Reviewing {filename}")
         review_translation(filename)
+        key_analysis(filename)
 
 
-def review_translation(filename:str):
+def key_analysis(filename:str):
+    language = "french"
+    translation_filepath = Path(TRANSLATION_SOURCE_PATH, language, filename)
+    original_filepath = Path(ORIGINAL_FILES_PATH, filename)
+
+    translation_key_list = get_key_list_from_file_path(translation_filepath)
+    original_key_list = get_key_list_from_file_path(original_filepath)
+
+    destination_filepath = Path(REVIEW_PATH, filename)
+    with open(destination_filepath, mode="w", encoding="utf8") as destination_file:
+
+        len_difference = len(translation_key_list)-len(original_key_list)
+        if len_difference != 0:
+            destination_file.write(f"Different amount of keys: {len_difference}\n")
+            for element in set(translation_key_list)-set(original_key_list):
+                destination_file.write(f"[Missing from original] {element}\n")
+            for element in set(original_key_list)-set(translation_key_list):
+                destination_file.write(f"[Missing from translation] {element}\n")
+
+
+
+def get_key_list_from_file_path(file_path:Path) -> list[str]:
+    key_list = []
+    with open(file_path, mode="r", encoding="utf8") as file:
+        file_content = file.read()
+        for element in file_content.split(CAPTURE_GROUP_START):
+            key_list.append(element.split(CAPTURE_GROUP_END)[0])
+    return key_list
+
+
+def get_key_list_from_file_content(file_content:str) -> list[str]:
+    key_list = []
+    for element in file_content.split(CAPTURE_GROUP_START):
+        key_list.append(element.split(CAPTURE_GROUP_END)[0])
+    return key_list
+
+
+def review_translation(filename:str) -> str:
     language = "french"
     source_filepath = Path(TRANSLATION_SOURCE_PATH, language, filename)
     destination_filepath = Path(REVIEW_PATH, filename)
-
     with open(source_filepath, mode="r", encoding="utf8") as source_file:
         with open(destination_filepath, mode="w", encoding="utf8") as destination_file:
             file_content = source_file.read()
@@ -130,3 +169,12 @@ def add_final_line_return(text:str):
 
 def remove_valid_lines(text:str):
     return sub(MONO_LINE_PATTERN, '', text)
+
+
+def main():
+    review_everything()
+
+
+if __name__ == "__main__":
+    main()
+
