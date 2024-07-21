@@ -274,9 +274,9 @@
 <entry id="graveyard_death_count_format"><![CDATA[Morts : %d/%d]]></entry>
 <entry id="help_panel_back"><![CDATA[{colour_start|help_panel_controls}Retour{colour_end}]]></entry>
 <entry id="help_panel_controls"><![CDATA[{colour_start|help_panel_controls}Contrôles{colour_end}]]></entry>
-<entry id="menu_options_element_allow_analytics_and_multiplayer"><![CDATA[Activer la collecte de données et le mode multijoueur (Pas utilisé par BR)]]></entry>
+<entry id="menu_options_element_allow_analytics_and_multiplayer"><![CDATA[Activer la collecte de données et le mode multijoueur (Inutilisé par Black Reliquary)]]></entry>
 <entry id="allow_analytics_and_multiplayer_query"><![CDATA[Il est nécessaire d'activer la collecte de données pour accéder aux fonctionnalités multijoueurs du DLC Cirque de la Bouchère. Cette option peut être modifiée à tout moment dans le menu Options.
-(Pas utilisé par BR)]]></entry>
+(Inutilisé par Black Reliquary)]]></entry>
 <entry id="allow_analytics_and_multiplayer_query_yes"><![CDATA[Activer la collecte de données]]></entry>
 <entry id="allow_analytics_and_multiplayer_query_no"><![CDATA[Désactiver la collecte de données]]></entry>
 <entry id="menu_options_element_tooltip_allow_analytics_and_multiplayer"><![CDATA[Consultez les conditions générales d'utilisation sur la page Magasin Steam de Darkest Dungeon pour y trouver notre politique de confidentialité.]]></entry>
