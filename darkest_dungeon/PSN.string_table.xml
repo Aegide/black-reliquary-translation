@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <language id="french">
+      <entry id="str_controls_room_context">
+         <![CDATA[Pièce]]>
+      </entry>
+      <entry id="str_controls_hallway_context">
+         <![CDATA[Couloir]]>
+      </entry>
+      <entry id="str_controls_combat_context">
+         <![CDATA[Combat]]>
+      </entry>
+      <entry id="str_controls_camping_context">
+         <![CDATA[Campement]]>
+      </entry>
+      <entry id="str_controls_town_context">
+         <![CDATA[Hameau]]>
+      </entry>
+      <entry id="str_controls_hero_activity_context">
+         <![CDATA[Taverne, abbaye, sanatorium]]>
+      </entry>
+      <entry id="str_controls_hero_action_context">
+         <![CDATA[Forge, guilde]]>
+      </entry>
+      <entry id="str_controls_stage_coach_context">
+         <![CDATA[Diligence]]>
+      </entry>
+      <entry id="str_controls_nomad_wagon_context">
+         <![CDATA[Roulotte]]>
+      </entry>
+      <entry id="str_controls_quest_select_context">
+         <![CDATA[Sélection de quête]]>
+      </entry>
+      <entry id="str_controls_provision_context">
+         <![CDATA[Approvisionnement]]>
+      </entry>
+      <entry id="str_controls_inventory_context">
+         <![CDATA[Inventaire]]>
+      </entry>
+      <entry id="str_controls_panel_title">
+         <![CDATA[Contrôles]]>
+      </entry>
+      <entry id="str_controls_panel_prev">
+         <![CDATA[Menu précédent]]>
+      </entry>
+      <entry id="str_controls_panel_next">
+         <![CDATA[Menu suivant]]>
+      </entry>
+      <entry id="str_controls_town_stage_coach_context">
+         <![CDATA[Diligence]]>
+      </entry>
+      <entry id="str_controls_town_blacksmith_context">
+         <![CDATA[Forge]]>
+      </entry>
+      <entry id="str_controls_town_guild_context">
+         <![CDATA[Guilde]]>
+      </entry>
+      <entry id="str_controls_town_camping_trainer_context">
+         <![CDATA[Entraînement au campement]]>
+      </entry>
+      <entry id="str_controls_town_tavern_context">
+         <![CDATA[Taverne]]>
+      </entry>
+      <entry id="str_controls_town_abbey_context">
+         <![CDATA[Abbaye]]>
+      </entry>
+      <entry id="str_controls_town_sanitarium_context">
+         <![CDATA[Sanatorium]]>
+      </entry>
+      <entry id="str_controls_town_nomad_wagon_context">
+         <![CDATA[Roulotte]]>
+      </entry>
+      <entry id="str_controls_town_quest_select_context">
+         <![CDATA[Sélection de quête]]>
+      </entry>
+      <entry id="str_controls_raid_room_context">
+         <![CDATA[Pièce]]>
+      </entry>
+      <entry id="str_controls_raid_hallway_context">
+         <![CDATA[Couloir]]>
+      </entry>
+      <entry id="str_controls_raid_combat_context">
+         <![CDATA[Combat]]>
+      </entry>
+      <entry id="str_controls_raid_camping_context">
+         <![CDATA[Campement]]>
+      </entry>
+      <entry id="hallway_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]hallway_start2">
+         <![CDATA[Abandonner la quête]]>
+      </entry>
+      <entry id="hallway_dpad_u">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="hallway_dpad_d">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="hallway_dpad_l_alternate_dpad_left_right">
+         <![CDATA[Héros préc.]]>
+      </entry>
+      <entry id="hallway_dpad_r_alternate_dpad_left_right">
+         <![CDATA[Héros suivant]]>
+      </entry>
+      <entry id="hallway_primary1">
+         <![CDATA[Interagir/déplacer héros]]>
+      </entry>
+      <entry id="hallway_secondary1">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="hallway_analog_stick_l">
+         <![CDATA[Déplacer groupe/sélection]]>
+      </entry>
+      <entry id="hallway_shoulder_l">
+         <![CDATA[(L1) Héros préc.]]>
+      </entry>
+      <entry id="hallway_shoulder_r">
+         <![CDATA[(R1) Héros suiv.]]>
+      </entry>
+      <entry id="hallway_trigger_l">
+         <![CDATA[(MAINTENIR L2) Statut]]>
+      </entry>
+      <entry id="hallway_trigger_r">
+         <![CDATA[(MAINTENIR R2) Commandes de carte]]>
+      </entry>
+      <entry id="[psv]hallway_shoulder_l">
+         <![CDATA[(touche gauche du pavé tactile arrière) Héros préc.]]>
+      </entry>
+      <entry id="[psv]hallway_shoulder_r">
+         <![CDATA[(touche droite du pavé tactile arrière) Héros suivant]]>
+      </entry>
+      <entry id="[psv]hallway_shoulder_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]hallway_shoulder_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]hallway_trigger_l">
+         <![CDATA[(MAINTENIR) Statut]]>
+      </entry>
+      <entry id="[psv]hallway_trigger_r">
+         <![CDATA[(MAINTENIR) Commandes de carte]]>
+      </entry>
+      <entry id="hallway_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="hallway_tpad_r">
+         <![CDATA[Abandonner la quête]]>
+      </entry>
+      <entry id="[psv]hallway_touch_screen_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile) Héros préc.]]>
+      </entry>
+      <entry id="[psv]hallway_touch_screen_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile) Héros suivant]]>
+      </entry>
+      <entry id="room_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]room_start2">
+         <![CDATA[Abandonner la quête]]>
+      </entry>
+      <entry id="room_dpad_u">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="room_dpad_d">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="room_dpad_l_alternate_dpad_left_right">
+         <![CDATA[Héros préc.]]>
+      </entry>
+      <entry id="room_dpad_r_alternate_dpad_left_right">
+         <![CDATA[Héros suivant]]>
+      </entry>
+      <entry id="room_primary1">
+         <![CDATA[Interagir/déplacer héros]]>
+      </entry>
+      <entry id="room_secondary1">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="room_analog_stick_l">
+         <![CDATA[Déplacer groupe/sélection]]>
+      </entry>
+      <entry id="room_analog_stick_r">
+         <![CDATA[Choisir la pièce suivante]]>
+      </entry>
+      <entry id="room_shoulder_l">
+         <![CDATA[(L1) Héros préc.]]>
+      </entry>
+      <entry id="room_shoulder_r">
+         <![CDATA[(R1) Héros suiv.]]>
+      </entry>
+      <entry id="room_trigger_l">
+         <![CDATA[(MAINTENIR L2) Statut]]>
+      </entry>
+      <entry id="room_trigger_r">
+         <![CDATA[(MAINTENIR R2) Commandes de carte]]>
+      </entry>
+      <entry id="[psv]room_shoulder_l">
+         <![CDATA[(touche gauche du pavé tactile arrière) Héros préc.]]>
+      </entry>
+      <entry id="[psv]room_shoulder_r">
+         <![CDATA[(touche droite du pavé tactile arrière) Héros suivant]]>
+      </entry>
+      <entry id="[psv]room_shoulder_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]room_shoulder_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]room_trigger_l">
+         <![CDATA[(MAINTENIR) Statut]]>
+      </entry>
+      <entry id="[psv]room_trigger_r">
+         <![CDATA[(MAINTENIR) Commandes de carte]]>
+      </entry>
+      <entry id="room_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="room_tpad_r">
+         <![CDATA[Abandonner la quête]]>
+      </entry>
+      <entry id="[psv]room_touch_screen_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile) Héros préc.]]>
+      </entry>
+      <entry id="[psv]room_touch_screen_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile) Héros suivant]]>
+      </entry>
+      <entry id="combat_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]combat_start2">
+         <![CDATA[Repli]]>
+      </entry>
+      <entry id="combat_dpad_u">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="combat_dpad_d">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="combat_primary2">
+         <![CDATA[Annuler/fermer]]>
+      </entry>
+      <entry id="combat_primary1">
+         <![CDATA[Sélectionner/utiliser]]>
+      </entry>
+      <entry id="combat_secondary1">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="combat_analog_stick_l">
+         <![CDATA[Compétence/sélection de cible]]>
+      </entry>
+      <entry id="combat_trigger_l">
+         <![CDATA[(MAINTENIR L2) Statut]]>
+      </entry>
+      <entry id="combat_trigger_r">
+         <![CDATA[(MAINTENIR R2) Commandes de carte]]>
+      </entry>
+      <entry id="[psv]combat_trigger_l">
+         <![CDATA[(MAINTENIR) Statut]]>
+      </entry>
+      <entry id="[psv]combat_trigger_r">
+         <![CDATA[(MAINTENIR) Commandes de carte]]>
+      </entry>
+      <entry id="combat_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="combat_tpad_r">
+         <![CDATA[Repli]]>
+      </entry>
+      <entry id="camping_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="camping_dpad_u">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="camping_dpad_d">
+         <![CDATA[Inventaire/carte]]>
+      </entry>
+      <entry id="camping_dpad_l_alternate_dpad_left_right">
+         <![CDATA[Héros préc.]]>
+      </entry>
+      <entry id="camping_dpad_r_alternate_dpad_left_right">
+         <![CDATA[Héros suivant]]>
+      </entry>
+      <entry id="camping_primary2">
+         <![CDATA[Annuler/fermer]]>
+      </entry>
+      <entry id="camping_primary1">
+         <![CDATA[Sélectionner/utiliser]]>
+      </entry>
+      <entry id="camping_secondary1">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="camping_analog_stick_l">
+         <![CDATA[Compétence/sélection de cible]]>
+      </entry>
+      <entry id="camping_shoulder_l">
+         <![CDATA[(L1) Héros préc.]]>
+      </entry>
+      <entry id="camping_shoulder_r">
+         <![CDATA[(R1) Héros suiv.]]>
+      </entry>
+      <entry id="camping_trigger_l">
+         <![CDATA[(MAINTENIR L2) Statut]]>
+      </entry>
+      <entry id="camping_trigger_r">
+         <![CDATA[(MAINTENIR R2) Commandes de carte]]>
+      </entry>
+      <entry id="[psv]camping_shoulder_l">
+         <![CDATA[(touche gauche du pavé tactile arrière) Héros préc.]]>
+      </entry>
+      <entry id="[psv]camping_shoulder_r">
+         <![CDATA[(touche droite du pavé tactile arrière) Héros suivant]]>
+      </entry>
+      <entry id="[psv]camping_shoulder_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]camping_shoulder_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]camping_trigger_l">
+         <![CDATA[(MAINTENIR) Statut]]>
+      </entry>
+      <entry id="[psv]camping_trigger_r">
+         <![CDATA[(MAINTENIR) Commandes de carte]]>
+      </entry>
+      <entry id="camping_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="[psv]camping_touch_screen_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile) Héros préc.]]>
+      </entry>
+      <entry id="[psv]camping_touch_screen_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile) Héros suivant]]>
+      </entry>
+      <entry id="town_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]town_start2">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="town_secondary2">
+         <![CDATA[Inventaire de breloques]]>
+      </entry>
+      <entry id="town_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="town_primary1">
+         <![CDATA[Entrer dans bâtiment]]>
+      </entry>
+      <entry id="town_secondary1">
+         <![CDATA[Quartiers]]>
+      </entry>
+      <entry id="town_analog_stick_l">
+         <![CDATA[Naviguer entre bâtiments]]>
+      </entry>
+      <entry id="town_shoulder_l">
+         <![CDATA[(L1) Évènements urbains]]>
+      </entry>
+      <entry id="town_shoulder_r">
+         <![CDATA[(R1) Journal d'activités]]>
+      </entry>
+      <entry id="[psv]town_shoulder_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]town_shoulder_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="town_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]town_shoulder_l">
+         <![CDATA[(touche gauche du pavé tactile arrière) Évènements urbains]]>
+      </entry>
+      <entry id="[psv]town_shoulder_r">
+         <![CDATA[(touche droite du pavé tactile arrière) Journal d'activités]]>
+      </entry>
+      <entry id="[psv]town_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="town_stick_l">
+         <![CDATA[[CLIC] Échange de legs]]>
+      </entry>
+      <entry id="town_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="town_tpad_r">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="[psv]town_touch_screen_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile) Évènements urbains]]>
+      </entry>
+      <entry id="[psv]town_touch_screen_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile) Journal d'activités]]>
+      </entry>
+      <entry id="hero_activity_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="hero_activity_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="hero_activity_primary1">
+         <![CDATA[Placer héros/confirmer traitement]]>
+      </entry>
+      <entry id="hero_activity_analog_stick_l">
+         <![CDATA[Indiquer emplacement/héros]]>
+      </entry>
+      <entry id="hero_activity_trigger_l">
+         <![CDATA[(MAINTENIR L2) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="hero_activity_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]hero_activity_trigger_l">
+         <![CDATA[(MAINTENIR) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="[psv]hero_activity_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="hero_activity_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="hero_action_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="hero_action_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="hero_action_primary1">
+         <![CDATA[Acheter amélioration]]>
+      </entry>
+      <entry id="hero_action_analog_stick_l">
+         <![CDATA[Indiquer héros]]>
+      </entry>
+      <entry id="hero_action_shoulder_l">
+         <![CDATA[Héros préc.]]>
+      </entry>
+      <entry id="hero_action_shoulder_r">
+         <![CDATA[Héros suivant]]>
+      </entry>
+      <entry id="hero_action_trigger_l">
+         <![CDATA[(MAINTENIR L2) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="hero_action_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]hero_action_shoulder_l">
+         <![CDATA[(touche gauche du pavé tactile arrière) Héros préc.]]>
+      </entry>
+      <entry id="[psv]hero_action_shoulder_r">
+         <![CDATA[(touche droite du pavé tactile arrière) Héros suivant]]>
+      </entry>
+      <entry id="[psv]hero_action_shoulder_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]hero_action_shoulder_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile arrière) Désactivé par option]]>
+      </entry>
+      <entry id="[psv]hero_action_trigger_l">
+         <![CDATA[(MAINTENIR) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="[psv]hero_action_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="hero_action_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="[psv]hero_action_touch_screen_l_rear_touchpad_enabled">
+         <![CDATA[(touche gauche du pavé tactile) Héros préc.]]>
+      </entry>
+      <entry id="[psv]hero_action_touch_screen_r_rear_touchpad_enabled">
+         <![CDATA[(touche droite du pavé tactile) Héros suivant]]>
+      </entry>
+      <entry id="nomad_wagon_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="nomad_wagon_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="nomad_wagon_primary1">
+         <![CDATA[Acheter breloque]]>
+      </entry>
+      <entry id="nomad_wagon_analog_stick_l">
+         <![CDATA[Parcourir breloques]]>
+      </entry>
+      <entry id="nomad_wagon_trigger_l">
+         <![CDATA[(MAINTENIR L2) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="nomad_wagon_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]nomad_wagon_trigger_l">
+         <![CDATA[(MAINTENIR) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="[psv]nomad_wagon_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="nomad_wagon_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="stage_coach_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="stage_coach_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="stage_coach_primary1">
+         <![CDATA[Recruter/placer dans la liste de recrues]]>
+      </entry>
+      <entry id="stage_coach_secondary1">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="stage_coach_analog_stick_l">
+         <![CDATA[Indiquer recrue]]>
+      </entry>
+      <entry id="stage_coach_trigger_l">
+         <![CDATA[(MAINTENIR L2) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="stage_coach_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]stage_coach_trigger_l">
+         <![CDATA[(MAINTENIR) Améliorations de bâtiment]]>
+      </entry>
+      <entry id="[psv]stage_coach_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="stage_coach_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="quest_select_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]quest_select_start2">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="quest_select_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="quest_select_primary1">
+         <![CDATA[Placer/retirer héros du groupe]]>
+      </entry>
+      <entry id="quest_select_analog_stick_l">
+         <![CDATA[Sélectionner quête]]>
+      </entry>
+      <entry id="quest_select_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]quest_select_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="quest_select_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="quest_select_tpad_r">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="provision_start1">
+         <![CDATA[Menu]]>
+      </entry>
+      <entry id="[psv]provision_start2">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="provision_primary2">
+         <![CDATA[Annuler/retour]]>
+      </entry>
+      <entry id="provision_primary1">
+         <![CDATA[Acheter/vendre provisions]]>
+      </entry>
+      <entry id="provision_analog_stick_l">
+         <![CDATA[Sélectionner provisions]]>
+      </entry>
+      <entry id="provision_trigger_r">
+         <![CDATA[(MAINTENIR R2) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="[psv]provision_trigger_r">
+         <![CDATA[(MAINTENIR) Centrer sur liste de recrues]]>
+      </entry>
+      <entry id="provision_tpad_l">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="provision_tpad_r">
+         <![CDATA[Embarquer]]>
+      </entry>
+      <entry id="inventory_secondary2">
+         <![CDATA[Utiliser/(MAINTENIR) Jeter]]>
+      </entry>
+      <entry id="inventory_primary1">
+         <![CDATA[Déplacer ou équiper objet]]>
+      </entry>
+      <entry id="inventory_analog_stick_l">
+         <![CDATA[Sélectionner objet]]>
+      </entry>
+      <entry id="inventory_trigger_l">
+         <![CDATA[(MAINTENIR L2) Infos objet]]>
+      </entry>
+      <entry id="[psv]inventory_trigger_l">
+         <![CDATA[(MAINTENIR) Infos objet]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_embark_description">
+         <![CDATA[Vous ne pouvez plus faire grand-chose en ville. Il est temps d'EMBARQUER pour une quête !
+
+Appuyez sur {colour_start|notable}[LA TOUCHE DROITE DU PAVÉ TACTILE]{colour_end} pour embarquer !]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_embark_description">
+         <![CDATA[Vous ne pouvez plus faire grand-chose en ville. Il est temps d'EMBARQUER pour une quête !
+
+Appuyez sur la {colour_start|notable}[TOUCHE START]{colour_end} !]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_loot_description">
+         <![CDATA[Chaque objet emporté prendra de la place dans l'inventaire. Maintenez {colour_start|notable}[L2] et utilisez le [JOYSTICK GAUCHE]{colour_end} pour voir les détails des objets du butin. Cela fonctionne également dans l'inventaire ! (Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_loot_description">
+         <![CDATA[Chaque objet emporté prendra de la place dans l'inventaire.
+
+Maintenez la {colour_start|notable}[TOUCHE L] et utilisez le [JOYSTICK GAUCHE]{colour_end} pour voir les détails des objets du butin. Cela fonctionne également dans l'inventaire !
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_supplies_description">
+         <![CDATA[Il vous faudra emporter des {colour_start|notable}provisions différentes{colour_end} en fonction de la {colour_start|notable}région{colour_end} dans laquelle vous vous rendez, de la {colour_start|notable}longueur{colour_end} de la quête et de vos préférences personnelles. Mais assurez-vous de toujours prendre de la {colour_start|notable}nourriture{colour_end} et des {colour_start|notable}torches{colour_end} !
+
+Pour votre première quête courte, essayez d'emporter au moins 8 unités de nourriture et 4 torches.
+
+Maintenez {colour_start|notable}[L2]{colour_end} pour voir les détails des objets. Cela fonctionne également dans l'inventaire et dans la fenêtre de butin !]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_supplies_description">
+         <![CDATA[Il vous faudra emporter des {colour_start|notable}provisions différentes{colour_end} en fonction de la {colour_start|notable}région{colour_end} dans laquelle vous vous rendez, de la {colour_start|notable}longueur{colour_end} de la quête et de vos préférences personnelles.
+
+Pour votre première quête courte, essayez d'emporter au moins 8 unités de nourriture et 4 torches.
+
+Maintenez la {colour_start|notable}[touche L]{colour_end} pour voir les détails des objets. Cela fonctionne également dans l'inventaire et dans la fenêtre de butin !]]>
+      </entry>
+      <entry id="tutorial_popup_quest_select_title">
+         <![CDATA[Quêtes et groupes]]>
+      </entry>
+      <entry id="tutorial_popup_quest_select_description">
+         <![CDATA[Ici, vous sélectionnez une quête et formez un groupe d'aventuriers composé de quatre héros. {colour_start|notable}[CLIQUEZ]{colour_end} sur une quête pour en voir les détails. {colour_start|notable}[FAITES GLISSER]{colour_end} des héros dans les emplacements en bas de l'écran pour former votre groupe et définir son organisation par défaut.]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_quest_select_description">
+         <![CDATA[Ici, vous sélectionnez une quête et formez un groupe d'aventuriers composé de quatre héros.
+
+{colour_start|notable}[SÉLECTIONNEZ]{colour_end} les quêtes avec le {colour_start|notable}[JOYSTICK GAUCHE]{colour_end} pour en voir les détails.
+
+Placez des héros dans les emplacements en bas de l'écran pour former votre groupe en maintenant {colour_start|notable}[R2]{colour_end} et en appuyant sur la {colour_start|notable}[TOUCHE CROIX]{colour_end}.]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_quest_select_description">
+         <![CDATA[Ici, vous sélectionnez une quête et formez un groupe d'aventuriers composé de quatre héros.
+
+Sélectionnez des quêtes avec le {colour_start|notable}[JOYSTICK GAUCHE]{colour_end} pour en voir les détails.
+
+Placez des héros dans les emplacements en bas de l'écran pour former votre groupe en maintenant {colour_start|notable}[R]{colour_end} et en appuyant sur la {colour_start|notable}[TOUCHE CROIX]{colour_end}.]]>
+      </entry>
+      <entry id="tutorial_popup_stage_coach_description">
+         <![CDATA[Vous devrez {colour_start|notable}recruter tous ces héros{colour_end} pour former un groupe de quatre.
+
+{colour_start|town_activity_log_positive_result}[Faites glisser et déposez]{colour_end} ces héros dans votre liste de recrues.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_stage_coach_description">
+         <![CDATA[Vous devrez {colour_start|notable}recruter tous ces héros{colour_end} pour former un groupe de quatre.
+
+Sélectionnez chaque héros avec {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE + TOUCHE CROIX]{colour_end} puis utilisez {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE + TOUCHE CROIX]{colour_end} à nouveau pour placer ces héros dans votre liste de recrues sur la droite.]]>
+      </entry>
+      <entry id="tutorial_popup_stage_coach2_title">
+         <![CDATA[Améliorer le réseau de diligences]]>
+      </entry>
+      <entry id="tutorial_popup_stage_coach2_description">
+         <![CDATA[Pendant que vous êtes là, utilisez quelques-uns de vos premiers legs pour {colour_start|notable}améliorer le réseau de diligences{colour_end}. Cela augmentera le nombre de héros disponibles dans le futur.
+
+Pour l'améliorer, cliquez sur le {colour_start|town_activity_log_positive_result}[+]{colour_end} sur la gauche, puis sélectionnez l'amélioration.]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_stage_coach2_description">
+         <![CDATA[Pendant que vous êtes là, utilisez quelques-uns de vos premiers legs pour {colour_start|notable}améliorer le réseau de diligences{colour_end}. Cela augmentera le nombre de héros disponibles dans le futur.
+
+Pour l'améliorer, maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour accéder au menu d'amélioration, puis utilisez {colour_start|notable}[JOYSTICK GAUCHE + TOUCHE CROIX]{colour_end} pour acheter des améliorations.]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_stage_coach2_description">
+         <![CDATA[Pendant que vous êtes là, utilisez quelques-uns de vos premiers legs pour {colour_start|notable}améliorer le réseau de diligences{colour_end}. Cela augmentera le nombre de héros disponibles dans le futur.
+
+Pour l'améliorer, maintenez {colour_start|town_activity_log_positive_result}[L]{colour_end} pour accéder au menu d'amélioration, puis utilisez {colour_start|notable}[JOYSTICK GAUCHE + TOUCHE CROIX]{colour_end} pour acheter des améliorations.]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_quest_complete_description">
+         <![CDATA[Après avoir accompli les objectifs d'une quête, vous avez l'option de {colour_start|notable}retourner en ville{colour_end} à tout moment en appuyant sur la {colour_start|notable}[TOUCHE DROITE DU PAVÉ TACTILE]{colour_end}. Il n'est pas nécessaire de revenir dans la première pièce du donjon pour en sortir.
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_quest_complete_description">
+         <![CDATA[Après avoir accompli les objectifs d'une quête, vous avez l'option de {colour_start|notable}retourner en ville{colour_end} à tout moment en {colour_start|notable}[appuyant sur la TOUCHE START]{colour_end}. Il n'est pas nécessaire de revenir dans la première pièce du donjon pour en sortir.
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_hero_panel_description">
+         <![CDATA[Lorsqu'un héros est sélectionné, appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour afficher un panneau détaillé indiquant tous ses {colour_start|notable}attributs{colour_end}, {colour_start|notable}compétences{colour_end} et {colour_start|notable}résistances{colour_end}.]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_press_h_description">
+         <![CDATA[Sur n'importe quel écran du jeu, appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} pour afficher l'aide contextuelle.
+
+Testez cela en ville, en exploration, en combat, en campement et plus encore.]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_press_h_description">
+         <![CDATA[Sur n'importe quel écran du jeu, appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE SELECT]{colour_end} et sélectionnez {colour_start|town_activity_log_positive_result}[AIDE]{colour_end} pour afficher une aide contextuelle.
+
+Testez cela en ville, en exploration, en combat, en campement et plus encore.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_combat_description">
+         <![CDATA[Le combat se déroule {colour_start|notable}au tour par tour{colour_end}. Lors du tour d'un héros, {colour_start|town_activity_log_positive_result}[SÉLECTIONNEZ]{colour_end} une icône de compétence puis {colour_start|town_activity_log_positive_result}[SÉLECTIONNEZ]{colour_end} une cible.
+
+Si une compétence ne peut pas être sélectionnée, cela signifie que ce héros doit {colour_start|notable}se trouver dans un emplacement différent{colour_end} ou qu'il n'existe {colour_start|notable}aucune cible valide{colour_end}. Mettez la compétence {colour_start|town_activity_log_positive_result}[en surbrillance]{colour_end} pour voir ses exigences.]]>
+      </entry>
+      <entry id="[ps4]tutorial_popup_map_nav_description">
+         <![CDATA[Vous êtes actuellement dans une {colour_start|notable}pièce{colour_end}.
+
+Pour vous déplacer vers une autre pièce, utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour sélectionner une {colour_start|notable}destination{colour_end} sur la {colour_start|notable}carte{colour_end}. Cela vous fera passer par un {colour_start|notable}couloir{colour_end}.
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_map_nav_description">
+         <![CDATA[Vous êtes actuellement dans une {colour_start|notable}pièce{colour_end}.
+
+Pour vous déplacer vers une autre pièce, utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour sélectionner une {colour_start|notable}destination{colour_end} sur la {colour_start|notable}carte{colour_end}. Cela vous fera passer par un {colour_start|notable}couloir{colour_end}.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_hallway_nav_description">
+         <![CDATA[Dans un {colour_start|notable}couloir{colour_end}, utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end} pour avancer ou reculer.
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_curio_description">
+         <![CDATA[Vous trouverez souvent des {colour_start|notable}objets intéractifs{colour_end} lors de votre exploration. Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les examiner avec le héros actif. Jetez un œil sur cette tente...
+
+(Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CERCLE]{colour_end} pour fermer cette fenêtre.)]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_bandage_description">
+         <![CDATA[Votre héros {colour_start|pop_text_bleed}saigne{colour_end} !
+
+Si vous le désirez, vous pouvez utiliser un {colour_start|notable}bandage{colour_end} depuis l'inventaire pour arrêter le saignement. Sélectionnez le bandage puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end} lors du tour du héros blessé pour l'utiliser.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_antivenom_description">
+         <![CDATA[Sélectionnez et utilisez des antidotes, bandages ou herbes médicinales depuis l'inventaire à l'aide du {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end} et de la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end} pour soigner les INFECTIONS, SAIGNEMENTS ou MALUS du héros actuel.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_torch_description">
+         <![CDATA[La {colour_start|notable}lumière{colour_end} se meurt ! Le {colour_start|notable}niveau de torche a un effet notable sur de nombreux mécanismes{colour_end} du jeu. Plus il fait sombre, plus la difficulté augmente, mais meilleures sont les récompenses. Sélectionnez une torche dans l'inventaire puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end} pour l'utiliser et raviver la lumière.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_camping_quest_description">
+         <![CDATA[Cette quête inclut un {colour_start|notable}campement{colour_end}, ce qui nécessite du {colour_start|notable}bois{colour_end}. Le bois est {colour_start|notable}fourni automatiquement{colour_end} pour les quêtes concernées.
+
+{colour_start|notable}Camper{colour_end} permet aux héros de {colour_start|notable}se rétablir lors de l'exploration du donjon{colour_end}. Si vous souffrez de blessures ou de stress et désirez camper, sélectionnez le bois dans votre inventaire puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end}.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_disarm_trap_description">
+         <![CDATA[Les {colour_start|trap}pièges{colour_end} repérés à l'avance sont {colour_start|notable}visibles au sol{colour_end} lorsque vous les approchez. Sélectionnez un héros puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} à proximité du {colour_start|harmful}piège{colour_end} pour essayer de {colour_start|notable}le désarmer{colour_end}.
+
+L'icône de piège apparait dans la barre de statut des héros lorsqu'un piège repéré est à portée.
+
+Certains héros sont plus aptes que d'autres à désarmer les pièges.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_using_doors_description">
+         <![CDATA[Pour ouvrir une {colour_start|notable}porte{colour_end}, tenez-vous devant celle-ci puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end}.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_trinkets_description">
+         <![CDATA[Chaque héros dispose de deux emplacements destinés à équiper des objets nommés {colour_start|notable}breloques{colour_end}. Sélectionnez simplement la breloque dans l'inventaire puis appuyez sur la {colour_start|notable}[TOUCHE CROIX]{colour_end} pour l'équiper. Les {colour_start|notable}breloques{colour_end} présentent généralement un compromis : un avantage pour un inconvénient. Certaines sont également réservées à une classe de héros précise.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_selling_trinkets_description">
+         <![CDATA[Vous pouvez gagner de l'argent en vendant vos breloques inutiles directement depuis l'inventaire de breloques. Ouvrez l'inventaire de breloques avec la {colour_start|notable}[TOUCHE TRIANGLE]{colour_end}, sélectionnez une breloque dont vous ne voulez pas, puis vendez-la avec la {colour_start|notable}[TOUCHE CARRÉ]{colour_end}.]]>
+      </entry>
+      <entry id="[ps4|psv]tutorial_popup_scout_hidden_door_description">
+         <![CDATA[Un succès critique en repérage révélera parfois une {colour_start|notable}pièce secrète{colour_end} ! Avancez jusqu'à la case marquée d'une étoile et appuyez sur la {colour_start|notable}[TOUCHE CROIX]{colour_end} pour entrer. Ceux qui disposent d'une {colour_start|notable}clé{colour_end} pourront y trouver d'incroyables richesses...]]>
+      </entry>
+      <entry id="[ps4]str_help_town_0">
+         <![CDATA[Sélectionnez un héros avec {colour_start|town_activity_log_positive_result}[R2 + JOYSTICK GAUCHE]{colour_end} puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour inspecter sa fiche de personnage. Vous pouvez y sélectionner des compétences, changer les couleurs des habits ou encore renommer ou renvoyer le héros.]]>
+      </entry>
+      <entry id="[psv]str_help_town_0">
+         <![CDATA[Sélectionnez un héros avec {colour_start|town_activity_log_positive_result}[TOUCHE R + JOYSTICK GAUCHE]{colour_end} puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour inspecter sa fiche de personnage. Vous pouvez y sélectionner des compétences, changer les couleurs des habits ou encore renommer ou renvoyer le héros.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_1">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE et la TOUCHE CROIX]{colour_end} pour entrer dans un bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_2">
+         <![CDATA[DILIGENCE : permet de recruter de nouveaux héros]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_3">
+         <![CDATA[FORGE, GUILDE, EXPERTE EN SURVIE : permet d'améliorer les compétences et l'équipement des héros]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_4">
+         <![CDATA[TAVERNE, ABBAYE : permet de diminuer le {colour_start|stressNOT1}stress{colour_end} des héros]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_5">
+         <![CDATA[SANATORIUM : permet de traiter les maladies et attributs des héros]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_6">
+         <![CDATA[ROULOTTE : permet d'acheter des objets rares]]>
+      </entry>
+      <entry id="[ps4]str_help_town_7">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE DROITE DU PAVÉ TACTILE]{colour_end} si vous désirez {colour_start|town_activity_log_positive_result}EMBARQUER POUR UNE QUÊTE{colour_end}.]]>
+      </entry>
+      <entry id="[psv]str_help_town_7">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE START]{colour_end} si vous désirez {colour_start|town_activity_log_positive_result}EMBARQUER POUR UNE QUÊTE{colour_end}.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_stage_coach_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_stage_coach_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_stage_coach_1">
+         <![CDATA[Lorsqu'un héros est sélectionné, appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour l'inspecter.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_stage_coach_2">
+         <![CDATA[Utilisez la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour recruter des héros et les ajouter à votre liste de recrues.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_blacksmith_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_blacksmith_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_blacksmith_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Placez]{colour_end} l'une de vos recrues dans la forge pour voir les options d'amélioration de son arme et armure.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_blacksmith_2">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} des améliorations puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les acheter. Il sera nécessaire d'améliorer la forge avant de pouvoir acheter certaines améliorations pour vos héros.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_guild_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_guild_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_guild_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Placez]{colour_end} l'une de vos recrues dans la guilde pour voir les options d'amélioration de ses compétences.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_guild_2">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} des compétences de combat ou des améliorations de compétences puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les acheter. Il sera nécessaire d'améliorer la guilde avant de pouvoir acheter certaines améliorations pour vos héros.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_camping_trainer_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_camping_trainer_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_camping_trainer_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Placez]{colour_end} l'une de vos recrues chez l'experte en survie pour voir les options d'amélioration de ses compétences de campement.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_camping_trainer_2">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} des compétences ou des améliorations puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les acheter. Il sera nécessaire d'améliorer l'experte en survie avant de pouvoir acheter certaines améliorations pour vos héros.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_tavern_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_tavern_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Placez]{colour_end} l'une de vos recrues dans l'emplacement approprié puis confirmez le paiement avec la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour démarrer une activité de réduction du stress.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_2">
+         <![CDATA[Certains attributs empêcheront un héros de prendre part à cette activité.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_3">
+         <![CDATA[Chaque activité a son propre coût, ses valeurs de réduction du {colour_start|stressNOT1}stress{colour_end} et ses effets secondaires éventuels. Vous devrez en découvrir certains en jouant.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_4">
+         <![CDATA[Assigner un héros à une activité le rend indisponible pour la prochaine quête.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_5">
+         <![CDATA[Il vous faudra améliorer le bâtiment pour disposer d'emplacements supplémentaires.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_tavern_6">
+         <![CDATA[Sélectionnez un emplacement dans le bâtiment puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour sortir prématurément un héros de son activité. L'argent dépensé ne sera pas remboursé.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_abbey_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_abbey_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Placez]{colour_end} l'une de vos recrues dans l'emplacement approprié puis confirmez le paiement avec la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour démarrer une activité de réduction du stress.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_2">
+         <![CDATA[Certains attributs empêcheront un héros de prendre part à cette activité.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_3">
+         <![CDATA[Chaque activité a son propre coût, ses valeurs de réduction du {colour_start|stressNOT1}stress{colour_end} et ses effets secondaires éventuels. Vous devrez en découvrir certains en jouant.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_4">
+         <![CDATA[Assigner un héros à une activité le rend indisponible pour la prochaine quête.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_5">
+         <![CDATA[Il vous faudra améliorer le bâtiment pour disposer d'emplacements supplémentaires.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_abbey_6">
+         <![CDATA[Sélectionnez un emplacement dans le bâtiment puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour sortir prématurément un héros de son activité. L'argent dépensé ne sera pas remboursé.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_sanitarium_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_sanitarium_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_sanitarium_1">
+         <![CDATA[Traitement des attributs : {colour_start|town_activity_log_positive_result}[placez]{colour_end} un héros dans un emplacement de l'aile psychiatrique puis sélectionnez un attribut positif à renforcer et/ou un attribut négatif à supprimer. La suppression d'attributs sévères coûte plus cher.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_sanitarium_2">
+         <![CDATA[Traitement des maladies : {colour_start|town_activity_log_positive_result}[Placez]{colour_end} un héros dans un emplacement de l'aile médicale et sélectionnez une maladie à soigner. Des maladies supplémentaires seront parfois soignées.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_sanitarium_3">
+         <![CDATA[Assigner un héros à un traitement le rend indisponible pour la prochaine quête.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_sanitarium_4">
+         <![CDATA[Il sera nécessaire d'améliorer le bâtiment pour disposer d'emplacements de traitement supplémentaires.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_sanitarium_5">
+         <![CDATA[Sélectionnez un emplacement dans le bâtiment puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour sortir prématurément un héros de son activité. L'argent dépensé ne sera pas remboursé.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_nomad_wagon_0">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour voir les options d'amélioration de ce bâtiment.]]>
+      </entry>
+      <entry id="[psv]str_help_town_nomad_wagon_0">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour accéder aux améliorations de ce bâtiment.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_nomad_wagon_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} un objet puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour l'acheter.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_quest_select_0">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} les quêtes disponibles pour les examiner.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_quest_select_1">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} des héros et appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les ajouter à votre groupe d'aventuriers.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_quest_select_2">
+         <![CDATA[Les héros occupés dans la taverne, l'abbaye ou le sanatorium ne peuvent pas être utilisés.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_quest_select_3">
+         <![CDATA[Terminez des quêtes dans les diverses régions pour augmenter votre niveau de maîtrise et débloquer de nouveaux types de quêtes.]]>
+      </entry>
+      <entry id="[ps4]str_help_town_quest_select_4">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE DROITE DU PAVÉ TACTILE]{colour_end} si vous désirez passer à l'approvisionnement.]]>
+      </entry>
+      <entry id="[psv]str_help_town_quest_select_4">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE START]{colour_end} si vous désirez passer à l'approvisionnement.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_provision_0">
+         <![CDATA[{colour_start|town_activity_log_positive_result}[Sélectionnez]{colour_end} les objets en vente puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour les acheter pour l'expédition.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_provision_1">
+         <![CDATA[Une fois la quête terminée, les provisions non-utilisées sont perdues et ne sont pas remboursées. N'achetez que ce dont vous avez besoin !]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_town_provision_2">
+         <![CDATA[Vous aurez toujours besoin de nourriture et de torches ! En général, chaque héros mange 1 unité de nourriture par repas (faim ou campement) et vous aurez toujours besoin d'au moins 8 torches, même pour les quêtes courtes.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_room_0">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour choisir une nouvelle destination et entrer dans le couloir qui y mène.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_room_1">
+         <![CDATA[Utilisez {colour_start|town_activity_log_positive_result}[R1 et L1]{colour_end} pour changer de héros actif.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_room_1">
+         <![CDATA[Touchez le {colour_start|town_activity_log_positive_result}[PAVÉ TACTILE ARRIÈRE]{colour_end} pour changer de héros actif.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_room_2">
+         <![CDATA[Utilisez les {colour_start|town_activity_log_positive_result}[TOUCHES HAUT et BAS]{colour_end} pour alterner entre INVENTAIRE et CARTE.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_room_3">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour déplacer un héros au sein du groupe. {colour_start|town_activity_log_positive_result}[Maintenez la TOUCHE CROIX]{colour_end} pour restaurer l'ordre par défaut.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_room_3">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour déplacer un héros au sein du groupe.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_room_4">
+         <![CDATA[Pour établir un CAMPEMENT, sélectionnez le bois dans votre inventaire (si vous en avez), puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end}.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_room_5">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour afficher les éléments qui influent sur le gameplay, comme le niveau de lumière ou le statut des héros.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_room_5">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L]{colour_end} pour voir des informations de gameplay.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_room_6">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE DROITE DU PAVÉ TACTILE]{colour_end} pour abandonner la quête et retourner au Hameau.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_room_6">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE START]{colour_end} pour abandonner la quête et retourner au Hameau.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_room_7">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[R2]{colour_end} pour afficher les commandes de la carte.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_room_7">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[R]{colour_end} pour afficher les commandes de la carte.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_room_8">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour afficher la fiche de personnage détaillée d'un héros.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_hallway_0">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour marcher vers l'avant ou l'arrière.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_hallway_1">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour ouvrir les portes.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_hallway_2">
+         <![CDATA[Utilisez les {colour_start|town_activity_log_positive_result}[TOUCHES HAUT et BAS]{colour_end} pour alterner entre INVENTAIRE et CARTE.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_hallway_3">
+         <![CDATA[Utilisez {colour_start|town_activity_log_positive_result}[R1 et L1]{colour_end} pour sélectionner un héros différent.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_hallway_3">
+         <![CDATA[Touchez le {colour_start|town_activity_log_positive_result}[PAVÉ TACTILE ARRIÈRE]{colour_end} pour changer de héros actif.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_hallway_4">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour déplacer un héros au sein du groupe. {colour_start|town_activity_log_positive_result}[Maintenez la TOUCHE CROIX]{colour_end} pour restaurer l'ordre par défaut.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_hallway_4">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour déplacer un héros au sein du groupe.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_hallway_5">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour afficher les éléments qui influent sur le gameplay, comme le niveau de lumière ou le statut des héros.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_hallway_5">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour afficher les éléments qui influent sur le gameplay, comme le niveau de lumière ou le statut des héros.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_hallway_6">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[R2]{colour_end} pour afficher les commandes de la carte.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_hallway_6">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[R]{colour_end} pour afficher les commandes de la carte.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_hallway_7">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE DROITE DU PAVÉ TACTILE]{colour_end} pour abandonner la quête et retourner au Hameau.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_hallway_7">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE START]{colour_end} pour abandonner la quête et retourner au Hameau.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_combat_0">
+         <![CDATA[Lors du tour d'un héros, utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end} et la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour sélectionner une compétence de combat valide, puis une cible.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_combat_1">
+         <![CDATA[Chaque compétence présente diverses restrictions quant au positionnement du héros et aux ennemis pouvant être ciblés. Sélectionnez une compétence avec le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end} pour voir ces restrictions.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_combat_2">
+         <![CDATA[Lorsque vous sélectionnez une cible avec le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end}, vous pouvez voir les statistiques de l'ennemi, les chances de réussite et les dégâts de la compétence sélectionnée.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_combat_3">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CARRÉ]{colour_end} pour afficher la fiche de personnage détaillée d'un héros.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_combat_4">
+         <![CDATA[Maintenez {colour_start|town_activity_log_positive_result}[L2]{colour_end} pour afficher le niveau de lumière actuel / statut des monstres.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_combat_4">
+         <![CDATA[Maintenez la {colour_start|town_activity_log_positive_result}[TOUCHE L]{colour_end} pour afficher les éléments qui influent sur le gameplay, comme le niveau de lumière ou le statut des héros.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_combat_5">
+         <![CDATA[Sélectionnez et utilisez des antidotes, bandages ou herbes médicinales depuis l'inventaire à l'aide de la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end} pour soigner les INFECTIONS, SAIGNEMENTS ou MALUS du héros actuel.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_camping_0">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE]{colour_end} pour sélectionner une option de repas puis appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour manger. Vos choix sont limités par la nourriture présente dans votre inventaire.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_camping_1">
+         <![CDATA[Votre groupe dispose de {colour_start|town_activity_log_positive_result}[12 POINTS DE RÉPIT]{colour_end} à dépenser avec des compétences de campement.]]>
+      </entry>
+      <entry id="[ps4]str_help_raid_camping_2">
+         <![CDATA[Utilisez {colour_start|town_activity_log_positive_result}[L1 et R1]{colour_end} pour sélectionner un héros, puis le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE et la TOUCHE CROIX]{colour_end} pour utiliser une compétence. Certaines compétences doivent être ciblées.]]>
+      </entry>
+      <entry id="[psv]str_help_raid_camping_2">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[PAVÉ TACTILE ARRIÈRE]{colour_end} pour sélectionner un héros puis le {colour_start|town_activity_log_positive_result}[JOYSTICK GAUCHE + TOUCHE CROIX]{colour_end} pour utiliser une compétence. Certaines compétences doivent être ciblées.]]>
+      </entry>
+      <entry id="[ps4|psv]str_help_raid_camping_3">
+         <![CDATA[Une fois les POINTS DE RÉPIT dépensés, appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE TRIANGLE]{colour_end} pour mettre fin au campement.]]>
+      </entry>
+      <entry id="[ps4]str_navigate_via_map">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour sélectionner une destination sur la carte.]]>
+      </entry>
+      <entry id="[ps4]str_reduce_torch_tip">
+         <![CDATA[Maintenez [L2] puis appuyez sur la [TOUCHE CERCLE] pour voiler la torche.]]>
+      </entry>
+      <entry id="[ps4]str_snuff_torch_tip">
+         <![CDATA[Maintenez [L2] puis appuyez sur la [TOUCHE CERCLE] plusieurs fois pour éteindre la torche.]]>
+      </entry>
+      <entry id="[ps4|psv]action_select_hero">
+         <![CDATA[Placez un héros ici.]]>
+      </entry>
+      <entry id="[ps4|psv]corrupt_save_confirm_question">
+         <![CDATA[Votre sauvegarde semble être corrompue. Le domaine ne peut pas être chargé.]]>
+      </entry>
+      <entry id="[ps4|psv]menu_options_element_tooltip_bark_dismissal">
+         <![CDATA[Appuyez sur la [TOUCHE CROIX] pour fermer les bulles des héros.]]>
+      </entry>
+      <entry id="[ps4|psv]input_command_realm_inventory_hold_to_unequip_instruction">
+         <![CDATA[[Maintenir] Déséquiper]]>
+      </entry>
+      <entry id="input_command_realm_inventory_hold_to_unequip_instruction">
+         <![CDATA[[Maintenir] Déséquiper]]>
+      </entry>
+      <entry id="input_command_realm_inventory_sort_instruction">
+         <![CDATA[Trier]]>
+      </entry>
+      <entry id="[ps4|psv]str_discard_item_instructions">
+         <![CDATA[Maintenir [TOUCHE TRIANGLE] pour jeter un objet.]]>
+      </entry>
+      <entry id="[ps4|psv]str_hero_slot_unlocked_disease_treatment">
+         <![CDATA[La [TOUCHE CROIX] assigne le héros au traitement.]]>
+      </entry>
+      <entry id="[ps4|psv]str_hero_slot_unlocked_stagecoach_tt">
+         <![CDATA[Appuyez sur la {colour_start|town_activity_log_positive_result}[TOUCHE CROIX]{colour_end} pour recruter un héros.]]>
+      </entry>
+      <entry id="[ps4|psv]str_hero_slot_unlocked_treatment">
+         <![CDATA[La [TOUCHE CROIX] assigne le héros au traitement.]]>
+      </entry>
+      <entry id="[ps4|psv]str_loading_screen_continue">
+         <![CDATA[Appuyez sur {colour_start|town_activity_log_positive_result}[UNE TOUCHE]{colour_end} pour continuer.]]>
+      </entry>
+      <entry id="[ps4|psv]str_save_pre_click">
+         <![CDATA[Sélectionnez une lettre pour commencer...]]>
+      </entry>
+      <entry id="[ps4|psv]town_name_realm_inventory">
+         <![CDATA[Breloques]]>
+      </entry>
+      <entry id="[psv]str_navigate_via_map">
+         <![CDATA[Utilisez le {colour_start|town_activity_log_positive_result}[JOYSTICK DROIT]{colour_end} pour sélectionner une destination sur la carte.]]>
+      </entry>
+      <entry id="[psv]str_reduce_torch_tip">
+         <![CDATA[Maintenez la [TOUCHE L] et appuyez sur la [TOUCHE CERCLE] pour voiler la torche.]]>
+      </entry>
+      <entry id="[psv]str_snuff_torch_tip">
+         <![CDATA[Maintenez la [TOUCHE L] et appuyez sur la [TOUCHE CERCLE] à plusieurs reprises pour éteindre la torche.]]>
+      </entry>
+      <entry id="controller_discard_item_confirm_dialog_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="controller_discard_item_confirm_dialog_question">
+         <![CDATA[Jeter cet objet ?]]>
+      </entry>
+      <entry id="controller_discard_item_confirm_dialog_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="curio_tooltip_pass_controller">
+         <![CDATA[Ignorer]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot">
+         <![CDATA[Remplacer l'emplacement vide par le domaine [%s] chargé ?]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_unused_slot_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_used_slot">
+         <![CDATA[Remplacer l'emplacement local [%s] par le domaine [%s] chargé ?]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="dialog_confirm_store_downloaded_estate_in_used_slot_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="dialog_msg_cloud_corrupt">
+         <![CDATA[Les données chargées ne correspondent pas à une sauvegarde de domaine reconnue. Cross-Save possiblement corrompu.]]>
+      </entry>
+      <entry id="dialog_msg_cloud_empty">
+         <![CDATA[Cross-Save vide.]]>
+      </entry>
+      <entry id="dialog_try_download_estate">
+         <![CDATA[Télécharger à cet emplacement depuis Cross-Save ?]]>
+      </entry>
+      <entry id="dialog_try_download_estate_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="dialog_try_download_estate_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="dialog_try_upload_estate">
+         <![CDATA[Tenter de sauvegarder ce domaine avec Cross-Save ?]]>
+      </entry>
+      <entry id="dialog_try_upload_estate_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="dialog_try_upload_estate_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="front_end_controls_element_begin">
+         <![CDATA[Commencer]]>
+      </entry>
+      <entry id="front_end_controls_element_cancel_name">
+         <![CDATA[Annuler]]>
+      </entry>
+      <entry id="front_end_controls_element_confirm_name">
+         <![CDATA[Confirmer]]>
+      </entry>
+      <entry id="front_end_controls_element_delete">
+         <![CDATA[Supprimer domaine]]>
+      </entry>
+      <entry id="front_end_controls_element_download_empty">
+         <![CDATA[Charger Cross-Save]]>
+      </entry>
+      <entry id="front_end_controls_element_download_existing">
+         <![CDATA[Remplacer le domaine par Cross-Save]]>
+      </entry>
+      <entry id="front_end_controls_element_load">
+         <![CDATA[Reprendre le domaine]]>
+      </entry>
+      <entry id="front_end_controls_element_new_game">
+         <![CDATA[Nouveau domaine]]>
+      </entry>
+      <entry id="front_end_controls_element_upload">
+         <![CDATA[Sauvegarder le domaine avec Cross-Save]]>
+      </entry>
+      <entry id="input_command_dungeon_reduce_torch">
+         <![CDATA[Éteindre la torche]]>
+      </entry>
+      <entry id="input_command_dungeon_use_torch">
+         <![CDATA[Utiliser une torche]]>
+      </entry>
+      <entry id="input_command_town_sell_trinket">
+         <![CDATA[Vendre]]>
+      </entry>
+      <entry id="map_input_preview_pan">
+         <![CDATA[Déplacer la carte]]>
+      </entry>
+      <entry id="map_input_preview_reset">
+         <![CDATA[Vue par défaut]]>
+      </entry>
+      <entry id="map_input_preview_zoom_in">
+         <![CDATA[Zoom]]>
+      </entry>
+      <entry id="map_input_preview_zoom_out">
+         <![CDATA[Zoom arrière]]>
+      </entry>
+      <entry id="menu_base_element_help">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="menu_base_element_view_help">
+         <![CDATA[Aide]]>
+      </entry>
+      <entry id="menu_options_element_controller_vibration">
+         <![CDATA[Vibration]]>
+      </entry>
+      <entry id="obstacle_tooltip_ancestor_talk_controller">
+         <![CDATA[Parler]]>
+      </entry>
+      <entry id="obstacle_tooltip_clear_by_hand_controller">
+         <![CDATA[Dégager]]>
+      </entry>
+      <entry id="retreat_confirm_battle_controller_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="retreat_confirm_battle_controller_question">
+         <![CDATA[Tenter de fuir ?]]>
+      </entry>
+      <entry id="retreat_confirm_battle_controller_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="str_achievement_description_psplat">
+         <![CDATA[Obtenir tous les trophées]]>
+      </entry>
+      <entry id="str_achievement_title_psplat">
+         <![CDATA[La Couronne de fer]]>
+      </entry>
+      <entry id="str_continue_raid_controller_text">
+         <![CDATA[Rester]]>
+      </entry>
+      <entry id="str_curio_tooltip_investigate_controller">
+         <![CDATA[Inspecter]]>
+      </entry>
+      <entry id="str_discard_item_confirm">
+         <![CDATA[Jeter cette breloque équipée ?]]>
+      </entry>
+      <entry id="str_discard_item_confirm_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="str_discard_item_confirm_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="str_overlay_loot_close_controller">
+         <![CDATA[Fermer]]>
+      </entry>
+      <entry id="str_overlay_loot_take_all_controller">
+         <![CDATA[Prendre]]>
+      </entry>
+      <entry id="str_return_to_controller_text">
+         <![CDATA[Hameau]]>
+      </entry>
+      <entry id="str_ui_hunger_choice_eat_controller">
+         <![CDATA[Manger]]>
+      </entry>
+      <entry id="str_ui_hunger_choice_starve_controller">
+         <![CDATA[Faim]]>
+      </entry>
+      <entry id="str_unequip_all_trinkets_description">
+         <![CDATA[Déséquiper toutes les breloques des héros ?]]>
+      </entry>
+      <entry id="str_unequip_all_trinkets_no">
+         <![CDATA[Non]]>
+      </entry>
+      <entry id="str_unequip_all_trinkets_yes">
+         <![CDATA[Oui]]>
+      </entry>
+      <entry id="try_download_waiting_msg">
+         <![CDATA[Accès à Cross-Save...]]>
+      </entry>
+      <entry id="try_upload_success_msg">
+         <![CDATA[Votre domaine a été sauvegardé sur Cross-Save avec succès.]]>
+      </entry>
+      <entry id="try_upload_waiting_msg">
+         <![CDATA[Accès à Cross-Save...]]>
+      </entry>
+      <entry id="input_command_realm_inventory_sell_instruction">
+         <![CDATA[Vendre]]>
+      </entry>
+      <entry id="str_darkest_dungeon_trophies">
+         <![CDATA[Trophées Darkest Dungeon]]>
+      </entry>
+      <entry id="str_darkest_dungeon_trophy_data">
+         <![CDATA[Données de trophées de Darkest Dungeon]]>
+      </entry>
+      <entry id="str_save_accessing">
+         <![CDATA[Accès aux données de sauvegarde...]]>
+      </entry>
+      <entry id="str_saving_warning">
+         <![CDATA[Sauvegarde... NE PAS FERMER LE JEU]]>
+      </entry>
+      <entry id="[ps4]str_town_tip">
+         <![CDATA[Maintenez {colour_start|notable}[L2]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[ps4]str_crypts_tip">
+         <![CDATA[Maintenez {colour_start|notable}[L2]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[ps4]str_weald_tip">
+         <![CDATA[Maintenez {colour_start|notable}[L2]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[ps4]str_warrens_tip">
+         <![CDATA[Maintenez {colour_start|notable}[L2]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[ps4]str_cove_tip">
+         <![CDATA[Maintenez {colour_start|notable}[L2]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_town_tip">
+         <![CDATA[Maintenez la {colour_start|notable}[TOUCHE L]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_crypts_tip">
+         <![CDATA[Maintenez la {colour_start|notable}[TOUCHE L]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_weald_tip">
+         <![CDATA[Maintenez la {colour_start|notable}[TOUCHE L]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_warrens_tip">
+         <![CDATA[Maintenez la {colour_start|notable}[TOUCHE L]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_cove_tip">
+         <![CDATA[Maintenez la {colour_start|notable}[TOUCHE L]{colour_end} pour afficher les détails concernant la torche, le combat, l'inventaire et plus encore !]]>
+      </entry>
+      <entry id="[psv]str_town_tip">
+         <![CDATA[Revenez toujours au menu principal avant de quitter Darkest Dungeon pour vous assurer que votre progression soit bien sauvegardée.]]>
+      </entry>
+      <entry id="[psv]str_crypts_tip">
+         <![CDATA[Revenez toujours au menu principal avant de quitter Darkest Dungeon pour vous assurer que votre progression soit bien sauvegardée.]]>
+      </entry>
+      <entry id="[psv]str_weald_tip">
+         <![CDATA[Revenez toujours au menu principal avant de quitter Darkest Dungeon pour vous assurer que votre progression soit bien sauvegardée.]]>
+      </entry>
+      <entry id="[psv]str_warrens_tip">
+         <![CDATA[Revenez toujours au menu principal avant de quitter Darkest Dungeon pour vous assurer que votre progression soit bien sauvegardée.]]>
+      </entry>
+      <entry id="[psv]str_cove_tip">
+         <![CDATA[Revenez toujours au menu principal avant de quitter Darkest Dungeon pour vous assurer que votre progression soit bien sauvegardée.]]>
+      </entry>
+      <entry id="[ps4]str_town_tip">
+         <![CDATA[Appuyez sur la {colour_start|notable}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} sur n'importe quel écran pour accéder à l'AIDE contextuelle !]]>
+      </entry>
+      <entry id="[ps4]str_crypts_tip">
+         <![CDATA[Appuyez sur la {colour_start|notable}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} sur n'importe quel écran pour accéder à l'AIDE contextuelle !]]>
+      </entry>
+      <entry id="[ps4]str_weald_tip">
+         <![CDATA[Appuyez sur la {colour_start|notable}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} sur n'importe quel écran pour accéder à l'AIDE contextuelle !]]>
+      </entry>
+      <entry id="[ps4]str_warrens_tip">
+         <![CDATA[Appuyez sur la {colour_start|notable}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} sur n'importe quel écran pour accéder à l'AIDE contextuelle !]]>
+      </entry>
+      <entry id="[ps4]str_cove_tip">
+         <![CDATA[Appuyez sur la {colour_start|notable}[TOUCHE GAUCHE DU PAVÉ TACTILE]{colour_end} sur n'importe quel écran pour accéder à l'AIDE contextuelle !]]>
+      </entry>
+      <entry id="[ps4|psv]str_town_tip">
+         <![CDATA[Saviez-vous qu'il existe un glossaire dans le {colour_start|notable}menu options{colour_end} ?]]>
+      </entry>
+      <entry id="[ps4|psv]str_crypts_tip">
+         <![CDATA[Saviez-vous qu'il existe un glossaire dans le {colour_start|notable}menu options{colour_end} ?]]>
+      </entry>
+      <entry id="[ps4|psv]str_weald_tip">
+         <![CDATA[Saviez-vous qu'il existe un glossaire dans le {colour_start|notable}menu options{colour_end} ?]]>
+      </entry>
+      <entry id="[ps4|psv]str_warrens_tip">
+         <![CDATA[Saviez-vous qu'il existe un glossaire dans le {colour_start|notable}menu options{colour_end} ?]]>
+      </entry>
+      <entry id="[ps4|psv]str_cove_tip">
+         <![CDATA[Saviez-vous qu'il existe un glossaire dans le {colour_start|notable}menu options{colour_end} ?]]>
+      </entry>
+      <entry id="str_inventory_title_trinketstone_of_patience">
+         <![CDATA[Pierre de patience]]>
+      </entry>
+      <entry id="str_inventory_title_trinketstone_of_endurance">
+         <![CDATA[Pierre d'endurance]]>
+      </entry>
+      <entry id="str_inventory_title_trinketfortifying_garlic">
+         <![CDATA[Ail fortifiant]]>
+      </entry>
+      <entry id="str_inventory_title_trinketethereal_crucifix">
+         <![CDATA[Crucifix céleste]]>
+      </entry>
+      <entry id="str_inventory_title_trinkettempting_goblet">
+         <![CDATA[Gobelet de la tentation]]>
+      </entry>
+      <entry id="menu_base_element_view_glossary">
+         <![CDATA[Glossaire]]>
+      </entry>
+      <entry id="town_event_title_stage_coach_bonus_recruits">
+         <![CDATA[Un Jour Tant Attendu]]>
+      </entry>
+      <entry id="town_event_description_stage_coach_bonus_recruits">
+         <![CDATA[Notre situation délicate a attiré l'attention du monde extérieur et la nouvelle cuvée de futurs cadavres sort de la diligence...]]>
+      </entry>
+      <entry id="town_event_info_format_stage_coach_bonus_recruits">
+         <![CDATA[6 recrues de plus que d'habitude]]>
+      </entry>
+      <entry id="input_command_town_show_character_display">
+         <![CDATA[Détails du héros]]>
+      </entry>
+      <entry id="options_category_debug">
+         <![CDATA[Debug]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_resolve_level_description">
+         <![CDATA[Le héros gagne de l'{colour_start|notable}EXP de détermination{colour_end} à chaque quête réussie. Cette {colour_start|notable}EXP de détermination{colour_end} détermine le {colour_start|notable}niveau de détermination{colour_end} du héros.
+
+Le {colour_start|notable}niveau de détermination{colour_end} représente l'ancienneté du héros et sert de {colour_start|notable}résistance au stress{colour_end} face aux horreurs rencontrées dans les donjons.
+
+Un héros avec un {colour_start|notable}niveau de détermination{colour_end} bas qui s'essaye à une quête de haut niveau s'effondrera rapidement sous l'effet d'un stress inimaginable.]]>
+      </entry>
+      <entry id="[psv]tutorial_popup_death_class_description">
+         <![CDATA[La plupart des monstres laissent un cadavre en mourant. Celui-ci agit temporairement comme un obstacle et finit par disparaître tout seul.
+
+Vous pouvez attaquer les cadavres pour les détruire plus vite, mais il est souvent plus judicieux d'utiliser des compétences à distance, de déplacement ou même certaines compétences spéciales de destruction de cadavres.
+
+Les monstres tués par saignement, infection ou par coup critique ne laissent pas de cadavre !]]>
+      </entry>
+      <entry id="[psv]str_ui_hero_to_hit">
+         <![CDATA[Succès]]>
+      </entry>
+      <entry id="[psv]str_ui_hero_crit">
+         <![CDATA[Crit héros]]>
+      </entry>
+      <entry id="[psv]str_ui_hero_dmg">
+         <![CDATA[DGT héros]]>
+      </entry>
+      <entry id="menu_options_element_gamma">
+         <![CDATA[Gamma]]>
+      </entry>
+      <entry id="[psv]camping_respite_description">
+         <![CDATA[Utilisez vos compétences de campement pour aider les héros.]]>
+      </entry>
+      <entry id="input_command_inspect">
+         <![CDATA[Inspecter]]>
+      </entry>
+      <entry id="[psv]town_quest_description_kill_boss+3+crypts+kill_necromancer">
+         <![CDATA[Au plus profond des caveaux de votre demeure ancestrale, un Nécromancien se livre à d'innommables rituels... allant jusqu'à lever les morts ! Il faut l'arrêter.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_swine_prince_1">
+         <![CDATA[Un homme parle d'une bête si terrible que le peuple porcin en a fait son seigneur. Ce n'est peut-être qu'une rumeur, mais cette menace ne peut être ignorée.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_swine_prince_2">
+         <![CDATA[Un homme parle d'une bête si terrible que le peuple porcin en a fait son seigneur. Ce n'est peut-être qu'une rumeur, mais cette menace ne peut être ignorée.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_swine_prince_3">
+         <![CDATA[Un homme parle d'une bête si terrible que le peuple porcin en a fait son seigneur. Ce n'est peut-être qu'une rumeur, mais cette menace ne peut être ignorée.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_prophet_1">
+         <![CDATA[Fou furieux, annonciateur de désastres, héraut de l'apocalypse. Quel que soit son rôle, la folie de ses sermons sauvages doit être réduite au silence. Débarrassez-vous de ce "Prophète".]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_prophet_2">
+         <![CDATA[Fou furieux, annonciateur de désastres, héraut de l'apocalypse. Quel que soit son rôle, la folie de ses sermons sauvages doit être réduite au silence. Débarrassez-vous de ce "Prophète".]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_prophet_3">
+         <![CDATA[Fou furieux, annonciateur de désastres, héraut de l'apocalypse. Quel que soit son rôle, la folie de ses sermons sauvages doit être réduite au silence. Débarrassez-vous de ce "Prophète".]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_formless_flesh_1">
+         <![CDATA[Certaines choses ne méritent pas de vivre. Exorcisez les expériences impures de l'Ancêtre et renvoyez cette abomination dans l'abîme.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_formless_flesh_2">
+         <![CDATA[Certaines choses ne méritent pas de vivre. Exorcisez les expériences impures de l'Ancêtre et renvoyez cette abomination dans l'abîme.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_formless_flesh_3">
+         <![CDATA[Certaines choses ne méritent pas de vivre. Exorcisez les expériences impures de l'Ancêtre et renvoyez cette abomination dans l'abîme.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_drowned_crew_1">
+         <![CDATA[Les spectres vengeurs menacent d'emporter tout ce que nous avons bâti dans leur domaine ténébreux. Accordez-leur une mort de marin, une bonne fois pour toutes !]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_drowned_crew_2">
+         <![CDATA[Les spectres vengeurs menacent d'emporter tout ce que nous avons bâti dans leur domaine ténébreux. Accordez-leur une mort de marin, une bonne fois pour toutes !]]>
+      </entry>
+      <entry id="[psv]town_quest_description_plot_kill_drowned_crew_3">
+         <![CDATA[Les spectres vengeurs menacent d'emporter tout ce que nous avons bâti dans leur domaine ténébreux. Accordez-leur une mort de marin, une bonne fois pour toutes !]]>
+      </entry>
+      <entry id="[psv]town_quest_description_explore+1+crypts+explore_all_rooms">
+         <![CDATA[Mettez-vous à l'épreuve dans le royaume dément de votre Ancêtre déchu. Déterminez la nature du contrôle exercé par les créatures, mais ne vous aventurez pas trop loin.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_explore+3+crypts+explore_all_rooms">
+         <![CDATA[L'apocalypse approche-t-elle ? Sanglez vos sacs et partez dans les tréfonds des tunnels de votre famille déchue. Cartographiez votre expédition.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_inventory_activate+2+crypts+inventory_activate_corrupted_altar">
+         <![CDATA[Les abominations qui occupent cette maison ont transformé les autels lumineux en réceptacles pour leur culte diabolique. Purifiez ces autels avec de l'essence sanctifiée.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_explore+1+weald+explore_all_rooms">
+         <![CDATA[Prenez la vieille route en direction du bois puis empruntez l'un des nombreux chemins sombres. Arpentez ce chemin et revenez en un seul morceau.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_explore+3+weald+explore_all_rooms">
+         <![CDATA[Même avant la corruption, le Weald était presque insondable. Il n'est à présent que mystère. Faites des provisions et montez une expédition pour le cartographier.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_gather+2+weald+gather_medicines">
+         <![CDATA[Bien des convoyeurs ont perdu leur vie dans le Weald. Une abondance de médicaments a récemment été perdue. Elle serait utile à la restauration de ce Hameau malade.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_inventory_activate+2+weald+inventory_activate_infected_corpse">
+         <![CDATA[Des corps infectés gisent sur la vieille route. Les voyages depuis et vers le Hameau sont constamment menacés par la maladie. Détruisez l'infection à l'aide d'un baume puissant.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_gather+2+warrens+gather_grain">
+         <![CDATA[L'appétit des porcs surpasse même leur soif de sang. L'hiver n'est pas loin et le Hameau aurait besoin de regarnir son maigre garde-manger.]]>
+      </entry>
+      <entry id="[psv]town_quest_description_gather+2+cove+gather_shipments">
+         <![CDATA[Votre Ancêtre recevait d'horrible reliques par convoi maritime. Trouvez-les et rapportez-les en ville, où elles pourront être entreposées à l'abri d'influences maléfiques.]]>
+      </entry>
+      <entry id="[psv]resistance_name_stun">
+         <![CDATA[{colour_start|stun}Étourdissement{colour_end}]]>
+      </entry>
+      <entry id="[psv]resistance_name_move">
+         <![CDATA[{colour_start|move}Déplacement{colour_end}]]>
+      </entry>
+      <entry id="[psv]resistance_name_bleed">
+         <![CDATA[{colour_start|bleed}Saignement{colour_end}]]>
+      </entry>
+      <entry id="dungeon_name_old_road">
+         <![CDATA[La vieille route]]>
+      </entry>
+      <entry id="str_old_road_tip">
+         <![CDATA[Avec la diligence détruite et le gardien disparu, il vous faudra voyager jusqu'au Hameau à pied.]]>
+      </entry>
+      <entry id="input_command_dungeon_check_tooltips_selection">
+         <![CDATA[Naviguer infos]]>
+      </entry>
+      <entry id="[ps4|psv]menu_base_element_exit_campaign">
+         <![CDATA[Sauvegarder et quitter]]>
+      </entry>
+      <entry id="[ps4|psv]str_preamble_0">
+         <![CDATA[Dans Darkest Dungeon, vous vous battez contre plus fort que vous. Des quêtes échoueront ou devront être abandonnées. Des héros mourront et resteront morts. La progression est sauvegardée automatiquement. Chaque action est définitive.]]>
+      </entry>
+      <entry id="quirk_announcement_locked">
+         <![CDATA[Attribut renforcé !]]>
+      </entry>
+      <entry id="quirk_announcement_unlocked (not used)">
+         <![CDATA[n/d]]>
+      </entry>
+      <entry id="menu_options_element_hold_required_in_dungeon">
+         <![CDATA[Nécessaire de maintenir en donjon]]>
+      </entry>
+      <entry id="menu_options_element_tooltip_hold_required_in_dungeon">
+         <![CDATA[Dans un donjon, maintenir la gâchette gauche est nécessaire avant de pouvoir changer vos héros de position, modifier un héros sélectionné ou consulter une feuille de personnage. Activez ceci si vous changez fréquemment le positionnement d'un héros sans le vouloir.]]>
+      </entry>
+      <entry id="[ps4]menu_options_element_tooltip_hold_required_in_dungeon">
+         <![CDATA[Dans un donjon, maintenir la touche L2 est nécessaire avant de pouvoir changer vos héros de position, modifier un héros sélectionné ou consulter une feuille de personnage. Activez ceci si vous changez fréquemment le positionnement d'un héros sans le vouloir.]]>
+      </entry>
+      <entry id="[psv]menu_options_element_tooltip_hold_required_in_dungeon">
+         <![CDATA[Dans un donjon, maintenir la touche L est nécessaire avant de pouvoir changer vos héros de position, modifier un héros sélectionné ou consulter une feuille de personnage. Activez ceci si vous changez fréquemment le positionnement d'un héros sans le vouloir.]]>
+      </entry>
+      <entry id="[psv]menu_options_element_alternate_dpad_left_right">
+         <![CDATA[Pas de pavé tactile arrière en donjon]]>
+      </entry>
+      <entry id="[psv]menu_options_element_tooltip_alternate_dpad_left_right">
+         <![CDATA[Lorsque vous explorez un donjon, utilisez les touches gauche et droite pour changer vos héros de position au lieu du pavé tactile arrière. Activez cette option si vous avez tendance à toucher le pavé tactile arrière par inadvertance lorsque vous explorez.]]>
+      </entry>
+      <entry id="[ps4]menu_options_element_alternate_dpad_left_right">
+         <![CDATA[Utiliser touches gauche et droite en donjon]]>
+      </entry>
+      <entry id="[ps4]menu_options_element_tooltip_alternate_dpad_left_right">
+         <![CDATA[Lorsque vous explorez un donjon, utilisez les touches gauche et droite pour changer vos héros de position au lieu des touches L1 et L2.]]>
+      </entry>
+      <entry id="menu_options_element_left_stick_interact">
+         <![CDATA[Interagir avec joystick gauche vers le haut.]]>
+      </entry>
+      <entry id="[ps4|psv]menu_options_element_left_stick_interact">
+         <![CDATA[Interagir avec joystick gauche vers le haut.]]>
+      </entry>
+      <entry id="[ps4|psv]menu_options_element_tooltip_left_stick_interact">
+         <![CDATA[Permet d'utiliser le joystick gauche vers le haut dans les donjons pour ouvrir les portes, interagir avec les curios et effectuer d'autres actions similaires. (Il s'agit d'un doublon de la fonctionnalité de la touche croix.)]]>
+      </entry>
+      <entry id="options_category_controls">
+         <![CDATA[Options de contrôle]]>
+      </entry>
+      <entry id="menu_options_element_rear_touchpad_enabled">
+         <![CDATA[Pavé tactile arrière activé]]>
+      </entry>
+      <entry id="menu_options_element_tooltip_rear_touchpad_enabled">
+         <![CDATA[Désactiver ceci désactivera la saisie par pavé tactile arrière et transfèrera ses fonctions à l'écran tactile avant. Faites-le si vous avez tendance à toucher le pavé tactile arrière par inadvertance.]]>
+      </entry>
+      <entry id="[ps4|psv]provision_sell_back_info">
+         <![CDATA[Revendez avec la [TOUCHE CROIX].]]>
+      </entry>
+   </language>
+</root>
