@@ -3644,16 +3644,14 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_IMMUNITY_MASK_TT_1"><![CDATA[TODO:-20%% {colour_start|stun}Stun{colour_end}/{colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}/{colour_start|debuff}Debuff{colour_end}/{colour_start|mark}Mark{colour_end} Resist]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IVORY_HANDGUARD_TT1"><![CDATA[TODO:+50%% DMG, +8 ACC, +10%% {colour_start|stress}Stress Healing{colour_end} Done if in Rank 1 or 2]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IVORY_HANDGUARD_TT2"><![CDATA[TODO:+100%% Random Enemy Target Chance if in Rank 3 or 4]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_IVORY_HAND_BLINDFIRE_PUSH_TT"><![CDATA[TODO:Blindfire: Self: No longer {colour_start|move}Moves Back{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[TODO:Sur un coup critique : Deal 4 Damage to Target
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[TODO:Sur un coup critique : Deal 6 Damage to Target
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL2"><![CDATA[TODO:Sur un coup critique : Deal 8 Damage to Target
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL3"><![CDATA[TODO:Sur un coup critique : Deal 10 Damage to Target
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL0"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +6%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 4 Damage
+{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 6 Damage
+{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL2"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 8 Damage
+{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL3"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 10 Damage
+{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +8%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +10%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL3"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +12%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
@@ -5527,9 +5525,11 @@ Fin de tour (4ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FRAGRANT_QUIRK_TT"><![CDATA[TODO:+5 ACC, +3ʪ CRT if Perfumer Trinket is Equipped]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CURIOUS_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: 
 Consume a Random Provision (4ʪ Chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Being Crit: 
+<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_QUIRK_TT"><![CDATA[TODO:Exige un châtiment
+{colour_start|skill_unselectable}On Being Crit: 
 Buff Self: +20ʪ DMG, +8ʪ CRT (1 tn){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MEEK_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Being Crit: 
+<entry id="buff_stat_tooltip_upgrade_discount_MEEK_QUIRK_TT"><![CDATA[TODO:Morale fragile
+{colour_start|skill_unselectable}On Being Crit: 
 Debuff Self: -20ʪ DMG, -8ʪ CRT (1 tn){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BREACHER_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: 
 Forward 3; 

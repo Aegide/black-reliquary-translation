@@ -4147,13 +4147,13 @@ Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invi
 	<entry id="buff_stat_tooltip_upgrade_discount_IVORY_HANDGUARD_TT2"><![CDATA[+100%% Random Enemy Target Chance if in Rank 3 or 4]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_IVORY_HAND_BLINDFIRE_PUSH_TT"><![CDATA[Blindfire: Self: No longer {colour_start|move}Moves Back{colour_end}]]></entry>
 	
-	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[On Attack Crit: Deal 4 Damage to Target
+	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 4 Damage
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[On Attack Crit: Deal 6 Damage to Target
+	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 6 Damage
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL2"><![CDATA[On Attack Crit: Deal 8 Damage to Target
+	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL2"><![CDATA[On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 8 Damage
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL3"><![CDATA[On Attack Crit: Deal 10 Damage to Target
+	<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL3"><![CDATA[On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 10 Damage
 {colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL0"><![CDATA[On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +6%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
@@ -4286,11 +4286,11 @@ Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invi
 	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_EQUIP_TT"><![CDATA[On Being Hit: Equip Ostvengr Banner {colour_start|skill_unselectable}(Quest){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DESC_TT"><![CDATA[{colour_start|skill_unselectable}Empowers Battle Heal and Inspiring Cry at the Expense of the User...{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_CURE_HORROR_TT"><![CDATA[On Monster Kill: Self: Cure {colour_start|stress}Horror{colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT1"><![CDATA[{colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT2"><![CDATA[{colour_start|skill_unselectable}(135%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT3"><![CDATA[{colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT4"><![CDATA[{colour_start|skill_unselectable}(165%% base){colour_end}]]></entry>
-		<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT5"><![CDATA[{colour_start|skill_unselectable}(180%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT1"><![CDATA[{colour_start|skill_unselectable}(120%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT2"><![CDATA[{colour_start|skill_unselectable}(135%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT3"><![CDATA[{colour_start|skill_unselectable}(150%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT4"><![CDATA[{colour_start|skill_unselectable}(165%% base){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT5"><![CDATA[{colour_start|skill_unselectable}(180%% base){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT1"><![CDATA[On Turn End: Attacks front-most enemy that utilizes Amber ({colour_start|white}ɫ{colour_end})]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT2"><![CDATA[{colour_start|skill_unselectable}4-8 Dmg (+45%% DMG per Difficulty){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT3"><![CDATA[{colour_start|debuff}Debuff Target:{colour_end} -5 DODGE {colour_start|skill_unselectable}(+50%% Amount per Difficulty){colour_end}]]></entry>
@@ -4464,7 +4464,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HOUR_TT2"><![CDATA[ {colour_start|debuff}Debuff Party:{colour_end} -90ʪ {colour_start|healhp}Healing{colour_end} Received, {colour_start|stress}Stress Heal{colour_end} Received Disabled {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 	<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HOUR_TT3"><![CDATA[ {colour_start|debuff}Debuff Party:{colour_end} +150ʪ {colour_start|stress}Stress{colour_end} Received From Retreating {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 
-		<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_EXTRACT"><![CDATA[{colour_start|skill_unselectable}(For more info about Extracts, check their entry in Info Comms){colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_EXTRACT"><![CDATA[{colour_start|skill_unselectable}(For more info about Extracts, check their entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_LEECH"><![CDATA[{colour_start|skill_unselectable}(For more info about Soul Leech, check its entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_BOUNTY"><![CDATA[{colour_start|skill_unselectable}(For more info about Bounties, check their entry in Info Comms){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_INFO_COMMS_VESTIGE"><![CDATA[{colour_start|skill_unselectable}(For more info about Malignant Vestiges, check their entry in Info Comms){colour_end}]]></entry>
@@ -5993,7 +5993,7 @@ Heal 5-5 {colour_start|stress}Stress{colour_end}]]></entry>
 	<entry id="str_quirk_name_imposter_syndrome"><![CDATA[Imposter Syndrome]]></entry>
 	<entry id="str_quirk_name_infirm"><![CDATA[Infirm]]></entry>
 	<entry id="str_quirk_name_bad_healer"><![CDATA[Bad Healer]]></entry>
-	<entry id="str_quirk_name_brave"><![CDATA[Brave]]></entry>
+	<entry id="str_quirk_name_brave"><![CDATA[Boisterous]]></entry>
 	<entry id="str_quirk_name_on_the_mend"><![CDATA[On the Mend]]></entry>
 	<entry id="str_quirk_name_off_the_mend"><![CDATA[Off the Mend]]></entry>
 	<entry id="str_quirk_name_mellow"><![CDATA[Mellow]]></entry>
@@ -6256,15 +6256,18 @@ the Treasury successfully gives buffs
 {colour_start|skill_unselectable}Heal 6 pts/tn for 1 tn{colour_end}]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_NO_RETREAT_QUIRK_TT"><![CDATA[100ʪ Chance to Block Retreat]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_ABSENT_MINDED_QUIRK_TT1"><![CDATA[{colour_start|skill_unselectable}On Combat Start: Debuff Self:
+	<entry id="buff_stat_tooltip_upgrade_discount_ABSENT_MINDED_QUIRK_TT1"><![CDATA[Prone to not paying attention
+{colour_start|skill_unselectable}On Combat Start: Debuff Self:
 -15 DODGE, +15ʪ Stress Received (3 tns){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_ABSENT_MINDED_QUIRK_TT2"><![CDATA[{colour_start|skill_unselectable}(Debuffs get progressively weaker){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_FRAGRANT_QUIRK_TT"><![CDATA[+5 ACC, +3ʪ CRT if Perfumer Trinket is Equipped]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_CURIOUS_QUIRK_TT"><![CDATA[{colour_start|skill_unselectable}On Turn Start: 
 Consume a Random Provision (4ʪ Chance){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_QUIRK_TT"><![CDATA[{colour_start|skill_unselectable}On Being Crit: 
+	<entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_QUIRK_TT"><![CDATA[Demanding of retribution
+{colour_start|skill_unselectable}On Being Crit: 
 Buff Self: +20ʪ DMG, +8ʪ CRT (1 tn){colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_MEEK_QUIRK_TT"><![CDATA[{colour_start|skill_unselectable}On Being Crit: 
+	<entry id="buff_stat_tooltip_upgrade_discount_MEEK_QUIRK_TT"><![CDATA[Quick to crumble
+{colour_start|skill_unselectable}On Being Crit: 
 Debuff Self: -20ʪ DMG, -8ʪ CRT (1 tn){colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_BREACHER_QUIRK_TT"><![CDATA[{colour_start|skill_unselectable}On Turn Start: 
 Forward 3; 
