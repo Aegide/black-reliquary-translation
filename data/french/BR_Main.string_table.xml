@@ -435,7 +435,6 @@ Disease kit provision items can be used to remove the symptoms, or lessen the ef
 
  New statuses are applied in combat from both friends and foes, such as {colour_start|amberblighted}Amberblight{colour_end}, {colour_start|expiated}Expiation{colour_end}, {colour_start|leeching}Leeching{colour_end}, {colour_start|frantic}Frantic{colour_end}, and {colour_start|enraged}Enraged{colour_end}.
  These new statuses are all identifiable by their effect on top of the character, with details shown by hovering over the special icon above the health bar.]]></entry>
-<entry id="tutorial_popup_crimson_curse_wasting_title"><![CDATA[Nouveaux statuts]]></entry>
 <entry id="tutorial_popup_supplies_title"><![CDATA[Nouveaux statuts]]></entry>
 <entry id="tutorial_popup_camping_description"><![CDATA[TODO:Camping consists of two parts: {colour_start|notable}Meal phase{colour_end} and {colour_start|notable}Skill phase{colour_end}.
 During the {colour_start|notable}Meal phase{colour_end}, you choose how much they eat, which determines recovery. Make sure you have enough food!
@@ -2210,9 +2209,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_N"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_O"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_P"><![CDATA[TODO:Wildlander Steelhound]]></entry>
-<entry id="str_monstername_wildlander_dogsteel_X"><![CDATA[TODO:Wildlander Steelhound]]></entry>
-<entry id="str_monstername_wildlander_dogsteel_Y"><![CDATA[TODO:Wildlander Steelhound]]></entry>
-<entry id="str_monstername_wildlander_dogsteel_Z"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_dogsteel_S"><![CDATA[TODO:Wildlander Steelhound]]></entry>
 <entry id="str_monstername_wildlander_bombard_A"><![CDATA[Bombardière sauvage]]></entry>
 <entry id="str_monstername_wildlander_bombard_B"><![CDATA[Bombardière sauvage]]></entry>
@@ -2232,9 +2228,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_wildlander_harrier_N"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_O"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_harrier_P"><![CDATA[Chasseur sauvage]]></entry>
-<entry id="str_monstername_wildlander_harrier_X"><![CDATA[Chasseur sauvage]]></entry>
-<entry id="str_monstername_wildlander_harrier_Y"><![CDATA[Chasseur sauvage]]></entry>
-<entry id="str_monstername_wildlander_harrier_Z"><![CDATA[Chasseur sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_A"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_B"><![CDATA[Ravageuse sauvage]]></entry>
 <entry id="str_monstername_wildlander_reaver_C"><![CDATA[Ravageuse sauvage]]></entry>
@@ -2277,7 +2270,6 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_ghoul_painweaver_A"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_B"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_C"><![CDATA[Groule]]></entry>
-<entry id="str_monstername_ghoul_painweaver_D"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_F"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_G"><![CDATA[Groule]]></entry>
 <entry id="str_monstername_ghoul_painweaver_H"><![CDATA[Groule]]></entry>
@@ -3819,7 +3811,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE"><![CDATA[TODO:{colour_start|notable}Amber Provision Table:{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_POACHER_MASK_TABLE"><![CDATA[
 Ginseng Powder {colour_start|skill_unselectable}(40ʪ){colour_end}
-Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry><entry id="buff_stat_tooltip_upgrade_discount_WURM_SCARF_TT"><![CDATA[Tuer un ennemi : Sur soi : Retire la {colour_start|mark}marque{colour_end}]]></entry>
+Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[TODO:Aegis Scale {colour_start|skill_unselectable}(20ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_CRIT_DMG_TT"><![CDATA[TODO:+15%% Melee CRT DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARCH_COMPENDIUM_TT"><![CDATA[TODO:Can be used on Kvarotz Curios for guaranteed Darics
@@ -5707,7 +5699,6 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 <entry id="quirk_transition_bulimic_a_to_bulimic_tended_a"><![CDATA[J'ai déjà connu pire.]]></entry>
 <entry id="quirk_transition_bulimic_a_to_bulimic_tended_a"><![CDATA[Je n'ai pas le temps d'être malade.]]></entry>
 <entry id="quirk_transition_anorexia_sc_to_scurvy_a"><![CDATA[J'ai mangé quelque chose d'anormal...]]></entry>
-<entry id="quirk_transition_anorexia_tended_sc_to_scurvy_tended_a"><![CDATA[J'ai mangé quelque chose d'anormal...]]></entry>
 <entry id="quirk_transition_scurvy_a_to_scurvy_tended_a"><![CDATA[Je me sens déjà mieux.]]></entry>
 <entry id="quirk_transition_scurvy_a_to_scurvy_tended_a"><![CDATA[Je vais y arriver.]]></entry>
 <entry id="quirk_transition_scurvy_a_to_scurvy_tended_a"><![CDATA[Il faudra bien plus que cela pour m'abattre.]]></entry>
@@ -5834,7 +5825,6 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 <entry id="str_quirk_name_the_ague_c"><![CDATA[Fièvre]]></entry>
 <entry id="str_quirk_name_the_ague_tended_c"><![CDATA[Fièvre (stable)]]></entry>
 <entry id="quirk_transition_cough_c_to_creeping_cough_c"><![CDATA[TODO:*phlegm-filled coughing*]]></entry>
-<entry id="quirk_transition_cough_tended_c_to_creeping_cough_tended_c"><![CDATA[TODO:*phlegm-filled coughing*]]></entry>
 <entry id="quirk_transition_creeping_cough_tended_c_to_creeping_cough_c"><![CDATA[TODO:*hoarse coughing*]]></entry>
 <entry id="quirk_transition_cough_ag_to_the_ague_c"><![CDATA[TODO:*phlegm-filled coughing*]]></entry>
 <entry id="quirk_transition_the_ague_tended_c_to_the_ague_c"><![CDATA[TODO:I feel like death... Get me to a doctor!]]></entry>
@@ -5891,7 +5881,6 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 <entry id="str_quirk_name_black_plague_f"><![CDATA[Peste noire]]></entry>
 <entry id="str_quirk_name_black_plague_tended_f"><![CDATA[Peste noire (stable)]]></entry>
 <entry id="quirk_transition_fatigue_t_to_the_ague_f"><![CDATA[TODO:*heavy breathing* I need a break...]]></entry>
-<entry id="quirk_transition_fatigue_tended_t_to_the_ague_tended_f"><![CDATA[TODO:*heavy breathing* I need a break...]]></entry>
 <entry id="quirk_transition_the_ague_tended_f_to_the_ague_f"><![CDATA[TODO:I feel like death... Get me to a doctor!]]></entry>
 <entry id="quirk_transition_fatigue_t_to_the_ague_f"><![CDATA[TODO:*heavy breathing* I need a break...]]></entry>
 <entry id="quirk_transition_the_ague_tended_f_to_the_ague_f"><![CDATA[TODO:I feel like death... Get me to a doctor!]]></entry>
