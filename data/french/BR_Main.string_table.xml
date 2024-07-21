@@ -3102,7 +3102,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_fanatic_bleed"><![CDATA[{colour_start|white}ɘɘɡɡɥɣɣɘɘɩɻʎʑ{colour_end}Pénitence]]></entry>
 <entry id="str_monster_skill_fanatic_weak"><![CDATA[{colour_start|white}ɘɘɡɡʦɘɘɣɣɩɨ{colour_end}Thrash]]></entry>
 <entry id="str_monster_skill_fanatic_heal"><![CDATA[TODO:{colour_start|white}əəəəɥɣɣɘɘɩɦɬʄ{colour_end}Sanctification]]></entry>
-<entry id="str_monster_skill_spooky_song"><![CDATA[TODO:{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɮʑʔ{colour_end}Deathly Rattle]]></entry>
+<entry id="str_monster_skill_spooky_song"><![CDATA[{colour_start|white}ɡɡɡɡʩɣɣɣɣɩɮʑʔ{colour_end}Crécelle cruelle]]></entry>
 <entry id="str_monster_skill_sandstorm"><![CDATA[{colour_start|white}ɠɞɞɟʩɣɣɣɣɩɦɳʑ{colour_end}Tempête de sable]]></entry>
 <entry id="str_monster_skill_guarding_song"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦʃʙ{colour_end}Château de sable]]></entry>
 <entry id="str_monster_skill_summon_sand1"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʀ{colour_end}Charmante mélodie]]></entry>
@@ -5374,13 +5374,13 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_no_retreat"><![CDATA[TODO:No Retreat]]></entry>
 <entry id="str_quirk_name_absent_minded"><![CDATA[TODO:Absent Minded]]></entry>
 <entry id="str_quirk_name_fragrant"><![CDATA[TODO:Savant]]></entry>
-<entry id="str_quirk_name_curious"><![CDATA[TODO:Impulsive]]></entry>
+<entry id="str_quirk_name_curious"><![CDATA[Impulsivité]]></entry>
 <entry id="str_quirk_name_vengeful"><![CDATA[TODO:Vengeful]]></entry>
 <entry id="str_quirk_name_meek"><![CDATA[TODO:Weak-Willed]]></entry>
 <entry id="str_quirk_name_breacher"><![CDATA[TODO:Breacher]]></entry>
-<entry id="str_quirk_name_tactician"><![CDATA[TODO:Tactician]]></entry>
+<entry id="str_quirk_name_tactician"><![CDATA[Tactique]]></entry>
 <entry id="str_quirk_name_alacritous"><![CDATA[TODO:Alacritous]]></entry>
-<entry id="str_quirk_name_sheepish"><![CDATA[TODO:Hesitant]]></entry>
+<entry id="str_quirk_name_sheepish"><![CDATA[Hésitation]]></entry>
 <entry id="str_quirk_name_calculating"><![CDATA[TODO:Bider]]></entry>
 <entry id="str_quirk_name_impatient"><![CDATA[TODO:Trepid]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ALOCHOLISM_TT"><![CDATA[Au navire, ne fait que boire.
