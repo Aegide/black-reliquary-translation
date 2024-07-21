@@ -18,7 +18,7 @@ TRANSLATION_SOURCE_PATH = Path("data")
 TRANSLATION_DESTINATION_PATH = Path("build")
 REVIEW_PATH = Path("review")
 
-MONO_LINE_PATTERN = r'<entry id="[\w\|\+\-.\[\]]+"><!\[CDATA\[[^>]*?\]\]><\/entry>\n'
+MONO_LINE_PATTERN = r'<entry id="[\w\|\+\-.\[\]( )]+"><!\[CDATA\[[^>]*?\]\]><\/entry>\n'
 
 
 def fake_translation():
