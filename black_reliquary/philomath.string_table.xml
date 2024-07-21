@@ -363,7 +363,7 @@ Malevolent Pact]]></entry>
 
 
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_tooltip"><![CDATA[Target:]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_block_tooltip"><![CDATA[2 Blocks]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_block_tooltip"><![CDATA[Apply 2 Blocks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_guard_tooltip"><![CDATA[Force {colour_start|guard}Guard{colour_end} by Ally {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_safeguard_target_horror_tooltip"><![CDATA[{colour_start|stress}Horror{colour_end} 6 pts/tn for 3 tns
 {colour_start|buff}Buff Others:{colour_end}]]></entry>
