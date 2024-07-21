@@ -8,7 +8,7 @@ Malheureusement, nous ne pouvons pas ajouter de lien vers nos réseaux sociaux.]
 <entry id="str_backend_disabled"><![CDATA[Ce message concerne uniquement la collecte de données du DLC The Butcher's Circus.
 Black Reliquary ne collecte pas vos données.]]></entry>
 <entry id="estate_title_default_data"><![CDATA[Chasseur de la Flamme]]></entry>
-<entry id="str_save_pre_click"><![CDATA[Cliquez sur la lettre pour démarrer]]></entry>
+<entry id="str_save_pre_click"><![CDATA[Nouvelle campagne]]></entry>
 <entry id="str_save_post_click"><![CDATA[Chasseur de la Flamme]]></entry>
 <entry id="fe_flow_mode_base_confirm"><![CDATA[Reliquaire]]></entry>
 <entry id="str_game_mode_select_base_tooltip"><![CDATA[La campagne reliquaire représente les paramètres "originaux" du jeu. La difficulté est similaire à celle de Lune de sang, mais sans limite de temps ou de morts.]]></entry>
@@ -923,8 +923,9 @@ Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{
 La plupart des curios peuvent être abordées de différentes
  manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Vérifier régulièrement les bonus et les malus, de vos alliés et
-et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+Vérifier régulièrement les bonus et les malus,
+de vos alliés et de vos ennemis,
+vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_warrens_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} Les cavernes sont désormais accessibles.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les illusions sont légion. Agissez avec précaution.]]></entry>
@@ -959,7 +960,8 @@ Utiliser des vapeurs d'alun pourrait réveiller ces objets.]]></entry>
 La plupart des curios peuvent être abordées de différentes
 manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_weald_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Vérifier régulièrement les bonus et les malus, de vos alliés et et de vos ennemis,
+Vérifier régulièrement les bonus et les malus,
+de vos alliés et de vos ennemis,
 vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_weald_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La Trésorerie est désormais accessible.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
@@ -991,7 +993,9 @@ La nécropole est la région ayant le plus de {colour_start|BR_heirloom}Matakh{c
 La plupart des curios peuvent être abordées de différentes
 manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_crypts_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Vérifier régulièrement les bonus et les malus, de vos alliés et de vos ennemis, vous permettra de maîtriser la situation.]]></entry>
+Vérifier régulièrement les bonus et les malus,
+de vos alliés et de vos ennemis,
+vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_crypts_unlocked"><![CDATA[{colour_start|town_activity_log_positive_result}{?dungeon_name}%s :{colour_end} La nécropole est désormais accessible.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 En combat les sauvages seront sans-pitié, n'espérez pas pouvoir vous reposer.]]></entry>
@@ -1018,7 +1022,7 @@ La plupart des curios peuvent être abordées de différentes
 manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Vérifier régulièrement les bonus et les malus,
-de vos alliés et et de vos ennemis,
+de vos alliés et de vos ennemis,
 vous permettra de maîtriser la situation.]]></entry>
 <entry id="str_cove_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Pendant la {colour_start|moon_torch}nuit{colour_end},
