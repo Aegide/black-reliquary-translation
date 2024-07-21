@@ -32,7 +32,7 @@ echo " "
 echo ">> MISSING"
 echo " "
 
-cat missing_strings.csv | grep -v ",PSN," | grep -v ",switch," | grep -v ",xb1,"
+cat missing_strings.csv | grep -v ",switch," | grep -v ",xb1,"
 
 echo " "
 echo " "
