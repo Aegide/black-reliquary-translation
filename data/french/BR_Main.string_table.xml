@@ -5364,7 +5364,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_profane"><![CDATA[Profane]]></entry>
 <entry id="str_quirk_name_life_fruit"><![CDATA[Croissance miraculeuse]]></entry>
 <entry id="str_quirk_name_no_retreat"><![CDATA[TODO:No Retreat]]></entry>
-<entry id="str_quirk_name_absent_minded"><![CDATA[TODO:Absent Minded]]></entry>
+<entry id="str_quirk_name_absent_minded"><![CDATA[Distraction]]></entry>
 <entry id="str_quirk_name_fragrant"><![CDATA[TODO:Savant]]></entry>
 <entry id="str_quirk_name_curious"><![CDATA[Impulsivité]]></entry>
 <entry id="str_quirk_name_vengeful"><![CDATA[TODO:Vengeful]]></entry>
@@ -5558,7 +5558,7 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_penitent"><![CDATA[Pénitence]]></entry>
 <entry id="buff_rule_data_tooltip_convalescent"><![CDATA[Convalescence]]></entry>
 <entry id="buff_rule_data_tooltip_rampager"><![CDATA[Sadisme]]></entry>
-<entry id="buff_rule_data_tooltip_absent_minded"><![CDATA[TODO:Absent Minded]]></entry>
+<entry id="buff_rule_data_tooltip_absent_minded"><![CDATA[Distraction]]></entry>
 <entry id="buff_rule_data_tooltip_vengeful"><![CDATA[TODO:Vengeful]]></entry>
 <entry id="buff_rule_data_tooltip_meek"><![CDATA[TODO:Weak-Willed]]></entry>
 <entry id="buff_rule_tooltip_has_quirk"><![CDATA[%s si %s]]></entry>
