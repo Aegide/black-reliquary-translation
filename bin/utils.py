@@ -101,7 +101,7 @@ def review_everything():
     for filename in listdir(TRANSLATION_DESTINATION_PATH):
         # print(f"Reviewing {filename}")
         review_translation(filename)
-        key_analysis(filename)
+        # key_analysis(filename)
 
 
 def key_analysis(filename:str):

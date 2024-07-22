@@ -5479,12 +5479,12 @@ the Treasury successfully gives buffs
 <entry id="buff_stat_tooltip_upgrade_discount_LOUNGER"><![CDATA[TODO:+5 Idle {colour_start|stress}Stress{colour_end} healed on the Flameseeker]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENLIGHTENED"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ +8]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOUDED_MIND"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ -8]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SUPERSTITIOUS"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT +5%]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SKEPTIC"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT -5%]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ADHERENT"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT +10%]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DISSENTER"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT -10%]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FENCER"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT +10% et PRÉ +5]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BAD_REFLEXES"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT -10% et PRÉ -5]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SUPERSTITIOUS"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT +5ʪ]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SKEPTIC"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : CRIT -5ʪ]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ADHERENT"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT +10ʪ]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DISSENTER"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : DGT -10ʪ]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FENCER"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT +10ʪ et PRÉ +5]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BAD_REFLEXES"><![CDATA[{colour_start|riposte}Riposte{colour_end} : DGT -10ʪ et PRÉ -5]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_REGENERATOR"><![CDATA[Récupération prodigieuse
 {colour_start|skill_unselectable}Début de tour : Sur soi :
 +10ʪ des PV MAX (5ʪ de chances){colour_end}]]></entry>
