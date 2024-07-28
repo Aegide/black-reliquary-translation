@@ -2617,9 +2617,9 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monstername_trog_prodigy_C"><![CDATA[Larve troglodyte]]></entry>
 <entry id="str_monstername_trog_prodigy_perfect_C"><![CDATA[Prodige troglodyte]]></entry>
 <entry id="str_monstername_trog_prodigy_flawed_C"><![CDATA[Aberration troglodyte]]></entry>
-<entry id="str_monstername_kvarotz_weld_A"><![CDATA[Kvarotz T'Hanur]]></entry>
-<entry id="str_monstername_kvarotz_weld_B"><![CDATA[Kvarotz T'Hanur]]></entry>
-<entry id="str_monstername_kvarotz_weld_C"><![CDATA[Kvarotz T'Hanur]]></entry>
+<entry id="str_monstername_kvarotz_weld_A"><![CDATA[Fourneau Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_weld_B"><![CDATA[Fourneau Kvarotz]]></entry>
+<entry id="str_monstername_kvarotz_weld_C"><![CDATA[Fourneau Kvarotz]]></entry>
 <entry id="str_monstername_lost_seneschal_C"><![CDATA[Sénéchal (Légion)]]></entry>
 <entry id="str_monstername_kvarotz_acolyte_C"><![CDATA[Acolyte Kvarotz]]></entry>
 <entry id="str_monstername_kvarotz_offering_C"><![CDATA[Offrande]]></entry>
@@ -3158,9 +3158,9 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_trog_prodigy_perfect_amber"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɣɣɣɣɩʡɽɺ{colour_end}Petrifaction]]></entry>
 <entry id="str_monster_skill_trog_prodigy_flawed_swipe"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɣɣɣɣɩʟʎɮ{colour_end}Malformed Rage]]></entry>
 <entry id="str_monster_skill_trog_prodigy_flawed_spray"><![CDATA[TODO:{colour_start|white}ɡɡɡɘɥɣɣɣɣɩʟʏɮ{colour_end}Plagued Throes]]></entry>
-<entry id="str_monster_skill_weld"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦʙʐ{colour_end}Immortal Machines]]></entry>
-<entry id="str_monster_skill_hot_stab"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɘɣɣɣɩɧʑ{colour_end}Scalding Skewer]]></entry>
-<entry id="str_monster_skill_smokescreen"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɦʑʖ{colour_end}Suffocate]]></entry>
+<entry id="str_monster_skill_weld"><![CDATA[{colour_start|white}əəəəɥɘɘɣɣɩɦʙʐ{colour_end}Machine immortelle]]></entry>
+<entry id="str_monster_skill_hot_stab"><![CDATA[{colour_start|white}ɘɡɡɡɥɘɣɣɣɩɧʑ{colour_end}Embrochement brûlant]]></entry>
+<entry id="str_monster_skill_smokescreen"><![CDATA[{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɦʑʖ{colour_end}Asphyxie]]></entry>
 <entry id="str_monster_skill_sen_bash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥʯɩɨ{colour_end}Mass]]></entry>
 <entry id="str_monster_skill_sen_hurge"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɱ{colour_end}Begone!]]></entry>
 <entry id="str_monster_skill_sen_hew"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɻ{colour_end}Part the Tide]]></entry>
