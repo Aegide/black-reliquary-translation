@@ -4452,7 +4452,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="str_bark_amber_powder"><![CDATA[C'est fascinant...]]></entry>
 <entry id="str_bark_amber_powder"><![CDATA[Que vont-ils inventer ensuite...]]></entry>
 <entry id="str_bark_amber_powder"><![CDATA[Qui aurait cru que cela fonctionnerait avec de la poudre ?]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[TODO:Can Only Be Used During {colour_start|prep_round}Prep Round{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PREP_ROUND_EXCLUSIVE"><![CDATA[Uniquement pendant la {colour_start|prep_round}préparation{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ON_PREP_EFFECT_TT"><![CDATA[TODO:On {colour_start|prep_round}Prep Round:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AFTER_PREP_EFFECT_TT"><![CDATA[TODO:Otherwise:]]></entry>
 <entry id="buff_rule_data_tooltip_PREP_DEBUFF_CHANCE_TT1"><![CDATA[TODO:{colour_start|skill_unselectable}(110% base){colour_end}]]></entry>
