@@ -689,7 +689,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_20"><![CDATA[TODO:Debuff/Mark Resistance]]></entry>
 <entry id="str_glossary_term_definition_20"><![CDATA[TODO:Bonus towards resisting incoming debuffs and marks.]]></entry>
 <entry id="str_glossary_term_21"><![CDATA[Ambre]]></entry>
-<entry id="str_glossary_term_definition_21"><![CDATA[TODO:A relic typically found in the Caverns. Used to upgrade buildings on the Ship, as well as to produce Refined Amber Dust inside Amber Workshop.]]></entry> 
+<entry id="str_glossary_term_definition_21"><![CDATA[TODO:A relic typically found in the Caverns. Used to upgrade buildings on the Ship, as well as to produce Refined Amber Dust inside Amber Workshop.]]></entry>
 <entry id="str_glossary_term_22"><![CDATA[Maladie]]></entry>
 <entry id="str_glossary_term_definition_22"><![CDATA[TODO:A temporary sickness that debilitates the hero in some way. Disease Kits can tend the disease, but a fully evolved disease itself can only be cured in the Clinic.]]></entry>
 <entry id="str_glossary_term_23"><![CDATA[DGT]]></entry>
@@ -1614,7 +1614,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_opul_summon"><![CDATA[TODO:A cactonid emerges from the pile!]]></entry>
 <entry id="str_curio_cact_opul_holy_water_summon_cact_opul_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_opul_disease_kit_summon_cact_opul_flow"><![CDATA[TODO:Flowers violently bloom from the pile!]]></entry>
-<entry id="str_curio_cact_opul_dog_treats_summon_cact_opul_dog"><![CDATA[TODO:The hungry cactonids appreciate your treat!]]></entry> 
+<entry id="str_curio_cact_opul_dog_treats_summon_cact_opul_dog"><![CDATA[TODO:The hungry cactonids appreciate your treat!]]></entry>
 <entry id="str_curio_cact_opul_arch_kit_loot"><![CDATA[TODO:Riches are carefully pilfered!]]></entry>
 <entry id="str_curio_cact_opul_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_quest_cache"><![CDATA[Cachette envahie]]></entry>
@@ -1632,7 +1632,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_content_cact_vertev"><![CDATA[TODO:Vines stretch down from high above.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_vertev"><![CDATA[TODO:Give the vines a yank.]]></entry>
 <entry id="str_curio_cact_vertev_summon"><![CDATA[TODO:A cactonid descends upon the hero!]]></entry>
-<entry id="str_curio_cact_vertev_torch_summon_cact_vertev_smoke"><![CDATA[TODO:The cactonids are overwhelmed by the smoke!]]></entry> 
+<entry id="str_curio_cact_vertev_torch_summon_cact_vertev_smoke"><![CDATA[TODO:The cactonids are overwhelmed by the smoke!]]></entry>
 <entry id="str_curio_cact_vertev_honing_oil_effect"><![CDATA[TODO:The bottle is flung back at the hero by the vines!]]></entry>
 <entry id="str_curio_cact_vertev_holy_water_summon_cact_vertev_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_vertev_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
@@ -1640,7 +1640,7 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_content_cact_savage"><![CDATA[TODO:Eerie protrusions and liquids cover the plant.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_savage"><![CDATA[Collecter le nectar.]]></entry>
 <entry id="str_curio_cact_savage_summon"><![CDATA[TODO:The cactonid takes flight!]]></entry>
-<entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[TODO:The swarm is enraged!]]></entry> 
+<entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[TODO:The swarm is enraged!]]></entry>
 <entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[TODO:The eldritch nectar is frighteningly tasty!]]></entry>
 <entry id="str_curio_cact_savage_holy_water_summon_cact_savage_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_savage_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
@@ -3161,7 +3161,7 @@ On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_weld"><![CDATA[TODO:{colour_start|white}əəəəɥɘɘɣɣɩɦʙʐ{colour_end}Immortal Machines]]></entry>
 <entry id="str_monster_skill_hot_stab"><![CDATA[TODO:{colour_start|white}ɘɡɡɡɥɘɣɣɣɩɧʑ{colour_end}Scalding Skewer]]></entry>
 <entry id="str_monster_skill_smokescreen"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥɣɣɘɘɩɦʑʖ{colour_end}Suffocate]]></entry>
-<entry id="str_monster_skill_sen_bash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥʯɩɨ{colour_end}Mass]]></entry> 
+<entry id="str_monster_skill_sen_bash"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʥʯɩɨ{colour_end}Mass]]></entry>
 <entry id="str_monster_skill_sen_hurge"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɱ{colour_end}Begone!]]></entry>
 <entry id="str_monster_skill_sen_hew"><![CDATA[TODO:{colour_start|white}ɘɘɠɟɥʬɩɧɻ{colour_end}Part the Tide]]></entry>
 <entry id="str_monster_skill_sen_holy_fervor"><![CDATA[TODO:{colour_start|white}ɚɛɛɜʬɩʙʕɵ{colour_end}Call Upon Thee]]></entry>
@@ -3438,7 +3438,7 @@ Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_RESET_BUFF_FRIENDLY_SKILL_TRIGGER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Retire le {colour_start|buff}bonus{colour_end} de {colour_start|healhp}soin{colour_end} de cette breloque]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_HEAL_BUFF_MELEE_HIT_TRIGGER"><![CDATA[TODO:On Melee Attack Hit: {colour_start|buff}Bonus sur soi :{colour_end} +3 Additional HP {colour_start|healhp}Healed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CC_VEST_SET"><![CDATA[TODO:If in rank 2: Divine Comfort ignores {colour_start|notable}Cooldown{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOME_OF_CLEANSING_DIVINE_GRACE"><![CDATA[TODO:Divine Grace: Cure {colour_start|blight}Blight{colour_end}/{colour_start|bleed}Bleed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOME_OF_CLEANSING_DIVINE_GRACE"><![CDATA[{colour_start|notable}Grâce divine{colour_end} : Soigne {colour_start|blight}infection{colour_end}/{colour_start|bleed}saignement{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LAST_WILL_PROT"><![CDATA[TODO:+5%% PROT per 20%% HP Remaining]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OBSIDIAN_DAGGER"><![CDATA[TODO:All {colour_start|blight}Blight{colour_end} Damage from Skills is Converted to {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_TT"><![CDATA[TODO:All {colour_start|bleed}Bleed{colour_end} ]]></entry>
@@ -3840,7 +3840,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_UPGRADE_1"><![CDATA[TODO: {colour_start|skill_unselectable}Additional -5% Chance Party Surprised{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_UPGRADE_2"><![CDATA[TODO: {colour_start|skill_unselectable}Additional +2.5% Scouting Chance{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_UPGRADE_3"><![CDATA[TODO: {colour_start|skill_unselectable}Additional Prevents Nighttime Ambush{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[TODO:{colour_start|notable}Max Level{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_YNGOLIAN_UPGRADEMAX"><![CDATA[{colour_start|notable}Niveau maximum{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_1"><![CDATA[TODO: {colour_start|skill_unselectable}Additional +1 Max Gems{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_2"><![CDATA[TODO: {colour_start|skill_unselectable}Additional +1 SPD {colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_YNGOLIAN_HAND_UPGRADE_3"><![CDATA[TODO: {colour_start|skill_unselectable}Additional +1 Min Gems{colour_end}]]></entry>
@@ -5625,18 +5625,18 @@ Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TAPEWORM"><![CDATA[TODO:{colour_start|skill_unselectable}Steals from Food-related Curios (60ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SPOUTING_SORES"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Bleed Self: 4 pts/tn for 3 tns (140ʪ base) (8ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SPOTTED_FEVER"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Blight Self: 4 pts/tn for 3 tns (140ʪ base) (8ʪ Chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LETHARGY"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: Pass turn (6ʪ chance){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LETHARGY"><![CDATA[{colour_start|skill_unselectable}Début de tour : Fin de tour (6ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_FEVER_TT1"><![CDATA[TODO:+5%% Ghoul Encounter Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT1"><![CDATA[TODO:+10%% Ghoul Encounter Chance]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT2"><![CDATA[TODO:+3%% Chance to Encounter Ghoul Mother on Champ Missions]]></entry> 
+<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT2"><![CDATA[TODO:+3%% Chance to Encounter Ghoul Mother on Champ Missions]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_PLAGUE_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}Chance doubled for each additional plagued hero		{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TINNITUS_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Self: Suffer 4 Stress (6%% chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DEAFNESS_TT1"><![CDATA[TODO:-75%% {colour_start|stress}Stress{colour_end} and {colour_start|stress}Horror{colour_end} Amount Received from Sound-Based Attacks]]></entry> 
+<entry id="buff_stat_tooltip_upgrade_discount_DEAFNESS_TT1"><![CDATA[TODO:-75%% {colour_start|stress}Stress{colour_end} and {colour_start|stress}Horror{colour_end} Amount Received from Sound-Based Attacks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEAFNESS_TT2"><![CDATA[TODO:-25%% {colour_start|stress}Stress{colour_end} and {colour_start|stress}Horror{colour_end} Amount Received from Sound-Based Attacks]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SLOW_DISEASE_PROGRESSION_BY_50"><![CDATA[TODO:-50%% {colour_start|symptom}Symptom{colour_end}/ {colour_start|disease}Disease{colour_end} Progression Rate]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_SCOUTCHANCE_TT"><![CDATA[TODO:%+d%% {colour_start|scouting}Scout{colour_end} Chance]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_RESIST_TT"><![CDATA[TODO:+5%% All Resists]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_DISEASE_IMMUNE_TT"><![CDATA[TODO:{colour_start|notable}Immune to Symptom/Disease{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_IMPLANT_DISEASE_IMMUNE_TT"><![CDATA[{colour_start|notable}Immunité aux symptômes/maladies{colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_w"><![CDATA[{colour_start|symptom}Anorexie{colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_s"><![CDATA[{colour_start|symptom}Anorexie{colour_end}]]></entry>
 <entry id="str_quirk_name_anorexia_b"><![CDATA[{colour_start|symptom}Anorexie{colour_end}]]></entry>
