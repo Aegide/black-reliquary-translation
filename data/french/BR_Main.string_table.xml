@@ -3716,9 +3716,9 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_ACC_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Party:{colour_end} -5 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT1"><![CDATA[TODO:On Ranged Attack Hit: Sur soi : {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DAMASCENE_TT2"><![CDATA[TODO:On {colour_start|riposte}Riposte{colour_end} Hit: Sur soi : Clear {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(50ʪ de chances){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT1"><![CDATA[TODO:Blackjack: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|bleed}Bleed Target{colour_end}: 4 pts/tr for 3 trs {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}(+10ʪ Bleed Chance/+1 Bleed amount per skill level){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT1"><![CDATA[{colour_start|notable}Blackjack{colour_end} : {colour_start|stun}Étourdissement{colour_end}/{colour_start|debuff}Malus{colour_end} impossible]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT2"><![CDATA[{colour_start|notable}Blackjack{colour_end} : {colour_start|bleed}Saignement{colour_end} {colour_start|skill_unselectable}(base : 100ʪ){colour_end} 4 pts/tr sur 3 trs]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_CAPTAIN_CUTLASS_TT3"><![CDATA[{colour_start|skill_unselectable}(Chances d'infliger un saignement +10ʪ et +1 pts de saignement par niveau de Blackjack){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT1"><![CDATA[TODO:Quand l'attaque touche : {colour_start|buff}Bonus sur soi :{colour_end} +20ʪ DMG, +3 SPD]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT2"><![CDATA[TODO:Quand l'attaque touche : Sur soi : {colour_start|harmful}Suffer{colour_end} 4 HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_ATTACK_TT3"><![CDATA[TODO:Quand l'attaque touche : {colour_start|debuff}Malus sur soi :{colour_end} +15ʪ Damage Taken]]></entry>
