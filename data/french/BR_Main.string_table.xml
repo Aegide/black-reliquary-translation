@@ -1636,12 +1636,12 @@ Il est verrouillé.]]></entry>
 <entry id="str_curio_cact_vertev_honing_oil_effect"><![CDATA[TODO:The bottle is flung back at the hero by the vines!]]></entry>
 <entry id="str_curio_cact_vertev_holy_water_summon_cact_vertev_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_vertev_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
-<entry id="str_curio_title_cact_savage"><![CDATA[TODO:Unnerving Sac]]></entry>
-<entry id="str_curio_content_cact_savage"><![CDATA[TODO:Eerie protrusions and liquids cover the plant.]]></entry>
+<entry id="str_curio_title_cact_savage"><![CDATA[Plante inquiétante]]></entry>
+<entry id="str_curio_content_cact_savage"><![CDATA[Un liquide indescriptible recouvre la plante.]]></entry>
 <entry id="str_curio_tooltip_investigate_cact_savage"><![CDATA[Collecter le nectar.]]></entry>
-<entry id="str_curio_cact_savage_summon"><![CDATA[TODO:The cactonid takes flight!]]></entry>
-<entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[TODO:The swarm is enraged!]]></entry>
-<entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[TODO:The eldritch nectar is frighteningly tasty!]]></entry>
+<entry id="str_curio_cact_savage_summon"><![CDATA[Le cactonide s'envole !]]></entry>
+<entry id="str_curio_cact_savage_shovel_summon_cact_savage_shovel"><![CDATA[L'essaim est furieux !]]></entry>
+<entry id="str_curio_cact_savage_disease_kit_effect"><![CDATA[Le nectar est terriblement délicieux !]]></entry>
 <entry id="str_curio_cact_savage_holy_water_summon_cact_savage_cursed"><![CDATA[L'alun réveille une relique à l'intérieur du cactonide !]]></entry>
 <entry id="str_curio_cact_savage_yngolian_hand_5_loot"><![CDATA[TODO:The key unlocks a celestial vault.]]></entry>
 <entry id="str_curio_title_cact_homi"><![CDATA[Cadavre envahi]]></entry>
