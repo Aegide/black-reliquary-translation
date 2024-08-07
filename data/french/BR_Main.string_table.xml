@@ -625,12 +625,12 @@ Stamping out these pests as quickly as possible can keep the fight under control
 {colour_start|white}ʉ{colour_end} - Cure {colour_start|stun}Stun{colour_end}
 {colour_start|white}̥{colour_end} - Cure {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}
 {colour_start|white}ʊ{colour_end} - {colour_start|stealth}Sortie de furtivité{colour_end}
-{colour_start|white}ɷ{colour_end} - Bonus DMG vs {colour_start|mark}Marked{colour_end}
-{colour_start|white}ɸ{colour_end} - Bonus DMG vs {colour_start|bleed}Bleeding{colour_end}
-{colour_start|white}ɹ{colour_end} - Bonus DMG vs {colour_start|blight}Blighted{colour_end}
-{colour_start|white}̦{colour_end} - Bonus DMG vs {colour_start|stun}Stunned{colour_end}
-{colour_start|white}ɺ{colour_end} - Bonus DMG vs {colour_start|amberblighted}Amberblighted{colour_end}
-{colour_start|white}ɻ{colour_end} - Bonus DMG vs {colour_start|expiated}Expiated{colour_end}
+{colour_start|white}ɷ{colour_end} - DGT bonus vs {colour_start|mark}Marque{colour_end}
+{colour_start|white}ɸ{colour_end} - DGT bonus vs {colour_start|bleed}Bleeding{colour_end}
+{colour_start|white}ɹ{colour_end} - DGT bonus vs {colour_start|blight}Blighted{colour_end}
+{colour_start|white}̦{colour_end} - DGT bonus vs {colour_start|stun}Stunned{colour_end}
+{colour_start|white}ɺ{colour_end} - DGT bonus vs {colour_start|amberblighted}Amberblighted{colour_end}
+{colour_start|white}ɻ{colour_end} - DGT bonus vs {colour_start|expiated}Expiated{colour_end}
 {colour_start|white}̤{colour_end} - Bonus {colour_start|stress}Stress{colour_end} vs {colour_start|amberblighted}Amberblighted{colour_end}
 {colour_start|white}̣{colour_end} - Rank Marked
 {colour_start|white}ʌ{colour_end} - Rank Marked by Enchantress
@@ -719,7 +719,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_35"><![CDATA[Résistance aux déplacements]]></entry>
 <entry id="str_glossary_term_definition_35"><![CDATA[TODO:Bonus towards resisting enemy moves that cause a position change.]]></entry>
 <entry id="str_glossary_term_36"><![CDATA[Obstacle]]></entry>
-<entry id="str_glossary_term_definition_36"><![CDATA[TODO:An object found in dungeons that impedes the party's progress. They can be removed by hand or with an item (usually Shovel). Clearing an obstacle by hand inflicts DMG and negative effects on the entire party.]]></entry>
+<entry id="str_glossary_term_definition_36"><![CDATA[TODO:An object found in dungeons that impedes the party's progress. They can be removed by hand or with an item (usually Shovel). Clearing an obstacle by hand inflicts DGT and negative effects on the entire party.]]></entry>
 <entry id="str_glossary_term_37"><![CDATA[Bijoux]]></entry>
 <entry id="str_glossary_term_definition_37"><![CDATA[TODO:A Relic typically found in the Treasury. Used to upgrade buildings on the Ship.]]></entry>
 <entry id="str_glossary_term_38"><![CDATA[PROT]]></entry>
@@ -757,7 +757,7 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_54"><![CDATA[Vertu]]></entry>
 <entry id="str_glossary_term_definition_54"><![CDATA[TODO:A temporary condition of increased effectiveness that a hero acquires after passing an Affliction Check. Virtued heroes have buffs and may buff or otherwise increase the power of their allies.]]></entry>
 <entry id="str_glossary_term_55"><![CDATA[Arme]]></entry>
-<entry id="str_glossary_term_definition_55"><![CDATA[TODO:A type of equipment used by a hero to combat the dangers found in dungeons. A hero's weapon determines their base DMG, CRT and SPD. Weapons can be upgraded at the Forge.]]></entry>
+<entry id="str_glossary_term_definition_55"><![CDATA[TODO:A type of equipment used by a hero to combat the dangers found in dungeons. A hero's weapon determines their base DMG, CRIT and SPD. Weapons can be upgraded at the Forge.]]></entry>
 <entry id="str_glossary_term_56"><![CDATA[Test de détermination]]></entry>
 <entry id="str_glossary_term_definition_56"><![CDATA[TODO:Made whenever a hero reaches 100 Stress and results in an Affliction or Virtue state.]]></entry>
 <entry id="str_glossary_term_57"><![CDATA[Surprise]]></entry>
@@ -803,9 +803,9 @@ Stamping out these pests as quickly as possible can keep the fight under control
 <entry id="str_glossary_term_1013"><![CDATA[TODO:Expiated]]></entry>
 <entry id="str_glossary_term_definition_1013"><![CDATA[TODO:An effect that heals the opposing team of the expiated unit upon its next attack. The affected unit also takes damage after their next three attacks. Unholy enemies take 50% more damage, Pagan heroes take 50% more damage, Religious heroes receive 100% healing upon activation. Each activation of Expiation's healing reduces its effectiveness for the battle. This effect cannot stack.]]></entry>
 <entry id="str_glossary_term_1014"><![CDATA[Berserk]]></entry>
-<entry id="str_glossary_term_definition_1014"><![CDATA[TODO:An effect that heals and temporarily boosts target's DMG and CRT on kill. Lasts till the end of the Battle. This effect cannot stack.]]></entry>
+<entry id="str_glossary_term_definition_1014"><![CDATA[TODO:An effect that heals and temporarily boosts target's DGT and CRIT on kill. Lasts till the end of the Battle. This effect cannot stack.]]></entry>
 <entry id="str_glossary_term_1015"><![CDATA[TODO:Amberblighted]]></entry>
-<entry id="str_glossary_term_definition_1015"><![CDATA[TODO:An effect that debuffs target's DMG when they attack or Damage Received each time they use a friendly skill. Debuffs last for a single turn, while the status itself lasts until the end of the Battle. This effect cannot stack.]]></entry>
+<entry id="str_glossary_term_definition_1015"><![CDATA[TODO:An effect that debuffs target's DGT when they attack or Damage Received each time they use a friendly skill. Debuffs last for a single turn, while the status itself lasts until the end of the Battle. This effect cannot stack.]]></entry>
 <entry id="str_glossary_term_1016"><![CDATA[Levantin]]></entry>
 <entry id="str_glossary_term_definition_1016"><![CDATA[TODO:Conscripted by the Vizier, the Levantine forces are tasked with the excavation and recovery of Kvarotz relics and technology. They operate as trained soldiers, typically working together and fighting with advanced tactics.]]></entry>
 <entry id="str_glossary_term_1017"><![CDATA[Légion perdue]]></entry>
@@ -861,10 +861,10 @@ Treasury - Living Extract - Debuffs Healing Received and Blight Resistance{colou
 <entry id="str_glossary_term_1032"><![CDATA[Peste goule]]></entry>
 <entry id="str_glossary_term_definition_1032"><![CDATA[TODO:Disease which evolves from Fièvre goule. Alongside applying debuffs to your hero, it also increases likelihood of party encountering Ghouls. This disease prevents hero from getting any other diseases.]]></entry>
 <entry id="str_glossary_term_1033"><![CDATA[Rictus Imperfectus]]></entry>
-<entry id="str_glossary_term_definition_1033"><![CDATA[TODO:Symptom which can be contracted via the Parasite Zero. If not treated, evolves into Rictus Mortis. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This disease prevents hero from getting any other diseases.]]></entry>
+<entry id="str_glossary_term_definition_1033"><![CDATA[TODO:Symptom which can be contracted via the Parasite Zero. If not treated, evolves into Rictus Mortis. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRIT when Hexer consumes his Vials of Corruption. This disease prevents hero from getting any other diseases.]]></entry>
 <entry id="str_glossary_term_1039"><![CDATA[Rictus Mortis]]></entry>
-<entry id="str_glossary_term_definition_1039"><![CDATA[TODO:Diseases evolved from Rictus Imperfectus. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRT when Hexer consumes his Vials of Corruption. This effect is removed if the disease is treated. This disease prevents hero from getting any other diseases.]]></entry>
-<entry id="str_glossary_term_1038"><![CDATA[TODO:Bounties]]></entry>
+<entry id="str_glossary_term_definition_1039"><![CDATA[TODO:Diseases evolved from Rictus Imperfectus. Alongside applying debuffs to your hero, this disease buffs the hero's SPD and CRIT when Hexer consumes his Vials of Corruption. This effect is removed if the disease is treated. This disease prevents hero from getting any other diseases.]]></entry>
+<entry id="str_glossary_term_1038"><![CDATA[Preuves]]></entry>
 <entry id="str_glossary_term_definition_1038"><![CDATA[TODO:Bounties can be obtained using "Big Prize" Contraband trinket, stack up to 99 per inventory slot, and they grant 200 gold each.]]></entry>
 <entry id="str_glossary_term_1040"><![CDATA[TODO:Eclipse Quest]]></entry>
 <entry id="str_glossary_term_definition_1040"><![CDATA[TODO:Special Exposed Interior quest which subject heroes and enemies to the "Encroaching Eclipse" torch effects, and are always set to 0 torchlight.
@@ -920,7 +920,7 @@ ne sont utiles que si elles sont utilisées.]]></entry>
 Les cavernes sont la région ayant le plus de d'{colour_start|BR_heirloom}ambre{colour_end}.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 La plupart des curios peuvent être abordées de différentes
- manières, afin d'obtenir des résultats différents.]]></entry>
+manières, afin d'obtenir des résultats différents.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Vérifier régulièrement les bonus et les malus,
 de vos alliés et de vos ennemis,
@@ -1850,9 +1850,9 @@ Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="str_inventory_title_gemencased_steve"><![CDATA[TODO:Encased Troglodyte]]></entry>
 <entry id="str_inventory_description_gemencased_steve"><![CDATA[TODO:A troglodyte hatchling, frozen in time by the amber.]]></entry>
 <entry id="buff_rule_data_tooltip_encased_steve"><![CDATA[TODO:Encased Troglodyte]]></entry>
-<entry id="str_inventory_title_gembh_big_bounty"><![CDATA[Acte de décès]]></entry>
-<entry id="str_inventory_description_gembh_big_bounty"><![CDATA[TODO:A collected piece of a fallen target. Bring back to claim your reward!]]></entry>
-<entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[Acte de décès]]></entry>
+<entry id="str_inventory_title_gembh_big_bounty"><![CDATA[Preuve]]></entry>
+<entry id="str_inventory_description_gembh_big_bounty"><![CDATA[Un morceau d'ennemi tombé au combat, et une signature.]]></entry>
+<entry id="buff_rule_data_tooltip_bh_big_bounty"><![CDATA[Preuve]]></entry>
 <entry id="str_inventory_title_estatesupply_faithless"><![CDATA[Sangsue spirituelle]]></entry>
 <entry id="str_inventory_description_estatesupply_faithless"><![CDATA[Un parasite qui s'infiltre dans le cœur et l'esprit de son hôte. {colour_start|skill_unselectable}[L'affiliation de l'utilisateur deviens {colour_start|affiliation_faithless}athée{colour_end}]{colour_end}]]></entry>
 <entry id="str_inventory_title_estatesupply_pagan"><![CDATA[Porte-Vérité]]></entry>
@@ -1919,7 +1919,7 @@ Debuff does not stack{colour_end}]]></entry>
 <entry id="str_inventory_title_gemglass_hand"><![CDATA[Croc de verre]]></entry>
 <entry id="str_inventory_description_gemglass_hand"><![CDATA[Un amas de verre transformé en une pointe de lance malveillante.
 TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
-On Melee Hit: Bonus sur soi : +10% DMG (2 trs){colour_end}]]></entry>
+On Melee Hit: Bonus sur soi : +10% DGT (2 trs){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_hand"><![CDATA[Croc de verre]]></entry>
 <entry id="str_inventory_title_gemglass_dagger"><![CDATA[Crâne vitrifié]]></entry>
 <entry id="str_inventory_description_gemglass_dagger"><![CDATA[Ce crâne humain a été reconstitué à l'aide de verre.
@@ -1929,7 +1929,7 @@ On Mystical Hit: Bonus sur soi : +8 ACC (2 trs){colour_end}]]></entry>
 <entry id="str_inventory_title_gemglass_hook"><![CDATA[Étoiles effilées]]></entry>
 <entry id="str_inventory_description_gemglass_hook"><![CDATA[Ces éclats de verre ont fusionné pour former une arme dangereuse.
 TODO:{colour_start|skill_unselectable}{colour_start|buff}Passively Buffs Party:{colour_end} 
-On Ranged Hit: Bonus sur soi : +5% CRT (2 trs){colour_end}]]></entry>
+On Ranged Hit: Bonus sur soi : +5% CRIT (2 trs){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_glass_hook"><![CDATA[Étoiles effilées]]></entry>
 <entry id="enemy_type_name_levantine"><![CDATA[Levantin]]></entry>
 <entry id="enemy_type_name_lost"><![CDATA[Légion perdue]]></entry>
@@ -3415,7 +3415,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_upgrade_discount_SHEAL_PER_DIFF"><![CDATA[TODO:{colour_start|skill_unselectable}+33%% Stress Healed/Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CANT_VIRTUE"><![CDATA[TODO:Can't {colour_start|virtue}Virtue{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BEDTIME_STORY_AOE_DEBUFFS"><![CDATA[TODO:Rallying Flare/Suppressive Fire: -20%% {colour_start|debuff}Debuff{colour_end}/ {colour_start|mark}Mark{colour_end} Skill Chance]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_KILL_LIST_MARK_TRIGGER"><![CDATA[TODO:On Mark for Death Hit: {colour_start|buff}Buff Self:{colour_end} +55%% DMG vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_KILL_LIST_MARK_TRIGGER"><![CDATA[TODO:On Mark for Death Hit: {colour_start|buff}Buff Self:{colour_end} +55%% DGT vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(1 tn){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MANTRA_FASTING_GAIN_FASTER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Sur soi : Gagne l'attribut {colour_start|notable}Jeûne{colour_end} {colour_start|skill_unselectable}(chances : 20%%){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RES_COLLAR_MAX_HEAL_DD_TT"><![CDATA[TODO:On Exsanguinate/Redeem: If On {colour_start|deathdoor}Death's Door{colour_end}, Self: Full {colour_start|healhp}Heal{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SUFFER_HOOD_SUFFER_TRIGGER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|mark}Transfère marque{colour_end} sur soi]]></entry>
@@ -3427,13 +3427,13 @@ Self: Heal 6{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HEAVEN_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[{colour_start|enraged}Berserk{colour_end} ({colour_start|notable}Rage infernale{colour_end}) : Ennemi tué : Sur soi : {colour_start|stress}Stress{colour_end} -6]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_BONUS_ENRAGED"><![CDATA[TODO:{colour_start|notable}On Non-Killing Attack:
 Self: +4{colour_end} {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SHEATH_CRTDMG_TT"><![CDATA[+25%% CRT DMG]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SHEATH_CRTDMG_TT"><![CDATA[+25%% CRIT DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_RECKLESS_RAGE_TRIGGER"><![CDATA[{colour_start|notable}Rage infernale{colour_end} : {colour_start|buff}Bonus sur soi{colour_end} : DGT +25%%]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELL_HAIRPIN_BONUS_ENRAGED_TRINKET"><![CDATA[{colour_start|enraged}Berserk{colour_end} ({colour_start|notable}Rage infernale{colour_end}) : Lors d'une attaque non-mortelle : Sur soi : {colour_start|stress}Stress{colour_end} +4]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LIONESS_WARPAINT_DMG_PER_LOST_HP"><![CDATA[TODO:+15%% DMG per 25%% HP Missing]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LIONESS_WARPAINT_DMG_PER_LOST_HP"><![CDATA[TODO:+15%% DGT per 25%% HP Missing]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_IGNORE_DD_DEBUFFS"><![CDATA[TODO:Negates {colour_start|deathdoor}Death's Door{colour_end} Debuffs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OUTCAST_MARK_CURE_DD"><![CDATA[TODO:On Being Hit On {colour_start|deathdoor}Death's Door{colour_end}: Sur soi : Cure {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_DICE_RANDOM_BUFF_TRIGGER"><![CDATA[TODO:On Skill Use: {colour_start|buff}Bonus sur soi :{colour_end} 0-20%% DMG (in Increments of 5)]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_DICE_RANDOM_BUFF_TRIGGER"><![CDATA[TODO:On Skill Use: {colour_start|buff}Bonus sur soi :{colour_end} 0-20%% DGT (in Increments of 5)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TYRANT_FINGERBONE_FINALE_KILL_BLEED_TRIGGER_1"><![CDATA[TODO:On Ranged Skill Hit: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_RESET_BUFF_FRIENDLY_SKILL_TRIGGER"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : Retire le {colour_start|buff}bonus{colour_end} de {colour_start|healhp}soin{colour_end} de cette breloque]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SAC_CAULDRON_HEAL_BUFF_MELEE_HIT_TRIGGER"><![CDATA[TODO:On Melee Attack Hit: {colour_start|buff}Bonus sur soi :{colour_end} +3 Additional HP {colour_start|healhp}Healed{colour_end}]]></entry>
@@ -3472,11 +3472,11 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_COMMANDERS_ORDERS_TT"><![CDATA[Compétence {colour_start|attacktype}utilitaire{colour_end} : {colour_start|buff}Bonus sur cible{colour_end} : PRÉ +5 et DGT +10ʪ]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT1"><![CDATA[Tuer un ennemi : {colour_start|debuff}Malus sur soi :{colour_end} {colour_start|stress}Stress{colour_end} reçus +10ʪ {colour_start|skill_unselectable}(2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT2"><![CDATA[Tuer un ennemi : Sur soi : {colour_start|stress}Stress{colour_end} +4]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT"><![CDATA[TODO:Tuer un ennemi : {colour_start|buff}Bonus sur soi :{colour_end} {colour_start|attacktype}Melee{colour_end} Skills: +10ʪ DMG, +4ʪ CRT {colour_start|skill_unselectable}(2 combats){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HOLY_ORDERS_TT"><![CDATA[TODO:Tuer un ennemi : {colour_start|buff}Bonus sur soi :{colour_end} {colour_start|attacktype}Melee{colour_end} Skills: +10ʪ DMG, +4ʪ CRIT {colour_start|skill_unselectable}(2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RAIDER_TALISMAN_TT"><![CDATA[Tuer un ennemi : Sur soi : {colour_start|stealth}Furtivité{colour_end} {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLOODTHIRST_RING_TT"><![CDATA[TODO:Tuer un ennemi : Sur soi : {colour_start|healhp}Heal{colour_end} 15ʪ Max HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAMOUFLAGE_CLOAK_TT"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|stealth}Furtivité{colour_end} {colour_start|skill_unselectable}(1 tr / 60ʪ de chances){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOXIC_SATCHEL_DEBUFF_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Malus sur cible :{colour_end} -15ʪ PROT, -3ʪ CRT while {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOXIC_SATCHEL_DEBUFF_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Malus sur cible :{colour_end} -15ʪ PROT, -3ʪ CRIT while {colour_start|blight}Blighted{colour_end} {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SCOUNDREL_BUCKLE_DEBUFF_TT"><![CDATA[TODO:On Melee/Riposte Hit: {colour_start|debuff}Malus sur cible :{colour_end} -5 DODGE {colour_start|skill_unselectable}(90ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GAMBLERS_CHARM_TT"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|healhp}Soins{colour_end} : 8 {colour_start|skill_unselectable}(60ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GAMBLERS_CHARM_TT1"><![CDATA[Quand le héros est touché : Sur soi : {colour_start|harmful}Subis{colour_end} 8 dégâts {colour_start|skill_unselectable}(40ʪ de chances){colour_end}]]></entry>
@@ -3495,21 +3495,21 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_LORDS_MOLARS_TT"><![CDATA[Tuer un ennemi : {colour_start|buff}Bonus sur soi :{colour_end} CRIT +8ʪ et PRÉ +5]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BEDTIME_STORY_TT"><![CDATA[Quand l'attaque touche : {colour_start|debuff}Malus sur cible{colour_end} : Chances de crits reçus +8ʪ {colour_start|skill_unselectable}(base : 100ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CHILDHOOD_TREASURE_TT"><![CDATA[Compétences {colour_start|attacktype}utilitaires{colour_end} : Sur soi/cible : {colour_start|stress}Stress{colour_end} -5]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OSMOND_CHAINS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Self:{colour_end} +15%% DMG if in Beast Mode {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_OSMOND_CHAINS_DMG_TT"><![CDATA[TODO:%+d%% DMG if in Beast Mode]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OSMOND_CHAINS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Self:{colour_end} +15%% DGT if in Beast Mode {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_OSMOND_CHAINS_DMG_TT"><![CDATA[TODO:%+d%% DGT if in Beast Mode]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_SHROUD_TT"><![CDATA[TODO:On Kill: {colour_start|buff}Buff Self:{colour_end} +150%% {colour_start|stress}Stress Healing{colour_end} Done on Transform {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_SHROUD_TT2"><![CDATA[TODO:On Kill: Self: Refresh Limited Use Skills]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_SHROUD_DODGE_IN_BEAST_TT"><![CDATA[TODO:+10 DODGE if in Beast Mode]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_WRATHFUL_BANDANA_TT1"><![CDATA[TODO:+10ʪ DMG per 15ʪ HP Missing {colour_start|skill_unselectable}(+40ʪ Max){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_WRATHFUL_BANDANA_TT2"><![CDATA[TODO:+2ʪ CRT per 10 {colour_start|stress}Stress{colour_end} {colour_start|skill_unselectable}(+20ʪ Max){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|buff}Buff Self:{colour_end} +8%% Ranged CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_WRATHFUL_BANDANA_TT1"><![CDATA[TODO:+10ʪ DGT per 15ʪ HP Missing {colour_start|skill_unselectable}(+40ʪ Max){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_WRATHFUL_BANDANA_TT2"><![CDATA[TODO:+2ʪ CRIT per 10 {colour_start|stress}Stress{colour_end} {colour_start|skill_unselectable}(+20ʪ Max){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT2"><![CDATA[TODO:On Melee Attack Hit: {colour_start|buff}Buff Self:{colour_end} +8%% Ranged CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT"><![CDATA[TODO:On Kill: Self: +3 {colour_start|stress}Stress{colour_end} {colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT4"><![CDATA[TODO:On Kill: Clear {colour_start|buff}Buffs{colour_end} from this Trinket]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT3"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Self:{colour_end} +8%% Melee CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT"><![CDATA[TODO:On Melee Attack: {colour_start|buff}Buff Self:{colour_end} +25%% Ranged DMG {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT2"><![CDATA[TODO:On Ranged Attack: {colour_start|buff}Buff Self:{colour_end} +25%% Melee DMG {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT3"><![CDATA[TODO:On Melee Attack: {colour_start|debuff}Debuff Self:{colour_end} -15%% Melee DMG {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT4"><![CDATA[TODO:On Ranged Attack: {colour_start|debuff}Debuff Self:{colour_end} -15%% Ranged DMG {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_SHAMEFUL_LOCKET_TT3"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Self:{colour_end} +8%% Melee CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT"><![CDATA[TODO:On Melee Attack: {colour_start|buff}Buff Self:{colour_end} +25%% Ranged DGT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT2"><![CDATA[TODO:On Ranged Attack: {colour_start|buff}Buff Self:{colour_end} +25%% Melee DGT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT3"><![CDATA[TODO:On Melee Attack: {colour_start|debuff}Debuff Self:{colour_end} -15%% Melee DGT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BLOODIED_NECKERCHIEF_TT4"><![CDATA[TODO:On Ranged Attack: {colour_start|debuff}Debuff Self:{colour_end} -15%% Ranged DGT {colour_start|skill_unselectable}(2 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SPIKED_COLLAR_HR_TT"><![CDATA[TODO:On Hound's Rush Hit: {colour_start|debuff}Malus sur cible :{colour_end} +20ʪ Damage Received {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SPIKED_COLLAR_HH_TT"><![CDATA[TODO:On Hound's Harry Hit: {colour_start|debuff}Malus sur cible :{colour_end} -15ʪ PROT {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEGENDARY_BRACER_TT1"><![CDATA[TODO:On Friendly Skill: Sur soi : {colour_start|mark}Mark{colour_end} {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
@@ -3521,7 +3521,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_GUNSLINGER_BUCKLE_TT"><![CDATA[On Ranged Attack Hit: {colour_start|buff}Bonus sur soi :{colour_end} +3 SPD, +3ʪ CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT1"><![CDATA[TODO:Tuer un ennemi : {colour_start|buff}Buff Party:{colour_end} +5ʪ CRT if {colour_start|affiliation_pagan}Pagan{colour_end}, +10ʪ DMG]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT1"><![CDATA[TODO:Tuer un ennemi : {colour_start|buff}Buff Party:{colour_end} +5ʪ CRIT if {colour_start|affiliation_pagan}Pagan{colour_end}, +10ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT2"><![CDATA[Tuer un ennemi : Groupe : {colour_start|stress}Stress{colour_end} +2]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FOCUS_RING_TT"><![CDATA[Quand l'attaque touche : {colour_start|debuff}Malus sur soi :{colour_end} PRÉ -10 {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DETERIORATING_SHAWL_WHEN_HIT_TT"><![CDATA[TODO:On Being Hit: {colour_start|debuff}Debuff Self:{colour_end} +3%% Crits Received Chance {colour_start|skill_unselectable}(3 tns){colour_end}]]></entry>
@@ -3538,8 +3538,8 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_PROTECTIVE_PADLOCK_TT"><![CDATA[TODO:Quand le héros est touché : {colour_start|buff}Bonus sur soi :{colour_end} +4ʪ PROT, +4ʪ PROT if in Beast Mode]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PROTECTIVE_PADLOCK_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|mark}Mark{colour_end} Self {colour_start|skill_unselectable}(1 Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_PADLOCK_PROT_BEAST_TT"><![CDATA[TODO:%+d%% PROT if in Beast Mode]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_TALISMAN_TT1"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} +10ʪ DMG {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_TALISMAN_TT2"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} +5ʪ CRT {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_TALISMAN_TT1"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} +10ʪ DGT {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LUCKY_TALISMAN_TT2"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} +5ʪ CRIT {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LUCKY_TALISMAN_TT3"><![CDATA[TODO:On Taking Damage: Clear {colour_start|buff}Buffs{colour_end} from this trinket]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VOID_SCYTHE_PULL_TT"><![CDATA[TODO:On Melee Attack Hit: Target: {colour_start|move} Pull{colour_end} 1 {colour_start|skill_unselectable}(140ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WATCHFUL_MONKEY_AMBUSH_TT"><![CDATA[Empêche les embuscades nocturnes]]></entry>
@@ -3570,8 +3570,8 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_FOUL_FRUIT_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi :{colour_end} +10ʪ Damage Reflection {colour_start|skill_unselectable}(10 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FOUL_FRUIT_TT1"><![CDATA[TODO:Tuer un ennemi : Sur soi : {colour_start|healhp}Heal{colour_end} 30ʪ Max HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FOUL_FRUIT_TT3"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|harmful}Suffer{colour_end} 4 HP]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FOUL_FRUIT_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_DANCERS_HAIRPIN_TT1"><![CDATA[TODO:+75%%/+25%%/-25%%/-75%% DMG if in Position 4/3/2/1]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FOUL_FRUIT_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}+50ʪ Effect DGT per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_DANCERS_HAIRPIN_TT1"><![CDATA[TODO:+75%%/+25%%/-25%%/-75%% DGT if in Position 4/3/2/1]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DANCERS_HAIRPIN_TT2"><![CDATA[TODO:On Friendly Skill: Self: Cure {colour_start|bleed}Bleed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DANCERS_HAIRPIN_TT3"><![CDATA[TODO:On Friendly Skill: {colour_start|move}Shuffle{colour_end} Self]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PAPYRUS_TT1"><![CDATA[TODO:-20%% Damage Received if the Lesser/Greater Sandwurm is alive]]></entry>
@@ -3593,7 +3593,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_SCP_BADGE_REDACT_TARGET_TT"><![CDATA[TODO:On Attack Hit: {colour_start|deathblow}[REDACT]{colour_end} Target if not Human (1%% chance)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_SCP_BADGE_REDACT_SELF_TT"><![CDATA[TODO:On Attack: {colour_start|deathblow}[REDACT]{colour_end} Self (1%% chance)]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENCORE_CREW_TT"><![CDATA[TODO:On Kill: Self: Refresh Limited Use Skills]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_APRON_CRTDMG_VS_BLIGHTED"><![CDATA[TODO:+20ʪ CRT DMG vs {colour_start|blight}Blighted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_APRON_CRTDMG_VS_BLIGHTED"><![CDATA[TODO:+20ʪ CRIT DGT vs {colour_start|blight}Blighted{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_APRON_BLIGHT_ONCRT"><![CDATA[TODO:On Attack Crit: {colour_start|blight}Blight Target:{colour_end} 4 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_APRON_DISEASE_ON_CRT"><![CDATA[TODO:On Attack Crit: Self: Gain a Random {colour_start|symptom}Symptom{colour_end} {colour_start|skill_unselectable}(5%% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MARGARETS_PRES_PISTOL_TT"><![CDATA[TODO:On Pistol Shot Hit: {colour_start|stun}Stun Target{colour_end} {colour_start|skill_unselectable}(100%% Chance){colour_end}]]></entry>
@@ -3612,11 +3612,11 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_EJECT_SEAT_TT7"><![CDATA[TODO:On Mystical Attack Hit: {colour_start|debuff}Debuff Target:{colour_end} -10%% {colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_transform"><![CDATA[Transformation]]></entry>
 <entry id="buff_rule_data_tooltip_abom_transform"><![CDATA[Transformation]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BH_BIG_PRIZE"><![CDATA[TODO:Tuer un ennemi : After Combat: Gain 2 Bounties
-{colour_start|skill_unselectable}(+1 Bounty per Difficulty, Limit 3 per Battle){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BH_BIG_PRIZE"><![CDATA[Tuer un ennemi : Fin du combat : +2 Preuve
+{colour_start|skill_unselectable}(+1 Preuve par difficulté. Max 3 fois par combat){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_DAMASCENE_TT"><![CDATA[TODO:On Tracking Shot Hit: {colour_start|mark}Mark{colour_end} Target {colour_start|skill_unselectable}(120ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DOOT_TT_1"><![CDATA[TODO:On Ranged Attack Hit: Target: Take 4 HP DMG
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
+{colour_start|skill_unselectable}+50ʪ Effect DGT per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DOOT_TT_2"><![CDATA[TODO:On Ranged Attack Hit: Other Heroes: +2 {colour_start|stress}Stress{colour_end} {colour_start|skill_unselectable}(50ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DOOT_TT_3"><![CDATA[TODO:On Ranged Attack Hit: Groupe : Gain {colour_start|symptom}Symptom: Tinnitus{colour_end} {colour_start|skill_unselectable}(3ʪ de chances){colour_end}]]></entry>
 <entry id="doot"><![CDATA[Quelle horrible mélodie !]]></entry>
@@ -3625,7 +3625,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_JANI_HELMET_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}On AoEs the Debuff is only applied to the first target hit{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_JANI_SET_TT"><![CDATA[TODO:{colour_start|riposte}Riposte{colour_end} attacks when hit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENCH_SNAKE_TT"><![CDATA[Tuer un ennemi : Sur soi : 1 absorption {colour_start|skill_unselectable}(chances : 75ʪ){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_WARHAWK_GAUNTLET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi : {colour_end}{colour_start|attacktype}Ranged{colour_end} Skills: +8 ACC, +4ʪ CRT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_WARHAWK_GAUNTLET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi : {colour_end}{colour_start|attacktype}Ranged{colour_end} Skills: +8 ACC, +4ʪ CRIT {colour_start|skill_unselectable}(1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TEMPT_SHEARS_TT"><![CDATA[TODO:On Melee Attack Hit: {colour_start|debuff}Malus sur cible :{colour_end} -10ʪ PROT {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TEMPT_FLOWERS_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|debuff}Malus sur cible :{colour_end} -10ʪ {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CORE_SAP_TT"><![CDATA[TODO:Quand le héros est touché : {colour_start|debuff}Malus sur cible :{colour_end} -4 DODGE, -2 SPD {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
@@ -3642,17 +3642,17 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_IVORY_HANDGUARD_TT2"><![CDATA[TODO:+100%% Random Enemy Target Chance if in Rank 3 or 4]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_IVORY_HAND_BLINDFIRE_PUSH_TT"><![CDATA[TODO:Blindfire: Self: No longer {colour_start|move}Moves Back{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL0"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 4 Damage
-{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+{colour_start|skill_unselectable}+50%% Effect DGT per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL1"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 6 Damage
-{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+{colour_start|skill_unselectable}+50%% Effect DGT per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL2"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 8 Damage
-{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
+{colour_start|skill_unselectable}+50%% Effect DGT per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_DAMAGE_ON_CRIT_LVL3"><![CDATA[TODO:On Attack Crit: Target: {colour_start|harmful}Suffer{colour_end} 10 Damage
-{colour_start|skill_unselectable}+50%% Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL0"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +6%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +8%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +10%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL3"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +12%% CRT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+{colour_start|skill_unselectable}+50%% Effect DGT per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL0"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +6%% CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +8%% CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +10%% CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_BUFF_FRIENDLY_LVL3"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Self:{colour_end} +12%% CRIT {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_DEBUFF_FRIENDLY_LVL0"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} +3%% Crits Received {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_DEBUFF_FRIENDLY_LVL1"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} +4%% Crits Received {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EI_COWL_DEBUFF_FRIENDLY_LVL2"><![CDATA[TODO:On Friendly Skill: {colour_start|debuff}Debuff Self:{colour_end} +5%% Crits Received {colour_start|skill_unselectable}(4 tns){colour_end}]]></entry>
@@ -3675,7 +3675,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_STRESS"><![CDATA[Sur un coup critique : Sur soi : {colour_start|stress}Stress{colour_end} +3]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_1"><![CDATA[TODO:{colour_start|notable}Niveau suivant :{colour_end}
 {colour_start|skill_unselectable}Additional +2ʪ CRT{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}Sur un coup critique : Target: Take +2 Additional Dmg 
+<entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE_2"><![CDATA[TODO:{colour_start|skill_unselectable}Sur un coup critique : Target: Take +2 Additional DGT 
 Additional -33ʪ Stress Healing Received from Crits{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATA_AXE_UPGRADE1_1"><![CDATA[TODO:{colour_start|skill_unselectable}Sur un coup critique : Target: Take +2 Additional Dmg
 Additional -34ʪ Stress Healing Received from Crits{colour_end}]]></entry>
@@ -3708,7 +3708,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 {colour_start|skill_unselectable}(Limit 4 per Battle){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_GRINDER_CORPSE_TT"><![CDATA[TODO:Tuer un ennemi : Enemy Party: Clear Corpses]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_SELF_DMG_TT"><![CDATA[On Attack: Sur soi : {colour_start|harmful}Suffer{colour_end} 5 HP]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_DMG_TT1"><![CDATA[On Attack: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DMG while HP below 33ʪ {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_DMG_TT1"><![CDATA[On Attack: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DGT while HP below 33ʪ {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_NEGATE_TT"><![CDATA[TODO:If HP below 33ʪ: Don't Suffer Damage from this Trinket]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15ʪ PROT, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_YAWP_TT"><![CDATA[TODO:Barbaric YAWP!: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
@@ -3751,17 +3751,17 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[TODO:On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT"><![CDATA[TODO:{colour_start|skill_unselectable}+20ʪ Blight Chance/+50ʪ Blight Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}+20ʪ Blight Chance/+50ʪ Blight Amount per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +25ʪ DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_SELF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +25ʪ DGT vs {colour_start|mark}Marked{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_SELF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DGT vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT"><![CDATA[TODO:Sur un coup critique : {colour_start|move}Shuffle{colour_end} Self]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT1"><![CDATA[TODO:Sur un coup critique : Sur soi : {colour_start|move}Stumble{colour_end} 2 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OCC_SOAPSTONE_TT"><![CDATA[TODO:On Friendly Skill: Target: {colour_start|stealth}Furtivité{colour_end} {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLOODLUST_TT"><![CDATA[TODO:On Attack: Sur soi : {colour_start|harmful}Suffer{colour_end} 4 HP
-{colour_start|skill_unselectable}+50ʪ Effect DMG per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLOODLUST_TT1"><![CDATA[TODO:On Attack: {colour_start|buff}Bonus sur soi :{colour_end} +20ʪ DMG, +4ʪ CRT {colour_start|skill_unselectable}(6 trs){colour_end}]]></entry>
+{colour_start|skill_unselectable}+50ʪ Effect DGT per Difficulty{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLOODLUST_TT1"><![CDATA[TODO:On Attack: {colour_start|buff}Bonus sur soi :{colour_end} +20ʪ DMG, +4ʪ CRIT {colour_start|skill_unselectable}(6 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLOODLUST_TT2"><![CDATA[TODO:On Kill: Other Heroes: {colour_start|healhp}Heal{colour_end} 15ʪ Max HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VEST_SET_TT"><![CDATA[TODO:+8 ACC if in Rank 1 or 2
-+5ʪ CRT if in Rank 1 or 2]]></entry>
++5ʪ CRIT if in Rank 1 or 2]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ANTI_MASTER_STEALTH"><![CDATA[TODO:On Friendly Skill: If Target is {colour_start|mark}Marked:{colour_end} {colour_start|stealth}Furtivité{colour_end} Target {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TWO_OF_THREE_ALL_TYPES"><![CDATA[TODO:On Ranged/Mystical Attack Hit: Steal {colour_start|stealth}Furtivité{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TIN_FLUTE_BUFF_TT"><![CDATA[TODO:On First Friendly Skill Use: {colour_start|buff}Buff Other Heroes:{colour_end} +5 ACC, +2 SPD]]></entry>
@@ -3774,10 +3774,10 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}(165ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CRU_BANNER_DOT_TT5"><![CDATA[TODO:{colour_start|skill_unselectable}(180ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT1"><![CDATA[TODO:On Turn End: Attacks front-most enemy that utilizes Amber ({colour_start|white}ɫ{colour_end})]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}4-8 Dmg (+45ʪ DMG per Difficulty){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}4-8 DGT (+45ʪ DGT per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_MONKEY_TT3"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -5 DODGE {colour_start|skill_unselectable}(+50ʪ Amount per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THE_BIG_PRIZE_TT"><![CDATA[TODO:On Marked For Death Hit: {colour_start|buff}Bonus sur soi :{colour_end} +3 SPD per {colour_start|mark}Marked{colour_end} Enemy]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PILEBUNKER_TT"><![CDATA[TODO:On Attack Hit: Receive 15%% of Direct DMG Dealt]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PILEBUNKER_TT"><![CDATA[TODO:On Attack Hit: Receive 15%% of Direct DGT Dealt]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PILEBUNKER_TT2"><![CDATA[TODO:+35%% Non-{colour_start|riposte}Riposte{colour_end} DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LUCKY_COIN_TT"><![CDATA[TODO:{colour_start|skill_unselectable}All buffs from this trinket last 1 tr{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_SINNER_STUN_TT"><![CDATA[TODO:Exsanguinate can no longer {colour_start|bleed}Bleed{colour_end}]]></entry>
@@ -3801,7 +3801,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACHE_SWORD_TT"><![CDATA[Quand l'attaque touche : {colour_start|buff}Bonus sur soi :{colour_end} DGT +5ʪ {colour_start|skill_unselectable}(14 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_QUIRK_TT"><![CDATA[TODO:On Friendly Skill: Target: Gain {colour_start|symptom}Symptom:{colour_end} {colour_start|quirk_ghoul}Fièvre goule{colour_end} {colour_start|skill_unselectable}(30ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT"><![CDATA[TODO:On Friendly Skill: If Target has Untreated {colour_start|quirk_ghoul}Fièvre goule{colour_end} or {colour_start|quirk_ghoul}Peste goule:{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end} +8 ACC, +10ʪ DMG {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end} +8 ACC, +10ʪ DGT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_IGNORE_RIPOSTE_TT"><![CDATA[TODO:Melee Attacks can't be {colour_start|riposte}Riposted{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_STEAL_TT"><![CDATA[TODO:On Melee Attack or {colour_start|riposte}Riposte{colour_end} Hit: Steal Target's {colour_start|bleed}Bleed{colour_end}, {colour_start|blight}Blight{colour_end},]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_STEAL_TT2"><![CDATA[TODO:{colour_start|mark}Mark{colour_end}, {colour_start|healhp}Restoration{colour_end}, and {colour_start|stealth}Furtivité{colour_end}]]></entry>
@@ -3813,10 +3813,10 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 Ginseng Powder {colour_start|skill_unselectable}(40ʪ){colour_end}
 Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_POACHER_MASK_TABLE2"><![CDATA[TODO:Aegis Scale {colour_start|skill_unselectable}(20ʪ){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_CRIT_DMG_TT"><![CDATA[TODO:+15%% Melee CRT DMG]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_CRIT_DMG_TT"><![CDATA[TODO:+15%% Melee CRIT DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARCH_COMPENDIUM_TT"><![CDATA[TODO:Can be used on Kvarotz Curios for guaranteed Darics
 {colour_start|skill_unselectable}Must be used from Inventory{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5ʪ CRT if {colour_start|affiliation_pagan}Pagan{colour_end}, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end},]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5ʪ CRIT if {colour_start|affiliation_pagan}Pagan{colour_end}, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end},]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_2"><![CDATA[TODO:-6ʪ Crits Received if {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(All last 2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GOLEM_QUIRK_TT"><![CDATA[TODO:On Any Skill: Sur soi : Gain Quirk: Automaton's Accursed {colour_start|skill_unselectable}(20ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|guard}Guard{colour_end} Target {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
@@ -3873,7 +3873,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BUFF_ENEMY_PARTY_TT"><![CDATA[TODO: {colour_start|buff}Buff Enemy Party:{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_DEBUFF_ENEMY_PARTY_TT"><![CDATA[TODO: {colour_start|debuff}Debuff Enemy Party:{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_NECK_TT"><![CDATA[TODO: {colour_start|mark}Mark Everyone{colour_end} {colour_start|skill_unselectable}(4 rds){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_NECK_TT2"><![CDATA[TODO:+20ʪ DMG vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_NECK_TT2"><![CDATA[TODO:+20ʪ DGT vs {colour_start|mark}Marked{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT1"><![CDATA[TODO: {colour_start|bleed}Bleed Party:{colour_end} 1 pts/tr for 4 trs {colour_start|skill_unselectable}(+100% Amount In Champion/Darkest){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_TOOTH_TT3"><![CDATA[TODO:+10ʪ PROT, -8ʪ Crits Received, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_TOOTH_TT4"><![CDATA[TODO: if {colour_start|bleed}Bleeding{colour_end} {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
@@ -3892,12 +3892,12 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_PRINT_TT1"><![CDATA[TODO: {colour_start|healhp}Heal Party:{colour_end} 10% Max HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_PRINT_TT2"><![CDATA[TODO:+10ʪ PROT if above 75ʪ Max HP {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_PRINT_TT3"><![CDATA[TODO:-4 SPD if below 75ʪ Max HP {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
-<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT1"><![CDATA[TODO: Groupe : {colour_start|harmful}Suffer{colour_end} 2 DMG {colour_start|skill_unselectable}(+50% per Diff){colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT1"><![CDATA[TODO: Groupe : {colour_start|harmful}Suffer{colour_end} 2 DGT {colour_start|skill_unselectable}(+50% per Diff){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CROWN_TT3"><![CDATA[TODO:+25ʪ DMG, +5 SPD, +8 DODGE]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_CROWN_TT4"><![CDATA[TODO: if below 40% Max HP {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_CROWN_TT5"><![CDATA[TODO:+15ʪ Damage Received if above 75ʪ Max HP {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT2"><![CDATA[TODO:-10ʪ {colour_start|bleed}Bleed{colour_end}/{colour_start|blight}Blight{colour_end} Resist, -5 ACC if {colour_start|bleed}Bleeding{colour_end}, -5 DODGE if {colour_start|blight}Blighted{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT3"><![CDATA[TODO:+10ʪ PROT if not {colour_start|bleed}Bleeding{colour_end}, +10ʪ DMG if not {colour_start|blight}Blighted{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_HEART_TT3"><![CDATA[TODO:+10ʪ PROT if not {colour_start|bleed}Bleeding{colour_end}, +10ʪ DGT if not {colour_start|blight}Blighted{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_BR_HPR_TWILIGHT_HEART_TT4"><![CDATA[TODO: {colour_start|skill_unselectable}(4 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT1"><![CDATA[TODO:On Combat Start: {colour_start|buff}Buff Party:{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_HPR_TWILIGHT_BACKPACK_TT2"><![CDATA[TODO:+8 ACC, +4 SPD, +30ʪ {colour_start|healhp}Healing{colour_end} Received, -20ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
@@ -4318,7 +4318,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="str_inventory_title_trinketvestal_bloodlust_periapt"><![CDATA[Médaillon de violence]]></entry>
 <entry id="str_inventory_title_trinketcru_ostvengr_banner"><![CDATA[Vestige de l'Empire]]></entry>
 <entry id="str_inventory_title_trinketamber_consuming_monkey"><![CDATA[Capucin dévoreur d'ambre]]></entry>
-<entry id="str_inventory_title_trinketbh_the_big_prize"><![CDATA[Le grand prix]]></entry>
+<entry id="str_inventory_title_trinketbh_the_big_prize"><![CDATA[Avis de recherche]]></entry>
 <entry id="str_inventory_title_trinketgoat_skull"><![CDATA[Relique dissonante]]></entry>
 <entry id="str_inventory_title_trinketghoul_serum"><![CDATA[Sérum nécrologique]]></entry>
 <entry id="str_inventory_title_trinketthieving_gloves"><![CDATA[Gants de voleur]]></entry>
@@ -4464,12 +4464,12 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_1_BATTLE_DURATION_BUFF_TT"><![CDATA[{colour_start|skill_unselectable}(1 combat){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_absolution"><![CDATA[Absolution]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_CLEAR_GUARD_GUARDING_TT"><![CDATA[Destruction de {colour_start|guard}garde{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT"><![CDATA[TODO: +90ʪ DMG vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT1"><![CDATA[TODO: +9ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT2"><![CDATA[TODO: +10ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT3"><![CDATA[TODO: +11ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT4"><![CDATA[TODO: +12ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT5"><![CDATA[TODO: +13ʪ CRT vs {colour_start|mark}Marked{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT"><![CDATA[DGT +90ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT1"><![CDATA[CRIT +9ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT2"><![CDATA[CRIT +10ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT3"><![CDATA[CRIT +11ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT4"><![CDATA[CRIT +12ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_SNIPER_TT5"><![CDATA[CRIT +13ʪ vs {colour_start|mark}Marque{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_ARB_SNIPER_TT"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_ARB_SNIPER_TT2"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_ARB_SUPPRESSION_ACC_TT1"><![CDATA[TODO: {colour_start|skill_unselectable}(100% base){colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -4563,7 +4563,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE24"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^7 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_1_SKILL_LINE25"><![CDATA[TODO:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^8 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_RUSH_2_SKILL_LINE3"><![CDATA[^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^DGT +25ʪ vs Bête]]></entry>
-<entry id="buff_rule_data_tooltip_HOUND_RUSH_2_SKILL_LINE4"><![CDATA[TODO:+80% DMG vs {colour_start|mark}Marked{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_HOUND_RUSH_2_SKILL_LINE4"><![CDATA[TODO:+80% DGT vs {colour_start|mark}Marque{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE11"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE12"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(110ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_HOUND_HARRY_1_SKILL_LINE13"><![CDATA[TODO:^^^^^^^^^^^^^^^^{colour_start|bleed}Bleed{colour_end} {colour_start|skill_unselectable}(120ʪ base){colour_end}]]></entry>
@@ -4629,7 +4629,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_SINGLE_HEAL_COOLDOWN"><![CDATA[Grâce divine en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_PARTY_HEAL_COOLDOWN"><![CDATA[Réconfort divin en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_JUDGEMENT_COOLDOWN_TT"><![CDATA[Jugement en récupération]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_ILLUMINATE_TORCHLIGHT_DMG"><![CDATA[TODO:+15ʪ DMG per 25 Torch]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_VESTAL_ILLUMINATE_TORCHLIGHT_DMG"><![CDATA[TODO:+15ʪ DGT per 25 Torch]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_1"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
 +10ʪ DMG, +4 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_HOL_GROUP_BUFF_2"><![CDATA[TODO:{colour_start|buff}Buff Other Heroes On Hit:{colour_end}
@@ -4643,23 +4643,23 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VESTAL_BLESS_SPIRITUAL_DMG"><![CDATA[TODO:{colour_start|attacktype}Mystical{colour_end} Skills: %+d%% DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HERO_RIPOSTE_ACC"><![CDATA[TODO:%d Base ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -25ʪ DMG]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -25ʪ DMG / +1ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_3"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -25ʪ DMG / +2ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_4"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 100 Base ACC / -25ʪ DMG / +3ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_5"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 105 Base ACC / -25ʪ DMG / +4ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_1"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 75 Base ACC / -60ʪ DMG / -4ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_2"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 80 Base ACC / -60ʪ DMG / -3ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_3"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -60ʪ DMG / -2ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_4"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -60ʪ DMG / -1ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -25ʪ DGT / +1ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_3"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -25ʪ DGT / +2ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_4"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 100 Base ACC / -25ʪ DGT / +3ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_RIPOSTE_TT_5"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 105 Base ACC / -25ʪ DGT / +4ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_1"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 75 Base ACC / -60ʪ DGT / -4ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_2"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 80 Base ACC / -60ʪ DGT / -3ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_3"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -60ʪ DGT / -2ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_4"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -60ʪ DGT / -1ʪ CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_ALLY_RIPOSTE_TT_5"><![CDATA[TODO:Target: Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -60ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MAA_COMMAND_TT_ACTIVATE"><![CDATA[{colour_start|buff}Bonus sur cible :{colour_end}
 Active la {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_rampart"><![CDATA[Rempart]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -25ʪ DMG / +1ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -25ʪ DMG / +2ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_3"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -25ʪ DMG / +3ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_4"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 100 Base ACC / -25ʪ DMG / +4ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_5"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 105 Base ACC / -25ʪ DMG / +5ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_1"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 85 Base ACC / -25ʪ DGT / +1ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_2"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 90 Base ACC / -25ʪ DGT / +2ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_3"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 95 Base ACC / -25ʪ DGT / +3ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_4"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 100 Base ACC / -25ʪ DGT / +4ʪ CRT]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HWM_RIPOSTE_TT_5"><![CDATA[TODO:Activates {colour_start|riposte}Riposte:{colour_end} 105 Base ACC / -25ʪ DGT / +5ʪ CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} PROT -10ʪ {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} PROT -11ʪ {colour_start|skill_unselectable}(110ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HWM_PREP_ROUND_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} PROT -13ʪ {colour_start|skill_unselectable}(120ʪ base){colour_end}]]></entry>
@@ -4720,22 +4720,22 @@ Active la {colour_start|riposte}riposte{colour_end}]]></entry>
 <entry id="combat_skill_name_hellion_reckless_rage"><![CDATA[Rage infernale]]></entry>
 <entry id="upgrade_tree_name_hellion.reckless_rage"><![CDATA[Rage infernale]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_1"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} 
-+10ʪ DMG, +6ʪ CRT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
++10ʪ DMG, +6ʪ CRIT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_2"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} 
-+15ʪ DMG, +7ʪ CRT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
++15ʪ DMG, +7ʪ CRIT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_3"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} 
-+20ʪ DMG, +8ʪ CRT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
++20ʪ DMG, +8ʪ CRIT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_4"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} 
-+25ʪ DMG, +9ʪ CRT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
++25ʪ DMG, +9ʪ CRIT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_RECKLESS_BUFFS_TOOLTIP_5"><![CDATA[TODO:{colour_start|buff}Bonus sur soi :{colour_end} 
-+30ʪ DMG, +10ʪ CRT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
++30ʪ DMG, +10ʪ CRIT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_YAWP_COOLDOWN_TT"><![CDATA[Cri barbare en récupération]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_PREP"><![CDATA[Pendant la {colour_start|prep_round}préparation :{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -10 DODGE / -10ʪ DMG {colour_start|skill_unselectable}(110ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -13 DODGE / -10ʪ DMG {colour_start|skill_unselectable}(120ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -15 DODGE / -10ʪ DMG {colour_start|skill_unselectable}(130ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT4"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -18 DODGE / -10ʪ DMG {colour_start|skill_unselectable}(140ʪ base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT5"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -20 DODGE / -10ʪ DMG  {colour_start|skill_unselectable}(150ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT1"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -10 DODGE / -10ʪ DGT {colour_start|skill_unselectable}(110ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT2"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -13 DODGE / -10ʪ DGT {colour_start|skill_unselectable}(120ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT3"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -15 DODGE / -10ʪ DGT {colour_start|skill_unselectable}(130ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT4"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -18 DODGE / -10ʪ DGT {colour_start|skill_unselectable}(140ʪ base){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_HELLION_PREP_ROUND_DEBUFF_TT5"><![CDATA[TODO:{colour_start|debuff}Malus sur cible :{colour_end} -20 DODGE / -10ʪ DGT  {colour_start|skill_unselectable}(150ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_STUN_TT"><![CDATA[Sinon :
 {colour_start|stun}Étourdissement{colour_end} {colour_start|skill_unselectable}(base : %d%%){colour_end}]]></entry>
 <entry id="camping_skill_effect_loot_CAMP_REJECT_TT"><![CDATA[TODO:{colour_start|stress}Horror{colour_end} 5/3 trs if {colour_start|affiliation_religious}Religious{colour_end}]]></entry>
@@ -4750,11 +4750,11 @@ Active la {colour_start|riposte}riposte{colour_end}]]></entry>
 {colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(140ʪ base){colour_end} if {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHOVEL_BASH_PUSH_STUN_5"><![CDATA[TODO:{colour_start|move}Knockback{colour_end} 1 {colour_start|skill_unselectable}(%d%% base){colour_end}
 {colour_start|stun}Stun{colour_end} {colour_start|skill_unselectable}(150ʪ base){colour_end} if {colour_start|stealth}Stealthed{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_1"><![CDATA[TODO:+4ʪ CRT, +50ʪ DMG if {colour_start|stealth}Stealthed{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_2"><![CDATA[TODO:+5ʪ CRT, +55ʪ DMG if {colour_start|stealth}Stealthed{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_3"><![CDATA[TODO:+6ʪ CRT, +60ʪ DMG if {colour_start|stealth}Stealthed{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_4"><![CDATA[TODO:+7ʪ CRT, +65ʪ DMG if {colour_start|stealth}Stealthed{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_5"><![CDATA[TODO:+8ʪ CRT, +70ʪ DMG if {colour_start|stealth}Stealthed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_1"><![CDATA[TODO:+4ʪ CRT, +50ʪ DGT if {colour_start|stealth}Stealthed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_2"><![CDATA[TODO:+5ʪ CRT, +55ʪ DGT if {colour_start|stealth}Stealthed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_3"><![CDATA[TODO:+6ʪ CRT, +60ʪ DGT if {colour_start|stealth}Stealthed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_4"><![CDATA[TODO:+7ʪ CRT, +65ʪ DGT if {colour_start|stealth}Stealthed{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_5"><![CDATA[TODO:+8ʪ CRT, +70ʪ DGT if {colour_start|stealth}Stealthed{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_1"><![CDATA[TODO:{colour_start|skill_unselectable}Offensive buffs removed when no longer {colour_start|stealth}Stealthed{colour_end} or on next Shadowfade use{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_SHADOW_FADE_TOOLTIP_B_2"><![CDATA[Pendant la {colour_start|prep_round}préparation{colour_end} :
 Les bonus offsensifs sont réduits de moitié ]]></entry>
@@ -4809,7 +4809,7 @@ Les bonus offsensifs sont réduits de moitié ]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_3"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (140ʪ base){colour_end} 7 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_4"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (150ʪ base){colour_end} 8 pts/tr for 3 trs]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_RECLAIM_BLEED_TT_5"><![CDATA[TODO:{colour_start|bleed}Bleed{colour_end}{colour_start|skill_unselectable} (160ʪ base){colour_end} 10 pts/tr for 3 trs]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FLAG_DMG_VS_EXPIATED_TT"><![CDATA[TODO:+25ʪ DMG vs {colour_start|expiated}Expiated{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FLAG_DMG_VS_EXPIATED_TT"><![CDATA[TODO:+25ʪ DGT vs {colour_start|expiated}Expiated{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_BLEED_TT"><![CDATA[TODO:Self:
 {colour_start|bleed}Bleed{colour_end} 1 pts/tr for Battle]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_CURE_REMOVE_TT"><![CDATA[TODO:{colour_start|skill_unselectable}Buffs are Removed if Bleed is Cured{colour_end}]]></entry>
@@ -4934,7 +4934,7 @@ Self:
 <entry id="str_skill_mode_info_cru_inspiring_cry_1"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="str_skill_mode_info_cru_inspiring_cry_2"><![CDATA[ ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_SMITE_DMG_UNHOLY"><![CDATA[DGT +25ʪ vs Impie^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-<entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_EXP"><![CDATA[TODO:+15% DMG vs {colour_start|expiated}Expiated{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_EXP"><![CDATA[TODO:+15% DGT vs {colour_start|expiated}Expiated{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_SMITE_DMG_ZERO"><![CDATA[DGT +25ʪ vs Impie​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_ZERO"><![CDATA[]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_ZEALOUS_ACC_EXPI"><![CDATA[TODO:^^{colour_start|expiated}Expiate Target{colour_end}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
@@ -4968,7 +4968,7 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_BATTLE_HEAL_BUFF1"><![CDATA[TODO:+25ʪ {colour_start|healhp}Healing{colour_end} Done per 25^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_BATTLE_HEAL_BUFF"><![CDATA[TODO:{colour_start|stress}Stress{colour_end} on Target {colour_start|skill_unselectable}(Up to 100){colour_end}{colour_start|red}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_HOLYLANCE_DMG_UNHOLY"><![CDATA[DGT +25ʪ vs Impie^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^]]></entry>
-<entry id="buff_rule_data_tooltip_CRU_HOLYLANCE_DMG_EXP"><![CDATA[TODO:+15% DMG vs {colour_start|expiated}Expiated{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
+<entry id="buff_rule_data_tooltip_CRU_HOLYLANCE_DMG_EXP"><![CDATA[TODO:+15% DGT vs {colour_start|expiated}Expiated{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_INSP_CRY_SHEAL"><![CDATA[TODO: Heal %d {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_CRU_INSP_CRY_ZERO"><![CDATA[‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎]]></entry>
 <entry id="buff_rule_data_tooltip_CRU_INSP_CRY_TORCH1"><![CDATA[TODO:Torch +5{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
@@ -5132,7 +5132,7 @@ et des maladies]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_CHAMP_RIPOSTE_TT_5"><![CDATA[TODO:80 Base Acc, 14-29 Base Dmg, 
 8ʪ Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_RIPOSTE_TT"><![CDATA[{colour_start|debuff}Riposte{colour_end} inefficace]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_OVERHEATDMG_TT"><![CDATA[TODO:{colour_start|harmful}Suffer{colour_end} Dmg to self on Attack]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_LEVANTINEFIRE_OVERHEATDMG_TT"><![CDATA[TODO:{colour_start|harmful}Suffer{colour_end} DGT to self on Attack]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_1"><![CDATA[TODO:75 Base Acc, 6-13 Base Dmg, 
 4ʪ Base Crit]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LEVANTINE_JANISSARY_RIPOSTE_TT_2"><![CDATA[TODO:95 Base Acc, 7-14 Base Dmg, 4ʪ Base Crit]]></entry>
@@ -5422,7 +5422,7 @@ Random Ally: Suffer 10ʪ Max HP Damage
 Buff Party: +5ʪ DMG/+2 SPD if Non-Religious (10ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MYSTIC"><![CDATA[TODO:Acts as a conduit for arcane powers
 {colour_start|skill_unselectable}On Ally/Self Mystical Skill Use: Self: Heal 3 Stress (25ʪ Chance){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TROPHY_HUNTER_TT"><![CDATA[TODO:+5ʪ CRT if any enemy is a Boss]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TROPHY_HUNTER_TT"><![CDATA[TODO:+5ʪ CRIT if any enemy is a Boss]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TROPHY_HUNTER_TT2"><![CDATA[TODO:+8 ACC if any enemy is a Boss]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BR_GUILTY_CONSCIENCE"><![CDATA[TODO:Laments causing destruction
 {colour_start|skill_unselectable}Tuer un ennemi : Malus sur soi : -5ʪ DMG, +10ʪ Stress Received{colour_end}]]></entry>
@@ -5465,17 +5465,17 @@ the Treasury unsuccessfully inflicts Debuffs
 {colour_start|skill_unselectable}-4 DODGE, -2 SPD (2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CATACOMBS_TACTICIAN"><![CDATA[TODO:Interacting with Traps and Obstacles in
 the Catacombs successfully gives buffs
-{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRT (2 combats){colour_end}]]></entry>
+{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRIT (2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EXPOSED_INTERIOR_TACTICIAN"><![CDATA[TODO:Interacting with Traps and Obstacles in]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_EXPOSED_INTERIOR_TACTICIAN2"><![CDATA[TODO:the Exposed Interior successfully gives buffs
 the Exposed Interior successfully gives buffs
-{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRT (2 combats){colour_end}]]></entry>
+{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRIT (2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CAVERNS_TACTICIAN"><![CDATA[TODO:Interacting with Traps and Obstacles in
 the Caverns successfully gives buffs
-{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRT (2 combats){colour_end}]]></entry>
+{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRIT (2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TREASURY_TACTICIAN"><![CDATA[TODO:Interacting with Traps and Obstacles in
 the Treasury successfully gives buffs
-{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRT (2 combats){colour_end}]]></entry>
+{colour_start|skill_unselectable}+10ʪ DMG, +3ʪ CRIT (2 combats){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_LOUNGER"><![CDATA[TODO:+5 Idle {colour_start|stress}Stress{colour_end} healed on the Flameseeker]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ENLIGHTENED"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ +8]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOUDED_MIND"><![CDATA[Compétences {colour_start|attacktype}mystiques{colour_end} : PRÉ -8]]></entry>
@@ -5520,21 +5520,21 @@ Fin de tour (4ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABSENT_MINDED_QUIRK_TT1"><![CDATA[TODO:{colour_start|skill_unselectable}On Combat Start: Debuff Self:
 -15 DODGE, +15ʪ Stress Received (3 tns){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABSENT_MINDED_QUIRK_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}(Debuffs get progressively weaker){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_FRAGRANT_QUIRK_TT"><![CDATA[TODO:+5 ACC, +3ʪ CRT if Perfumer Trinket is Equipped]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_FRAGRANT_QUIRK_TT"><![CDATA[TODO:+5 ACC, +3ʪ CRIT if Perfumer Trinket is Equipped]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CURIOUS_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: 
 Consume a Random Provision (4ʪ Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_VENGEFUL_QUIRK_TT"><![CDATA[TODO:Exige un châtiment
 {colour_start|skill_unselectable}On Being Crit: 
-Buff Self: +20ʪ DMG, +8ʪ CRT (1 tn){colour_end}]]></entry>
+Buff Self: +20ʪ DMG, +8ʪ CRIT (1 tn){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MEEK_QUIRK_TT"><![CDATA[TODO:Morale fragile
 {colour_start|skill_unselectable}On Being Crit: 
-Debuff Self: -20ʪ DMG, -8ʪ CRT (1 tn){colour_end}]]></entry>
+Debuff Self: -20ʪ DMG, -8ʪ CRIT (1 tn){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BREACHER_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: 
 Forward 3; 
 Buff Self: +10ʪ DMG, +10ʪ PROT (6% Chance){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TACTICIAN_QUIRK_TT"><![CDATA[TODO:{colour_start|skill_unselectable}On Turn Start: 
 Back 3; 
-Buff Self: +8 ACC, +5ʪ CRT (6% Chance){colour_end}]]></entry>
+Buff Self: +8 ACC, +5ʪ CRIT (6% Chance){colour_end}]]></entry>
 <entry id="trigger_curio_quirk_archaeomania"><![CDATA[Pensez aux découvertes !]]></entry>
 <entry id="trigger_curio_quirk_archaeomania"><![CDATA[Autant d'histoires à découvrir !]]></entry>
 <entry id="trigger_curio_quirk_amber_hoarder"><![CDATA[Je l'ai vu en premier !]]></entry>
