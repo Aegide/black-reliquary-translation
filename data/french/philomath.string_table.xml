@@ -316,7 +316,7 @@ Heal 8 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_philo_pact_buff_tooltip_5"><![CDATA[TODO:{colour_start|buff}Buff Party:{colour_end}
 +15ʪ DMG, +8 ACC]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|blight}Blight Target:{colour_end} 2 pts/tn for 3 tns {colour_start|skill_unselectable}(100%% base){colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5%% CRT, +2 SPD]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_PHILO_CONTRABAND_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} +5%% CRT, +2 SPD]]></entry>
 <entry id="camping_skill_name_unburden_mind"><![CDATA[Psychanalyse]]></entry>
 <entry id="camping_skill_name_unsafe_dosage"><![CDATA[Surdosage]]></entry>
 <entry id="str_bark_unburden_mind"><![CDATA[Ces pensées vous déconcentrent. Je les effacerai...]]></entry>

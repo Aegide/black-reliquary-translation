@@ -90,7 +90,7 @@ Incantation d'ichor]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_expend_all_vials_tt"><![CDATA[TODO:Expends All {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_expend_one_vial_tt"><![CDATA[TODO:Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_MELT_DEBUFF_TARGET_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Target:{colour_end}]]></entry>
-<entry id="enemy_type_name_HEXER_BUFF_TARGET_TT"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end}]]></entry>
+<entry id="enemy_type_name_HEXER_BUFF_TARGET_TT"><![CDATA[TODO:{colour_start|buff}Bonus sur cible :{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_GAIN_1_VIAL"><![CDATA[TODO:Gain 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_GAIN_2_VIAL"><![CDATA[TODO:Gain 2 {colour_start|hexer_vial}Corruption Vials{colour_end}]]></entry>
 <entry id="enemy_type_name_HEXER_1_VIAL"><![CDATA[TODO:Expends 1 {colour_start|hexer_vial}Corruption Vial{colour_end}]]></entry>

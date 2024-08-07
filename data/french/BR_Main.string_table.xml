@@ -1803,7 +1803,7 @@ Il est verrouillé.]]></entry>
 <entry id="buff_rule_data_tooltip_disease_kit"><![CDATA[Trousse médicinale]]></entry>
 <entry id="str_inventory_title_supplyamber_residue"><![CDATA[Résidus d'ambre]]></entry>
 <entry id="str_inventory_description_supplyamber_residue"><![CDATA[TODO:Une bouillie ambrée.
-{colour_start|skill_unselectable}{colour_start|buff}Buff Target:{colour_end} +10% DMG, +5% CRT, +10% Damage Taken (1 combat)
+{colour_start|skill_unselectable}{colour_start|buff}Bonus sur cible :{colour_end} +10% DMG, +5% CRT, +10% Damage Taken (1 combat)
 Values are halved for {colour_start|affiliation_religious}Religious{colour_end} and doubled for {colour_start|affiliation_pagan}Pagan{colour_end}
 Repeated use give diminishing returns{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_amber_residue"><![CDATA[Résidus d'ambre]]></entry>
@@ -3519,7 +3519,7 @@ ESQUIVE -10 et PROT -15ʪ si {colour_start|stun}étourd.{colour_end} {colour_sta
 <entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT15"><![CDATA[TODO:{colour_start|skill_unselectable}(+2 pt per Difficulty){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_BLASPHEMOUS_VIAL_TT2"><![CDATA[TODO:On Friendly Skill: Sur soi : +6 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GUNSLINGER_BUCKLE_TT"><![CDATA[On Ranged Attack Hit: {colour_start|buff}Bonus sur soi :{colour_end} +3 SPD, +3ʪ CRT]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15ʪ DMG]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} +15ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GRIM_TAMBOURINE_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|bleed}Bleed Target:{colour_end} 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT1"><![CDATA[TODO:Tuer un ennemi : {colour_start|buff}Buff Party:{colour_end} +5ʪ CRIT if {colour_start|affiliation_pagan}Pagan{colour_end}, +10ʪ DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_RITUAL_TALISMAN_TT2"><![CDATA[Tuer un ennemi : Groupe : {colour_start|stress}Stress{colour_end} +2]]></entry>
@@ -3710,7 +3710,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_SELF_DMG_TT"><![CDATA[On Attack: Sur soi : {colour_start|harmful}Suffer{colour_end} 5 HP]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_DMG_TT1"><![CDATA[On Attack: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DGT while HP below 33ʪ {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_FLAG_HELM_NEGATE_TT"><![CDATA[TODO:If HP below 33ʪ: Don't Suffer Damage from this Trinket]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +15ʪ PROT, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_MAA_HALO_BUFF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} +15ʪ PROT, -15ʪ {colour_start|stress}Stress{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_YAWP_TT"><![CDATA[TODO:Barbaric YAWP!: Can't {colour_start|stun}Stun{colour_end}/{colour_start|debuff}Debuff{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_SHARED_TT"><![CDATA[TODO:On Ranged Attack Hit: {colour_start|buff}Buff Party:{colour_end} +15ʪ DMG, +3ʪ CRT]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_HELLION_HORN_ACC_TT"><![CDATA[TODO:{colour_start|debuff}Debuff Party:{colour_end} -5 ACC]]></entry>
@@ -3726,7 +3726,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CLOCKWORK_TRAY_TT1"><![CDATA[%+d%% dégâts subis]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_NO_HEAL_TT"><![CDATA[TODO:Battlefield Bandage: Can't {colour_start|healhp}Heal{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT1"><![CDATA[TODO:Friendly Skills: -50%% Buff Duration]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 trs {colour_start|skill_unselectable}(100ʪ Base) (1 tr){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT2"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 trs {colour_start|skill_unselectable}(100ʪ Base) (1 tr){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT3"><![CDATA[TODO:{colour_start|skill_unselectable}+20ʪ Blight Chance, +50ʪ Blight Amount applied per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TT4"><![CDATA[TODO:{colour_start|skill_unselectable}-50ʪ Blight Amount applied on AoE Skills{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_OVERGROWN_SETAR_TARGET_TT1"><![CDATA[TODO:Apply On Hit: {colour_start|blight}Blight{colour_end} Target 4/3 trs {colour_start|skill_unselectable}(100ʪ Base){colour_end}]]></entry>
@@ -3751,7 +3751,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_RAKE_TT"><![CDATA[TODO:On Rake Hit: {colour_start|blight}Blight Target{colour_end}: 2 pts/tr for 3 trs {colour_start|skill_unselectable}(100ʪ base){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT"><![CDATA[TODO:{colour_start|skill_unselectable}+20ʪ Blight Chance/+50ʪ Blight Amount per Difficulty{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ABOM_BLOOD_SCALE_TT2"><![CDATA[TODO:{colour_start|skill_unselectable}+20ʪ Blight Chance/+50ʪ Blight Amount per Difficulty{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +25ʪ DGT vs {colour_start|mark}Marked{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_TARGET_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} +25ʪ DGT vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARB_JOLLY_BUFF_SELF_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur soi :{colour_end} +25ʪ DGT vs {colour_start|mark}Marked{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT"><![CDATA[TODO:Sur un coup critique : {colour_start|move}Shuffle{colour_end} Self]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GR_RESERVE_TT1"><![CDATA[TODO:Sur un coup critique : Sur soi : {colour_start|move}Stumble{colour_end} 2 trs]]></entry>
@@ -3801,7 +3801,7 @@ Additional -5ʪ MAX HP{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_CACHE_SWORD_TT"><![CDATA[Quand l'attaque touche : {colour_start|buff}Bonus sur soi :{colour_end} DGT +5ʪ {colour_start|skill_unselectable}(14 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_QUIRK_TT"><![CDATA[TODO:On Friendly Skill: Target: Gain {colour_start|symptom}Symptom:{colour_end} {colour_start|quirk_ghoul}Fièvre goule{colour_end} {colour_start|skill_unselectable}(30ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT"><![CDATA[TODO:On Friendly Skill: If Target has Untreated {colour_start|quirk_ghoul}Fièvre goule{colour_end} or {colour_start|quirk_ghoul}Peste goule:{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end} +8 ACC, +10ʪ DGT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_GHOUL_SERUM_BUFF_TT2"><![CDATA[TODO:{colour_start|buff}Bonus sur cible :{colour_end} +8 ACC, +10ʪ DGT {colour_start|skill_unselectable}(2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_IGNORE_RIPOSTE_TT"><![CDATA[TODO:Melee Attacks can't be {colour_start|riposte}Riposted{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_STEAL_TT"><![CDATA[TODO:On Melee Attack or {colour_start|riposte}Riposte{colour_end} Hit: Steal Target's {colour_start|bleed}Bleed{colour_end}, {colour_start|blight}Blight{colour_end},]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_THIEVING_GLOVES_STEAL_TT2"><![CDATA[TODO:{colour_start|mark}Mark{colour_end}, {colour_start|healhp}Restoration{colour_end}, and {colour_start|stealth}Furtivité{colour_end}]]></entry>
@@ -3816,7 +3816,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_WURM_TOOTH_CRIT_DMG_TT"><![CDATA[TODO:+15%% Melee CRIT DMG]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ARCH_COMPENDIUM_TT"><![CDATA[TODO:Can be used on Kvarotz Curios for guaranteed Darics
 {colour_start|skill_unselectable}Must be used from Inventory{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Buff Target:{colour_end} +5ʪ CRIT if {colour_start|affiliation_pagan}Pagan{colour_end}, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end},]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_1"><![CDATA[TODO:On Friendly Skill: {colour_start|buff}Bonus sur cible :{colour_end} +5ʪ CRIT if {colour_start|affiliation_pagan}Pagan{colour_end}, +8 ACC if {colour_start|affiliation_faithless}Faithless{colour_end},]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_TOME_DEPTHS_BUFF_TT_2"><![CDATA[TODO:-6ʪ Crits Received if {colour_start|affiliation_religious}Religious{colour_end} {colour_start|skill_unselectable}(All last 2 trs){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_GOLEM_QUIRK_TT"><![CDATA[TODO:On Any Skill: Sur soi : Gain Quirk: Automaton's Accursed {colour_start|skill_unselectable}(20ʪ de chances){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_AMBER_SPECIMEN_TT"><![CDATA[TODO:On Friendly Skill: {colour_start|guard}Guard{colour_end} Target {colour_start|skill_unselectable}(3 trs){colour_end}]]></entry>
@@ -4505,7 +4505,7 @@ Reflex Serum {colour_start|skill_unselectable}(40ʪ){colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_FLAREHEALSTRESS_TT1"><![CDATA[TODO:Heal 3 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_FLAREHEALSTRESS_TT3"><![CDATA[TODO:Heal 4 {colour_start|stress}Stress{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_FLAREHEALSTRESS_TT5"><![CDATA[TODO:Heal 5 {colour_start|stress}Stress{colour_end}]]></entry>
-<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ARB_STACKING_HEAL_TT"><![CDATA[TODO:{colour_start|buff}Buff Target:{colour_end}]]></entry>
+<entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ARB_STACKING_HEAL_TT"><![CDATA[TODO:{colour_start|buff}Bonus sur cible :{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ARB_STACKING_HEAL_TT1"><![CDATA[TODO:+20ʪ {colour_start|healhp}Healing{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ARB_STACKING_HEAL_TT2"><![CDATA[TODO:+25ʪ {colour_start|healhp}Healing{colour_end} Received]]></entry>
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_ARB_STACKING_HEAL_TT3"><![CDATA[TODO:+30ʪ {colour_start|healhp}Healing{colour_end} Received]]></entry>
