@@ -450,7 +450,7 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_alcoholism_meditation_rejection"><![CDATA[Impossible de travailler sans avoir bu...]]></entry>
 <entry id="str_alcoholism_prayer_rejection"><![CDATA[Le seul échange que je désire concerne la taverne !]]></entry>
 <entry id="str_gambler_bar_rejection"><![CDATA[Les festivités ne m'intéressent pas, je veux parier !]]></entry>
-<entry id="str_gambler_brothel_rejection"><![CDATA[TODO:Give me the thrill of fortune and the risk of ruin!]]></entry>
+<entry id="str_gambler_brothel_rejection"><![CDATA[Donnez-moi le frisson de la fortune et le risque de la ruine !]]></entry>
 <entry id="str_gambler_meditation_rejection"><![CDATA[Pourquoi broyer de l'ambre quand je peux en gagner ?]]></entry>
 <entry id="str_gambler_prayer_rejection"><![CDATA[Les meilleurs échanges se font avec des cartes et des dés.]]></entry>
 <entry id="str_love_interest_bar_rejection"><![CDATA[Amenez-moi à l'arène. J'ai un compte à régler.]]></entry>
@@ -459,15 +459,15 @@ Refus de partir - 15ʪ]]></entry>
 <entry id="str_love_interest_prayer_rejection"><![CDATA[TODO:Bet on me, all you got!]]></entry>
 <entry id="str_resolution_bar_rejection"><![CDATA[J'ai juré d'arrêter ce poison.]]></entry>
 <entry id="str_resolution_bar_rejection"><![CDATA[Cette bouteille est pleine de regrets.]]></entry>
-<entry id="str_known_cheat_gambling_rejection"><![CDATA[TODO:It's best I don't go in there. False allegations and all that.]]></entry>
-<entry id="str_known_cheat_gambling_rejection"><![CDATA[TODO:Uhhh...security's watching.  No thanks.]]></entry>
-<entry id="str_deviant_tastes_brothel_rejection"><![CDATA[TODO:It's not my fault the rules weren't better explained.]]></entry>
+<entry id="str_known_cheat_gambling_rejection"><![CDATA[Je préfère éviter, trop de fausses rumeurs sur moi.]]></entry>
+<entry id="str_known_cheat_gambling_rejection"><![CDATA[Hmm... la sécurité surveille.  Non, merci.]]></entry>
+<entry id="str_deviant_tastes_brothel_rejection"><![CDATA[Ce n'est pas ma faute si les règles étaient mal expliquées.]]></entry>
 <entry id="str_deviant_tastes_brothel_rejection"><![CDATA[Les coups bas font aussi partie du spectacle, n'est-ce pas ?]]></entry>
-<entry id="str_den_addict_gambling_rejection"><![CDATA[TODO:I don't need dice- I need Amber!]]></entry>
-<entry id="str_den_addict_brothel_rejection"><![CDATA[TODO:I can get my exhilaration from the Amber Den.]]></entry>
-<entry id="str_den_addict_bar_rejection"><![CDATA[TODO:Such mundane delights. Nothing compares to the bliss of Amber!]]></entry>
-<entry id="str_den_addict_meditation_rejection"><![CDATA[TODO:Give me the product, not the labor!]]></entry>
-<entry id="str_den_addict_prayer_rejection"><![CDATA[TODO:I cannot negotiate without a clear head.]]></entry>
+<entry id="str_den_addict_gambling_rejection"><![CDATA[Je n'ai pas besoin de dés, j'ai besoin d'ambre !]]></entry>
+<entry id="str_den_addict_brothel_rejection"><![CDATA[Seul le repaire est capable de me faire vibrer.]]></entry>
+<entry id="str_den_addict_bar_rejection"><![CDATA[Rien n'est comparable au réconfort de l'ambre !]]></entry>
+<entry id="str_den_addict_meditation_rejection"><![CDATA[Donnez-moi le produit, pas le travail !]]></entry>
+<entry id="str_den_addict_prayer_rejection"><![CDATA[Je n'arrive pas à me concentrer...]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[TODO:I shall flagellate in a display of sport!]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[TODO:My sins will be expunged through spilt blood!]]></entry>
 <entry id="str_override_invalid_rejection"><![CDATA[Ce n'est pas une bonne idée.]]></entry>
@@ -715,7 +715,8 @@ qu'il a légué au navire.]]></entry>
 <entry id="town_event_description_br_ostvengr_mercs_3"><![CDATA[Ceux qui ont survécus à l'effondrement d'Ostvengr nous offrent leurs services !]]></entry>
 
 <entry id="town_event_title_br_extra_recruits"><![CDATA[Signaux de fumée]]></entry>
-<entry id="town_event_description_br_extra_recruits"><![CDATA[Une poignée de survivants a été repérée en bas, dont certains pourraient nous être utiles.]]></entry>
+<entry id="town_event_description_br_extra_recruits"><![CDATA[Des survivants ont été repérés en bas,
+certains pourraient nous être utiles.]]></entry>
 
 <entry id="town_event_title_br_kristjan_concert"><![CDATA[Concert]]></entry>
 <entry id="town_event_description_br_kristjan_concert"><![CDATA[Le barde du navire s'est transformé en diable de la musique et ses chansons sont exaltantes !]]></entry>

@@ -537,7 +537,7 @@ Some heroes are better than others at disarming.]]></entry>
 <entry id="[ps4|psv]str_cove_tip"><![CDATA[TODO:Did you know there is a Glossary in the {colour_start|notable}Options Menu{colour_end}?]]></entry>
 <entry id="town_event_title_stage_coach_bonus_recruits"><![CDATA[TODO:A Day Long Awaited]]></entry>
 <entry id="town_event_description_stage_coach_bonus_recruits"><![CDATA[TODO:Word of our predicament has spread, and a new crop of aspiring corpses step from the stagecoach...]]></entry>
-<entry id="town_event_info_format_stage_coach_bonus_recruits"><![CDATA[TODO:6 more recruits than usual]]></entry>
+<entry id="town_event_info_format_stage_coach_bonus_recruits"><![CDATA[6 recrues de plus que d'habitude]]></entry>
 <entry id="input_command_town_show_character_display"><![CDATA[TODO:Hero Details]]></entry>
 <entry id="options_category_debug"><![CDATA[TODO:Debug]]></entry>
 <entry id="[psv]tutorial_popup_resolve_level_description"><![CDATA[TODO:Heroes gain {colour_start|notable}Resolve XP{colour_end} for each successful quest. {colour_start|notable}Resolve XP{colour_end} in turn determines the hero's {colour_start|notable}Resolve Level{colour_end}.

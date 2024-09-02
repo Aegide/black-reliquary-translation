@@ -905,7 +905,8 @@ Les troglodytes sont couverts de substances qui peuvent provoquer des maladies. 
 L'encens d'alun sera utile pour se défendre
 contre les rituels occultes des troglodytes.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les pelles ont des usages très variés dans ces galeries remplies de gravats.]]></entry>
+Les pelles ont des usages très variés
+dans ces galeries remplies de gravats.]]></entry>
 <entry id="str_warrens_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les trousses médicinales seront utiles contre
 la boue et la pestilence des cavernes.]]></entry>
@@ -5368,7 +5369,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_fragrant"><![CDATA[TODO:Savant]]></entry>
 <entry id="str_quirk_name_curious"><![CDATA[Impulsivité]]></entry>
 <entry id="str_quirk_name_vengeful"><![CDATA[TODO:Vengeful]]></entry>
-<entry id="str_quirk_name_meek"><![CDATA[TODO:Weak-Willed]]></entry>
+<entry id="str_quirk_name_meek"><![CDATA[Faible d'esprit]]></entry>
 <entry id="str_quirk_name_breacher"><![CDATA[TODO:Breacher]]></entry>
 <entry id="str_quirk_name_tactician"><![CDATA[Tactique]]></entry>
 <entry id="str_quirk_name_alacritous"><![CDATA[TODO:Alacritous]]></entry>
@@ -5560,7 +5561,7 @@ Buff Self: +8 ACC, +5ʪ CRIT (6% Chance){colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_rampager"><![CDATA[Sadisme]]></entry>
 <entry id="buff_rule_data_tooltip_absent_minded"><![CDATA[Distraction]]></entry>
 <entry id="buff_rule_data_tooltip_vengeful"><![CDATA[TODO:Vengeful]]></entry>
-<entry id="buff_rule_data_tooltip_meek"><![CDATA[TODO:Weak-Willed]]></entry>
+<entry id="buff_rule_data_tooltip_meek"><![CDATA[Faible d'esprit]]></entry>
 <entry id="buff_rule_tooltip_has_quirk"><![CDATA[%s si %s]]></entry>
 <entry id="buff_rule_tooltip_has_quirk_false"><![CDATA[%s si pas %s]]></entry>
 <entry id="character_title_quirks"><![CDATA[]]></entry>
@@ -6649,8 +6650,8 @@ Buff Self: +8 ACC, +5ʪ CRIT (6% Chance){colour_end}]]></entry>
 <entry id="effect_tooltip_cure_poison"><![CDATA[Soigne {colour_start|blight}infection{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_tag"><![CDATA[{colour_start|mark}Transfère marque{colour_end}]]></entry>
 <entry id="effect_tooltip_steal_stealth"><![CDATA[{colour_start|stealth}Transfère furtivité{colour_end}]]></entry>
-<entry id="effect_refresh_skill_uses"><![CDATA[TODO:Refresh Limited Use Skills]]></entry>
-<entry id="str_ui_refresh_skills"><![CDATA[TODO:Refreshed!]]></entry>
+<entry id="effect_refresh_skill_uses"><![CDATA[Récupération des compétences limitées]]></entry>
+<entry id="str_ui_refresh_skills"><![CDATA[Récupération!]]></entry>
 <entry id="str_ui_cure_failed"><![CDATA[]]></entry>
 <entry id="character_title_base_stats"><![CDATA[Stats de base & Équipement]]></entry>
 <entry id="hero_name_0"><![CDATA[Miron]]></entry>
