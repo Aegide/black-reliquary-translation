@@ -297,7 +297,8 @@ D'énormes serpents peuvent frapper depuis des endroits inattendus.]]></entry>
 <entry id="str_embarked_on_plot_kill_warhawk_3"><![CDATA[{?hero_names}%s sont partis combattre la Matrone de guerre.]]></entry>
 <entry id="town_quest_progress_plot_kill_warhawk_3"><![CDATA[Éliminez la Matrone de guerre !]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
-Les différentes munitions de la Matrone ont des propriétés particulières.]]></entry>
+Les différentes munitions de la Matrone
+ont des propriétés particulières.]]></entry>
 <entry id="str_plot_kill_warhawk_3_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 Les caisses de munitions sont indestructibles,
 mais elles sont déplaçables.]]></entry>
@@ -2816,13 +2817,13 @@ On Ranged Hit: Bonus sur soi : +5% CRIT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_weak"><![CDATA[Frappe précipitée]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_axe_throw"><![CDATA[{colour_start|white}ɡɡɘɘɥɘɘɣɣɩɧɷ{colour_end}Guillotine volante]]></entry>
 <entry id="str_monster_skill_wildlander_reaver_buff"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɧʐ{colour_end}Force des Anciens]]></entry>
-<entry id="str_monster_skill_warhawk_load_lev"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Chargement]]></entry>
+<entry id="str_monster_skill_warhawk_load_lev"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Rechargement]]></entry>
 <entry id="str_monster_skill_warhawk_lev_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦʻʹ{colour_end}Fortress Buster]]></entry>
 <entry id="str_monster_skill_warhawk_lev_multi"><![CDATA[TODO:{colour_start|white}ɘɠɞɟɥɘɣɣɣɩɦʻʎ{colour_end}Salvo of Steel]]></entry>
-<entry id="str_monster_skill_warhawk_load_trog"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Chargement]]></entry>
+<entry id="str_monster_skill_warhawk_load_trog"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Rechargement]]></entry>
 <entry id="str_monster_skill_warhawk_amber_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʻɺʑ{colour_end}Ravenous Ballistics]]></entry>
 <entry id="str_monster_skill_warhawk_amber_multi"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩʻʡɽ{colour_end}Amber Flak]]></entry>
-<entry id="str_monster_skill_warhawk_load_cactus"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Chargement]]></entry>
+<entry id="str_monster_skill_warhawk_load_cactus"><![CDATA[{colour_start|white}əəəɘʦɘɣɣɣɩɦʐʁ{colour_end}Rechargement]]></entry>
 <entry id="str_monster_skill_warhawk_cactus_single"><![CDATA[TODO:{colour_start|white}ɡɡɡɡɥɘɣɣɣɩɦʻʏ{colour_end}Prickly Projectile]]></entry>
 <entry id="str_monster_skill_warhawk_cactus_multi"><![CDATA[TODO:{colour_start|white}ɠɞɟɘɥɘɣɣɣɩɦʻʵ{colour_end}Leeching Spew]]></entry>
 <entry id="str_monster_skill_warhawk_melee"><![CDATA[TODO:{colour_start|white}ɠɞɞɟʧɣɘɘɘɩɦʻɳ{colour_end}Talon of the Warhawk]]></entry>
