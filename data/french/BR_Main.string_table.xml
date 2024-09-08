@@ -234,9 +234,9 @@ Torche :]]></entry>
 <entry id="town_quest_quest_select_darkest_dungeon_confirm"><![CDATA[TODO:If a Black Reliquary quest is abandoned, not all heroes are guaranteed to survive. Someone must sacrifice themselves to hold off the fiends during retreat.]]></entry>
 <entry id="town_quest_name_plot_catacombs_tutorial"><![CDATA[La première expédition]]></entry>
 <entry id="town_quest_description_plot_catacombs_tutorial"><![CDATA[TODO:We venture into the valley for the first time. The catacombs of the Kvarotz are a dangerous place in their own right, but the Levantine have made it their new dig site.]]></entry>
-<entry id="str_returned_from_plot_catacombs_tutorial_failure"><![CDATA[TODO:{?hero_names}%s retreated from our very first endeavor. This does not bode well.]]></entry>
-<entry id="str_returned_from_plot_catacombs_tutorial_success"><![CDATA[TODO:{?hero_names}%s have become familiar with the valley. This is only the beginning.]]></entry>
-<entry id="str_embarked_on_plot_catacombs_tutorial"><![CDATA[TODO:{?hero_names}%s were the first to Enter the Catacombs]]></entry>
+<entry id="str_returned_from_plot_catacombs_tutorial_failure"><![CDATA[{?hero_names}%s ont abandonnés leur première tentative.]]></entry>
+<entry id="str_returned_from_plot_catacombs_tutorial_success"><![CDATA[{?hero_names}%s se sont familiarisés avec la Vallée.]]></entry>
+<entry id="str_embarked_on_plot_catacombs_tutorial"><![CDATA[{?hero_names}%s sont les premiers à découvrir les Catacombes.]]></entry>
 <entry id="town_quest_progress_plot_catacombs_tutorial"><![CDATA[Terminez votre première expédition !]]></entry>
 <entry id="str_plot_catacombs_tutorial_tip"><![CDATA[{colour_start|white}⠼{colour_end}
 D'anciens mécanismes Kvarotz se dissimulent
@@ -5063,7 +5063,7 @@ Self:
 <entry id="buff_stat_tooltip_quirk_tag_evolution_duration_MUSK_AMMO_SWAP_AMMO2_SWAP"><![CDATA[TODO:Change Mode to: {colour_start|musk_ammo3}Concussive Ammo{colour_end}]]></entry>
 <entry id="buff_rule_data_tooltip_MUSK_AMMO_SWAP_AMMO3_SWAP"><![CDATA[TODO:Change Mode to: {colour_start|musk_ammo1}Standard Ammo{colour_end}{colour_start|invisible}​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​{colour_end}]]></entry>
 <entry id="str_locked_building_summary"><![CDATA[Embarquez pour le déverrouiller]]></entry>
-<entry id="str_stage_coach_unlocked"><![CDATA[TODO:{colour_start|town_activity_log_building_name}{?building_name}%s:{colour_end} The %s is now unlocked.]]></entry>
+<entry id="str_stage_coach_unlocked"><![CDATA[{colour_start|town_activity_log_building_name}{?building_name}%s :{colour_end} %s est désormais déverrouillé.]]></entry>
 <entry id="town_name_abbey"><![CDATA[Atelier d'ambre]]></entry>
 <entry id="town_name_activity_log"><![CDATA[Journal d'activités]]></entry>
 <entry id="town_name_blacksmith"><![CDATA[Forge]]></entry>
