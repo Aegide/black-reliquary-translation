@@ -3904,7 +3904,7 @@ Cannot Crit on {colour_start|prep_round}Prep Round{colour_end}{colour_start|invi
 	<entry id="buff_stat_tooltip_upgrade_discount_combat_skill"><![CDATA[%-d%% Combat Skill Upgrade Cost]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_camping_skill"><![CDATA[%-d%% Camp Skill Unlock Cost]]></entry>
 	
-	<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"> <![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 	
 	<entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}+20%% Debuff Chance/Difficulty{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}+20%% Move Chance/Difficulty{colour_end}]]></entry>

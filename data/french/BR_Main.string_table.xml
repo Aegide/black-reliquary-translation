@@ -3406,7 +3406,7 @@ Other Moves: ACC reduced to 5ʪ{colour_start|invisible}​​​​​​​​�
 <entry id="buff_stat_tooltip_stress_on_miss"><![CDATA[Quand l'attaque rate : Sur soi : {colour_start|stress}Stress{colour_end} %+d]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_combat_skill"><![CDATA[TODO:%-d%% Combat Skill Upgrade Cost]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_camping_skill"><![CDATA[TODO:%-d%% Camp Skill Unlock Cost]]></entry>
-<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"><![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
+<entry id="buff_stat_tooltip_upgrade_discount_BR_space_clearer"> <![CDATA[​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_DEBUFF_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger malus +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_MOVE_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un déplacement +20%% par difficulté{colour_end}]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_STUN_PER_DIFF"><![CDATA[{colour_start|skill_unselectable}Chances d'infliger un étourdissement +20%% par difficulté{colour_end}]]></entry>
