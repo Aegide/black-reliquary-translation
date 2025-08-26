@@ -2972,8 +2972,8 @@ On Ranged Hit: Bonus sur soi : +5% CRIT (2 trs){colour_end}]]></entry>
 <entry id="str_monster_skill_killerbite_saddleback_combo"><![CDATA[{colour_start|white}ɪɥɣɣɣɣɩɦɬʂ{colour_end}Horde !]]></entry>
 <entry id="str_monster_skill_gastrosaur_fling_1"><![CDATA[TODO:{colour_start|white}ɪɥʲɩʆʀʐ{colour_end}Wild Temper]]></entry>
 <entry id="str_monster_skill_gastrosaur_fling_2"><![CDATA[TODO:{colour_start|white}ɪɥʲɩʆʀʐ{colour_end}Wild Temper]]></entry>
-<entry id="str_monster_skill_gastrosaur_munch_1"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Light Lunch]]></entry>
-<entry id="str_monster_skill_gastrosaur_munch_2"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Light Lunch]]></entry>
+<entry id="str_monster_skill_gastrosaur_munch_1"><![CDATA[{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Petit déjeuner]]></entry>
+<entry id="str_monster_skill_gastrosaur_munch_2"><![CDATA[{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Petit déjeuner]]></entry>
 <entry id="str_monster_skill_gastrosaur_munch_3"><![CDATA[TODO:{colour_start|white}əəəəɥʲɩɦɬʟ{colour_end}Full Dinner]]></entry>
 <entry id="str_monster_skill_gastrosaur_gore"><![CDATA[TODO:{colour_start|white}ɘɡɡɡʦʲɩɦɬʎ{colour_end}Predator's Feast]]></entry>
 <entry id="str_monster_skill_gastrosaur_tail"><![CDATA[TODO:{colour_start|white}ɘɘɡɡʦʲɩɦɱʓ{colour_end}Whiplash Strike]]></entry>
@@ -5375,7 +5375,7 @@ On Hit: {colour_start|healhp}Heal Self:{colour_end} 10]]></entry>
 <entry id="str_quirk_name_tactician"><![CDATA[Tactique]]></entry>
 <entry id="str_quirk_name_alacritous"><![CDATA[TODO:Alacritous]]></entry>
 <entry id="str_quirk_name_sheepish"><![CDATA[Hésitation]]></entry>
-<entry id="str_quirk_name_calculating"><![CDATA[TODO:Bider]]></entry>
+<entry id="str_quirk_name_calculating"><![CDATA[Stratège]]></entry>
 <entry id="str_quirk_name_impatient"><![CDATA[TODO:Trepid]]></entry>
 <entry id="buff_stat_tooltip_upgrade_discount_ALOCHOLISM_TT"><![CDATA[Au navire, ne fait que boire.
 {colour_start|skill_unselectable}(Ne concerne pas le repaire){colour_end}]]></entry>
