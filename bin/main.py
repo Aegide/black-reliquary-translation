@@ -1,8 +1,7 @@
-from utils import translate_everything, review_everything, fake_translation
+from utils import translate_everything, review_everything
 
 
 def main():
-    # fake_translation()
     translate_everything()
     review_everything()
 
